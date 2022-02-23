@@ -2131,15 +2131,16 @@
    <V>Kotiasi mennäksesi</V>
    <V>Hiijen hirmun kankahia,</V>
    <V>Ikuiseen helvettiin,</V>
+   <V>Jost' et kuulu kuunna#1 päivänä,</V>
+   <V>20 Ilmau sinä ikänä,</V>
+   <V>Mene sinne, kunne käsken:</V>
+   <V>Lapin Sysmän synkiään.</V>
+   <V>Pohjan pellon penkereesen!</V>
+   <V>Me tuonne, kunne käsken:</V>
+   <V>25 Pimeähän Pohjolaan!</V>
    </TEXT>
    <REFS>
-   #1 päivänä,
-   20 Ilmau sinä ikänä,
-   Mene sinne, kunne käsken:
-   Lapin Sysmän synkiään.
-   Pohjan pellon penkereesen!
-   Me tuonne, kunne käsken:
-   25 Pimeähän Pohjolaan!
+   #1 kuunaa : k.
    </REFS>
    </ITEM>
    
@@ -77794,11 +77795,12 @@ tapa, että
    </META>
    <TEXT>
    <V>Tule tänn', tule tänn',</V>
+   <V>Tuo#1 puolen paimen,</V>
+   <V>Meill' on moat leviämmät,</V>
+   <V>On marjatkii makiammat!</V>
    </TEXT>
    <REFS>
-   #1 puolen paimen,
-   Meill' on moat leviämmät,
-   On marjatkii makiammat!
+   #1 Pikak:ssa seuraa: (=tuon).
    </REFS>
    </ITEM>
    
@@ -79722,10 +79724,11 @@ tapa, että
    <V>Aitoja myöte Ampujalle,</V>
    <V>Vettä myöte Viskarii,</V>
    <V>5 Suota myöte Soukkiolle,</V>
+   <V>Käy Kolilla#1 männessäis,</V>
+   <V>Tuo se poika tullessais!</V>
    </TEXT>
    <REFS>
-   #1 männessäis,
-   Tuo se poika tullessais!
+   #1 Paikannimet: taloja Taipalsaarella
    </REFS>
    </ITEM>
    
@@ -104953,16 +104956,16 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    </TEXT>
    </ITEM>
    
-   <ITEM nro="skvr06147992" p="3521" y="1935" k="441">
+   <ITEM nro="skvr06174992" p="3521" y="1935" k="441">
    <META>
   <OSA>VI2</OSA>
-   <ID>4799 &#946;.</ID>
+   <ID>7499 &#946;.</ID>
    <LOC>Muuruvesi.</LOC>
    <COL>KRK. Koistinen, Kalle. </COL>
    <SGN> </SGN>
    <TMP>--1935.</TMP>
    <INF>
-   Pelonniemen kylä.
+   Pelonniemen kylä. [[korjattu väärä numero ja id 4799 > 7499 / JS 2.4.2020]]
    </INF>
    </META>
    <TEXT>
@@ -109241,10 +109244,11 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    <CPT>Laskiaislaulu.</CPT>
    <V>Liko, liko liinoja,</V>
    <V>Pitkiä pellavia,</V>
+   <V>Ruohialle#1 tappuroita,</V>
+   <V>Meille hyviä pellavia!</V>
    </TEXT>
    <REFS>
-   #1 tappuroita,
-   Meille hyviä pellavia!
+   #1 Kertoja syntynyt Lemin Huttulassa, jossa Ruohia on naapurikylänä.
    </REFS>
    </ITEM>
    
