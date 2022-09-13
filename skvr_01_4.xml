@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>  
   <ITEM nro="skvr01200010" p="6030" y="1888" k="467">
@@ -13238,7 +13238,7 @@ lienee
  </TEXT>
  </ITEM>
  
- <ITEM nro="skvr01202470" p="6030" y="1906" k="518">
+ <ITEM nro="skvr01202470" p="6030" y="1906" k="87">
  <META>
  <OSA>I4</OSA>
  <ID>247.</ID>
@@ -14637,7 +14637,7 @@ olevalta
  </REFS>
  </ITEM>
  
- <ITEM nro="skvr01202650" p="5341" y="1877" k="26">
+ <ITEM nro="skvr01202650" p="5341" y="1877" k="1659">
  <META>
  <OSA>I4</OSA>
  <ID>265.</ID>
@@ -64892,7 +64892,7 @@ siis
  </REFS>
  </ITEM>
  
- <ITEM nro="skvr01211160" p="6105" y="1881" k="63">
+ <ITEM nro="skvr01211160" p="6105" y="1881" k="64">
  <META>
  <OSA>I4</OSA>
  <ID>1116.</ID>
@@ -64919,7 +64919,7 @@ siis
  </TEXT>
  </ITEM>
  
- <ITEM nro="skvr01211170" p="6105" y="1881" k="63">
+ <ITEM nro="skvr01211170" p="6105" y="1881" k="64">
  <META>
  <OSA>I4</OSA>
  <ID>1117.</ID>
@@ -64939,7 +64939,7 @@ siis
  </TEXT>
  </ITEM>
  
- <ITEM nro="skvr01211180" p="6105" y="1881" k="63">
+ <ITEM nro="skvr01211180" p="6105" y="1881" k="64">
  <META>
  <OSA>I4</OSA>
  <ID>1118.</ID>
@@ -76084,7 +76084,7 @@ paimen
  </REFS>
  </ITEM>
  
- <ITEM nro="skvr01213560" p="6030" y="1881" k="63">
+ <ITEM nro="skvr01213560" p="6030" y="1881" k="64">
  <META>
  <OSA>I4</OSA>
  <ID>1356.</ID>
@@ -95335,7 +95335,7 @@ alakivellä
  </TEXT>
  </ITEM>
  
- <ITEM nro="skvr01217630" p="6105" y="1881" k="63">
+ <ITEM nro="skvr01217630" p="6105" y="1881" k="64">
  <META>
  <OSA>I4</OSA>
  <ID>1763.</ID>

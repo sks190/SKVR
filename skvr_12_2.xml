@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
 
@@ -27,7 +27,7 @@ Vuohtomäki. Heikki Rätteli, 29 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12146840" p="5510" y="1884" k="64">
+<ITEM nro="skvr12146840" p="5110" y="1884" k="64">
 <META>
 <OSA>XII2</OSA>
 <ID>4684.</ID>
@@ -424,7 +424,7 @@ että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12147020" p="9160" y="1932" k="93">
+<ITEM nro="skvr12147020" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4702.</ID>
@@ -947,7 +947,7 @@ Kiiskilänpää. Eenokki Hyvä-oja, 12 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12147230" p="5510" y="1884" k="64">
+<ITEM nro="skvr12147230" p="5110" y="1884" k="64">
 <META>
 <OSA>XII2</OSA>
 <ID>4723.</ID>
@@ -968,7 +968,7 @@ Karvosenoja. Heikki Hosio, 61 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12147240" p="5510" y="1884" k="64">
+<ITEM nro="skvr12147240" p="5110" y="1884" k="64">
 <META>
 <OSA>XII2</OSA>
 <ID>4724.</ID>
@@ -4144,7 +4144,7 @@ Kierinki. Martinin isäntä, n. 60 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148580" p="9160" y="1931" k="1148">
+<ITEM nro="skvr12148580" p="5906" y="1931" k="1148">
 <META>
 <OSA>XII2</OSA>
 <ID>4858.</ID>
@@ -4165,7 +4165,7 @@ Lahnajärvellä. Kuullut äidiltään, joka synt. Narken kylässä.
 <V>Mutta älä pistä minua! - -</V>
 </TEXT>
 </ITEM>
-<ITEM nro="skvr12148590" p="9160" y="1931" k="364">
+<ITEM nro="skvr12148590" p="5906" y="1931" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>4859.</ID>
@@ -4184,7 +4184,7 @@ Jällivaara, Vettäsjärvi. "Sammelin Kreeta", n. 74 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148600" p="9160" y="1932" k="93">
+<ITEM nro="skvr12148600" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4860.</ID>
@@ -4206,7 +4206,7 @@ Täräntö, Kainulaisjärvi. Oskari Lindberg, talon isäntä, 50 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148610" p="9160" y="1932" k="364">
+<ITEM nro="skvr12148610" p="5971" y="1932" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>4861.</ID>
@@ -4225,7 +4225,7 @@ Täräntö, Kainulaisjärvi. Selma Uusitalo, n. 48 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148620" p="9160" y="1933" k="93">
+<ITEM nro="skvr12148620" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4862.</ID>
@@ -4261,7 +4261,7 @@ liikaha ja sanoo:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148630" p="9160" y="1933" k="93">
+<ITEM nro="skvr12148630" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4863.</ID>
@@ -4281,7 +4281,7 @@ Kilvu. Kilvun Jaaku, 59 v.
 <L>Mutta kun vanhemmalle sen sanoo, niin menee rohkeus, eikä se auta enää.</L>
 </TEXT>
 </ITEM>
-<ITEM nro="skvr12148640" p="9160" y="1932" k="93">
+<ITEM nro="skvr12148640" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4864.</ID>
@@ -4300,7 +4300,7 @@ Korpilompolo, Jierijärvi. Iisakki Rova, talon isäntä, 60 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148650" p="9160" y="1932" k="93">
+<ITEM nro="skvr12148650" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4865.</ID>
@@ -4321,7 +4321,7 @@ Korpilompolo. Iita-Maria Mikko, pikkutalon emäntä, 52 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148660" p="9160" y="1932" k="93">
+<ITEM nro="skvr12148660" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4866.</ID>
@@ -4343,7 +4343,7 @@ Korpilompolo. Iita-Maria Mikko, pikkutalon emäntä, 52 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148670" p="9160" y="1932" k="93">
+<ITEM nro="skvr12148670" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4867.</ID>
@@ -4364,7 +4364,7 @@ Korpilompolo. Rautakon ukko, talon isäntä, 55 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148680" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12148680" p="5976" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>4868.</ID>
@@ -4384,7 +4384,7 @@ Pekka Särkimukka, 74 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148690" p="9160" y="1933" k="93">
+<ITEM nro="skvr12148690" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4869.</ID>
@@ -4406,7 +4406,7 @@ Muoslompolo. Kalle Tapani nuorempi, 45 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148700" p="9160" y="1933" k="93">
+<ITEM nro="skvr12148700" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4870.</ID>
@@ -4435,7 +4435,7 @@ Muoslompolo. Kalle Tapani, talon isäntä, 74 v. Kotoisin Ylimuoniosta.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148710" p="9160" y="1933" k="93">
+<ITEM nro="skvr12148710" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4871.</ID>
@@ -4476,7 +4476,7 @@ Petäjäkoski. Matti Maijala.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148730" p="9160" y="1932" k="93">
+<ITEM nro="skvr12148730" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4873.</ID>
@@ -4497,7 +4497,7 @@ sanotaan vain:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148740" p="9160" y="1892" k="467">
+<ITEM nro="skvr12148740" p="5980" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>4874.</ID>
@@ -5183,7 +5183,7 @@ näkösestä liha, kolmannen näkösestä veri.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148940" p="5510" y="1884" k="64">
+<ITEM nro="skvr12148940" p="5110" y="1884" k="64">
 <META>
 <OSA>XII2</OSA>
 <ID>4894.</ID>
@@ -5212,7 +5212,7 @@ Karvosenoja. Heikki Hosio, 61 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12148950" p="5510" y="1884" k="64">
+<ITEM nro="skvr12148950" p="5110" y="1884" k="64">
 <META>
 <OSA>XII2</OSA>
 <ID>4895.</ID>
@@ -6228,7 +6228,7 @@ niin se ei pääse pois siitä piiristä, se ei pääse yli teräksen jäljen.</
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149350" p="9160" y="1933" k="93">
+<ITEM nro="skvr12149350" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4935.</ID>
@@ -6248,7 +6248,7 @@ Hakanen. Juun Juunsson, mökin ukko, 80 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149360" p="9160" y="1933" k="93">
+<ITEM nro="skvr12149360" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4936.</ID>
@@ -6284,7 +6284,7 @@ Jaramassa.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149370" p="9160" y="1931" k="364">
+<ITEM nro="skvr12149370" p="5906" y="1931" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>4937.</ID>
@@ -6303,7 +6303,7 @@ Jällivaara, Vettisjärvi. "Sammelin Kreeta". n. 74 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149380" p="9160" y="1931" k="1148">
+<ITEM nro="skvr12149380" p="5946" y="1931" k="1148">
 <META>
 <OSA>XII2</OSA>
 <ID>4938.</ID>
@@ -6323,7 +6323,7 @@ isältään Tärännön kylässä.
 <V>Oota leppä sauva!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="skvr12149390" p="9160" y="1932" k="93">
+<ITEM nro="skvr12149390" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4939.</ID>
@@ -6343,7 +6343,7 @@ Korpilompolo, Jierijärvi. Iisakki Rova, talon isäntä, 60 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149400" p="9160" y="1933" k="93">
+<ITEM nro="skvr12149400" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4940.</ID>
@@ -6362,7 +6362,7 @@ Muoslompolo. Hilda Tapani, talon emäntä, 69 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149410" p="9160" y="1931" k="364">
+<ITEM nro="skvr12149410" p="5971" y="1931" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>4941.</ID>
@@ -6381,7 +6381,7 @@ Täräntö, Kompelusvaara. Miina Vettainen, "Kurun Miina", n. 72 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149420" p="9160" y="1932" k="93">
+<ITEM nro="skvr12149420" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4942.</ID>
@@ -6401,7 +6401,7 @@ Täräntö, Niva. Iita Juntti, talon emäntä, 72 v. i
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149430" p="9160" y="1932" k="93">
+<ITEM nro="skvr12149430" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>4943.</ID>
@@ -6422,7 +6422,7 @@ mennä, kun hän on jo paratiisissa kirottu. Pitää sanoa:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149440" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12149440" p="5976" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>4944.</ID>
@@ -7678,7 +7678,7 @@ Kertojakuullut Viitasaarella "ukolta Huopanan kylästä".
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149830" p="5510" y="1884" k="64">
+<ITEM nro="skvr12149830" p="5110" y="1884" k="64">
 <META>
 <OSA>XII2</OSA>
 <ID>4983.</ID>
@@ -8201,7 +8201,7 @@ isältään, kuuluisalta myrrysmieheltä Olli Mäeltä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149960" p="5330" y="1832" k="77">
+<ITEM nro="skvr12149960" p="9120" y="1832" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>4996.</ID>
@@ -8224,7 +8224,7 @@ isältään, kuuluisalta myrrysmieheltä Olli Mäeltä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12149970" p="5330" y="1831" k="77">
+<ITEM nro="skvr12149970" p="9120" y="1831" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>4997.</ID>
@@ -12899,7 +12899,7 @@ että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151210" p="9160" y="1931" k="1148">
+<ITEM nro="skvr12151210" p="5906" y="1931" k="1148">
 <META>
 <OSA>XII2</OSA>
 <ID>5121.</ID>
@@ -12930,7 +12930,7 @@ isältään, joka synt. Tärännössä.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12151220" p="9160" y="1933" k="93">
+<ITEM nro="skvr12151220" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5122.</ID>
@@ -12950,7 +12950,7 @@ Hakanen. Juun Juunsson, 80 <I>v.</I>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151230" p="9160" y="1892" k="467">
+<ITEM nro="skvr12151230" p="5925" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5123.</ID>
@@ -12998,7 +12998,7 @@ kuorella haavan päälle.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151240" p="9160" y="1892" k="467">
+<ITEM nro="skvr12151240" p="5925" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5124.</ID>
@@ -13024,7 +13024,7 @@ lähtee vihat.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151250" p="9160" y="1932" k="93">
+<ITEM nro="skvr12151250" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5125.</ID>
@@ -13050,7 +13050,7 @@ Korpilompolo, Jierijärvi. Iisakki Rova, talon isäntä, 60 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151260" p="9160" y="1933" k="93">
+<ITEM nro="skvr12151260" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5126.</ID>
@@ -13077,7 +13077,7 @@ messingillä ja sanoo:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151270" p="9160" y="1933" k="93">
+<ITEM nro="skvr12151270" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5127.</ID>
@@ -13101,7 +13101,7 @@ messingillä ja sanoo:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151280" p="9160" y="1933" k="93">
+<ITEM nro="skvr12151280" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5128.</ID>
@@ -13129,7 +13129,7 @@ vastapäivään, ja sanoa:</L>
 <V>10 Kolmannen helvetin syvyythen.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="skvr12151290" p="9160" y="1933" k="93">
+<ITEM nro="skvr12151290" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5129.</ID>
@@ -13156,7 +13156,7 @@ Purnu. Johan Erik Larsson, isäntä, 72 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151300" p="9160" y="1933" k="93">
+<ITEM nro="skvr12151300" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5130.</ID>
@@ -13196,7 +13196,7 @@ Jos paljaalla käellä painelee, niin se tulee pahemmaksi.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151310" p="9160" y="1932" k="93">
+<ITEM nro="skvr12151310" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5131.</ID>
@@ -13221,7 +13221,7 @@ Täräntö. Aukusti Aitanpää, mökin ukko, pyytömies, 75 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151320" p="9160" y="1888" k="467">
+<ITEM nro="skvr12151320" p="5976" y="1888" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5132.</ID>
@@ -13245,7 +13245,7 @@ karsien sekaan, ja sitten pannaan ne kypenet haavaan jasanotaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151330" p="9160" y="1932" k="93">
+<ITEM nro="skvr12151330" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5133.</ID>
@@ -13268,7 +13268,7 @@ Kymmeniä vuosia sitten onjokuollut."
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151340" p="9160" y="1932" k="364">
+<ITEM nro="skvr12151340" p="5976" y="1932" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>5134.</ID>
@@ -14050,7 +14050,7 @@ että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12151600" p="9160" y="1892" k="467">
+<ITEM nro="skvr12151600" p="5980" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5160.</ID>
@@ -16403,7 +16403,7 @@ sitä kipejätä ja loihetaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12152300" p="9160" y="1933" k="93">
+<ITEM nro="skvr12152300" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5230.</ID>
@@ -16427,7 +16427,7 @@ voimaa. Se antaa monessa asiassa voimaa.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12152310" p="9160" y="1892" k="467">
+<ITEM nro="skvr12152310" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5231.</ID>
@@ -16463,7 +16463,7 @@ Kainulaisjärvi. Olli Olsson, 68 v. Kuullut vanhoilta.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12152320" p="9160" y="1892" k="467">
+<ITEM nro="skvr12152320" p="5925" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5232.</ID>
@@ -17389,7 +17389,7 @@ s. 228).</SGN>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12152560" p="9160" y="1892" k="467">
+<ITEM nro="skvr12152560" p="5906" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5256.</ID>
@@ -17993,7 +17993,7 @@ Lappmarken; dit hänvisas sjukdomar: ex. gr.</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12152720" p="5510" y="1903" k="948">
+<ITEM nro="skvr12152720" p="5110" y="1903" k="948">
 <META>
 <OSA>XII2</OSA>
 <ID>5272.</ID>
@@ -18623,7 +18623,7 @@ Petäjäniemeltä, 1850-luvun tietäjiä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12152880" p="9160" y="1892" k="467">
+<ITEM nro="skvr12152880" p="5976" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5288.</ID>
@@ -18697,7 +18697,7 @@ Kumpumäki. Tahvo Rönkkö, 63 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12152900" p="5510" y="1884" k="64">
+<ITEM nro="skvr12152900" p="5110" y="1884" k="64">
 <META>
 <OSA>XII2</OSA>
 <ID>5290.</ID>
@@ -20570,7 +20570,7 @@ kivellä ja sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12153570" p="9160" y="1932" k="93">
+<ITEM nro="skvr12153570" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5357.</ID>
@@ -20892,7 +20892,7 @@ sanottiin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12153670" p="9160" y="1892" k="467">
+<ITEM nro="skvr12153670" p="5925" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5367.</ID>
@@ -21197,7 +21197,7 @@ mesileipää raudan haavan paranteeksi.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12153750" p="5330" y="1832" k="77">
+<ITEM nro="skvr12153750" p="9120" y="1832" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>5375.</ID>
@@ -23914,7 +23914,7 @@ että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12154470" p="9160" y="1892" k="467">
+<ITEM nro="skvr12154470" p="5980" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5447.</ID>
@@ -25436,7 +25436,7 @@ että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12155030" p="9160" y="1933" k="93">
+<ITEM nro="skvr12155030" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5503.</ID>
@@ -25456,7 +25456,7 @@ Hakanen. Juun Juunsson, 80 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12155040" p="9160" y="1932" k="93">
+<ITEM nro="skvr12155040" p="5935" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5504.</ID>
@@ -25499,7 +25499,7 @@ ja sano:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12155050" p="9160" y="1932" k="93">
+<ITEM nro="skvr12155050" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5505.</ID>
@@ -25531,7 +25531,7 @@ kastethan ja kierrethän kolme kertaa vastapäivhän.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12155060" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12155060" p="5976" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>5506.</ID>
@@ -25553,7 +25553,7 @@ Lainio. Pekka Särkimukka, 74 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12155070" p="9160" y="1933" k="93">
+<ITEM nro="skvr12155070" p="5976" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5507.</ID>
@@ -25787,7 +25787,7 @@ Herman Suonenlahti, 23 v. Kuullut Heikki Hälliseltä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12155111" p="5510" y="1926" k="1159">
+<ITEM nro="skvr12155111" p="5110" y="1926" k="1159">
 <META>
 <OSA>XII2</OSA>
 <ID>5511 &#945;.</ID>
@@ -25813,7 +25813,7 @@ ikk&#768;ää&#815;&#771;&#774;.</V>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12155120" p="5330" y="1833" k="77">
+<ITEM nro="skvr12155120" p="9120" y="1833" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>5512.</ID>
@@ -27835,7 +27835,7 @@ sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12155600" p="9160" y="1892" k="467">
+<ITEM nro="skvr12155600" p="5976" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5560.</ID>
@@ -28635,7 +28635,7 @@ huoneeseen, sanottiin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12155780" p="4950" y="1892" k="467">
+<ITEM nro="skvr12155780" p="4951" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5578.</ID>
@@ -30586,7 +30586,7 @@ kolme yheksää kertaa ja vuoltaan hopejata ja sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156200" p="9160" y="1892" k="467">
+<ITEM nro="skvr12156200" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5620.</ID>
@@ -30849,7 +30849,7 @@ vähän sylkästään ja sanotaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156300" p="9160" y="1932" k="93">
+<ITEM nro="skvr12156300" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5630.</ID>
@@ -31092,7 +31092,7 @@ hikivaatetta ja leppänauloilla naulataan kituvaan puuhun ja sanotaan, että:</L
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156380" p="9160" y="1892" k="467">
+<ITEM nro="skvr12156380" p="5980" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5638.</ID>
@@ -31670,7 +31670,7 @@ Ylikyrö. Heikki Saajo, "Kyrön-Heikki", ukko, 70 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156580" p="9160" y="1932" k="93">
+<ITEM nro="skvr12156580" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5658.</ID>
@@ -31972,7 +31972,7 @@ Alpua. Juho Sakko, 69 v. Kuullut isältään samassa kylässä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156680" p="9160" y="1892" k="467">
+<ITEM nro="skvr12156680" p="5925" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5668.</ID>
@@ -32089,7 +32089,7 @@ terve.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156720" p="9160" y="1892" k="467">
+<ITEM nro="skvr12156720" p="5906" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5672.</ID>
@@ -32573,7 +32573,7 @@ kerran, ja sitten viskaan veen ilmaan, ovesta ulos ja sanon:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156870" p="9160" y="1931" k="364">
+<ITEM nro="skvr12156870" p="5906" y="1931" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>5687.</ID>
@@ -32591,7 +32591,7 @@ Jällivaara, Vettäsjärvi. "Sammelin Kreeta", n. 74 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156880" p="9160" y="1932" k="93">
+<ITEM nro="skvr12156880" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5688.</ID>
@@ -32611,7 +32611,7 @@ sormella </I>ja sanottiin joka kerta:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156890" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12156890" p="5931" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>5689.</ID>
@@ -32631,7 +32631,7 @@ Kangos. Petter Salomonsson, kulkukauppias, 72 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156900" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12156900" p="5931" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>5690.</ID>
@@ -32657,7 +32657,7 @@ Lovikka, Kirakkavaara. Sofia Tyni, n. 60 v., y.m.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156910" p="9160" y="1932" k="93">
+<ITEM nro="skvr12156910" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5691.</ID>
@@ -32680,7 +32680,7 @@ Täräntö, Kainulaisjärvi. Oskari Lindberg, talon isäntä, 50 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156920" p="9160" y="1932" k="93">
+<ITEM nro="skvr12156920" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5692.</ID>
@@ -32725,7 +32725,7 @@ Pahanrovan Juhan Henterikki, kristitty mies, sanoi mulle ne sanat, mutta sanoi:
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12156930" p="9160" y="1932" k="93">
+<ITEM nro="skvr12156930" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5693.</ID>
@@ -33276,7 +33276,7 @@ man dock taga i förvar, det man lemnat utanför porten.)</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12157110" p="5540" y="1881" k="467">
+<ITEM nro="skvr12157110" p="5541" y="1881" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5711.</ID>
@@ -33405,7 +33405,7 @@ kylvetetään sillä vastalla ja veillä sitä lasta ja loihetaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12157150" p="9160" y="1892" k="467">
+<ITEM nro="skvr12157150" p="5976" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5715.</ID>
@@ -34002,7 +34002,7 @@ Alakylä. Anna Keskitalo, 20 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12157360" p="9160" y="1933" k="93">
+<ITEM nro="skvr12157360" p="5976" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5736.</ID>
@@ -34023,7 +34023,7 @@ Lainio. Heleena Martti, talon emäntä, 71 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12157370" p="9160" y="1932" k="93">
+<ITEM nro="skvr12157370" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5737.</ID>
@@ -34044,7 +34044,7 @@ Täräntö. Johan Jatko, talon isäntä, 45 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12157380" p="9160" y="1932" k="93">
+<ITEM nro="skvr12157380" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5738.</ID>
@@ -34068,7 +34068,7 @@ Täräntö. Johan Jatko, talon isäntä, 45 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12157390" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12157390" p="5976" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>5739.</ID>
@@ -34385,7 +34385,7 @@ nuolenkantaja!</V>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12157480" p="9160" y="1892" k="467">
+<ITEM nro="skvr12157480" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5748.</ID>
@@ -35044,7 +35044,7 @@ vanhasta rahasta.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12157670" p="4950" y="1892" k="467">
+<ITEM nro="skvr12157670" p="4951" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5767.</ID>
@@ -37045,7 +37045,7 @@ kohtija ja sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158280" p="9160" y="1931" k="364">
+<ITEM nro="skvr12158280" p="5906" y="1931" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>5828.</ID>
@@ -37073,7 +37073,7 @@ Jällivaara, Vettäsjärvi. "Samperin Reeta", n. 74 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158290" p="9160" y="1932" k="93">
+<ITEM nro="skvr12158290" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5829.</ID>
@@ -37114,7 +37114,7 @@ vanhata ja lahoa.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158300" p="9160" y="1932" k="93">
+<ITEM nro="skvr12158300" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5830.</ID>
@@ -37137,7 +37137,7 @@ sanoin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158310" p="9160" y="1904" k="115">
+<ITEM nro="skvr12158310" p="5935" y="1904" k="115">
 <META>
 <OSA>XII2</OSA>
 <ID>5831.</ID>
@@ -37158,7 +37158,7 @@ maata ja painavat kullaki ja sanovat:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158320" p="9160" y="1932" k="93">
+<ITEM nro="skvr12158320" p="5935" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5832.</ID>
@@ -37185,7 +37185,7 @@ laihin, siihen, mistä on otettu. Se on <I>kuuliainen maa.</I> [- -]</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158330" p="9160" y="1932" k="93">
+<ITEM nro="skvr12158330" p="5935" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5833.</ID>
@@ -37207,7 +37207,7 @@ paikalleen:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158340" p="9160" y="1892" k="467">
+<ITEM nro="skvr12158340" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5834.</ID>
@@ -37236,7 +37236,7 @@ hopeaa sijaan.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158350" p="9160" y="1932" k="93">
+<ITEM nro="skvr12158350" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5835.</ID>
@@ -37257,7 +37257,7 @@ sillä kattoi sitä ja kirosi:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158360" p="9160" y="1933" k="93">
+<ITEM nro="skvr12158360" p="5976" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5836.</ID>
@@ -37279,7 +37279,7 @@ koettaa ja panna käytäntöön. Se pitää sanoa, kun painaa:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158370" p="9160" y="1933" k="93">
+<ITEM nro="skvr12158370" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5837.</ID>
@@ -37300,7 +37300,7 @@ otetaan vesikaltiosta sammalia ja niillä painellaan ja sanotaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158380" p="9160" y="1933" k="93">
+<ITEM nro="skvr12158380" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5838.</ID>
@@ -37322,7 +37322,7 @@ Nattavaara. Kaisa-Matleena, Radnikan ent. emäntä, 95 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158390" p="9160" y="1933" k="93">
+<ITEM nro="skvr12158390" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5839.</ID>
@@ -37346,7 +37346,7 @@ kun:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158400" p="9160" y="1933" k="93">
+<ITEM nro="skvr12158400" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5840.</ID>
@@ -37371,7 +37371,7 @@ alkaa paisumhan.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158410" p="9160" y="1932" k="93">
+<ITEM nro="skvr12158410" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5841.</ID>
@@ -37415,7 +37415,7 @@ tulento pyörtää.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158420" p="9160" y="1932" k="93">
+<ITEM nro="skvr12158420" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5842.</ID>
@@ -37440,7 +37440,7 @@ Mie huusin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158430" p="9160" y="1932" k="93">
+<ITEM nro="skvr12158430" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5843.</ID>
@@ -37464,7 +37464,7 @@ Täräntö, Niva. Iita Juntti, talon emäntä, 72 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158440" p="9160" y="1932" k="93">
+<ITEM nro="skvr12158440" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5844.</ID>
@@ -37505,7 +37505,7 @@ ommaa</I> [- - -] Sitten sanoa ensin ja koskettaa <I>veellä </I>ja sanoa:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158450" p="9150" y="1931" k="93">
+<ITEM nro="skvr12158450" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5845.</ID>
@@ -38981,7 +38981,7 @@ puhalletaan ja sanotaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12158860" p="9160" y="1932" k="93">
+<ITEM nro="skvr12158860" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5886.</ID>
@@ -40915,7 +40915,7 @@ puhaltamaan.)</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12159500" p="9160" y="1931" k="1148">
+<ITEM nro="skvr12159500" p="5971" y="1931" k="1148">
 <META>
 <OSA>XII2</OSA>
 <ID>5950.</ID>
@@ -40941,7 +40941,7 @@ Lahnajärvellä. Kuullut äidiltään, joka synt. Narken kylässä, K:n pitäjä
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12159510" p="9160" y="1933" k="93">
+<ITEM nro="skvr12159510" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5951.</ID>
@@ -40961,7 +40961,7 @@ Hakanen. Nils Henrik Olsson, Itätalon faari, 89 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12159520" p="9160" y="1892" k="467">
+<ITEM nro="skvr12159520" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>5952.</ID>
@@ -41001,7 +41001,7 @@ saa solmita; ne pannaan kiini kiertämällä siteen ympärille.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12159530" p="9160" y="1932" k="93">
+<ITEM nro="skvr12159530" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5953.</ID>
@@ -41025,7 +41025,7 @@ Täräntö, Kainulaisjärvi. Oskari Lindberg, talon isäntä, 50 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12159540" p="9160" y="1933" k="93">
+<ITEM nro="skvr12159540" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5954.</ID>
@@ -41049,7 +41049,7 @@ Nattavaara. Juhan Antti Mikkelson, talon isäntä, 83 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12159550" p="9160" y="1904" k="115">
+<ITEM nro="skvr12159550" p="5958" y="1904" k="115">
 <META>
 <OSA>XII2</OSA>
 <ID>5955.</ID>
@@ -41072,7 +41072,7 @@ kirjoitetuksi) kolmen färisen villala&#331;kan, kääri kolme kerthaa
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12159560" p="9160" y="1932" k="93">
+<ITEM nro="skvr12159560" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5956.</ID>
@@ -41435,7 +41435,7 @@ näppy on.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12159660" p="9160" y="1932" k="93">
+<ITEM nro="skvr12159660" p="5935" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5966.</ID>
@@ -41455,7 +41455,7 @@ Kaaressuvanto. Eeva Loviisa Tuorheenmaa, 82 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12159670" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12159670" p="5935" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>5967.</ID>
@@ -42285,7 +42285,7 @@ puukolla, niin että se meni oveen ja sanoin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12159950" p="9150" y="1931" k="93">
+<ITEM nro="skvr12159950" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>5995.</ID>
@@ -43074,7 +43074,7 @@ kierretään kolmasti ympäri ja päähän tehään viisikanta ja sanotaan, ett�
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12160210" p="9160" y="1933" k="93">
+<ITEM nro="skvr12160210" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6021.</ID>
@@ -43872,7 +43872,7 @@ päästää alasimen reiän läpi.</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12160460" p="5330" y="1832" k="77">
+<ITEM nro="skvr12160460" p="9120" y="1832" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>6046.</ID>
@@ -46778,7 +46778,7 @@ Tapani Uusitalo, 67 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12160980" p="9160" y="1931" k="1148">
+<ITEM nro="skvr12160980" p="5906" y="1931" k="1148">
 <META>
 <OSA>XII2</OSA>
 <ID>6098.</ID>
@@ -46800,7 +46800,7 @@ pitäjässä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12160990" p="9160" y="1892" k="467">
+<ITEM nro="skvr12160990" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6099.</ID>
@@ -46836,7 +46836,7 @@ lehti läpi; otetaan siitä verta, pannaan veen sekaan ja luvetaan:</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12161000" p="9160" y="1932" k="93">
+<ITEM nro="skvr12161000" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6100.</ID>
@@ -46866,7 +46866,7 @@ juuva.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12161010" p="9160" y="1932" k="93">
+<ITEM nro="skvr12161010" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6101.</ID>
@@ -47040,7 +47040,7 @@ viedään kodan muurin alle; ei huoneissa polteta.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12161080" p="9160" y="1892" k="467">
+<ITEM nro="skvr12161080" p="5925" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6108.</ID>
@@ -47179,7 +47179,7 @@ Anna-Kreeta Jokkala, 81 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12161110" p="9160" y="1892" k="467">
+<ITEM nro="skvr12161110" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6111.</ID>
@@ -49697,7 +49697,7 @@ että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12161530" p="9160" y="1892" k="467">
+<ITEM nro="skvr12161530" p="5925" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6153.</ID>
@@ -49706,7 +49706,7 @@ että:</L>
 <SGN>II. 1635.</SGN>
 <TMP>-92?</TMP>
 <INF>
-Tormojärvi. Juho Petterson. Kuullut Lapissa.
+Torniojärvi. Juho Petterson. Kuullut Lapissa.
 </INF>
 </META>
 <TEXT>
@@ -50654,7 +50654,7 @@ vuotta 1833.</SGN>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12161770" p="9160" y="1891" k="467">
+<ITEM nro="skvr12161770" p="5971" y="1891" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6177.</ID>
@@ -51223,7 +51223,7 @@ menee paskuri pois.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12161900" p="4950" y="1888" k="467">
+<ITEM nro="skvr12161900" p="4951" y="1888" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6190.</ID>
@@ -51401,7 +51401,7 @@ viskuttelin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12161960" p="9160" y="1932" k="93">
+<ITEM nro="skvr12161960" p="5935" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6196.</ID>
@@ -51490,7 +51490,7 @@ kyllä heittää vetämästä. Äiti ennen sanoi kiertäessään:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12162000" p="9160" y="1932" k="93">
+<ITEM nro="skvr12162000" p="5935" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6200.</ID>
@@ -51925,7 +51925,7 @@ seuraavan, jolloin "lapsi tuli vaikka kyljen raosta":</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12162110" p="5330" y="1832" k="77">
+<ITEM nro="skvr12162110" p="9120" y="1832" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>6211.</ID>
@@ -51976,7 +51976,7 @@ seuraavan, jolloin "lapsi tuli vaikka kyljen raosta":</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12162120" p="5330" y="1833" k="77">
+<ITEM nro="skvr12162120" p="9120" y="1833" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>6212.</ID>
@@ -53730,7 +53730,7 @@ hyhmäiseen ja jäiseen jokeen huuhtomaan ja sanoa:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12162560" p="9160" y="1920" k="115">
+<ITEM nro="skvr12162560" p="5958" y="1920" k="115">
 <META>
 <OSA>XII2</OSA>
 <ID>6256.</ID>
@@ -54131,7 +54131,7 @@ vesi viskataan kuuhun käsin ja sanotaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12162710" p="9160" y="1933" k="93">
+<ITEM nro="skvr12162710" p="5976" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6271.</ID>
@@ -54207,7 +54207,7 @@ säikähtämään,</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12162740" p="9160" y="1892" k="467">
+<ITEM nro="skvr12162740" p="5906" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6274.</ID>
@@ -54622,7 +54622,7 @@ Matinlompolo. Pekka Matinlompolo, talon ukko, n. 70 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12162880" p="9160" y="1931" k="364">
+<ITEM nro="skvr12162880" p="5906" y="1931" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>6288.</ID>
@@ -54642,7 +54642,7 @@ Jällivaara, Vettäsjärvi. "Sammelin Kreeta", n. 74 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12162890" p="9160" y="1931" k="1148">
+<ITEM nro="skvr12162890" p="5906" y="1931" k="1148">
 <META>
 <OSA>XII2</OSA>
 <ID>6289.</ID>
@@ -54662,7 +54662,7 @@ Siitä tuli kolme kova[a] tautiaa: rutto, rupi ja punainen tauti.</V>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12162900" p="9160" y="1932" k="93">
+<ITEM nro="skvr12162900" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6290.</ID>
@@ -54684,7 +54684,7 @@ vammaa ja sanoi:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12162910" p="9160" y="1933" k="93">
+<ITEM nro="skvr12162910" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6291.</ID>
@@ -54892,7 +54892,7 @@ Kärsämäellä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12162970" p="5510" y="1884" k="64">
+<ITEM nro="skvr12162970" p="5110" y="1884" k="64">
 <META>
 <OSA>XII2</OSA>
 <ID>6297.</ID>
@@ -55710,7 +55710,7 @@ etusormeen. Sillä sormella kiersi paiseen ja sanoi:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163290" p="9160" y="1931" k="364">
+<ITEM nro="skvr12163290" p="5906" y="1931" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>6329.</ID>
@@ -55730,7 +55730,7 @@ Jällivaara, Vettäsjärvi. "Sammelin Kreeta", n. 74 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163300" p="9160" y="1932" k="93">
+<ITEM nro="skvr12163300" p="5925" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6330.</ID>
@@ -55753,7 +55753,7 @@ paikkaa, se jo helppaa. Mutta kun lukee nämä sanat:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163310" p="9160" y="1932" k="93">
+<ITEM nro="skvr12163310" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6331.</ID>
@@ -55780,7 +55780,7 @@ joka kivelle tein samalla lailla.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163320" p="9160" y="1892" k="467">
+<ITEM nro="skvr12163320" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6332.</ID>
@@ -55805,7 +55805,7 @@ paikkaa.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163330" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12163330" p="5931" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>6333.</ID>
@@ -55828,7 +55828,7 @@ veestä ja sillä painellaan kolme kertaa. Joka kerta luetaan näin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163340" p="9160" y="1932" k="364">
+<ITEM nro="skvr12163340" p="5931" y="1932" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>6334.</ID>
@@ -55850,7 +55850,7 @@ Pajala, Lovikka.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163350" p="9160" y="1933" k="93">
+<ITEM nro="skvr12163350" p="5976" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6335.</ID>
@@ -55887,7 +55887,7 @@ ajettuminen.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163360" p="9160" y="1932" k="93">
+<ITEM nro="skvr12163360" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6336.</ID>
@@ -55914,7 +55914,7 @@ Täräntö, Niva. Iita Juntti, talon emäntä, 72 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163370" p="9160" y="1932" k="93">
+<ITEM nro="skvr12163370" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6337.</ID>
@@ -55950,7 +55950,7 @@ jälleen samaan paikkaan ja samaan laihin, ja sanoin joka kivelle:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163380" p="9150" y="1931" k="93">
+<ITEM nro="skvr12163380" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6338.</ID>
@@ -56188,7 +56188,7 @@ sillä painellaan niitä kipeitä kohtija ja sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163440" p="9160" y="1892" k="467">
+<ITEM nro="skvr12163440" p="5925" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6344.</ID>
@@ -56422,7 +56422,7 @@ käissäni)</V>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163530" p="9160" y="1933" k="93">
+<ITEM nro="skvr12163530" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6353.</ID>
@@ -56444,7 +56444,7 @@ Hakanen. Juun Juunsson, 80 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12163540" p="9160" y="1904" k="115">
+<ITEM nro="skvr12163540" p="5958" y="1904" k="115">
 <META>
 <OSA>XII2</OSA>
 <ID>6354.</ID>
@@ -57979,7 +57979,7 @@ isältään, kuuluisalta myrrysmieheltä Olli Mäeltä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12164010" p="5330" y="1828" k="77">
+<ITEM nro="skvr12164010" p="9120" y="1828" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>6401.</ID>
@@ -59216,7 +59216,7 @@ olkansa ja sanoo:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12164410" p="9160" y="1892" k="467">
+<ITEM nro="skvr12164410" p="5958" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6441.</ID>
@@ -59238,7 +59238,7 @@ että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12164420" p="9160" y="1932" k="93">
+<ITEM nro="skvr12164420" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6442.</ID>
@@ -59275,7 +59275,7 @@ kun pilasit pyssyn:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12164430" p="9160" y="1932" k="93">
+<ITEM nro="skvr12164430" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6443.</ID>
@@ -59297,7 +59297,7 @@ ampumisen mettässä ja sanonut:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12164431" p="9160" y="1932" k="93">
+<ITEM nro="skvr12164431" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6443 &#945;.</ID>
@@ -59812,7 +59812,7 @@ Johan Soikko, 60 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12164570" p="5540" y="1892" k="1278">
+<ITEM nro="skvr12164570" p="5541" y="1892" k="1278">
 <META>
 <OSA>XII2</OSA>
 <ID>6457.</ID>
@@ -60039,7 +60039,7 @@ sen lumomisen, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12164630" p="5510" y="1884" k="64">
+<ITEM nro="skvr12164630" p="5110" y="1884" k="64">
 <META>
 <OSA>XII2</OSA>
 <ID>6463.</ID>
@@ -60232,7 +60232,7 @@ mieheltä Mulkuan Sipossa ja Tavastkengässä.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12164670" p="5330" y="1835" k="77">
+<ITEM nro="skvr12164670" p="9120" y="1835" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>6467.</ID>
@@ -62367,7 +62367,7 @@ pannaan nyt muuraismättääsen ja sanotaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12165150" p="9160" y="1932" k="93">
+<ITEM nro="skvr12165150" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6515.</ID>
@@ -66467,7 +66467,7 @@ kapineita, linnunhöyheniä muassa, niitä puihin pistelleet, sanoneet:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12166340" p="9160" y="1892" k="467">
+<ITEM nro="skvr12166340" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6634.</ID>
@@ -68141,7 +68141,7 @@ kiertämällä hänet kolme, "jopa ku" yheksän kertaa vastapäivään.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12166970" p="9160" y="1932" k="93">
+<ITEM nro="skvr12166970" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6697.</ID>
@@ -70123,7 +70123,7 @@ jäljet kotiin päin ja puheli:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12167450" p="5330" y="1832" k="77">
+<ITEM nro="skvr12167450" p="9120" y="1832" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>6745.</ID>
@@ -70178,7 +70178,7 @@ jäljet kotiin päin ja puheli:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12167460" p="5330" y="1828" k="77">
+<ITEM nro="skvr12167460" p="9120" y="1828" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>6746.</ID>
@@ -70217,7 +70217,7 @@ jäljet kotiin päin ja puheli:</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12167470" p="5330" y="1836" k="77">
+<ITEM nro="skvr12167470" p="9120" y="1836" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>6747.</ID>
@@ -71841,7 +71841,7 @@ ripusteltiin läävän lakeen ja seiniin. -</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12167890" p="9160" y="1931" k="1148">
+<ITEM nro="skvr12167890" p="5906" y="1931" k="1148">
 <META>
 <OSA>XII2</OSA>
 <ID>6789.</ID>
@@ -71863,7 +71863,7 @@ meina[a] suostutta[a] ja luetthaan joka leipä muruselle seuraavasti:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12167900" p="9160" y="1933" k="93">
+<ITEM nro="skvr12167900" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6790.</ID>
@@ -71883,7 +71883,7 @@ Nattavaara. Viktor Högman, 55 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12167910" p="9160" y="1932" k="364">
+<ITEM nro="skvr12167910" p="5931" y="1932" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>6791.</ID>
@@ -71923,7 +71923,7 @@ Autioranta, Tahkola. Jooseppi Perttula.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12167930" p="5510" y="1884" k="64">
+<ITEM nro="skvr12167930" p="5110" y="1884" k="64">
 <META>
 <OSA>XII2</OSA>
 <ID>6793.</ID>
@@ -72909,7 +72909,7 @@ Nikki Myllykangas, 69 v., synt. Tavastkengän Katajamäellä.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12168250" p="5330" y="1828" k="77">
+<ITEM nro="skvr12168250" p="9120" y="1828" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>6825.</ID>
@@ -72949,7 +72949,7 @@ Nikki Myllykangas, 69 v., synt. Tavastkengän Katajamäellä.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12168260" p="5330" y="1828" k="77">
+<ITEM nro="skvr12168260" p="9120" y="1828" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>6826.</ID>
@@ -75414,7 +75414,7 @@ hindra björnen att göra skada. Om henne heter det i runan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12168950" p="9160" y="1932" k="93">
+<ITEM nro="skvr12168950" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6895.</ID>
@@ -75435,7 +75435,7 @@ Junosuvanto, Lovikka. Sofia Kyöstäjä, talon emäntä, 75 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12168960" p="9160" y="1892" k="467">
+<ITEM nro="skvr12168960" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6896.</ID>
@@ -75459,7 +75459,7 @@ kylvetyllä vastalla pyihitään lehmiä ja luvetaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12168970" p="9160" y="1892" k="467">
+<ITEM nro="skvr12168970" p="5976" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6897.</ID>
@@ -76194,7 +76194,7 @@ Eräs talonpoika.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12169240" p="5330" y="1836" k="77">
+<ITEM nro="skvr12169240" p="9120" y="1836" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>6924.</ID>
@@ -76707,7 +76707,7 @@ vanhimmat niin lehmistä#1 kuin lampaistakin.</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12169380" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12169380" p="5931" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>6938.</ID>
@@ -76832,7 +76832,7 @@ muina aikoina se ei niin tehoihte.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12169420" p="9160" y="1932" k="93">
+<ITEM nro="skvr12169420" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6942.</ID>
@@ -76857,7 +76857,7 @@ sanoi Pekalle kerran:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12169430" p="9150" y="1931" k="93">
+<ITEM nro="skvr12169430" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6943.</ID>
@@ -76898,7 +76898,7 @@ kututaan kotiin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12169450" p="5510" y="1928" k="1200">
+<ITEM nro="skvr12169450" p="5110" y="1928" k="1200">
 <META>
 <OSA>XII2</OSA>
 <ID>6945.</ID>
@@ -78572,7 +78572,7 @@ avaimet pannaan alakiven alle ja sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12169900" p="9160" y="1892" k="467">
+<ITEM nro="skvr12169900" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6990.</ID>
@@ -78616,7 +78616,7 @@ sinne muuraiskekoon.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12169910" p="9160" y="1892" k="467">
+<ITEM nro="skvr12169910" p="5976" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>6991.</ID>
@@ -78747,7 +78747,7 @@ nakataan lehmän eteen, sutti kullekkin, sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12169950" p="5510" y="1928" k="1200">
+<ITEM nro="skvr12169950" p="5110" y="1928" k="1200">
 <META>
 <OSA>XII2</OSA>
 <ID>6995.</ID>
@@ -78801,7 +78801,7 @@ lehmän selkään:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12169970" p="9160" y="1932" k="93">
+<ITEM nro="skvr12169970" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6997.</ID>
@@ -78822,7 +78822,7 @@ sanoa:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12169980" p="9160" y="1932" k="93">
+<ITEM nro="skvr12169980" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>6998.</ID>
@@ -79063,7 +79063,7 @@ första höt i stacken säga:</L>
 <V>Ei yli käen ottamista.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="skvr12170070" p="5510" y="1928" k="1200">
+<ITEM nro="skvr12170070" p="5110" y="1928" k="1200">
 <META>
 <OSA>XII2</OSA>
 <ID>7007.</ID>
@@ -79120,7 +79120,7 @@ vasemman olkansa yli pohjoista kohti tai aidan taakse sanellen:</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12170080" p="5510" y="1928" k="1200">
+<ITEM nro="skvr12170080" p="5110" y="1928" k="1200">
 <META>
 <OSA>XII2</OSA>
 <ID>7008.</ID>
@@ -79837,7 +79837,7 @@ otsaan, antaa nimi sille ja sanoa:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12170330" p="9160" y="1932" k="93">
+<ITEM nro="skvr12170330" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7033.</ID>
@@ -80249,7 +80249,7 @@ Kaukonen. Mäkitalon isäntä, 64 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12170470" p="9160" y="1892" k="467">
+<ITEM nro="skvr12170470" p="5946" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7047.</ID>
@@ -80270,7 +80270,7 @@ vetästään maahan ja sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12170480" p="9160" y="1932" k="93">
+<ITEM nro="skvr12170480" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7048.</ID>
@@ -81152,7 +81152,7 @@ Tilta Mäkelä, 15 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12170700" p="5510" y="1928" k="1200">
+<ITEM nro="skvr12170700" p="5110" y="1928" k="1200">
 <META>
 <OSA>XII2</OSA>
 <ID>7070.</ID>
@@ -81479,7 +81479,7 @@ emäntäin perään kuumaa tuhkaa ja sanoin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12170820" p="9160" y="1932" k="93">
+<ITEM nro="skvr12170820" p="5925" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7082.</ID>
@@ -81505,7 +81505,7 @@ ihmisten perhän, jotka niin sanovat pitää vielä sylkeä ja sanoa:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12170830" p="9160" y="1932" k="93">
+<ITEM nro="skvr12170830" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7083.</ID>
@@ -81528,7 +81528,7 @@ lehmälle.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12170840" p="9150" y="1931" k="93">
+<ITEM nro="skvr12170840" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7084.</ID>
@@ -81645,7 +81645,7 @@ anto lehemälle. Löi sittä lehemää päähän ja sannoi:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12170870" p="5510" y="1928" k="1200">
+<ITEM nro="skvr12170870" p="5110" y="1928" k="1200">
 <META>
 <OSA>XII2</OSA>
 <ID>7087.</ID>
@@ -81791,7 +81791,7 @@ pilja.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12170910" p="5510" y="1928" k="1200">
+<ITEM nro="skvr12170910" p="5110" y="1928" k="1200">
 <META>
 <OSA>XII2</OSA>
 <ID>7091.</ID>
@@ -82725,7 +82725,7 @@ että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12171220" p="9150" y="1920" k="1174">
+<ITEM nro="skvr12171220" p="5715" y="1920" k="1174">
 <META>
 <OSA>XII2</OSA>
 <ID>7122.</ID>
@@ -83263,7 +83263,7 @@ edellämainitulla aineella.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12171370" p="5510" y="1928" k="1200">
+<ITEM nro="skvr12171370" p="5110" y="1928" k="1200">
 <META>
 <OSA>XII2</OSA>
 <ID>7137.</ID>
@@ -85072,7 +85072,7 @@ sen maitohuoneesa laipiolle luvaten, että:</L>
 sinun tappaa, niin minä ja paras lehmä kuolemma.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="skvr12171910" p="9160" y="1932" k="93">
+<ITEM nro="skvr12171910" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7191.</ID>
@@ -85108,7 +85108,7 @@ taloista.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12171920" p="9160" y="1932" k="93">
+<ITEM nro="skvr12171920" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7192.</ID>
@@ -85130,7 +85130,7 @@ on ollut.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12171930" p="9160" y="1932" k="93">
+<ITEM nro="skvr12171930" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7193.</ID>
@@ -85170,7 +85170,7 @@ kantoi sitä, mitä emäntä pyysi, kultaa, hopeaa ja hyvää tavaraa.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12171940" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12171940" p="5935" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>7194.</ID>
@@ -85192,7 +85192,7 @@ lankakerä; niitä pohtivat ja hokevat:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12171941" p="9160" y="1933" k="93">
+<ITEM nro="skvr12171941" p="5935" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7194 &#945;.</ID>
@@ -85217,7 +85217,7 @@ sanoi:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12171950" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12171950" p="5931" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>7195.</ID>
@@ -85254,7 +85254,7 @@ tälle toivotulle Smierakatulle puolen hengestäni."</V>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12171970" p="9160" y="1933" k="93">
+<ITEM nro="skvr12171970" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7197.</ID>
@@ -85277,7 +85277,7 @@ pitänyt kolmena tuorestaina huiskuttaa ja sanoa:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12171980" p="9160" y="1933" k="93">
+<ITEM nro="skvr12171980" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7198.</ID>
@@ -85321,7 +85321,7 @@ paskuja kartanolla.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12171981" p="9160" y="1934" k="93">
+<ITEM nro="skvr12171981" p="5906" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7198 &#945;.</ID>
@@ -85347,7 +85347,7 @@ tehä.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12171990" p="9160" y="1933" k="93">
+<ITEM nro="skvr12171990" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7199.</ID>
@@ -85387,7 +85387,7 @@ on.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12172000" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12172000" p="5931" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>7200.</ID>
@@ -85408,7 +85408,7 @@ para, jolla on ollut ihmisen hahmo. Näin on sanottu:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12172010" p="9160" y="1932" k="93">
+<ITEM nro="skvr12172010" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7201.</ID>
@@ -85429,7 +85429,7 @@ helpolla syntynyt.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12172020" p="9160" y="1932" k="93">
+<ITEM nro="skvr12172020" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7202.</ID>
@@ -85454,7 +85454,7 @@ rippileivästä paraa. Sanothan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12172030" p="9150" y="1931" k="93">
+<ITEM nro="skvr12172030" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7203.</ID>
@@ -85480,7 +85480,7 @@ para eläväksi ja kysyi, mitä kantaa pitää. Siihen Anni oli sanonut, että:<
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12172040" p="9150" y="1931" k="93">
+<ITEM nro="skvr12172040" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7204.</ID>
@@ -85510,7 +85510,7 @@ kantaa: "Kanna paskaa!" Ja se oli aivan hukuttaa talon siihen.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12172050" p="9150" y="1931" k="93">
+<ITEM nro="skvr12172050" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7205.</ID>
@@ -85542,7 +85542,7 @@ on kovin täynnä, niin se menee ja paskantaa keolle ja mihin sattuu.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12172051" p="9150" y="1934" k="93">
+<ITEM nro="skvr12172051" p="5825" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7205 &#945;.</ID>
@@ -85648,7 +85648,7 @@ Mutta kun mie menin ja panin neljä kirppua <I>suoloja</I> ja sanoin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12172100" p="9150" y="1931" k="93">
+<ITEM nro="skvr12172100" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7210.</ID>
@@ -88234,7 +88234,7 @@ hauvellaan sitä haavaa ja sanotaan. että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12172760" p="9160" y="1892" k="467">
+<ITEM nro="skvr12172760" p="5925" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7276.</ID>
@@ -88279,7 +88279,7 @@ pohjalle.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12172770" p="9160" y="1892" k="467">
+<ITEM nro="skvr12172770" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7277.</ID>
@@ -88312,7 +88312,7 @@ veteen ja luvetaan:</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12172780" p="9160" y="1892" k="467">
+<ITEM nro="skvr12172780" p="5980" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7278.</ID>
@@ -89402,7 +89402,7 @@ eläintä niillä tulisilla nuolilla yheksän kertaa ja sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173010" p="9160" y="1892" k="467">
+<ITEM nro="skvr12173010" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7301.</ID>
@@ -89615,7 +89615,7 @@ pois.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173070" p="9160" y="1892" k="467">
+<ITEM nro="skvr12173070" p="5925" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7307.</ID>
@@ -90334,7 +90334,7 @@ että:</L>
 <V>Ajatukset vyösä alla!</V>
 </TEXT>
 </ITEM>
-<ITEM nro="skvr12173300" p="9160" y="1932" k="93">
+<ITEM nro="skvr12173300" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7330.</ID>
@@ -90360,7 +90360,7 @@ pannut sen lehmän päälle:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173310" p="9160" y="1932" k="93">
+<ITEM nro="skvr12173310" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7331.</ID>
@@ -90394,7 +90394,7 @@ tien haaraan ja sanothan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173320" p="9160" y="1932" k="93">
+<ITEM nro="skvr12173320" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7332.</ID>
@@ -90417,7 +90417,7 @@ sanoi:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173330" p="9160" y="1933" k="93">
+<ITEM nro="skvr12173330" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7333.</ID>
@@ -90779,7 +90779,7 @@ ruumiin kuolinpaita ja sillä rostitaan sitä lehmää ja sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173420" p="9160" y="1932" k="93">
+<ITEM nro="skvr12173420" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7342.</ID>
@@ -90805,7 +90805,7 @@ tuli mainio lehmä.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173430" p="5510" y="1928" k="1200">
+<ITEM nro="skvr12173430" p="5110" y="1928" k="1200">
 <META>
 <OSA>XII2</OSA>
 <ID>7343.</ID>
@@ -92410,7 +92410,7 @@ kuljetetaan ja joka kerta näin sanotaan.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173910" p="9160" y="1892" k="467">
+<ITEM nro="skvr12173910" p="5980" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7391.</ID>
@@ -92439,7 +92439,7 @@ valloilleen.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173920" p="9160" y="1892" k="467">
+<ITEM nro="skvr12173920" p="5980" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7392.</ID>
@@ -92470,7 +92470,7 @@ niin ei kule mihinkään niiltä tienoilta.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173930" p="9160" y="1932" k="93">
+<ITEM nro="skvr12173930" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7393.</ID>
@@ -92507,7 +92507,7 @@ toisiinsa.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173940" p="9160" y="1932" k="93">
+<ITEM nro="skvr12173940" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7394.</ID>
@@ -92528,7 +92528,7 @@ karvaa ja hikeä mie sille annoin ja sanoin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173950" p="9160" y="1932" k="93">
+<ITEM nro="skvr12173950" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7395.</ID>
@@ -92568,7 +92568,7 @@ kanssa.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173960" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12173960" p="5931" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>7396.</ID>
@@ -92593,7 +92593,7 @@ vastapäivään; kolme kertaa sanottava, kun hevonen syö kiveltä jyviä:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12173970" p="9160" y="1932" k="93">
+<ITEM nro="skvr12173970" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7397.</ID>
@@ -92758,7 +92758,7 @@ paikka, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12174010" p="4950" y="1888" k="467">
+<ITEM nro="skvr12174010" p="4951" y="1888" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7401.</ID>
@@ -92971,7 +92971,7 @@ Orajärvi. Aatami Orajärvi, 63 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12174070" p="5510" y="1928" k="1200">
+<ITEM nro="skvr12174070" p="5110" y="1928" k="1200">
 <META>
 <OSA>XII2</OSA>
 <ID>7407.</ID>
@@ -93151,7 +93151,7 @@ följande ord; det sålunda beredda läkemedlet ges in åt hästen.)
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12174130" p="9160" y="1892" k="467">
+<ITEM nro="skvr12174130" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7413.</ID>
@@ -93602,7 +93602,7 @@ siitä sekä sanotaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12174280" p="9160" y="1932" k="93">
+<ITEM nro="skvr12174280" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7428.</ID>
@@ -93699,7 +93699,7 @@ panna, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12174310" p="5510" y="1928" k="1200">
+<ITEM nro="skvr12174310" p="5110" y="1928" k="1200">
 <META>
 <OSA>XII2</OSA>
 <ID>7431.</ID>
@@ -93825,7 +93825,7 @@ Sieppijärvi. Kreeta Järvirova, mökin emäntä, 56 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12174351" p="9150" y="1934" k="93">
+<ITEM nro="skvr12174351" p="5736" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7435 &#945;.</ID>
@@ -93959,7 +93959,7 @@ huutaen:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12174410" p="9160" y="1892" k="467">
+<ITEM nro="skvr12174410" p="5976" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7441.</ID>
@@ -93983,7 +93983,7 @@ maitoa; - niin ei tummitu poroen nisät.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12174420" p="9160" y="1932" k="93">
+<ITEM nro="skvr12174420" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7442.</ID>
@@ -94286,7 +94286,7 @@ isältään, kuuluisalta myrrysmieheltä Olli Mäeltä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12174520" p="5330" y="1828" k="77">
+<ITEM nro="skvr12174520" p="9120" y="1828" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>7452.</ID>
@@ -95530,7 +95530,7 @@ lausuttiin lopuksi:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12174790" p="9160" y="1892" k="467">
+<ITEM nro="skvr12174790" p="5976" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7479.</ID>
@@ -95647,7 +95647,7 @@ laskettiin. Iltapäivällä keräysi vanhempaakin väkijä mäjen laskuun.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12174840" p="9160" y="1921" k="93">
+<ITEM nro="skvr12174840" p="5985" y="1921" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7484.</ID>
@@ -96908,7 +96908,7 @@ ei piä kastella tämän sateen nyt. Ei tullut saetta, kun sanottiin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12175230" p="9160" y="1933" k="93">
+<ITEM nro="skvr12175230" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7523.</ID>
@@ -96932,7 +96932,7 @@ pilven menemhään pois. Katteli taivhaalle ja sanoi:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12175231" p="9160" y="1934" k="93">
+<ITEM nro="skvr12175231" p="5906" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7523 &#945;.</ID>
@@ -98379,7 +98379,7 @@ Muotkajärvi. Matti Ylitalo, talon isäntä, 70 v.
 <V>Se veren kakasee.</V>
 </TEXT>
 </ITEM>
-<ITEM nro="skvr12175770" p="9160" y="1932" k="93">
+<ITEM nro="skvr12175770" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7577.</ID>
@@ -98402,7 +98402,7 @@ mikä hyvänsä.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12175780" p="9160" y="1932" k="93">
+<ITEM nro="skvr12175780" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7578.</ID>
@@ -98422,7 +98422,7 @@ Junosuvanto, Lovikka. Aukusti Holma, lautamies, 50 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12175790" p="9160" y="1932" k="93">
+<ITEM nro="skvr12175790" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7579.</ID>
@@ -98445,7 +98445,7 @@ Junosuvanto, Lovikka. Sofia Kyöstäjä, talon emäntä, 75 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12175800" p="9160" y="1932" k="93">
+<ITEM nro="skvr12175800" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7580.</ID>
@@ -98468,7 +98468,7 @@ tekee <I>sauranperän,</I> niin tämä pitää sanoa:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12175810" p="9160" y="1933" k="93">
+<ITEM nro="skvr12175810" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7581.</ID>
@@ -98491,7 +98491,7 @@ panhaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12175820" p="9160" y="1933" k="93">
+<ITEM nro="skvr12175820" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7582.</ID>
@@ -98513,7 +98513,7 @@ Nattavaara. Juhan-Antti Mikkelson, talon isäntä, 83 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12175830" p="9160" y="1933" k="93">
+<ITEM nro="skvr12175830" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7583.</ID>
@@ -98536,7 +98536,7 @@ Nattavaara. Viktor Högman, talon isäntä, 55 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12175831" p="9160" y="1934" k="93">
+<ITEM nro="skvr12175831" p="5906" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7583 &#945;.</ID>
@@ -98561,7 +98561,7 @@ ensimäiset heinät panet sishän. Ei se auta enää jälkhen.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12175840" p="9160" y="1932" k="93">
+<ITEM nro="skvr12175840" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7584.</ID>
@@ -98826,7 +98826,7 @@ vain ei virka, kuka hään on ja mistä.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12175930" p="9160" y="1931" k="1148">
+<ITEM nro="skvr12175930" p="5906" y="1931" k="1148">
 <META>
 <OSA>XII2</OSA>
 <ID>7593.</ID>
@@ -99388,7 +99388,7 @@ näin:</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12176061" p="9160" y="1933" k="93">
+<ITEM nro="skvr12176061" p="5935" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7606 &#945;.</ID>
@@ -99766,7 +99766,7 @@ ja sanoo, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12176140" p="9160" y="1892" k="467">
+<ITEM nro="skvr12176140" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7614.</ID>
@@ -100203,7 +100203,7 @@ kun oli, niin pantiin puukko käteen.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12176250" p="5510" y="1884" k="64">
+<ITEM nro="skvr12176250" p="5110" y="1884" k="64">
 <META>
 <OSA>XII2</OSA>
 <ID>7625.</ID>
@@ -100413,7 +100413,7 @@ Petkula. Sussu Aikio, Lanton muori, 82 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12176350" p="9150" y="1931" k="93">
+<ITEM nro="skvr12176350" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7635.</ID>
@@ -100483,7 +100483,7 @@ sanoo, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12176370" p="9150" y="1931" k="93">
+<ITEM nro="skvr12176370" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7637.</ID>
@@ -100504,7 +100504,7 @@ venheeseen niin <I>siunataan</I> lapsi:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12176380" p="9160" y="1933" k="93">
+<ITEM nro="skvr12176380" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7638.</ID>
@@ -100612,7 +100612,7 @@ on viskattu uunin päälle ja sanottu:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12176420" p="5510" y="1928" k="1258">
+<ITEM nro="skvr12176420" p="5110" y="1928" k="1258">
 <META>
 <OSA>XII2</OSA>
 <ID>7642.</ID>
@@ -102544,7 +102544,7 @@ uunin taka ja sanotaan:</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12177200" p="9160" y="1933" k="93">
+<ITEM nro="skvr12177200" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7720.</ID>
@@ -102563,7 +102563,7 @@ Hakanen. Juun Juunsson, 80 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177210" p="9160" y="1933" k="93">
+<ITEM nro="skvr12177210" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7721.</ID>
@@ -102582,7 +102582,7 @@ Kilvu. Jaako Olsson, 59 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177220" p="9160" y="1932" k="1120">
+<ITEM nro="skvr12177220" p="5976" y="1932" k="1120">
 <META>
 <OSA>XII2</OSA>
 <ID>7722.</ID>
@@ -102602,7 +102602,7 @@ Lainio. Pekka Särkimukka, 74 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177230" p="9160" y="1933" k="93">
+<ITEM nro="skvr12177230" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7723.</ID>
@@ -102622,7 +102622,7 @@ Nattavaara. Kaisa-Matleena, Radnikan ent. emäntä, 95 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177240" p="9160" y="1933" k="93">
+<ITEM nro="skvr12177240" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7724.</ID>
@@ -102642,7 +102642,7 @@ Nattavaara. Olli Öhman, 74 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177250" p="9160" y="1932" k="93">
+<ITEM nro="skvr12177250" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7725.</ID>
@@ -102662,7 +102662,7 @@ Täräntö. Karuliina Ullatti, hierojamuori, 68 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177260" p="9160" y="1932" k="93">
+<ITEM nro="skvr12177260" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7726.</ID>
@@ -102682,7 +102682,7 @@ Täräntö, Isokylä. Maria Paavo, talon emäntä, 52 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177270" p="9160" y="1932" k="93">
+<ITEM nro="skvr12177270" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7727.</ID>
@@ -102703,7 +102703,7 @@ sanotaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177280" p="9160" y="1932" k="93">
+<ITEM nro="skvr12177280" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7728.</ID>
@@ -102723,7 +102723,7 @@ Täräntö, Kompelusvaara. Josefiina Huhta, talon emäntä, 67 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177290" p="9160" y="1932" k="93">
+<ITEM nro="skvr12177290" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7729.</ID>
@@ -102743,7 +102743,7 @@ taka ja sanotaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177300" p="9160" y="1932" k="93">
+<ITEM nro="skvr12177300" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7730.</ID>
@@ -102763,7 +102763,7 @@ Vittanki, Lainio. Pekka Vaakina, mökin ukko, 74 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177310" p="9150" y="1931" k="93">
+<ITEM nro="skvr12177310" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7731.</ID>
@@ -103204,7 +103204,7 @@ tullut käärmheet kartanoon.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177440" p="9160" y="1892" k="467">
+<ITEM nro="skvr12177440" p="5976" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7744.</ID>
@@ -103852,7 +103852,7 @@ sammutti?" Konttinen sanoi: Ei ole mitään voimaa, sanoin vain:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177640" p="9160" y="1892" k="467">
+<ITEM nro="skvr12177640" p="5906" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7764.</ID>
@@ -103885,7 +103885,7 @@ hetteeseen, niin sammuu, mutta heti hukkuu se tulen nostaja.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177650" p="9160" y="1933" k="93">
+<ITEM nro="skvr12177650" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7765.</ID>
@@ -103906,7 +103906,7 @@ Muoslompolo. Hilda Tapani, talon emäntä, 69 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177660" p="9160" y="1892" k="467">
+<ITEM nro="skvr12177660" p="5906" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7766.</ID>
@@ -103964,7 +103964,7 @@ Leskelänkylä. Juho Hätämaa, 65 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177680" p="9160" y="1892" k="467">
+<ITEM nro="skvr12177680" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7768.</ID>
@@ -104004,7 +104004,7 @@ kerrottu.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177690" p="9160" y="1892" k="467">
+<ITEM nro="skvr12177690" p="5971" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7769.</ID>
@@ -104271,7 +104271,7 @@ vaikka sekään ei ole mikään semmonen; sanoo, kun syömään rupee, että:</L
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12177740" p="9160" y="1932" k="93">
+<ITEM nro="skvr12177740" p="5931" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7774.</ID>
@@ -105963,7 +105963,7 @@ syöpäläiset.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12178370" p="5330" y="1834" k="77">
+<ITEM nro="skvr12178370" p="9120" y="1834" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>7837.</ID>
@@ -106014,7 +106014,7 @@ matkamiehen rekeen ja sanotaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12178390" p="5510" y="1927" k="1159">
+<ITEM nro="skvr12178390" p="5110" y="1927" k="1159">
 <META>
 <OSA>XII2</OSA>
 <ID>7839.</ID>
@@ -106569,7 +106569,7 @@ vasemen puoleiseen perinurkkaan ulkopuolelle ja sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12178600" p="9160" y="1931" k="1148">
+<ITEM nro="skvr12178600" p="5906" y="1931" k="1148">
 <META>
 <OSA>XII2</OSA>
 <ID>7860.</ID>
@@ -106711,7 +106711,7 @@ vaan kuuli laulavan."
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12178630" p="5330" y="1833" k="77">
+<ITEM nro="skvr12178630" p="9120" y="1833" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>7863.</ID>
@@ -107994,7 +107994,7 @@ sanotaan, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12178990" p="9160" y="1892" k="467">
+<ITEM nro="skvr12178990" p="5906" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7899.</ID>
@@ -108035,7 +108035,7 @@ niitä kypeniä hierotaan käsiensä välissä, tenhoissaan kirotaan ja sanotaan
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179000" p="9160" y="1892" k="467">
+<ITEM nro="skvr12179000" p="5906" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7900.</ID>
@@ -108403,7 +108403,7 @@ kusijaispesän pohjaan kiini ja sanotaan samat sanat [- - -].</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179081" p="9160" y="1932" k="93">
+<ITEM nro="skvr12179081" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7908 &#945;.</ID>
@@ -108878,7 +108878,7 @@ Tavastkenkä. Matin seppä, 47 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179210" p="5330" y="1833" k="77">
+<ITEM nro="skvr12179210" p="9120" y="1833" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>7921.</ID>
@@ -108931,7 +108931,7 @@ Tavastkenkä. Matin seppä, 47 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12179220" p="5330" y="1834" k="77">
+<ITEM nro="skvr12179220" p="9120" y="1834" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>7922.</ID>
@@ -109015,7 +109015,7 @@ Tavastkenkä. Matin seppä, 47 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12179230" p="5330" y="1834" k="77">
+<ITEM nro="skvr12179230" p="9120" y="1834" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>7923.</ID>
@@ -109310,7 +109310,7 @@ muut ihmiset hänen ruumiinsa kädellä löytää aarteen.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179330" p="9160" y="1892" k="467">
+<ITEM nro="skvr12179330" p="5976" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7933.</ID>
@@ -109445,7 +109445,8 @@ Mettällinen eksyttää.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179360" p="9160" y="1892" k="467">
+
+<ITEM nro="skvr12179360" p="5976" y="1892" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>7936.</ID>
@@ -109903,7 +109904,7 @@ tappaa ja lyö kuoliaaksi.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179530" p="9160" y="1933" k="93">
+<ITEM nro="skvr12179530" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7953.</ID>
@@ -110225,7 +110226,7 @@ Petkula. Sussu Aikio, Lanton muori, 82 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179670" p="9160" y="1932" k="93">
+<ITEM nro="skvr12179670" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7967.</ID>
@@ -110246,7 +110247,7 @@ Vittanki, Masuuni. Jussi Kuusivaara, mökin ukko, 82 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179680" p="9160" y="1932" k="93">
+<ITEM nro="skvr12179680" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7968.</ID>
@@ -110813,7 +110814,7 @@ päin ja lausuttiin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179930" p="9160" y="1932" k="93">
+<ITEM nro="skvr12179930" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7993.</ID>
@@ -110837,7 +110838,7 @@ Korpilompolo. Maltte Fabian Kuittu, Rantatalon käskyläispoika, 14 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179940" p="9160" y="1932" k="93">
+<ITEM nro="skvr12179940" p="5971" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7994.</ID>
@@ -110859,7 +110860,7 @@ Täräntö, Kompelusvaara. Josefiina Huhta, talon emäntä, 67 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179950" p="9160" y="1932" k="364">
+<ITEM nro="skvr12179950" p="5976" y="1932" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>7995.</ID>
@@ -110956,7 +110957,7 @@ jäät ovat lähteneet, tehä kolme ristiä ja sanoa samoin.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12179980" p="9160" y="1933" k="93">
+<ITEM nro="skvr12179980" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>7998.</ID>
@@ -111022,7 +111023,7 @@ Lohijärvi. Pekka Kreivi, talokas, n. 60 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180010" p="5330" y="1832" k="77">
+<ITEM nro="skvr12180010" p="9120" y="1832" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>8001.</ID>
@@ -111049,7 +111050,7 @@ Lohijärvi. Pekka Kreivi, talokas, n. 60 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12180020" p="5330" y="1832" k="77">
+<ITEM nro="skvr12180020" p="9120" y="1832" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>8002.</ID>
@@ -111068,7 +111069,7 @@ Lohijärvi. Pekka Kreivi, talokas, n. 60 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180030" p="5330" y="1833" k="77">
+<ITEM nro="skvr12180030" p="9120" y="1833" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>8003.</ID>
@@ -111196,7 +111197,7 @@ Lohijärvi. Pekka Kreivi, talokas, n. 60 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12180040" p="5330" y="1880" k="467">
+<ITEM nro="skvr12180040" p="9120" y="1880" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>8004.</ID>
@@ -111229,7 +111230,7 @@ kotiin päin ja sanova, että:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180050" p="5330" y="1881" k="467">
+<ITEM nro="skvr12180050" p="9120" y="1881" k="467">
 <META>
 <OSA>XII2</OSA>
 <ID>8005.</ID>
@@ -111419,7 +111420,7 @@ kansanomainen.]
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180120" p="5330" y="1832" k="77">
+<ITEM nro="skvr12180120" p="9120" y="1832" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>8012.</ID>
@@ -111668,7 +111669,7 @@ jonkun tai jotaki talosta, manaten:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180230" p="9160" y="1933" k="93">
+<ITEM nro="skvr12180230" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8023.</ID>
@@ -111690,7 +111691,7 @@ Mutta ei Kalla kuullut, mutta mie kuulin, kun lapsi rääkkyi. Mie sanoin:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180240" p="9160" y="1933" k="93">
+<ITEM nro="skvr12180240" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8024.</ID>
@@ -111713,7 +111714,7 @@ mihinkään.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180250" p="9160" y="1933" k="93">
+<ITEM nro="skvr12180250" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8025.</ID>
@@ -112336,7 +112337,7 @@ kysyjällä.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180490" p="9160" y="1931" k="1148">
+<ITEM nro="skvr12180490" p="5906" y="1931" k="1148">
 <META>
 <OSA>XII2</OSA>
 <ID>8049.</ID>
@@ -112359,7 +112360,7 @@ kukkunut.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180500" p="9160" y="1933" k="93">
+<ITEM nro="skvr12180500" p="5935" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8050.</ID>
@@ -112381,7 +112382,7 @@ elää. Sanotaan käelle:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180510" p="9160" y="1932" k="93">
+<ITEM nro="skvr12180510" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8051.</ID>
@@ -112401,7 +112402,7 @@ Korpilompolo, Jierijärvi. Ropertti Riekkola, talon isäntä, 40 v.
 <L>Sitten käki kukkuaa, kuinka vuotta vielä elää.</L>
 </TEXT>
 </ITEM>
-<ITEM nro="skvr12180520" p="9160" y="1932" k="93">
+<ITEM nro="skvr12180520" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8052.</ID>
@@ -112423,7 +112424,7 @@ ikäiseksi.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180530" p="9160" y="1932" k="93">
+<ITEM nro="skvr12180530" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8053.</ID>
@@ -112444,7 +112445,7 @@ jossakin pyytöreisussa.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180540" p="9160" y="1932" k="364">
+<ITEM nro="skvr12180540" p="5976" y="1932" k="364">
 <META>
 <OSA>XII2</OSA>
 <ID>8054.</ID>
@@ -112463,7 +112464,7 @@ Vittanki, Parakka. "Lassin Ville", n. 69 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180550" p="9150" y="1931" k="93">
+<ITEM nro="skvr12180550" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8055.</ID>
@@ -112484,7 +112485,7 @@ saanut siitä selvää, kuinka <I>pitkä ikä</I> minulla on.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180560" p="9150" y="1934" k="93">
+<ITEM nro="skvr12180560" p="5736" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8056.</ID>
@@ -112856,7 +112857,7 @@ Raanujärven kk:n oppilaat.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180730" p="9160" y="1934" k="1236">
+<ITEM nro="skvr12180730" p="5958" y="1934" k="1236">
 <META>
 <OSA>XII2</OSA>
 <ID>8073.</ID>
@@ -112876,7 +112877,7 @@ mannen komma från det häll åt vilket bromsen flyger.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180740" p="9150" y="1931" k="93">
+<ITEM nro="skvr12180740" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8074.</ID>
@@ -113512,7 +113513,7 @@ Kunnalliskoti. Tuomas Hukka, 81 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12180920" p="5330" y="1832" k="77">
+<ITEM nro="skvr12180920" p="9120" y="1832" k="77">
 <META>
 <OSA>XII2</OSA>
 <ID>8092.</ID>
@@ -114069,7 +114070,7 @@ puhistanut suksensa ja saanut ne kuntoon, lähti hiihtämään ja lauloi:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12181110" p="5330" y="1867" k="673">
+<ITEM nro="skvr12181110" p="9120" y="1867" k="673">
 <META>
 <OSA>XII2</OSA>
 <ID>8111.</ID>
@@ -114389,7 +114390,7 @@ Trastin kylä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12181230" p="9160" y="1933" k="93">
+<ITEM nro="skvr12181230" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8123.</ID>
@@ -114818,7 +114819,7 @@ Nyt on jo</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12181410" p="9160" y="1933" k="93">
+<ITEM nro="skvr12181410" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8141.</ID>
@@ -115255,7 +115256,7 @@ Lehmivaaran ukko "ilman aikojaan."
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12181620" p="5330" y="1867" k="673">
+<ITEM nro="skvr12181620" p="9120" y="1867" k="673">
 <META>
 <OSA>XII2</OSA>
 <ID>8162.</ID>
@@ -115377,7 +115378,7 @@ Piispajärvi. Kalle Räisänen, 50 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12181660" p="9160" y="1933" k="93">
+<ITEM nro="skvr12181660" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8166.</ID>
@@ -115540,7 +115541,7 @@ Nykyri, Jokikylä. Heikki Rautiainen, 67 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12181730" p="9150" y="1926" k="93">
+<ITEM nro="skvr12181730" p="5655" y="1926" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8173.</ID>
@@ -116002,7 +116003,7 @@ Väyrylän kylä. Latolan ukko, n. 80 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12181880" p="9160" y="1932" k="93">
+<ITEM nro="skvr12181880" p="5946" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8188.</ID>
@@ -116458,7 +116459,7 @@ följande ord:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182040" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182040" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8204.</ID>
@@ -116481,7 +116482,7 @@ Pajala. Maria Hella, mökinemäntä, 69 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182050" p="9160" y="1932" k="93">
+<ITEM nro="skvr12182050" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8205.</ID>
@@ -116697,7 +116698,7 @@ Kylmälä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182160" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182160" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8216.</ID>
@@ -116716,7 +116717,7 @@ Juhan-Antin pojat, n. 16 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182170" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182170" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8217.</ID>
@@ -116737,7 +116738,7 @@ Nattavaara. Eugenia Högman, talon emäntä, 46 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182180" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182180" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8218.</ID>
@@ -116756,7 +116757,7 @@ Nattavaara. Juhan-Antin emäntä, 67 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182190" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182190" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8219.</ID>
@@ -116776,7 +116777,7 @@ Pajala. Maria Mella, mökin emäntä, 69 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182200" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182200" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8220.</ID>
@@ -116797,7 +116798,7 @@ Purnu. Sofia Johanson, emäntä, 32 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182210" p="9150" y="1934" k="93">
+<ITEM nro="skvr12182210" p="5791" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8221.</ID>
@@ -116817,7 +116818,7 @@ Ingöy. Mikko Loukunen, ent. Paakivuonon kuningas, yli 90 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182220" p="9150" y="1934" k="93">
+<ITEM nro="skvr12182220" p="5736" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8222.</ID>
@@ -116836,7 +116837,7 @@ Maasöy. Johanna Hansen, kalastajan vaimo, 38 v. Kotoisin Jyykeästä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182230" p="9150" y="1934" k="93">
+<ITEM nro="skvr12182230" p="5825" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8223.</ID>
@@ -116857,7 +116858,7 @@ Pyssyjoki. Greta Mikkelsen. Oppinut Lemminjoen Tyllyrudossa n. 10 v. sitten.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182240" p="9150" y="1934" k="93">
+<ITEM nro="skvr12182240" p="5825" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8224.</ID>
@@ -116878,7 +116879,7 @@ Koutokeinosta.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182250" p="9150" y="1934" k="93">
+<ITEM nro="skvr12182250" p="5825" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8225.</ID>
@@ -117039,7 +117040,7 @@ Nilivaaran emäntä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182330" p="9150" y="1934" k="93">
+<ITEM nro="skvr12182330" p="5825" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8233.</ID>
@@ -117059,7 +117060,7 @@ Pyssyjoki. Birgitta Treeti, 46 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182340" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182340" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8234.</ID>
@@ -117106,7 +117107,7 @@ Jarhoinen. Maria Mäkitalo, talon muori, 87 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182360" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182360" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8236.</ID>
@@ -117216,7 +117217,7 @@ Kylmälä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182410" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182410" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8241.</ID>
@@ -117236,7 +117237,7 @@ Purnu. Sofia Johanson, emäntä, 32 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182420" p="9150" y="1934" k="93">
+<ITEM nro="skvr12182420" p="5825" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8242.</ID>
@@ -117257,7 +117258,7 @@ Pyssyjoki. Tievan Kreeta, n. 40 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182430" p="9150" y="1934" k="93">
+<ITEM nro="skvr12182430" p="5825" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8243.</ID>
@@ -117277,7 +117278,7 @@ Pyssyjoki. Greta Mikkelsen. Oppinut Lemminjoen Tyllyrudossa n. 10 v. sitten.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182440" p="9150" y="1934" k="93">
+<ITEM nro="skvr12182440" p="5825" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8244.</ID>
@@ -117382,7 +117383,7 @@ Tepasto.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182490" p="9150" y="1935" k="93">
+<ITEM nro="skvr12182490" p="5736" y="1935" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8249.</ID>
@@ -117443,7 +117444,7 @@ Mageröy, Kamöyvar. Inga Josefson, lapin emäntä, 35 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182510" p="9160" y="1906" k="115">
+<ITEM nro="skvr12182510" p="5925" y="1906" k="115">
 <META>
 <OSA>XII2</OSA>
 <ID>8251.</ID>
@@ -117762,7 +117763,7 @@ Kylmälä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182580" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182580" p="5935" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8258.</ID>
@@ -117851,7 +117852,7 @@ Maria Äkäslompolo, 55 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182620" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182620" p="5935" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8262.</ID>
@@ -117877,7 +117878,7 @@ lauloi tätä lapsille.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182630" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182630" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8263.</ID>
@@ -117974,7 +117975,7 @@ Kitkiöjärvi. Vanja Kuoppa, 12 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182680" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182680" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8268.</ID>
@@ -117995,7 +117996,7 @@ Muoslompolo. Hilda Tapani, talon emäntä, 69 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182690" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182690" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8269.</ID>
@@ -118162,7 +118163,7 @@ kansa, nuo lappalaiset.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182760" p="9150" y="1931" k="93">
+<ITEM nro="skvr12182760" p="5736" y="1931" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8276.</ID>
@@ -118457,7 +118458,7 @@ Kallo. Tyyne Heikkilä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182910" p="9160" y="1933" k="93">
+<ITEM nro="skvr12182910" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8291.</ID>
@@ -118543,7 +118544,7 @@ Pello. Liisa Tarvainen, 69 v. Kotoisin Paavolasta.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12182950" p="9160" y="1921" k="93">
+<ITEM nro="skvr12182950" p="5985" y="1921" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8295.</ID>
@@ -120085,7 +120086,7 @@ Unari. Anni Vierelä, 16 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12183650" p="9160" y="1933" k="93">
+<ITEM nro="skvr12183650" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8365.</ID>
@@ -120130,7 +120131,7 @@ Sirkka. Helmi Nuottila, 6 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr12183670" p="9160" y="1933" k="93">
+<ITEM nro="skvr12183670" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8367.</ID>
@@ -120631,7 +120632,7 @@ Kelontekemä. Helli Koskama, 12 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12183870" p="9160" y="1933" k="93">
+<ITEM nro="skvr12183870" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8387.</ID>
@@ -120762,7 +120763,7 @@ Kiistala. Anna-Kreeta Iisakka, 76 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12183930" p="9160" y="1933" k="93">
+<ITEM nro="skvr12183930" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8393.</ID>
@@ -120871,7 +120872,7 @@ Lohiniva. Miljam Keskiniva, 32 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12183980" p="9160" y="1933" k="93">
+<ITEM nro="skvr12183980" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8398.</ID>
@@ -120895,7 +120896,7 @@ Muoslompolo. Hilda Tapani, talon emäntä, 69 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12183990" p="9160" y="1921" k="93">
+<ITEM nro="skvr12183990" p="5985" y="1921" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8399.</ID>
@@ -122004,7 +122005,7 @@ Kovavaara. Antti Seppänen, 45 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12184430" p="9160" y="1932" k="93">
+<ITEM nro="skvr12184430" p="5976" y="1932" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8443.</ID>
@@ -123943,7 +123944,7 @@ Lämsänkylä. Lassi Nevalainen, "Muna-ahon ukko", 82 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12185030" p="9160" y="1934" k="1236">
+<ITEM nro="skvr12185030" p="5958" y="1934" k="1236">
 <META>
 <OSA>XII2</OSA>
 <ID>8503.</ID>
@@ -123982,7 +123983,7 @@ bakfram och sedan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12185040" p="9150" y="1934" k="93">
+<ITEM nro="skvr12185040" p="5791" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8504.</ID>
@@ -125359,7 +125360,7 @@ niin kyllä piru pistää. Mutta mehiläiselle ei voi mitään.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12185520" p="9150" y="1934" k="93">
+<ITEM nro="skvr12185520" p="5825" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8552.</ID>
@@ -126275,7 +126276,7 @@ kun mato panee ihmistä.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12185850" p="9150" y="1934" k="93">
+<ITEM nro="skvr12185850" p="5791" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8585.</ID>
@@ -126301,7 +126302,7 @@ Ingöy. Mikko Loukonen, vanhain kodin asukas, n. 90 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12185860" p="9150" y="1934" k="93">
+<ITEM nro="skvr12185860" p="5791" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8586.</ID>
@@ -127177,7 +127178,7 @@ Lämsänkylä. Lassi Nevalainen, "Muna-ahon ukko", 82 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12186200" p="9160" y="1933" k="93">
+<ITEM nro="skvr12186200" p="5906" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8620.</ID>
@@ -127262,7 +127263,7 @@ kotoisin Tyrnävältä, 80 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12186230" p="9160" y="1934" k="1236">
+<ITEM nro="skvr12186230" p="5958" y="1934" k="1236">
 <META>
 <OSA>XII2</OSA>
 <ID>8623.</ID>
@@ -127874,7 +127875,7 @@ veitten_nokhaj_ja p&#252;örittä&#772; sen (kipeän kohdan) ympäri. hoethan:</
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12186440" p="9150" y="1934" k="93">
+<ITEM nro="skvr12186440" p="5791" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8644.</ID>
@@ -127928,7 +127929,7 @@ Herran siunaus pitää lukea päälle.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12186450" p="9150" y="1934" k="93">
+<ITEM nro="skvr12186450" p="5825" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8645.</ID>
@@ -128429,7 +128430,7 @@ paineltiin ja taas pantiin paikoilleen. Sanottiin painellessa:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12186640" p="9150" y="1934" k="93">
+<ITEM nro="skvr12186640" p="5825" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8664.</ID>
@@ -129101,7 +129102,7 @@ yli:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12186840" p="9160" y="1934" k="1236">
+<ITEM nro="skvr12186840" p="5958" y="1934" k="1236">
 <META>
 <OSA>XII2</OSA>
 <ID>8684.</ID>
@@ -129337,7 +129338,7 @@ kirkkoon!</V>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12186930" p="9160" y="1934" k="93">
+<ITEM nro="skvr12186930" p="5906" y="1934" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8693.</ID>
@@ -130045,7 +130046,7 @@ muita siihen huoneeseen. Sielä se laulo:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12187110" p="9160" y="1934" k="1236">
+<ITEM nro="skvr12187110" p="5958" y="1934" k="1236">
 <META>
 <OSA>XII2</OSA>
 <ID>8711.</ID>
@@ -130633,7 +130634,7 @@ Kesti. Matti Keränen, 65 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr12187370" p="9160" y="1933" k="93">
+<ITEM nro="skvr12187370" p="5958" y="1933" k="93">
 <META>
 <OSA>XII2</OSA>
 <ID>8737.</ID>

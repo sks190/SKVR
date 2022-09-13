@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
 
@@ -6200,7 +6200,7 @@ numeroilla
 </REFS>
 </ITEM>
  
-<ITEM nro="skvr01107380" p="6030" y="1877" k="26">
+<ITEM nro="skvr01107380" p="6030" y="1877" k="1659">
 <META>
 <OSA>I2</OSA>
 <ID>738.</ID>
@@ -7782,7 +7782,7 @@ numeroilla
 </REFS>
 </ITEM>
  
-<ITEM nro="skvr01107450" p="5341" y="1877" k="26">
+<ITEM nro="skvr01107450" p="5341" y="1877" k="1659">
 <META>
 <OSA>I2</OSA>
 <ID>745.</ID>
@@ -46796,7 +46796,7 @@ lonkuele."
 </TEXT>
 </ITEM>
  
-<ITEM nro="skvr01111010" p="6130" y="1871" k="9">
+<ITEM nro="skvr01111010" p="6030" y="1871" k="9">
 <META>
 <OSA>I2</OSA>
 <ID>1101.</ID>
@@ -58040,7 +58040,7 @@ hävitti
 </TEXT>
 </ITEM>
  
-<ITEM nro="skvr01112250" p="6130" y="1872" k="502">
+<ITEM nro="skvr01112250" p="6030" y="1872" k="502">
 <META>
 <OSA>I2</OSA>
 <ID>1225.</ID>
@@ -59177,7 +59177,7 @@ Pyhin
 </REFS>
 </ITEM>
  
-<ITEM nro="skvr01112500" p="6130" y="1871" k="9">
+<ITEM nro="skvr01112500" p="6030" y="1871" k="9">
 <META>
 <OSA>I2</OSA>
 <ID>1250.</ID>
@@ -59210,7 +59210,7 @@ Pyhin
 </REFS>
 </ITEM>
  
-<ITEM nro="skvr01112501" p="6130" y="1872" k="502">
+<ITEM nro="skvr01112501" p="6030" y="1872" k="502">
 <META>
 <OSA>I2</OSA>
 <ID>1250 a).</ID>
@@ -59647,7 +59647,7 @@ seisoalleen,
 </REFS>
 </ITEM>
  
-<ITEM nro="skvr01112620" p="5351" y="1909" k="15">
+<ITEM nro="skvr01112620" p="5350" y="1909" k="15">
 <META>
 <OSA>I2</OSA>
 <ID>1262.</ID>
@@ -60247,7 +60247,7 @@ n:ja 156 a) ja
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr01302870" p="5341" y="1877" k="26">
+  <ITEM nro="skvr01302870" p="5341" y="1877" k="1659">
   <META>
   <OSA>I2 erill.</OSA>
   <ID>[Lemminkäisen virsi] 9.</ID>
@@ -60277,7 +60277,7 @@ n:ja 156 a) ja
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr01302880" p="5341" y="1877" k="26">
+  <ITEM nro="skvr01302880" p="5341" y="1877" k="1659">
   <META>
   <OSA>I2 erill.</OSA>
   <ID>[Lemminkäisen virsi] 10.</ID>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
 
 
 
-<ITEM nro="skvr02100010" p="6286" y="1901" k="38">
+<ITEM nro="skvr02100010" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>1.</ID>
@@ -31,7 +31,7 @@ Stopan Feodorov, 80 v. ("Pitkä Schtjoppi"), kotoisin Kiviniemestä(?).
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02100020" p="6286" y="1845" k="17">
+<ITEM nro="skvr02100020" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>2.</ID>
@@ -368,7 +368,7 @@ Konoi Kyöttine.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02100110" p="6286" y="1846" k="17">
+<ITEM nro="skvr02100110" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>11.</ID>
@@ -557,7 +557,7 @@ Vasselei Valosov, 55 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02100220" p="6286" y="1901" k="38">
+<ITEM nro="skvr02100220" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>22.</ID>
@@ -574,7 +574,7 @@ Ivan Prouhorov Gliimone, 80 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02100230" p="6286" y="1845" k="17">
+<ITEM nro="skvr02100230" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>23.</ID>
@@ -590,7 +590,7 @@ Ivan Prouhorov Gliimone, 80 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02100240" p="6286" y="1845" k="17">
+<ITEM nro="skvr02100240" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>24.</ID>
@@ -606,7 +606,7 @@ Ivan Prouhorov Gliimone, 80 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02100250" p="6286" y="1845" k="17">
+<ITEM nro="skvr02100250" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>25.</ID>
@@ -5722,7 +5722,7 @@ Buudoran akka, n. 68 v.; ks. n. 87.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02100880" p="6286" y="1846" k="17">
+<ITEM nro="skvr02100880" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>88.</ID>
@@ -5753,7 +5753,7 @@ Buudoran akka, n. 68 v.; ks. n. 87.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02100890" p="6286" y="1846" k="17">
+<ITEM nro="skvr02100890" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>89.</ID>
@@ -5832,7 +5832,7 @@ Buudoran akka, n. 68 v.; ks. n. 87.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02100900" p="6286" y="1901" k="38">
+<ITEM nro="skvr02100900" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>90.</ID>
@@ -6033,7 +6033,7 @@ syöttäneet Lappalaista".
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02100910" p="6286" y="1884" k="7">
+<ITEM nro="skvr02100910" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>91.</ID>
@@ -6199,7 +6199,7 @@ Kaksin v. kaupittavu; järj. umeroilla muutettu.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02100911" p="6286" y="1909" k="38">
+<ITEM nro="skvr02100911" p="6285" y="1909" k="38">
 <META>
 <OSA>II</OSA>
 <ID>91 a).</ID>
@@ -6327,7 +6327,7 @@ korkea-otsainen, haltiakas uros"; ks. n. 91.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02100920" p="6286" y="1884" k="7">
+<ITEM nro="skvr02100920" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>92.</ID>
@@ -6438,7 +6438,7 @@ määrin muistavatkin ulkoa.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02100930" p="6286" y="1900" k="38">
+<ITEM nro="skvr02100930" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>93.</ID>
@@ -6504,7 +6504,7 @@ Nis&#780;kusvaarasta.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02100940" p="6286" y="1901" k="38">
+<ITEM nro="skvr02100940" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>94.</ID>
@@ -12137,7 +12137,7 @@ Tatjana Vasseljevna, 51 v.; Virrasta kotoisin.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02101220" p="6286" y="1884" k="7">
+<ITEM nro="skvr02101220" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>122.</ID>
@@ -12327,7 +12327,7 @@ Tatjana Hilippa.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02101300" p="6286" y="1846" k="17">
+<ITEM nro="skvr02101300" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>130.</ID>
@@ -13786,7 +13786,7 @@ Paraska Hukka.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02101430" p="6286" y="1845" k="17">
+<ITEM nro="skvr02101430" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>143.</ID>
@@ -13917,7 +13917,7 @@ Paraska Hukka.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02101440" p="6286" y="1901" k="38">
+<ITEM nro="skvr02101440" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>144.</ID>
@@ -17673,7 +17673,7 @@ Tiitta Triihpone.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02101790" p="6286" y="1884" k="7">
+<ITEM nro="skvr02101790" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>179.</ID>
@@ -17816,7 +17816,7 @@ Ondrei säestäjänä.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02101800" p="6286" y="1884" k="7">
+<ITEM nro="skvr02101800" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>180.</ID>
@@ -17833,7 +17833,7 @@ Ondrei Johorjov, n. 45 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02101801" p="6286" y="1901" k="38">
+<ITEM nro="skvr02101801" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>180 a).</ID>
@@ -17850,7 +17850,7 @@ Ondrei Johorjov, 65 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02101810" p="6286" y="1884" k="7">
+<ITEM nro="skvr02101810" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>181.</ID>
@@ -17867,7 +17867,7 @@ Mas&#780;a Kablijo, 35 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02101820" p="6286" y="1901" k="38">
+<ITEM nro="skvr02101820" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>182.</ID>
@@ -26192,7 +26192,7 @@ Luka Tarasov, Vonkerinsaaresta.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02102650" p="6286" y="1900" k="38">
+<ITEM nro="skvr02102650" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>265.</ID>
@@ -26654,7 +26654,7 @@ Petra Ivanov Pots&#780;i, 63 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02102770" p="6286" y="1846" k="17">
+<ITEM nro="skvr02102770" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>277.</ID>
@@ -26676,7 +26676,7 @@ Petra Ivanov Pots&#780;i, 63 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02102780" p="6286" y="1846" k="17">
+<ITEM nro="skvr02102780" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>278.</ID>
@@ -26693,7 +26693,7 @@ Petra Ivanov Pots&#780;i, 63 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02102790" p="6286" y="1845" k="17">
+<ITEM nro="skvr02102790" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>279.</ID>
@@ -26725,7 +26725,7 @@ Petra Ivanov Pots&#780;i, 63 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02102800" p="6286" y="1901" k="38">
+<ITEM nro="skvr02102800" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>280.</ID>
@@ -27874,7 +27874,7 @@ Tatjana Vasseljevna, 51 v., Virrasta.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02102960" p="6286" y="1901" k="38">
+<ITEM nro="skvr02102960" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>296.</ID>
@@ -28033,7 +28033,7 @@ Valassi Ivanov, 60 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02102980" p="6286" y="1900" k="38">
+<ITEM nro="skvr02102980" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>298.</ID>
@@ -28130,7 +28130,7 @@ Ohkemie Ivanovna, 16 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02103000" p="6286" y="1900" k="38">
+<ITEM nro="skvr02103000" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>300.</ID>
@@ -28776,7 +28776,7 @@ oleva.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02103130" p="6286" y="1846" k="17">
+<ITEM nro="skvr02103130" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>313.</ID>
@@ -28824,7 +28824,7 @@ oleva.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02103140" p="6286" y="1845" k="17">
+<ITEM nro="skvr02103140" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>314.</ID>
@@ -31421,7 +31421,7 @@ Tiitta Triihpone, Saarenpäästä.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02103330" p="6286" y="1901" k="38">
+<ITEM nro="skvr02103330" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>333.</ID>
@@ -31477,7 +31477,7 @@ Saatu kahdelta naiselta, Katjilta ja Tatjanalta.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02103340" p="6286" y="1845" k="17">
+<ITEM nro="skvr02103340" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>334.</ID>
@@ -31812,7 +31812,7 @@ Saarenpää. Karttunen n. 94 ja Osonen n. 46; ks. n. 139, 139a).
 
 
 
-<ITEM nro="skvr02103410" p="6286" y="1884" k="7">
+<ITEM nro="skvr02103410" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>341.</ID>
@@ -32522,7 +32522,7 @@ Hekla Timofjovna, 25 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02103560" p="6286" y="1845" k="17">
+<ITEM nro="skvr02103560" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>356.</ID>
@@ -32611,7 +32611,7 @@ Hekla Timofjovna, 25 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02103570" p="6286" y="1901" k="38">
+<ITEM nro="skvr02103570" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>357.</ID>
@@ -32795,7 +32795,7 @@ Irinja Pussi, 58 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02103620" p="6286" y="1884" k="7">
+<ITEM nro="skvr02103620" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>362.</ID>
@@ -32903,7 +32903,7 @@ pestään.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02103630" p="6286" y="1901" k="38">
+<ITEM nro="skvr02103630" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>363.</ID>
@@ -32995,7 +32995,7 @@ Käsnäsiltä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02103640" p="6286" y="1901" k="38">
+<ITEM nro="skvr02103640" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>364.</ID>
@@ -33012,7 +33012,7 @@ Katji ja Tatjana.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02103650" p="6286" y="1845" k="17">
+<ITEM nro="skvr02103650" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>365.</ID>
@@ -33028,7 +33028,7 @@ Katji ja Tatjana.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02103660" p="6286" y="1884" k="7">
+<ITEM nro="skvr02103660" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>366.</ID>
@@ -33868,7 +33868,7 @@ Jehkimäine Iivana, Sissosia.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02103880" p="6286" y="1846" k="17">
+<ITEM nro="skvr02103880" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>388.</ID>
@@ -34052,7 +34052,7 @@ Fedois&#780;a Djevsejouna.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02103930" p="6286" y="1845" k="17">
+<ITEM nro="skvr02103930" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>393.</ID>
@@ -34248,7 +34248,7 @@ Outi Timone, 60 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02104010" p="6286" y="1845" k="17">
+<ITEM nro="skvr02104010" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>401.</ID>
@@ -34264,7 +34264,7 @@ Outi Timone, 60 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02104020" p="6286" y="1901" k="38">
+<ITEM nro="skvr02104020" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>402.</ID>
@@ -34540,7 +34540,7 @@ Anni Ontonov, 40 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02104120" p="6286" y="1845" k="17">
+<ITEM nro="skvr02104120" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>412.</ID>
@@ -34679,7 +34679,7 @@ Vasselie Hotane, 22 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02104180" p="6286" y="1845" k="17">
+<ITEM nro="skvr02104180" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>418.</ID>
@@ -35703,7 +35703,7 @@ Ol'ona Siideri, 50 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02104470" p="6286" y="1846" k="17">
+<ITEM nro="skvr02104470" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>447.</ID>
@@ -35852,7 +35852,7 @@ Tatjana Hilippa.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02104520" p="6286" y="1846" k="17">
+<ITEM nro="skvr02104520" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>452.</ID>
@@ -43236,7 +43236,7 @@ Jaakko Homane, 45 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02105880" p="6286" y="1901" k="38">
+<ITEM nro="skvr02105880" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>588.</ID>
@@ -44013,7 +44013,7 @@ Olona Timokkane.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02106120" p="6286" y="1900" k="38">
+<ITEM nro="skvr02106120" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>612.</ID>
@@ -44036,7 +44036,7 @@ Haimakaine; oppinut "taataltaan".
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02106130" p="6286" y="1845" k="17">
+<ITEM nro="skvr02106130" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>613.</ID>
@@ -44085,7 +44085,7 @@ Haimakaine; oppinut "taataltaan".
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02106150" p="6286" y="1846" k="17">
+<ITEM nro="skvr02106150" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>615.</ID>
@@ -44228,7 +44228,7 @@ Jehkimä Put'une, 65 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02106200" p="6286" y="1921" k="1655">
+<ITEM nro="skvr02106200" p="6285" y="1921" k="1655">
 <META>
 <OSA>II</OSA>
 <ID>620.</ID>
@@ -44253,7 +44253,7 @@ Tulemajärven Mantereen kylässä. Mp. Salmin Miinalassa.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02106210" p="6286" y="1900" k="38">
+<ITEM nro="skvr02106210" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>621.</ID>
@@ -44754,7 +44754,7 @@ Ol'ekseine Simana, Kyöttisiä.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02106321" p="6286" y="1901" k="38">
+<ITEM nro="skvr02106321" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>632 &#945;).</ID>
@@ -45309,7 +45309,7 @@ Paraske Hukka.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02106420" p="6286" y="1901" k="38">
+<ITEM nro="skvr02106420" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>642.</ID>
@@ -45350,7 +45350,7 @@ syöttäneet "lappalaista."
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02106430" p="6286" y="1884" k="7">
+<ITEM nro="skvr02106430" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>643.</ID>
@@ -45423,7 +45423,7 @@ Ondrei Johorjov ja Stefan Vasiljov.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02106431" p="6286" y="1901" k="38">
+<ITEM nro="skvr02106431" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>643 a).</ID>
@@ -45478,7 +45478,7 @@ Ondrei Johorjov ("Kan&#769;n&#769;ilan seppä"), 65-vuotias seppä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02106440" p="6286" y="1921" k="1655">
+<ITEM nro="skvr02106440" p="6285" y="1921" k="1655">
 <META>
 <OSA>II</OSA>
 <ID>644.</ID>
@@ -45514,7 +45514,7 @@ Tulemajärven Mantereen kylässä. Mp. Salmin Miinalassa.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02106450" p="6286" y="1901" k="38">
+<ITEM nro="skvr02106450" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>645.</ID>
@@ -45555,7 +45555,7 @@ Jeysei Jeyseijev ("Häkki"), 51 v. huopakengäntekijä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02106460" p="6286" y="1900" k="38">
+<ITEM nro="skvr02106460" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>646.</ID>
@@ -45579,7 +45579,7 @@ Nis&#780;kusvaarasta.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02106470" p="6286" y="1901" k="38">
+<ITEM nro="skvr02106470" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>647.</ID>
@@ -46859,7 +46859,7 @@ Käärmeen syntyyn:</I> Krohn n. 6601 (Lupasalmi).
 
 
 
-<ITEM nro="skvr02106710" p="6286" y="1901" k="38">
+<ITEM nro="skvr02106710" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>671.</ID>
@@ -46967,7 +46967,7 @@ Pekkilästä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02106740" p="6286" y="1900" k="38">
+<ITEM nro="skvr02106740" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>674.</ID>
@@ -50050,7 +50050,7 @@ tämä on toimitettava tyynellä säällä, tuulisella ei vaikuta.</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02107100" p="6286" y="1921" k="1655">
+<ITEM nro="skvr02107100" p="6285" y="1921" k="1655">
 <META>
 <OSA>II</OSA>
 <ID>710.</ID>
@@ -50187,7 +50187,7 @@ Petra Ivanov Potshi, 63 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107140" p="6286" y="1900" k="38">
+<ITEM nro="skvr02107140" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>714.</ID>
@@ -51130,7 +51130,7 @@ Iro Nesterine; kuullut isältään.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107400" p="6286" y="1901" k="38">
+<ITEM nro="skvr02107400" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>740.</ID>
@@ -51167,7 +51167,7 @@ syöttäneet "lappalaista".
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02107410" p="6286" y="1901" k="38">
+<ITEM nro="skvr02107410" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>741.</ID>
@@ -51227,7 +51227,7 @@ Ondrei Johorjov ("Kan&#769;n&#769;ilan seppä"), 65-vuotias seppä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107420" p="6286" y="1901" k="38">
+<ITEM nro="skvr02107420" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>742.</ID>
@@ -51273,7 +51273,7 @@ Ontoi Semanov Rössi, 59 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107430" p="6286" y="1901" k="38">
+<ITEM nro="skvr02107430" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>743.</ID>
@@ -51341,7 +51341,7 @@ aivan samalla tavalla myös "mavon vihat", paitse
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107440" p="6286" y="1921" k="1655">
+<ITEM nro="skvr02107440" p="6285" y="1921" k="1655">
 <META>
 <OSA>II</OSA>
 <ID>744.</ID>
@@ -51371,7 +51371,7 @@ Tulemajärven Mantereen kylässä. Mp. Salmin Miinalassa.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107450" p="6286" y="1901" k="38">
+<ITEM nro="skvr02107450" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>745.</ID>
@@ -51439,7 +51439,7 @@ Stopan Ondreijov Kolduna, 80 v.; synt. Kolatselälle, kuullut Suojärveltä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107460" p="6286" y="1900" k="38">
+<ITEM nro="skvr02107460" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>746.</ID>
@@ -51474,7 +51474,7 @@ Haimakaine; oppinut "taataltaan".
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02107470" p="6286" y="1900" k="38">
+<ITEM nro="skvr02107470" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>747.</ID>
@@ -52613,7 +52613,7 @@ tärkeänä).</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107740" p="6286" y="1845" k="17">
+<ITEM nro="skvr02107740" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>774.</ID>
@@ -52629,7 +52629,7 @@ tärkeänä).</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107750" p="6286" y="1846" k="17">
+<ITEM nro="skvr02107750" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>775.</ID>
@@ -52648,7 +52648,7 @@ tärkeänä).</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107760" p="6286" y="1884" k="7">
+<ITEM nro="skvr02107760" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>776.</ID>
@@ -52692,7 +52692,7 @@ vanhoista virsistä muisti seuraavan loitsunsekaisen katkelman.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107770" p="6286" y="1901" k="38">
+<ITEM nro="skvr02107770" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>777.</ID>
@@ -52731,7 +52731,7 @@ Ontoi Semanov Rössi, 59 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02107780" p="6286" y="1901" k="38">
+<ITEM nro="skvr02107780" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>778.</ID>
@@ -53003,7 +53003,7 @@ Luka Ondriane, 39 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02107850" p="6286" y="1845" k="17">
+<ITEM nro="skvr02107850" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>785.</ID>
@@ -53308,7 +53308,7 @@ Luka Ondriane, 39 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02107870" p="6286" y="1846" k="17">
+<ITEM nro="skvr02107870" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>787.</ID>
@@ -55403,7 +55403,7 @@ Paraske Hukka.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02108470" p="6286" y="1900" k="38">
+<ITEM nro="skvr02108470" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>847.</ID>
@@ -55725,7 +55725,7 @@ kerta paineltaessa.</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02108580" p="6286" y="1900" k="38">
+<ITEM nro="skvr02108580" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>858.</ID>
@@ -55985,7 +55985,7 @@ toisten kanssa.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02108650" p="6286" y="1900" k="38">
+<ITEM nro="skvr02108650" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>865.</ID>
@@ -56226,7 +56226,7 @@ lukee:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02108720" p="6286" y="1845" k="17">
+<ITEM nro="skvr02108720" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>872.</ID>
@@ -56332,7 +56332,7 @@ lukee:</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02108730" p="6286" y="1845" k="17">
+<ITEM nro="skvr02108730" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>873.</ID>
@@ -56383,7 +56383,7 @@ lukee:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02108740" p="6286" y="1901" k="38">
+<ITEM nro="skvr02108740" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>874.</ID>
@@ -56421,7 +56421,7 @@ Ondrei Johorjov ("Kan&#769;n&#769;ilan seppä"), 65-vuotias seppä.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02108750" p="6286" y="1845" k="17">
+<ITEM nro="skvr02108750" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>875.</ID>
@@ -58208,7 +58208,7 @@ panna mitään vaatetta.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02109140" p="6286" y="1900" k="38">
+<ITEM nro="skvr02109140" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>914.</ID>
@@ -58419,7 +58419,7 @@ ruokahalu.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02109200" p="6286" y="1845" k="17">
+<ITEM nro="skvr02109200" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>920.</ID>
@@ -59286,7 +59286,7 @@ mitään.</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02109320" p="6286" y="1900" k="38">
+<ITEM nro="skvr02109320" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>932.</ID>
@@ -59764,7 +59764,7 @@ on karhun pää.</L>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02109450" p="6286" y="1845" k="17">
+<ITEM nro="skvr02109450" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>945.</ID>
@@ -60172,7 +60172,7 @@ Jehkimä Put'une, 65 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02109590" p="6286" y="1845" k="17">
+<ITEM nro="skvr02109590" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>959.</ID>
@@ -60188,7 +60188,7 @@ Jehkimä Put'une, 65 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02109600" p="6286" y="1845" k="17">
+<ITEM nro="skvr02109600" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>960.</ID>
@@ -60216,7 +60216,7 @@ Jehkimä Put'une, 65 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02109610" p="6286" y="1901" k="38">
+<ITEM nro="skvr02109610" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>961.</ID>
@@ -60255,7 +60255,7 @@ syöttäneet "lappalaista".
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02109620" p="6286" y="1901" k="38">
+<ITEM nro="skvr02109620" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>962.</ID>
@@ -60605,7 +60605,7 @@ Daria Kirikov, n. 60 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02109740" p="6286" y="1845" k="17">
+<ITEM nro="skvr02109740" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>974.</ID>
@@ -60742,7 +60742,7 @@ Daria Kirikov, n. 60 v.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02109750" p="6286" y="1845" k="17">
+<ITEM nro="skvr02109750" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>975.</ID>
@@ -60772,7 +60772,7 @@ Daria Kirikov, n. 60 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02109760" p="6286" y="1900" k="38">
+<ITEM nro="skvr02109760" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>976.</ID>
@@ -61814,7 +61814,7 @@ Vaivoksese vaavutteli, |Läksi kulta kulkomahe|.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02109950" p="6286" y="1846" k="17">
+<ITEM nro="skvr02109950" p="6285" y="1846" k="17">
 <META>
 <OSA>II</OSA>
 <ID>995.</ID>
@@ -62555,7 +62555,7 @@ Tiihon Paulov; kotoisin Mukan kylästä lähellä Mäkiä eli Suurmäkiä, n. 40
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02110160" p="6286" y="1901" k="38">
+<ITEM nro="skvr02110160" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>1016.</ID>
@@ -63578,7 +63578,7 @@ Konoi Kyöttine.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02110240" p="6286" y="1900" k="38">
+<ITEM nro="skvr02110240" p="6285" y="1900" k="38">
 <META>
 <OSA>II</OSA>
 <ID>1024.</ID>
@@ -63621,7 +63621,7 @@ pitäjän Nis&#780;kusvaarasta.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02110250" p="6286" y="1901" k="38">
+<ITEM nro="skvr02110250" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>1025.</ID>
@@ -63669,7 +63669,7 @@ syöttäneet "lappalaista".
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02110260" p="6286" y="1901" k="38">
+<ITEM nro="skvr02110260" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>1026.</ID>
@@ -64068,7 +64068,7 @@ pellervoiselle ja maan haltijalle ja luvetaan:</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02110370" p="6286" y="1921" k="1655">
+<ITEM nro="skvr02110370" p="6285" y="1921" k="1655">
 <META>
 <OSA>II</OSA>
 <ID>1037.</ID>
@@ -64497,7 +64497,7 @@ miun lembi levikkäh!"</V>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02110490" p="6286" y="1845" k="17">
+<ITEM nro="skvr02110490" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>1049.</ID>
@@ -64596,7 +64596,7 @@ miun lembi levikkäh!"</V>
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr02110500" p="6286" y="1901" k="38">
+<ITEM nro="skvr02110500" p="6285" y="1901" k="38">
 <META>
 <OSA>II</OSA>
 <ID>1050.</ID>
@@ -64639,7 +64639,7 @@ syöttäneet "lappalaista".
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02110510" p="6286" y="1884" k="7">
+<ITEM nro="skvr02110510" p="6285" y="1884" k="7">
 <META>
 <OSA>II</OSA>
 <ID>1051.</ID>
@@ -64751,7 +64751,7 @@ sanojal.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr02110530" p="6286" y="1845" k="17">
+<ITEM nro="skvr02110530" p="6285" y="1845" k="17">
 <META>
 <OSA>II</OSA>
 <ID>1053.</ID>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 
 <KOKONAISUUS>
@@ -11801,7 +11801,7 @@ ensi kesänä saadaan
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08105530" p="161" y="1913" k="45">
+  <ITEM nro="skvr08105530" p="170" y="1913" k="45">
   <META>
   <OSA>VIII</OSA>
   <ID>553.</ID>
@@ -11822,7 +11822,7 @@ ensi kesänä saadaan
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08105540" p="161" y="1914" k="43">
+  <ITEM nro="skvr08105540" p="170" y="1914" k="43">
   <META>
   <OSA>VIII</OSA>
   <ID>554.</ID>
@@ -13786,7 +13786,7 @@ sanoivat:</L>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08106420" p="161" y="1913" k="45">
+  <ITEM nro="skvr08106420" p="170" y="1913" k="45">
   <META>
   <OSA>VIII</OSA>
   <ID>642.</ID>
@@ -13805,7 +13805,7 @@ sanoivat:</L>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08106430" p="161" y="1914" k="43">
+  <ITEM nro="skvr08106430" p="170" y="1914" k="43">
   <META>
   <OSA>VIII</OSA>
   <ID>643.</ID>
@@ -14731,7 +14731,7 @@ sillä äiti kohta luulee
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08106900" p="161" y="1914" k="43">
+  <ITEM nro="skvr08106900" p="170" y="1914" k="43">
   <META>
   <OSA>VIII</OSA>
   <ID>690.</ID>
@@ -14749,7 +14749,7 @@ sillä äiti kohta luulee
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08106910" p="161" y="1914" k="43">
+  <ITEM nro="skvr08106910" p="170" y="1914" k="43">
   <META>
   <OSA>VIII</OSA>
   <ID>691.</ID>
@@ -15511,7 +15511,7 @@ tavalla.)</L>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08107240" p="161" y="1914" k="43">
+  <ITEM nro="skvr08107240" p="170" y="1914" k="43">
   <META>
   <OSA>VIII</OSA>
   <ID>724.</ID>
@@ -15673,7 +15673,7 @@ Muutamat sanovat kun
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08107320" p="161" y="1914" k="43">
+  <ITEM nro="skvr08107320" p="170" y="1914" k="43">
   <META>
   <OSA>VIII</OSA>
   <ID>732.</ID>
@@ -16849,7 +16849,7 @@ tapauksessa sadetta.</L>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08107950" p="161" y="1913" k="45">
+  <ITEM nro="skvr08107950" p="170" y="1913" k="45">
   <META>
   <OSA>VIII</OSA>
   <ID>795.</ID>
@@ -16868,7 +16868,7 @@ tapauksessa sadetta.</L>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08107960" p="161" y="1914" k="43">
+  <ITEM nro="skvr08107960" p="170" y="1914" k="43">
   <META>
   <OSA>VIII</OSA>
   <ID>796.</ID>
@@ -19051,7 +19051,7 @@ Sitte kun sai, sanoi: "hyvä talo".
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08109040" p="161" y="1913" k="45">
+  <ITEM nro="skvr08109040" p="170" y="1913" k="45">
   <META>
   <OSA>VIII</OSA>
   <ID>904.</ID>
@@ -19072,7 +19072,7 @@ paimenpoika. M. p. Uskelassa..
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08109050" p="161" y="1914" k="43">
+  <ITEM nro="skvr08109050" p="170" y="1914" k="43">
   <META>
   <OSA>VIII</OSA>
   <ID>905.</ID>
@@ -19330,7 +19330,7 @@ vaikutukseltaan lasten
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08109170" p="161" y="1913" k="45">
+  <ITEM nro="skvr08109170" p="170" y="1913" k="45">
   <META>
   <OSA>VIII</OSA>
   <ID>917.</ID>
@@ -25045,7 +25045,7 @@ Kaarinassa.
   </REFS>
   </ITEM>
   
-  <ITEM nro="skvr08110240" p="31" y="1909" k="560">
+  <ITEM nro="skvr08110240" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>1024.</ID>
@@ -27604,7 +27604,7 @@ tullut n. 20-vuotiaana
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08110940" p="31" y="1909" k="146">
+  <ITEM nro="skvr08110940" p="30" y="1909" k="146">
   <META>
   <OSA>VIII</OSA>
   <ID>1094.</ID>
@@ -28399,7 +28399,7 @@ kyläilemässä, ja siinä oli vanha
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08111230" p="161" y="1909" k="45">
+  <ITEM nro="skvr08111230" p="170" y="1909" k="45">
   <META>
   <OSA>VIII</OSA>
   <ID>1123.</ID>
@@ -28419,7 +28419,7 @@ kyläilemässä, ja siinä oli vanha
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08111240" p="161" y="1909" k="45">
+  <ITEM nro="skvr08111240" p="170" y="1909" k="45">
   <META>
   <OSA>VIII</OSA>
   <ID>1124.</ID>
@@ -29831,7 +29831,7 @@ v. sitte.
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08111850" p="31" y="1909" k="560">
+  <ITEM nro="skvr08111850" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>1185.</ID>
@@ -36255,7 +36255,7 @@ näin.)</L>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08114750" p="31" y="1909" k="560">
+  <ITEM nro="skvr08114750" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>1475.</ID>
@@ -42573,7 +42573,7 @@ ihmiset, sen enää muistavat.</L>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08117460" p="31" y="1909" k="560">
+  <ITEM nro="skvr08117460" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>1746.</ID>
@@ -44897,7 +44897,7 @@ muist.
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08118600" p="31" y="1909" k="560">
+  <ITEM nro="skvr08118600" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>1860.</ID>
@@ -60451,7 +60451,7 @@ turv&#224;shär<SMALLCAPS>G</SMALLCAPS>ä</V>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08125980" p="31" y="1923" k="76">
+  <ITEM nro="skvr08125980" p="30" y="1923" k="76">
   <META>
   <OSA>VIII</OSA>
   <ID>2598.</ID>
@@ -70463,7 +70463,7 @@ runoa.]</L>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08130950" p="31" y="1909" k="560">
+  <ITEM nro="skvr08130950" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>3095.</ID>
@@ -70895,7 +70895,7 @@ runoa.]</L>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08131150" p="31" y="1909" k="560">
+  <ITEM nro="skvr08131150" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>3115.</ID>
@@ -83753,7 +83753,7 @@ polu&#815;itö&#252;&#815;r&#252;&#772;n,</V>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08134320" p="31" y="1909" k="560">
+  <ITEM nro="skvr08134320" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>3432.</ID>
@@ -90785,7 +90785,7 @@ ai&#815;<SMALLCAPS>G</SMALLCAPS>an</V>
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08136790" p="31" y="1909" k="560">
+  <ITEM nro="skvr08136790" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>3679.</ID>
@@ -96421,7 +96421,7 @@ vatsaan seuraavin
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08139360" p="31" y="1909" k="560">
+  <ITEM nro="skvr08139360" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>3936.</ID>
@@ -100798,7 +100798,7 @@ taas lukee
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08141350" p="31" y="1909" k="560">
+  <ITEM nro="skvr08141350" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>4135.</ID>
@@ -106411,7 +106411,7 @@ runon, jossa kuvataan
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr08144060" p="31" y="1909" k="560">
+  <ITEM nro="skvr08144060" p="30" y="1909" k="560">
   <META>
   <OSA>VIII</OSA>
   <ID>4406.</ID>

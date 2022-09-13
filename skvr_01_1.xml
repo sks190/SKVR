@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 <KOKONAISUUS>
 
   
@@ -4899,7 +4899,7 @@ asianomaisiin kohtiin
   </REFS>
   </ITEM>
   
-  <ITEM nro="skvr01100370" p="6030" y="1877" k="9">
+  <ITEM nro="skvr01100370" p="6030" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>37. </ID>
@@ -5306,7 +5306,7 @@ osaavansa.
   </REFS>
   </ITEM>
   
-  <ITEM nro="skvr01100420" p="5341" y="1877" k="9">
+  <ITEM nro="skvr01100420" p="5341" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>42. </ID>
@@ -5551,7 +5551,7 @@ Ks. n. 43.
   </REFS>
   </ITEM>
   
-  <ITEM nro="skvr01100430" p="5341" y="1877" k="9">
+  <ITEM nro="skvr01100430" p="5341" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>43. </ID>
@@ -6369,7 +6369,7 @@ silläkin vielä
   <V>60 P[ohjon] akka h[arva]h[ammas]</V>
   <V>Nousi aivon aikasehen,</V>
   <V>Aivon aika huomenessa;</V>
-  <V>Pian pirtin lämitteli,</V>
+  <V>Pian pirtin läm&#772;itteli,</V>
   <V>Pyhki pitkin pirttiähän,</V>
   <V>65 Lattiata[ha]n lakais[i];</V>
   <V>Viepi ulos rikkasa</V>
@@ -9106,304 +9106,11 @@ ja muutokset
   <V>"Oi sie v[anha] V[äinämöine]n</V>
   <V>80 Valehtelit vanhempasi,</V>
   <V>Pettelit oman emosi!"</V>
-  <L>63 c):</L>
-  <L>#1 Päällä: [Sala]karit.</L>
-  <L>#2 Päällä: seinuksella.</L>
-  <L>#3 sauom|i|ssa: sauom<I>e</I>ssa.</L>
-  <V>61. Latvajärvi.</V>
-  <L>Borenius III, n. 9. - 31/8 1877.</L>
-  <L>Petrin&#769;i T'imo, Karhusia. Kuullut Piminäiseltä Rotjolta.</L>
-  <V>Lappal[ai]n&#769;i#1 kyyttös&#780;ilmä</V>
-  <V>Pit'i viikkoista viho<SUP>v</SUP>a,</V>
-  <V>Ijänkaikista ka<KA>ts&#780;</KA>etta</V>
-  <V>Peällä#2 v[anha]n V[äinämöi]sen.</V>
-  <V>5 I<KA>ts&#780;</KA>e v[anha] V[äinämöi]n&#769;i</V>
-  <V>Otti olkis&#769;en orihin,</V>
-  <V>Hernehvarsisen hevosen</V>
-  <V>Meren jeätä juoks&#780;omaha,</V>
-  <V>"Kyytty<SUP>v</SUP>ö" kynettämähä.#3</V>
-  <V>10 Lappal[ain&#769;i]#1 k[yyttös&#780;ilmä]</V>
-  <V>Piti [viikkoista viho<SUP>v</SUP>a]</V>
-  <V>Ampu#4 olkisen or[ihi]n,</V>
-  <V>Hern[ehvarsisen hevosen]</V>
-  <V>Alta#5 v[anha]n V[äinämöise]n.</V>
-  <V>15 Its&#780;e v[anha] V[äinämöin&#769;i]</V>
-  <V>Koprin kirposi merehe,</V>
-  <V>Käsin laskih lainnehise.</V>
-  <V>Its&#780;e nuoin#6 s&#780;anoiksi virkko:</V>
-  <V>"Kuhu polvet kos&#780;kenouve,</V>
-  <V>20 Sihi#7 korko kas&#780;vaohot,</V>
-  <V>Kivet s&#780;uuret veäntyöhöt."</V>
-  <V>Tuola#8 kulki kuusi vuotta,</V>
-  <V>S&#780;eiso seit<KA>ts</KA>emen#9 kes&#780;eä,</V>
-  <V>Kulki kuus&#780;issa hakona,</V>
-  <V>25 Petäjäissä pölkyn peänä.</V>
-  <V>Veti polve&#241;s&#780;a meres&#780;tä,</V>
-  <V>Lappo luu&#241;s&#780;a lainnehes&#780;ta.</V>
-  <V>Ilman lintu pikkaraine</V>
-  <V>Katt'seli pes&#780;än s&#780;ijoa,</V>
-  <V>30 Peähä polven V[äinämöi]sen</V>
-  <V>Jo muni munaista#10 kolme.</V>
-  <V>Hauteloupa, hierelö&#252;pä.</V>
-  <V>Its&#780;e v[anha] V[äinämöi]n&#769;i</V>
-  <V>Luuli polvensa palava&#241;,</V>
-  <V>35 Luuli luu&#241;s&#780;a lämpievän,#11</V>
-  <V>Vet'i polve&#241;s&#780;a merehe,</V>
-  <V>Lappo luu&#241;s&#780;a lainnehise.</V>
-  <V>Itsepä noin#12 san[oiksi] v[ir]kko:</V>
-  <V>"Mi munas&#780;s&#780;a rus&#780;kieta,</V>
-  <V>40 Päivösikse paistamah,</V>
-  <V>Ne kuikse kumottamah,</V>
-  <V>Tähtilöikse#13 taivo<SUP>i</SUP>s&#769;ella."#14</V>
-  <V>Heän nyt#15 kulki 6 vuotta,</V>
-  <V>S&#780;eiso [seit<KA>ts</KA>emen keseä],</V>
-  <V>45 Ympäri 9ks&#780;än vuotta,</V>
-  <V>Häntä tuuli tuuvitteli,#16</V>
-  <V>Oalto rannalle ajeli#17</V>
-  <V>Pimiehem Pohjo&#8968;i&#8969;l'ahan,</V>
-  <V>Tarkkahan Tapielahan.</V>
-  <V>50 Pohjo<SUP>i</SUP>n [akka] harvahammas&#780;</V>
-  <V>Nous&#780;ou aivoin aika<SUP>i</SUP>sehe,</V>
-  <V>Aivoin aika huomenes&#780;s&#780;a,</V>
-  <V>Lämmitti pienen pirttisehe</V>
-  <V>Pikku<SUP>i</SUP>s&#769;illa halko<SUP>i</SUP>s&#769;illa,</V>
-  <V>55 Pien&#769;illä pilas&#780;tehilla;</V>
-  <V>P&#252;&#252;hki pienen pirttisehe,</V>
-  <V>Rikkoja pihalla viepi</V>
-  <V>Pit'immillä pelloillans&#780;a,</V>
-  <V>Kaijimilla s&#780;almeks&#780;illa.</V>
-  <V>60 Kuuli miehen itköväks&#780;e,</V>
-  <V>Urohon uris&#769;ovaks&#780;e,</V>
-  <V>Eik' ol' itku naisten i[tku],</V>
-  <V>Ei[k' ol' itku] las&#780;ten [itku],</V>
-  <V>Itk' on partas&#780;uun urohon,</V>
-  <V>65 Jouhileuvan juorottelu,</V>
-  <V>Itk' on v[anha]n V[äinämöi]sen.</V>
-  <V>P[ohjo]n akka h[arva]h[ammas&#780;]</V>
-  <V>Koprin helma&#241;s&#780;a kokosi.</V>
-  <V>Käsin keäri voattie&#241;s&#780;a,#18</V>
-  <V>70 Jo#19 ottau s&#780;otis&#780;oma&#241;sa,</V>
-  <V>Pivoissa pieltävä&#241;s&#780;ä,</V>
-  <V>Häis&#769;s&#769;ä häilyteltäväns&#780;ä,</V>
-  <V>Män&#769;i luos&#780;ta#20 katts&#780;omaba,</V>
-  <V>Tarkas&#780;ta tähys&#780;tämähä.</V>
-  <V>75 "Mitä itket V[äinämöi]n&#769;i,</V>
-  <V>Uriset#21 umannon#22 s&#780;ulho?</V>
-  <V>*"Oispa s&#780;yytä itkijällä,</V>
-  <V>Vaivoa valittajalla,*</V>
-  <V>Sitä itken P[ohjo]n akka,</V>
-  <V>80 Kuin en ol' omilla mailla."</V>
-  <V>"Kuinpa pellon kyisen kynnät,</V>
-  <V>Keärmehisen keännättelet,</V>
-  <V><KA>Ts&#780;</KA>i<KA>ts&#780;</KA>iliuskoilla s&#780;itelet,</V>
-  <V>Keärmehillä keännättelet,</V>
-  <V>85 Miepä#23 anna&#241; tyttäreni,</V>
-  <V>S&#780;e s&#780;oattau omilla mailla."</V>
-  <V>Heänpä pellon kyisen kynti,</V>
-  <V>Keärmehisen keännätteli,</V>
-  <V>*Tsits[iliuskoilla site]li,</V>
-  <V>90 Keärm[ehillä] keännätteli.*</V>
-  <V>"Jokos annat tyttisesi?"</V>
-  <V>"Enpä anna tyttieni,</V>
-  <V>Vain kuin s&#780;oanet s&#780;ammon#24 s&#780;uuren,</V>
-  <V>Kalkutellet kirjokannen,</V>
-  <V>95 *"Niim mie annan [tyttäreni]."*</V>
-  <V>"S&#780;oat#25 en sampuo takuo,</V>
-  <V>Enkä t'iijä t'improal'l'a,</V>
-  <V>Ois#26 tuo#27 s&#780;eppo Ilmorini,#28</V>
-  <V>Takoja ijänikuini,</V>
-  <V>100 Se s&#780;oatto samp[uo] t[akuo],</V>
-  <V>S&#780;epä t'iesi timpr[oal'l'a].</V>
-  <V>Siit' on#29 its&#780;e V[äinämöi]ni</V>
-  <V>Päivät s&#780;ampuo takouve,</V>
-  <V>Yöt neittä lepyttelöyve.</V>
-  <V>105 S&#780;ai nyt sampo valmeheks&#780;e,</V>
-  <V>K[irjokansi] kirjatuks&#780;e.</V>
-  <V>"Jokos annat tyttisesi?"</V>
-  <V>"Empä anna [tyttieni],</V>
-  <V>Vain kuin s&#780;oanet hauvin s&#780;uuren</V>
-  <V>110 Tuonen mus&#780;s&#780;as&#780;ta meres&#780;tä,#30</V>
-  <V>Manalan alantehes&#780;ta</V>
-  <V>Verko<SUP>i</SUP>tta, venehittäki,#31</V>
-  <V>Siitä annan tyttäreni."</V>
-  <V>Its&#780;e v[anha] V[äinämöi]ni</V>
-  <V>115 Nousi heän kokon ky&#241;s&#780;illä,</V>
-  <V>*Iskulinnun lent'imillä,</V>
-  <V>Lenteä leputtelouve,</V>
-  <V>Männä luikeroittelouve*</V>
-  <V>Peähä#32 lakkapeän petäjän.#33</V>
-  <V>120 *Katts&#780;eleks&#780;e, keänteleks&#780;e*:</V>
-  <V>Punaltih kala punan&#769;i,</V>
-  <V>Kala kierto kimmertäyty#34</V>
-  <V>Tuon[en] m[us&#780;s&#780;as&#780;s&#780;a] m[ere]s&#780;s&#780;ä,</V>
-  <V>Manalan al[antehes&#780;s&#780;a].</V>
-  <V>125 Itse v[anha] V[äinämöini]</V>
-  <V>Koprin kirposi merehe,</V>
-  <V>Käsin las&#780;kih lainnehise,</V>
-  <V>S&#780;ieltä s&#780;oapi s&#780;uuren hauvin.</V>
-  <V>Lenteä l[eputtelouve],</V>
-  <V>130 Männä [luikeroittelouve]</V>
-  <V>Peähä#35 lakkapeän petäjän;</V>
-  <V>Siitä syöu kalan parahan,</V>
-  <V>Jo risovi rintapeätä;</V>
-  <V>Sen viepi Pohjo<SUP>i</SUP>n akalla.</V>
-  <V>135 "Jokos&#780; annat tyt't'is&#769;esi."</V>
-  <V>"Empon#36 ann[a] t[ytt]ieni,</V>
-  <V>Jo olet syönyt kalan parahan,</V>
-  <V>Jo risonut rintapeän."</V>
-  <V>Sano itse V[äinämöini]:</V>
-  <V>140 "Soalist' ei vioitta soaha,</V>
-  <V>Pisaritt' ei mertä soutoa.#37</V>
-  <V>Jo uinosi#38 P[ohjo]n akka,</V>
-  <V>Väsäyty pahan väkiki.</V>
-  <V>Itse v[anha] V[äinämöini]</V>
-  <V>145 *Itse n[oin] san[oiksi] virkko:*</V>
-  <L>(S&#780;ano nuorella Joukahaisella, se on niin kuin hänen morsiemen).</L>
-  <V>"Ota nuori Joukahain&#769;i,</V>
-  <V>Ota purtesi omasi,</V>
-  <V>Vali<KA>ts&#780;</KA>e valiosi ny[t]".</V>
-  <V>Otti nuori J[oukahain&#769;i],</V>
-  <V>150 Eipä pursi liikkukkana.</V>
-  <V>Itse siitä V[äinämöini]#39</V>
-  <V>Otti p[urtensa] omans&#780;a,</V>
-  <V>Valittsi valions&#780;a nyt;</V>
-  <V>Läksi siitä las&#780;komaha,</V>
-  <V>155 Las&#780;ki p[äivä]n s&#780;uovesie,</V>
-  <V>Toisen p[äivä]n moav[esie].</V>
-  <V>Jo päivänä 3:ntena</V>
-  <V>*Muurahaine murhalintu,</V>
-  <V>S&#780;e kusi kuren jaloilla,</V>
-  <V>160 Peästi kurki kumman eänen,</V>
-  <V>Parkasi pahan s&#780;ävelen,#40</V>
-  <V>Tuost' on heräi P[ohjo]n väki.</V>
-  <V>Pohjon a[kka] h[arvahammas]</V>
-  <V>Läksi jälkeh Väinäm[öisen].</V>
-  <V>165 Pantih s&#780;ata miekallista,</V>
-  <V>Sata miestä miekatointa.</V>
-  <V>Itse v[anha] V[äinämöini]</V>
-  <V>It[se] n[oin] s[anoiksi] v[irkko]:*</V>
-  <V>"Nous&#780;e nuori J[oukahain&#769;i],</V>
-  <V>170 Nous&#780;es&#780; purjespuun#41 nenähä</V>
-  <V>Katso itäh, k[atso] länteh,</V>
-  <V>K[atso] pitkin Pohj[o]n rannan,#42</V>
-  <V>Eikö näy mitä jäleltä."</V>
-  <V>Kattso [itäh, katso länteh],</V>
-  <V>175 Ka[tso pitkin Pohjon rannan]:</V>
-  <V>*On kuin pis&#769;s&#769;yn pilven kokka,</V>
-  <V>Hietaharju haimentauve*.</V>
-  <V>Jo tulou P[ohjo]n purs&#780;i.</V>
-  <V>S&#780;ata hanka hakkoauve,</V>
-  <V>180 S&#780;at' om mies&#780;tä s&#780;auvomissa,</V>
-  <V>S&#780;ata mies&#780;tä miekallista,</V>
-  <V>S&#780;ata om miestä miekatointa.</V>
-  <V>I<KA>ts&#780;</KA>e v[anha] V[äinämöi]n[i]</V>
-  <V>Jo näki tuh[on tulevan],</V>
-  <V>185 Hätäp[äivän peällä s&#780;oavan],</V>
-  <V>Tapasihe tas&#780;kuhusi,</V>
-  <V>Tuukih tuluksihisi.</V>
-  <V>Oli piitä pikkarain&#769;e,</V>
-  <V>Taki tauloa vähä<SUP>i</SUP>ni,</V>
-  <V>190 S&#780;enpä mes&#780;tasi merehe</V>
-  <V>Yli oikien olans&#780;a,</V>
-  <V>Kautti kainalo&#241; vas&#780;emen.</V>
-  <V>*Itse noin s&#780;anoikse v[irkk]o:*</V>
-  <V>"Tuoho korko kasvoat,</V>
-  <V>195 Kivet suuret veäntyöhöt,</V>
-  <V>*Elköh ylitts&#780;i, elköh alattsi,</V>
-  <V>Elköh ympäri mistäni peässö."*</V>
-  <V>Siihi#43 puuttu Pohjan#44 pursi,</V>
-  <V>Siihi leimahti levällä</V>
-  <V>200 Jopa näki Pohjon akka,</V>
-  <V>Jo#45 näki tuhon tulovan,</V>
-  <V>Hätäpäivän peällä s&#780;oavan.</V>
-  <V>Heän nousi#46 kokon kynsillä,#47</V>
-  <V>Iskulinnun lent'imillä,</V>
-  <V>205 Män&#769;i luoks&#780;e V[äinämöi]sen,</V>
-  <V>Liitih purjehpuun nenähä.</V>
-  <V>*Itse v[anha] V[äinämöini]</V>
-  <V>Jo heän n[oin] s[anoiksi] v[irkko]:*</V>
-  <V>"Ota n[uori] J[oukahaini],</V>
-  <V>210 Ota miekkans omans&#780;a#48</V>
-  <V>Oikielta reieltänsä,#49</V>
-  <V>Kokon ky&#241;s&#780;iä kovota."</V>
-  <V>Otti n[uori] J[oukahai&#241;i],</V>
-  <V>Otti miekkaha omaha,</V>
-  <V>215 *Kokon kynsiä kokotti,</V>
-  <V>Iskul[innun lentimiä],*</V>
-  <V>Ei ottat orvasnahkoa."#50</V>
-  <V>Itse v[anha] V[äinämöini]</V>
-  <V>Nosti jo melah meres&#780;tä,</V>
-  <V>220 Lapie&#241;s&#780;a lainnehista,</V>
-  <V>Kokon kynsiä kokosi,</V>
-  <V>Iskulinnun lentimie,</V>
-  <V>Siihi kirpoi kirpoka&#241;s&#780;i.</V>
-  <V>Näki v[anha] V[äinämöi]&#241;i</V>
-  <V>225 Jo näki tuhon tulovan,</V>
-  <V>Hätäp[äivä]n peällä s&#780;oavan,</V>
-  <V>Työ&#241;si itäh, t[yö&#241;si] länteh,</V>
-  <V>Suveh suurimman palais&#769;em.</V>
-  <L>(Siitä se levisi sampo s&#780;iihi, mäni meren pohjah suurin osa; kuin ois 
-
-
-
-
-
-
-moalla
-  peässyt, niin ois ollut vaikka kuinka rikas&#780; moa kunta.)</L>
   </TEXT>
   <REFS>
-  #1 Päällä: [Lappalain&#769;i]pa.
-  #2 Päällä: [Peällä]kö.
-  #3 Kyytty<SUP>v</SUP>ö sel.: n. k. on oavoa; kynettämähä = juoksomah.
-  #4 Päällä: [Ampu]pa.
-  #5 Päällä: [Alta]ko.
-  #6 |Heän tuon|: *Itse |nyt| nuoin.*
-  #7 Si|i|hi: S.
-  #8 |Siitä|: |*S&#780;ielä*] = tuola.
-  #9 Ensin: 7:men.
-  #10 Päällä: [mun]uva.
-  #11 Päällä: [lampievä]m-.
-  #12 |Heän nyt|: *Itsepä noin.*.
-  #13 Täh|i|kse: Täh<I>tilöi</I>kse.
-  #14 Ss:n 40-2 alk. järj. = 41, 40, 43; numeroilla muutettu.
-  #15 |Sielä| heän: *Heän nyt.*
-  #16 |Siitä| Häntä tuuli |tutjutteli : H. t. *tuuvitteli*.
-  #17 |Meren oalto (päällä: lieto) liikutteli|: O. r. a.
-  #18 Tämän jälkeen on kk:ssa säe: |Pian pirttihi mänöu|.
-  #19 |Siit|: Jo.
-  #20 Päällä: [luo]kse.
-  #21 Päällä: [Ur]ajat.
-  #22 Selit.: (totta se on meri.)
-  #23 |Niin| mie: Mie<I>pä</I>.
-  #24 Selit.: Laiva se on sampo, totta se on laiva.
-  #25 Soat|a|: S.
-  #26 Päällä: Olisi.
-  #27 |S&#780;e| ois: Ois *tuo*.
-  #28 Ilmori|i|ni: I.
-  #29 |Heän nyt|: *Siit on.*
-  #30 |joves&#780;ta|: meres&#780;tä.
-  #31 |Ilman| verko<SUP>i</SUP>tta, |ilman| venehittä: V. venehittä<I>ki</I>.
-  #32 |Liitih|: *Peähä*.
-  #33 petäjän |peäh|: p.
-  #34 kimmert|ih|: kimmert<I>äyty</I>.
-  #35 |Lenti| peähä: p.
-  #36 |Pohje| Empon: E.
-  #37 Säkeiden alkuperäinen järjestys ollut päinvastainen; on numeroilla 
-muutettu.
-  #38 |Uin|u|o|u|: *Jo* uino<I>si.</I>
-  #39 Päällä: Jopon its&#780;e [Väinämöin&#769;i].
-  #40 Selit.: (n. k. äänen.)
-  #41 Nous&#780;es&#780;|e| purje|t|puun: N. purje<I>s</I>puun.
-  #42 ran|toa| : ran<I>nan</I>.
-  #43 Eteen kirj.: Tuoh.
-  #44 Lyijykynällä lisätty.
-  #45 Päällä: Heän.
-  #46 Nousi: *Heän* n.
-  #47 Säkeen päällä on kk:ssa; |Siitä nousi P[ohjo]n akka|.
-  #48 miekkas omasa: miekka<I>n</I>s oma<I>n</I>sa.
-  #49 reieltäsä: reieltä<I>ns</I>ä.
-  #50 orvas|kanakettuo|: orvasnahkoa.
+  #1 Päällä: [Sala]karit.
+  #2 Päällä: seinuksella.
+  #3 sauom|i|ssa: sauom<I>e</I>ssa
   </REFS>
   </ITEM>
 
@@ -21154,7 +20861,7 @@ tuon sanoiksi
   </REFS>
   </ITEM>
   
-  <ITEM nro="skvr01101631" p="6030" y="1877" k="9">
+  <ITEM nro="skvr01101631" p="6030" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>163 a). </ID>
@@ -21383,7 +21090,7 @@ tuon sanoiksi
   </REFS>
   </ITEM>
   
-  <ITEM nro="skvr01101650" p="5341" y="1877" k="9">
+  <ITEM nro="skvr01101650" p="5341" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>165. </ID>
@@ -31521,7 +31228,7 @@ ymmärretty.
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr01102910" p="6030" y="1877" k="9">
+  <ITEM nro="skvr01102910" p="6030" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>291. </ID>
@@ -40525,7 +40232,7 @@ havolla? Ei
   </REFS>
   </ITEM>
   
-  <ITEM nro="skvr01103950" p="5341" y="1877" k="9">
+  <ITEM nro="skvr01103950" p="5341" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>395. </ID>
@@ -47069,7 +46776,7 @@ otti sitte
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr01104520" p="6030" y="1877" k="9">
+  <ITEM nro="skvr01104520" p="6030" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>452. </ID>
@@ -47678,7 +47385,7 @@ Kijannalta
   </REFS>
   </ITEM>
   
-  <ITEM nro="skvr01104560" p="5341" y="1877" k="9">
+  <ITEM nro="skvr01104560" p="5341" y="1877" k="26">
   <META>
   <OSA>I1</OSA>
   <ID>456. </ID>
@@ -55730,7 +55437,7 @@ muilta.
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr01105230" p="5341" y="1877" k="9">
+  <ITEM nro="skvr01105230" p="5341" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>523. </ID>
@@ -58691,7 +58398,7 @@ naisen
   </REFS>
   </ITEM>
   
-  <ITEM nro="skvr01105560" p="5341" y="1877" k="9">
+  <ITEM nro="skvr01105560" p="5341" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>556. </ID>
@@ -63089,7 +62796,7 @@ havolla? Ei
   </REFS>
   </ITEM>
   
-  <ITEM nro="skvr01106060" p="5341" y="1877" k="9">
+  <ITEM nro="skvr01106060" p="5341" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>606. </ID>
@@ -63152,7 +62859,7 @@ havolla? Ei
   </REFS>
   </ITEM>
   
-  <ITEM nro="skvr01106070" p="5341" y="1877" k="9">
+  <ITEM nro="skvr01106070" p="5341" y="1877" k="1659">
   <META>
   <OSA>I1</OSA>
   <ID>607. </ID>
@@ -77595,7 +77302,7 @@ Kuuli purren
   </TEXT>
   </ITEM>
   
-  <ITEM nro="skvr01302300" p="5341" y="1877" k="9">
+  <ITEM nro="skvr01302300" p="5341" y="1877" k="1659">
   <META>
   <OSA>I1 erill.</OSA>
   <ID>[Laivaretki ja kantele] 12. </ID>

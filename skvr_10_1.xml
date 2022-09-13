@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
   
@@ -80872,7 +80872,7 @@ Karoliina Puisto, 72 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr10123620" p="675" y="1903" k="927">
+<ITEM nro="skvr10123620" p="1040" y="1903" k="927">
 <META>
 <OSA>X1</OSA>
 <ID>2362.</ID>
@@ -85394,7 +85394,7 @@ Ylhäinen. Juha Paukio, 61 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr10125530" p="675" y="1908" k="916">
+<ITEM nro="skvr10125530" p="1040" y="1908" k="916">
 <META>
 <OSA>X1</OSA>
 <ID>2553.</ID>
@@ -93947,7 +93947,7 @@ tappaa.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr10128990" p="675" y="1908" k="916">
+<ITEM nro="skvr10128990" p="1040" y="1908" k="916">
 <META>
 <OSA>X1</OSA>
 <ID>2899.</ID>

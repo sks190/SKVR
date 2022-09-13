@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
    
@@ -48,7 +48,7 @@
  </REFS>
  </ITEM>
  
- <ITEM nro="skvr01112740" p="6035" y="1872" k="19">
+ <ITEM nro="skvr01112740" p="6135" y="1872" k="19">
  <META>
  <OSA>I3</OSA>
  <ID>1274. </ID>
@@ -3697,7 +3697,7 @@ heilä
  </TEXT>
  </ITEM>
  
- <ITEM nro="skvr01113770" p="6105" y="1881" k="63">
+ <ITEM nro="skvr01113770" p="6105" y="1881" k="64">
  <META>
  <OSA>I3</OSA>
  <ID>1377. </ID>
@@ -19045,7 +19045,7 @@ v.
  </REFS>
  </ITEM>
  
- <ITEM nro="skvr01116630" p="6035" y="1872" k="19">
+ <ITEM nro="skvr01116630" p="6135" y="1872" k="19">
  <META>
  <OSA>I3</OSA>
  <ID>1663. </ID>

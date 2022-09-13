@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
 
@@ -20181,7 +20181,7 @@ sanottiin:</L>
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07221040" p="4171" y="1837" k="77">
+<ITEM nro="skvr07221040" p="4170" y="1837" k="77">
 <META>
 <OSA>VII4 loitsut</OSA>
 <ID>2104.</ID>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
 <ITEM nro="skvr07109340" p="4140" k="98" y="1847">
@@ -5824,7 +5824,7 @@ Muuannossa.</INF>
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07110450" p="4260" k="77" y="1838">
+<ITEM nro="skvr07110450" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>1045.</ID>
@@ -13671,7 +13671,7 @@ vakuutti.</INF>
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07111650" p="4260" k="77" y="1838">
+<ITEM nro="skvr07111650" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>1165.</ID>
@@ -13695,7 +13695,7 @@ vakuutti.</INF>
   
 </ITEM>
   
-<ITEM nro="skvr07111660" p="4260" k="77" y="1838">
+<ITEM nro="skvr07111660" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>1166.</ID>
@@ -13751,7 +13751,7 @@ vakuutti.</INF>
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07111670" p="4260" k="77" y="1838">
+<ITEM nro="skvr07111670" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>1167.</ID>
@@ -16118,7 +16118,7 @@ Salliselta, joka
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07112190" p="4260" k="77" y="1838">
+<ITEM nro="skvr07112190" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>1219.</ID>
@@ -16148,7 +16148,7 @@ Salliselta, joka
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07112200" p="4260" k="77" y="1838">
+<ITEM nro="skvr07112200" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>1220.</ID>
@@ -16175,7 +16175,7 @@ Salliselta, joka
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07112210" p="4260" k="77" y="1838">
+<ITEM nro="skvr07112210" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>1221.</ID>
@@ -22628,7 +22628,7 @@ olevan
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07113470" p="4171" k="77" y="1828">
+<ITEM nro="skvr07113470" p="4170" k="77" y="1828">
 <META>
 <OSA>VII2</OSA>
 <ID>1347.</ID>
@@ -26527,7 +26527,7 @@ Tshiipakasta.</INF>
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07114280" p="4260" k="77" y="1838">
+<ITEM nro="skvr07114280" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>1428.</ID>
@@ -26585,7 +26585,7 @@ Tshiipakasta.</INF>
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07114290" p="4260" k="64" y="1884">
+<ITEM nro="skvr07114290" p="4261" k="64" y="1884">
 <META>
 <OSA>VII2</OSA>
 <ID>1429.</ID>
@@ -26630,7 +26630,7 @@ Koohvalta,
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07114300" p="4260" k="134" y="1903">
+<ITEM nro="skvr07114300" p="4261" k="134" y="1903">
 <META>
 <OSA>VII2</OSA>
 <ID>1430.</ID>
@@ -33820,7 +33820,7 @@ ed.
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07116560" p="6286" k="64" y="1884">
+<ITEM nro="skvr07116560" p="6285" k="64" y="1884">
 <META>
 <OSA>VII2</OSA>
 <ID>1656.</ID>
@@ -36120,7 +36120,7 @@ Oppinut
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07117400" p="4171" k="77" y="1828">
+<ITEM nro="skvr07117400" p="4170" k="77" y="1828">
 <META>
 <OSA>VII2</OSA>
 <ID>1740.</ID>
@@ -40901,7 +40901,7 @@ Räsäsvainaalta.
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07118880" p="4171" k="77" y="1828">
+<ITEM nro="skvr07118880" p="4170" k="77" y="1828">
 <META>
 <OSA>VII2</OSA>
 <ID>1888.</ID>
@@ -42658,7 +42658,7 @@ olevasta
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07119420" p="4171" k="77" y="1828">
+<ITEM nro="skvr07119420" p="4170" k="77" y="1828">
 <META>
 <OSA>VII2</OSA>
 <ID>1942.</ID>
@@ -44234,7 +44234,7 @@ runoja kertoneet.
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07119890" p="4171" k="77" y="1828">
+<ITEM nro="skvr07119890" p="4170" k="77" y="1828">
 <META>
 <OSA>VII2</OSA>
 <ID>1989.</ID>
@@ -46225,7 +46225,7 @@ Kokkarissa.</INF>
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07120470" p="4171" k="77" y="1828">
+<ITEM nro="skvr07120470" p="4170" k="77" y="1828">
 <META>
 <OSA>VII2</OSA>
 <ID>2047.</ID>
@@ -59732,7 +59732,7 @@ vihosta.</INF>
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07125100" p="4171" k="77" y="1828">
+<ITEM nro="skvr07125100" p="4170" k="77" y="1828">
 <META>
 <OSA>VII2</OSA>
 <ID>2510.</ID>
@@ -61266,7 +61266,7 @@ vihosta.</INF>
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07125670" p="4260" k="77" y="1838">
+<ITEM nro="skvr07125670" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>2567.</ID>
@@ -61589,7 +61589,7 @@ vihosta.</INF>
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07125750" p="4260" k="77" y="1838">
+<ITEM nro="skvr07125750" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>2575.</ID>
@@ -64775,7 +64775,7 @@ akoilta.
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07126640" p="4260" k="77" y="1838">
+<ITEM nro="skvr07126640" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>2664.</ID>
@@ -66678,7 +66678,7 @@ s.
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07127350" p="4260" k="77" y="1838">
+<ITEM nro="skvr07127350" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>2735.</ID>
@@ -71201,7 +71201,7 @@ eräänä
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07128670" p="4260" k="77" y="1838">
+<ITEM nro="skvr07128670" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>2867.</ID>
@@ -71224,7 +71224,7 @@ eräänä
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07128680" p="4260" k="77" y="1838">
+<ITEM nro="skvr07128680" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>2868.</ID>
@@ -72914,7 +72914,7 @@ kanssa.</INF>
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07129030" p="4260" k="77" y="1838">
+<ITEM nro="skvr07129030" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>2903.</ID>
@@ -73798,7 +73798,7 @@ kanssa.</INF>
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07129260" p="4260" k="77" y="1838">
+<ITEM nro="skvr07129260" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>2926.</ID>
@@ -76803,7 +76803,7 @@ osasi,
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07129900" p="4260" k="77" y="1838">
+<ITEM nro="skvr07129900" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>2990.</ID>
@@ -79945,7 +79945,7 @@ kanssa.</INF>
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07130590" p="4260" k="77" y="1838">
+<ITEM nro="skvr07130590" p="4261" k="77" y="1838">
 <META>
 <OSA>VII2</OSA>
 <ID>3059.</ID>

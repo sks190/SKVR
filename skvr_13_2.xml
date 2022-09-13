@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 <KOKONAISUUS>
 
 
@@ -71686,14 +71686,14 @@ Anna Pekkonen, 69 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr13050460" p="3701" y="1884" k="1120">
+<ITEM nro="skvr13050460" p="3701" y="1934" k="1120">
 <META>
 <OSA>XIII2</OSA>
 <ID>5046.</ID>
 <LOC>Vuoksenranta, Korpilahti.</LOC>
 <COL>Haltsonen, S.</COL>
 <SGN>1432.</SGN>
-<TMP>84.</TMP>
+<TMP>34.</TMP>
 <INF>
 Emäntä Talikka.
 </INF>

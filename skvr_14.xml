@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
 
@@ -33334,7 +33334,7 @@ Hirvelä. Eeva Sakki, 17 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr14115070" p="2011" y="1895" k="1639">
+<ITEM nro="skvr14115070" p="2013" y="1895" k="1639">
 <META>
 <OSA>XIV</OSA>
 <ID>1507. </ID>
@@ -35495,7 +35495,7 @@ Huruksela.
 </REFS>
 </ITEM>
 
-<ITEM nro="skvr14115560" p="2010" y="1891" k="1563">
+<ITEM nro="skvr14115560" p="2013" y="1891" k="1563">
 <META>
 <OSA>XIV</OSA>
 <ID>1556. </ID>

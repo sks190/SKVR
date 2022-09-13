@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
   
@@ -3232,7 +3232,7 @@ mets&#780;on
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07232940" p="4260" y="1846" k="1">
+<ITEM nro="skvr07232940" p="4261" y="1846" k="1">
 <META>
 <OSA>VII5 loitsut</OSA>
 <ID>3294.</ID>

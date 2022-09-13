@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
 
@@ -25920,7 +25920,7 @@ Tiemassaari. A. Huopalainen.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr06106950" p="9050" y="1770" k="366">
+<ITEM nro="skvr06106950" p="9050" y="1770" k="222">
 <META>
 <OSA>VI1</OSA>
 <ID>695.</ID>
@@ -106050,7 +106050,7 @@ Koijärvenkylä. Jahvetti Olkkonen, 23 v.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr06136030" p="9050" y="1770" k="366">
+<ITEM nro="skvr06136030" p="9050" y="1770" k="222">
 <META>
 <OSA>VI1</OSA>
 <ID>3603.</ID>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
 
@@ -8198,7 +8198,7 @@ luvun. - Mp. Joroisissa.</INF>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr07140580" p="4171" k="77" y="1828">
+<ITEM nro="skvr07140580" p="4170" k="77" y="1828">
 <META>
 <OSA>VII3</OSA>
 <ID>4058.</ID>
@@ -9682,7 +9682,7 @@ pois.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr07141210" p="4260" k="85" y="1924">
+<ITEM nro="skvr07141210" p="4261" k="85" y="1924">
 <META>
 <OSA>VII3</OSA>
 <ID>4121.</ID>
@@ -10357,7 +10357,7 @@ kuin hän on sanonut, ja se, johon luku pysähtyy, jää pois.</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr07141540" p="4260" k="85" y="1924">
+<ITEM nro="skvr07141540" p="4261" k="85" y="1924">
 <META>
 <OSA>VII3</OSA>
 <ID>4154.</ID>
@@ -16457,7 +16457,7 @@ kyl.</INF>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr07143800" p="4260" k="77" y="1838">
+<ITEM nro="skvr07143800" p="4261" k="77" y="1838">
 <META>
 <OSA>VII3</OSA>
 <ID>4380.</ID>
@@ -17037,7 +17037,7 @@ tuulee<I>n</I>, huulee<I>n</I>.
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr07144100" p="4260" k="46" y="1839">
+<ITEM nro="skvr07144100" p="4261" k="46" y="1839">
 <META>
 <OSA>VII3</OSA>
 <ID>4410.</ID>
@@ -20236,7 +20236,7 @@ vuorenräystäiltä -</L>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr07145420" p="4260" k="77" y="1838">
+<ITEM nro="skvr07145420" p="4261" k="77" y="1838">
 <META>
 <OSA>VII3</OSA>
 <ID>4542.</ID>
@@ -21332,7 +21332,7 @@ Megrijärven kylää.</INF>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr07145960" p="4260" k="77" y="1838">
+<ITEM nro="skvr07145960" p="4261" k="77" y="1838">
 <META>
 <OSA>VII3</OSA>
 <ID>4596.</ID>
@@ -21584,7 +21584,7 @@ sitten.</INF>
 </TEXT>
 </ITEM>
 
-<ITEM nro="skvr07146090" p="4260" k="85" y="1924">
+<ITEM nro="skvr07146090" p="4261" k="85" y="1924">
 
 <META>
 <OSA>VII3</OSA>

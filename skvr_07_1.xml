@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
-<?xml-stylesheet type="text/xsl" href="item_nro.xsl"?>
+
 
 <KOKONAISUUS>
 
@@ -3932,7 +3932,7 @@ Vornanen
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07100540" p="4260" k="77" y="1838">
+<ITEM nro="skvr07100540" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>54.</ID>
@@ -3974,7 +3974,7 @@ Vornanen
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07100550" p="4260" k="1" y="1846">
+<ITEM nro="skvr07100550" p="4261" k="1" y="1846">
 <META>
 <OSA>VII1</OSA>
 <ID>55.</ID>
@@ -14851,7 +14851,7 @@ ja
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07101940" p="4260" k="1" y="1846">
+<ITEM nro="skvr07101940" p="4261" k="1" y="1846">
 <META>
 <OSA>VII1</OSA>
 <ID>194.</ID>
@@ -15556,7 +15556,7 @@ käyttämä
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07102070" p="4260" k="77" y="1838">
+<ITEM nro="skvr07102070" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>207.</ID>
@@ -15584,7 +15584,7 @@ käyttämä
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07102080" p="4260" k="77" y="1838">
+<ITEM nro="skvr07102080" p="4261" k="77" y="1838">
   
 <META>
 <OSA>VII1</OSA>
@@ -15787,7 +15787,7 @@ käyttämä
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07102120" p="4260" k="77" y="1838">
+<ITEM nro="skvr07102120" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>212.</ID>
@@ -15887,7 +15887,7 @@ käyttämä
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07102130" p="4260" k="77" y="1838">
+<ITEM nro="skvr07102130" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>213.</ID>
@@ -15926,7 +15926,7 @@ käyttämä
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07102140" p="4260" k="77" y="1838">
+<ITEM nro="skvr07102140" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>214.</ID>
@@ -17008,7 +17008,7 @@ käyttämä
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07102310" p="4260" k="77" y="1838">
+<ITEM nro="skvr07102310" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>231.</ID>
@@ -17646,7 +17646,7 @@ ollut laulanut
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07102450" p="4260" k="77" y="1838">
+<ITEM nro="skvr07102450" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>245.</ID>
@@ -23857,7 +23857,7 @@ v.
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07103790" p="6286" k="64" y="1884">
+<ITEM nro="skvr07103790" p="6285" k="64" y="1884">
 <META>
 <OSA>VII1</OSA>
 <ID>379.</ID>
@@ -34302,7 +34302,7 @@ Oppinut
   
 </ITEM>
   
-<ITEM nro="skvr07104890" p="4260" k="77" y="1838">
+<ITEM nro="skvr07104890" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>489.</ID>
@@ -36500,7 +36500,7 @@ pienenä tullut
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07105240" p="4260" k="77" y="1838">
+<ITEM nro="skvr07105240" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>524.</ID>
@@ -41853,7 +41853,7 @@ Ilmolline
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07106040" p="4260" k="77" y="1838">
+<ITEM nro="skvr07106040" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>604.</ID>
@@ -50746,7 +50746,7 @@ nähtävästi tästä
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07107490" p="4260" k="77" y="1838">
+<ITEM nro="skvr07107490" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>749.</ID>
@@ -50770,7 +50770,7 @@ nähtävästi tästä
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07107500" p="4260" k="77" y="1838">
+<ITEM nro="skvr07107500" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>750.</ID>
@@ -50809,7 +50809,7 @@ nähtävästi tästä
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07107510" p="4260" k="77" y="1838">
+<ITEM nro="skvr07107510" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>751.</ID>
@@ -50824,7 +50824,7 @@ nähtävästi tästä
 </TEXT>
 </ITEM>
   
-<ITEM nro="skvr07107520" p="4260" k="77" y="1838">
+<ITEM nro="skvr07107520" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>752.</ID>
@@ -62372,7 +62372,7 @@ poika].</INF>
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07108520" p="4260" k="77" y="1838">
+<ITEM nro="skvr07108520" p="4261" k="77" y="1838">
 <META>
 <OSA>VII1</OSA>
 <ID>852.</ID>
@@ -62400,7 +62400,7 @@ poika].</INF>
 </REFS>
 </ITEM>
   
-<ITEM nro="skvr07108530" p="4260" k="46" y="1839">
+<ITEM nro="skvr07108530" p="4261" k="46" y="1839">
 <META>
 <OSA>VII1</OSA>
 <ID>853.</ID>
