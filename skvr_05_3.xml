@@ -39,7 +39,7 @@
 <V>pyhäpaiat pyytänöö(ni),</V>
 <V>20 kuka housut huuhtonoo(no),</V>
 <V>kauno koaatiot pessyööpi.</V>
-<V>Mist hyö ets&#239;&#239;t em<I>oista</I> (-oosi),</V>
+<V>Mist hyö etsi&#776;i&#776;t em<I>oista</I> (-oosi),</V>
 <V>mist hyö katsoot kantajaist<I>a</I> (uu),</V>
 <V>katsoot ilman ilmissii(ni)?</V>
 <V>25 Hyö kun katsoot illan tullen,</V>
@@ -352,7 +352,7 @@
 <V>Läs on vuuven vuotehessa,</V>
 <V>kaks on alla kattehiss;</V>
 <V>jo alkoi iho märätä,</V>
-<V>15 pois on pohke&#235;t loheta,</V>
+<V>15 pois on pohkee&#776;t loheta,</V>
 <V>kulluit vaipat vaskireunat</V>
 <V>ja hurstit hopiareunat.</V>
 <V>Läksin nojjille kylälle,</V>
@@ -463,7 +463,7 @@ rinnakkain;
 <V>[jos lie kuolt kovvii villuu]nu</V>
 <V>vai lie kuolt kovii varriini</V>
 <V>vai [lie luotu luosasee]</V>
-<V>vai [lie virto&#239; visattu]</V>
+<V>vai [lie virtoi&#776; visattu]</V>
 <V>vai [lie pantu pakkasee]ne.</V>
 <V>pehmosen perinnan päällä,</V>
 <V>[vaskireunan vaipan] alla</V>
@@ -541,7 +541,7 @@ rinnakkain;
 <V>55 jos lie kuolt miu emmoin,</V>
 <V>jos olt kuolt kovvii villuu,</V>
 <V>vai lie kuolt kovvii varrii</V>
-<V>vai lie virto&#239; visattu#1</V>
+<V>vai lie virtoi&#776; visattu#1</V>
 <V>vai lie luotu luosasee.</V>
 <V>60 Vello vastaan vastajeeli:</V>
 <V>"Emo kuoli kunnialla</V>
@@ -578,7 +578,7 @@ rinnakkain;
 <V>11. [tuost] on [tauti] heä [tapasi],</V>
 <V>10 12. [läss] on [vuu'en vuotehessa],</V>
 <V>13. [kaks] on [alle katteh]essa,</V>
-<V>15. [pois] on [pohke&#235;t loheta].</V>
+<V>15. [pois] on [pohkee&#776;t loheta].</V>
 <V>19- tietäjille Taipaleene.</V>
 <V>20. [noiat sannoit kuolevaks]e,</V>
 <V>15 21. [tietäjät paranevaks]e</V>
@@ -704,7 +704,7 @@ rinnakkain;
 <V>20. [mill lie surmin mi]un [emmoin],</V>
 <V>15 23. [jos lie kuolt]u [kovii villuu]ne</V>
 <V>24. [tah lie kuolt kovii varrii]ni</V>
-<V>25. vai [lie virto&#239; visattu]</V>
+<V>25. vai [lie virtoi&#776; visattu]</V>
 <V>26. [ta]i[hka luotu luosasee]ne.</V>
 <V>27. [vello vaste]n [vastajeli]:</V>
 <V>20 29. [puuminaisen pulk]a[n#1 pääll]e,</V>
@@ -920,7 +920,7 @@ rinnakkain;
 <V>harakan havaitsemaan#5,</V>
 <V>5 mustan linnun muistamaan#6,</V>
 <V>*pienen linnun piukkamaane.*</V>
-<V>Pääsi miu#7 hanho&#239;n pakkoon#8,</V>
+<V>Pääsi miu#7 hanhoi&#776;n pakkoon#8,</V>
 <V>läksin hanhen etsinkoon#9.</V>
 <V>- - -</V>
 <V>toinen siipi vettä viersi,</V>
@@ -1039,7 +1039,7 @@ rinnakkain;
 <V>kyllä vello toisen tuop#10,</V>
 <V>tuop on toisen kultalankan</V>
 <V>ja toisen hopialankan.</V>
-<V>20 Tuolt on#11 vello&#239;s tulloo#12,</V>
+<V>20 Tuolt on#11 velloi&#776;s tulloo#12,</V>
 <V>läp on#13 linnan pää näkkyy#14,</V>
 <V>jalat alta kuumottaat#15,</V>
 <V>Ruotsin ruunalla ajjaa#16,</V>
@@ -1205,7 +1205,7 @@ rinnakkain;
 <V>20 26. [munimaa] on [mustan linnun].</V>
 <V>27. [ei se hanhi hautontkaa]ne,</V>
 <V>28. [ei] [munint]u [musta lintu].</V>
-<V>29. [peääsi miu hanho&#239;n pakkoo]ne.</V>
+<V>29. [peääsi miu hanhoi&#776;n pakkoo]ne.</V>
 <V>30. [mihin panen hanhosen]i?</V>
 <V>25 31. [panen lammas-läävähä]ini.</V>
 <V>32. [lampahaini] miu [meääkkimään]e.</V>
@@ -1223,7 +1223,7 @@ rinnakkain;
 <V>45. [musta]n [linnun muistamaan]e.</V>
 <V>46. [ei tuo kukko kuultukaa]ne,</V>
 <V>40 47. [harakk] ei [havain]nut[ka]ne.</V>
-<V>48. [peääsi miu hanho]&#239;n [pakkoo]ne.</V>
+<V>48. [peääsi miu hanho]i&#776;n [pakkoo]ne.</V>
 <V>49. [läksin hanh]e[n etsinkoon]e.</V>
 <V>51. [tyttö-paimen miu sissoin]i,</V>
 <V>52. [poika-paimen vellu]v[eini].</V>
@@ -1544,7 +1544,7 @@ rinnakkain;
 </INF>
 </META>
 <TEXT>
-<V>4. [kui myö yhte&#235;n yhymm]a,</V>
+<V>4. [kui myö yhtee&#776;n yhymm]a,</V>
 <V>5. [kui myö peääs]i[mm]a [parriin]i,</V>
 <V>6. [konsa]s [myö sisot yhess]ä,</V>
 <V>6- konsas vellot vierekkäisin,</V>
@@ -1926,7 +1926,7 @@ numeroilla.
 <V>5 8. [töllötti saparojjaa]se.</V>
 <V>11. [malta, malta, poss]o [parka],</V>
 <V>13. [tonki et] toissa'a [kesännä],</V>
-<V>14. tonkii et [Torajokki&#239;],</V>
+<V>14. tonkii et [Torajokkii&#776;],</V>
 <V>15. [Toraju]o[ven penker]eitä.</V>
 </TEXT>
 </ITEM>
@@ -2006,12 +2006,12 @@ muutettu numeroilla.
 <TEXT>
 <CPT>Liekkulaulu.</CPT>
 <V>1. Mie [laulan tähän tal][oon]e,</V>
-<V>2. [tähän täyte&#235;] [talloon]e,</V>
+<V>2. [tähän täytee&#776;] [talloon]e,</V>
 <V>3. [täss] on [täyttä tarvitaan]i,</V>
 <V>4. [täss] on [aina annetaan]e,</V>
 <V>5 5. [koko leiv]in [kuolehille].</V>
 <V>9. [mie laulan tähän tal][oon]e,</V>
-<V>9- tähä täyti&#235;e talo[o]n[e]:</V>
+<V>9- tähä täytie&#776;e talo[o]n[e]:</V>
 <V>10. [emännälle]n koattuvaisen,</V>
 <V>11. [isännälle]n [uu]v[en turkin],</V>
 <V>10 11- pojalles on miel miniän,</V>
@@ -2125,16 +2125,16 @@ muutettu numeroilla.
 <TEXT>
 <CPT>Liek[kuvirsi].</CPT>
 <V>1. [Mie laulan tähän talluoon]e,</V>
-<V>2. [tähän täytie&#235; talloo]ne,</V>
+<V>2. [tähän täytiee&#776; talloo]ne,</V>
 <V>3. [täss] on [täyttä tarvitaan]e,</V>
 <V>4. [täss] on [aina annetaan]e,</V>
 <V>5 6. [kanniko]i[n kävelijöille].</V>
 <V>9. [mie laulan tähän talloon]e.</V>
-<V>10. [tähän täytie&#235; talloo]ne:</V>
+<V>10. [tähän täytiee&#776; talloo]ne:</V>
 <V>13. [pojallees] on [miel-miniän],</V>
 <V>14. [tyttärelle miel]i[-sulhon].</V>
 <V>10 15. [mie laulan tähän talloon]e,</V>
-<V>16. [tähän täytie&#235; talloo]ne:</V>
+<V>16. [tähän täytiee&#776; talloo]ne:</V>
 <V>19. [joka oksall]e [omenan],</V>
 <V>20. [omenall]e [kulta-pyörän],</V>
 <V>21. [kultapyörälle]n [käkösen].</V>
@@ -2481,8 +2481,8 @@ muutettu numeroilla.
 </TEXT>
 <REFS>
   #1 or|a|na : orj<I>on</I>na.
-  #2 yl. [Viroiss]&#245;.
-  #3 yl. [Viroiss]' on [käskyläiss]&#245;.
+  #2 yl. [Viroiss]o&#771;.
+  #3 yl. [Viroiss]' on [käskyläiss]o&#771;.
   #4 yl. [palkast]ine.
   #5 yl. [sar]ale.
   #6 yl. [pientar]ieli.
@@ -2956,14 +2956,14 @@ numeroilla.
 <V>Tul kannel valmeheks.</V>
 <V>Mie vein miehiin tuppaa.</V>
 <V>Soittiit nuoret, soittiit vanhat,</V>
-<V>65 soittiit naine&#235;t uroset,</V>
+<V>65 soittiit nainee&#776;t uroset,</V>
 <V>soittiit miehet naimattomat,</V>
 <V>soittiit kerran keskikäiset.</V>
 <V>Sokea sopesta lausu,</V>
 <V>nurkast vähän näkönen:</V>
 <V>70 "Tuokaa tänne kanteloinen</V>
 <V>sormill pojan sokian,</V>
-<V>näppi&#239;n vähän näkösen!"</V>
+<V>näppii&#776;n vähän näkösen!"</V>
 <V>Kun soittaa sokia poika,</V>
 <V>poika raukka ramputtaa,</V>
 <V>75 mitä on miehii tuvassa,</V>
@@ -3146,8 +3146,8 @@ numeroilla.
 <V>8. [hurst] [on kätkyen sisässä].</V>
 <V>9. [mikä on hurstin hulpe]l[ossa]"?</V>
 <V>5 10. [vello] [hurstin hu]l[pelossa].</V>
-<V>13. [mikä [kirve&#235;n kasassa]?</V>
-<V>14. [lastu] [kirve&#235;n kasassa].</V>
+<V>13. [mikä [kirvee&#776;n kasassa]?</V>
+<V>14. [lastu] [kirvee&#776;n kasassa].</V>
 <V>15. [siihen lastu sinkahtaa]pi,</V>
 <V>16. [siihen kirkko tehtänee]ne,</V>
 <V>10 17. [kappal] on [kanittanee]ne.</V>
@@ -3187,7 +3187,7 @@ numeroilla.
 <V>joka niemen nieriäistä.</V>
 <V>10 Panin kalat kattilaa,</V>
 <V>söin itse, lajusin itse,</V>
-<V>syöttelin isso&#239;n vanhan;</V>
+<V>syöttelin issoi&#776;n vanhan;</V>
 <V>ruuvat konttiin kokosin,</V>
 <V>luut kokosin koprahain:</V>
 <V>15 mie vein ruuvot sulhon syyvä.</V>
@@ -3203,7 +3203,7 @@ numeroilla.
 <V>25 metosist koivuloist;</V>
 <V>kylvin itse kylliksein,</V>
 <V>valoin vettä viljoksein;</V>
-<V>kylvötin isso&#239;n vanhan.</V>
+<V>kylvötin issoi&#776;n vanhan.</V>
 <V>Lämmätin häkäisen saunan</V>
 <V>30 häkäsill halkoloilla,</V>
 <V>häkäiset varustin vastat</V>
@@ -3234,7 +3234,7 @@ numeroilla.
 <CPT>Liekkuvirsi.</CPT>
 <V>1. [Laitoin kaunoin] mie [kallaa],</V>
 <V>2. [ainose]i[n] on [ahvenee]ne;</V>
-<V>3. [saant ei kauno&#239;n kalloi]ni,</V>
+<V>3. [saant ei kaunoi&#776;n kalloi]ni,</V>
 <V>4. [ainosein] ei [ahvenii]ni.</V>
 <V>5 5. [otin verkot selkähäin]i,</V>
 <V>6. [kiviriipat rinnoilleen]i,</V>
@@ -3283,7 +3283,7 @@ numeroilla.
 <V>joka saaren sai kalloi,</V>
 <V>joka niemen nieriäistä.</V>
 <V>10 Pantiin kalat kattilaan.</V>
-<V>Syöttelin isso&#239;n vanhan,</V>
+<V>Syöttelin issoi&#776;n vanhan,</V>
 <V>söin itse, lajusin itse,</V>
 <V>ruuvat konttiin kokosin,</V>
 <V>luut kokosin koprahain.</V>
@@ -3297,7 +3297,7 @@ numeroilla.
 <V>varustin metoiset vastat;</V>
 <V>kylvin itse kyllikseini,</V>
 <V>valoin vettä viljakseini,</V>
-<V>25 kylvötin isso&#239;n vanhan.</V>
+<V>25 kylvötin issoi&#776;n vanhan.</V>
 <V>Lämmitin häkäsen saunan</V>
 <V>häkisillä halkoloilla,</V>
 <V>varustin häkäiset vastat</V>
@@ -3341,13 +3341,13 @@ numeroilla.
 <V>21. [moto]i[silla halkoloilla],</V>
 <V>22. metoiset varustin [vastat]</V>
 <V>15 22- metosista koivuloista,</V>
-<V>metoset varustin ve&#235;t</V>
+<V>metoset varustin vee&#776;t</V>
 <V>metosista lähtehistä.</V>
 <V>24. [valoin vettä vilj]oi[kseini].</V>
 <V>26. [lämmitin häkä]i[sen saunan]</V>
 <V>20 28. häkäiset varustin [vastat]</V>
 <V>29. [häkäsist] on [koivuloista],</V>
-<V>29- häkäset varustin ve&#235;t . . .</V>
+<V>29- häkäset varustin vee&#776;t . . .</V>
 <V>30. [huusin sulhon kylpömään]e.</V>
 <V>31. [sulho kylpi kylli]kseese:</V>
 <V>25 32. [hyv] [on kyllä kylpöminen].</V>
@@ -3382,7 +3382,7 @@ numeroilla.
 <V>joka niemen nieriäistä.</V>
 <V>10 Panin kalat kattilaa.</V>
 <V>söin itse, lajusin#1 itse,</V>
-<V>syöttelin isso&#239;n vanhan,</V>
+<V>syöttelin issoi&#776;n vanhan,</V>
 <V>syöttelin vanhan vanhemmain,</V>
 <V>ruuvat konttiin kokosin,</V>
 <V>15 luut kokosin koprahain.</V>
@@ -3417,10 +3417,10 @@ numeroilla.
 <V>1. [Laitoin kaunoin] mie [kallaa]ne,</V>
 <V>2. a[inose]i[n] on [ahvenee]ne.</V>
 <V>3. [soaant ei kaunoin] miun [kalloi]i,</V>
-<V>4. [ainose]i[n] ei [ahveni&#239;].</V>
+<V>4. [ainose]i[n] ei [ahvenii&#776;].</V>
 <V>5 5. [otin verkot selkäh]eini,</V>
 <V>6. [kiviriipat rinnoillein]i.</V>
-<V>8. [joka saaren sain kalloi]&#239;.</V>
+<V>8. [joka saaren sain kalloi]i&#776;.</V>
 <V>10. [panin kalat kattilaa]ne,</V>
 <V>11. [söin itse, laju]i[sin itse],</V>
 <V>10 13. [syöt][in vanhan vanhemmain]i.</V>
@@ -3873,7 +3873,7 @@ kauhtun|u|t niin kuin
 <V>25 kaupataan katoksen alla.</V>
 <V>Äsken lienet miu vävvyin,</V>
 <V>lienet lemmin vierahain:</V>
-<V>käy nieklan nenni&#239; myöten,</V>
+<V>käy nieklan nennii&#776; myöten,</V>
 <V>juokse pieni peltopuisti,</V>
 <V>30 äsken lienet miu vävvyin,</V>
 <V>äsken annan tyttäreen,</V>
@@ -3899,7 +3899,7 @@ kauhtun|u|t niin kuin
 <V>antoit kerran keskimäisen,</V>
 <V>nuorimmaisen neitosen:</V>
 <V>syltä pitkä, kahta paksu,</V>
-<V>kolmi&#239; perä leviä,</V>
+<V>kolmii&#776; perä leviä,</V>
 <V>55 jaksant ei oro vettää,</V>
 <V>liinaharja liikutella.</V>
 <V>Heä sai neion naineheks,</V>
@@ -3947,7 +3947,7 @@ kauhtun|u|t niin kuin
 <V>annan ainoan pojjain."</V>
 <V>100 Orjo lausu lattialta,</V>
 <V>palkkalainen pankon päästä:</V>
-<V>"Sie söit linnu&#239;s lihho&#239;,</V>
+<V>"Sie söit linnui&#776;s lihhoi&#776;,</V>
 <V>kanaseis kainaloo,</V>
 <V>soriais sormiloi."</V>
 <V>105 Emo maahan maksoilleen,</V>
@@ -4015,7 +4015,7 @@ kauhtun|u|t niin kuin
 <V>40 55. [jaksant ei] hepo [vettä]ä,</V>
 <V>55 on tässä oron otella,</V>
 <V>56. [liinaharja]n [liikutella].</V>
-<V>57- sai on saane&#235;ks Savakon,</V>
+<V>57- sai on saanee&#776;ks Savakon,</V>
 <V>toveritsan tuonehekse,</V>
 <V>45 58. [kui sai kerran kihlan]n[eeks]e.</V>
 <V>59. sai on neitosen [kottiin]i.</V>
@@ -4037,7 +4037,7 @@ kauhtun|u|t niin kuin
 <V>77. [vei anopin tuomisiks]e.</V>
 <V>81. [syönt on lohta lähtehest]ä,</V>
 <V>83. ja [kalla'a kaikellaista];</V>
-<V>65 84. [en ole] mo&#239;nta [syönty]</V>
+<V>65 84. [en ole] moi&#776;nta [syönty]</V>
 <V>85. [uuven vävyn tuomisii]ni,</V>
 <V>86. [tyttären lähättämii]ni.</V>
 <V>89. kui sie [tietäisit vähäisen],</V>
@@ -4106,7 +4106,7 @@ kauhtun|u|t niin kuin
 <V>- - -</V>
 <V>syönt on uutta, sy[ö]nt on kystä,</V>
 <V>*likkint on lähestä lientä,*</V>
-<V>syönt on sammi&#239; parosta;</V>
+<V>syönt on sammii&#776; parosta;</V>
 <V>5 *syönt loht[a] läht[ehestä]</V>
 <V>ja kalla'a kaikellaista;*</V>
 <V>en ole muoointa syönt#1.</V>
@@ -4132,8 +4132,8 @@ kauhtun|u|t niin kuin
 <V>Iivana Koj[osen poika]</V>
 <V>valj[asti] tulis[en] r[uunan].</V>
 <V>- - -</V>
-<V>Käy neuloin#1 nenni&#239; myöten,</V>
-<V>kirve&#235;n kasso&#239; myöte.</V>
+<V>Käy neuloin#1 nennii&#776; myöten,</V>
+<V>kirvee&#776;n kassoi&#776; myöte.</V>
 <V>5 Otan tuonki tehhäksein.</V>
 </TEXT>
 <REFS>
@@ -4340,7 +4340,7 @@ muutettu numeroilla.
 <V>1. [Iivana Kojo]i[sen poika],</V>
 <V>1- itse Ivana Kojonen</V>
 <V>2. [valjast]i [tulisen ruunan]</V>
-<V>3- tulisen re&#235;n etteene,</V>
+<V>3- tulisen ree&#776;n etteene,</V>
 <V>5 5. [veri tippu] [vempeleestä].</V>
 <V>7. [heä läks konnust]a [kossiin]i,</V>
 <V>8. [naimaan] on [narentkan peäästä].</V>
@@ -4370,7 +4370,7 @@ muutettu numeroilla.
 <V>30. [ennenk' ilman ollaksein]i.</V>
 <V>31. [sielt] on [Anni annettiin]i,</V>
 <V>32. [perä-paksu paisattiin]i,</V>
-<V>34. [kolm]i&#239; (ol) [perä leviä].</V>
+<V>34. [kolm]ii&#776; (ol) [perä leviä].</V>
 <V>35 34- on tässä oron otella,</V>
 <V>jaksant ei hepo vettääne,</V>
 <V>liinaharja liikutella.</V>
@@ -4481,8 +4481,8 @@ muutettu numeroilla.
 <V>16. [annat]s [Apso tyttöjäis]i?</V>
 <V>20- konnull on kolatschun#1 kauppa,</V>
 <V>22. [neito myy]v[ä'än tuvassa].</V>
-<V>25. [heää vaa tunke&#239; tuppoaa]ne</V>
-<V>10 26. [muihen miehi&#239;n mukkoaa]ne.</V>
+<V>25. [heää vaa tunkei&#776; tuppoaa]ne</V>
+<V>10 26. [muihen miehii&#776;n mukkoaa]ne.</V>
 <V>28. [äsken lienet miu vävvyin]i,</V>
 <V>32. [solmu]ii [munasta solmu].</V>
 <V>33. [otan tuonkin tehhäksein]i,</V>
@@ -4585,7 +4585,7 @@ muutettu numeroilla.
 </META>
 <TEXT>
 <V>Läksin kouluu kotonta,</V>
-<V>oppi&#239; omilta mailta;</V>
+<V>oppii&#776; omilta mailta;</V>
 <V>kova ol koulu käyväkseen,</V>
 <V>oppi ol outo ollakseen,</V>
 <V>5 papit pahast pittiit,</V>
@@ -4654,11 +4654,11 @@ muutettu numeroilla.
 <V>10. [kirkkoherrat kiintiäst]e,</V>
 <V>11. [lukkar]i [kovin lu]v[etti]</V>
 <V>12. [ja pappi pahoi]n [saneli]?</V>
-<V>10 17. [tulin koulust]a [kotti&#239;],</V>
+<V>10 17. [tulin koulust]a [kottii&#776;],</V>
 <V>17- opista omille maille,</V>
-<V>18. [mie] vaan [paina&#239;n pakkoo]</V>
+<V>18. [mie] vaan [painai&#776;n pakkoo]</V>
 <V>18- pahojain on piilomaane,</V>
-<V>töitä&#239; häppiimääne.</V>
+<V>töitäi&#776; häppiimääne.</V>
 <V>15 19. [sanoi ehtonen emmoin]i:</V>
 <V>21. [ja kuus]i [kurittamista].</V>
 <V>22. [pojastaa]se miu [issoi]ni,</V>
@@ -4722,7 +4722,7 @@ muutettu numeroilla.
 <V>kah[en] k[olmen] yön peräst;</V>
 <V>ei poika tullee kuole,</V>
 <V>poika istuu tulessa#3</V>
-<V>hiili&#239; kokkoiloo#4</V>
+<V>hiilii&#776; kokkoiloo#4</V>
 <V>25 hiili koukkunen kääjess#5,</V>
 <V>lukkoo#6 tulen vihhoi#7,</V>
 <V>tulen töitä arveloo#8.</V>
@@ -4754,7 +4754,7 @@ muutettu numeroilla.
 <TEXT>
 <V>Kasvatti miu emmoin,</V>
 <V>kasvatti kannoi paljon,</V>
-<V>joukon suuren joutseni&#239;,</V>
+<V>joukon suuren joutsenii&#776;,</V>
 <V>kanat ai'alle asetti,</V>
 <V>5 joutsenet juoelle saattoi.</V>
 <V>Kui tuli haukka haikotellen,</V>
@@ -4763,7 +4763,7 @@ muutettu numeroilla.
 <V>siipi-lintunen sirotti:</V>
 <V>10 yhen vei Vennään maille,</V>
 <V>kantoi toisen Karjalaan,</V>
-<V>kolmannen kotti&#239;n heitti,</V>
+<V>kolmannen kottii&#776;n heitti,</V>
 <V>ison mielikse pahoiksi,</V>
 <V>emo mieli-murhehiks.</V>
 <V>15 Minkä vei Vennään maille,</V>
@@ -4895,7 +4895,7 @@ laulettaessa.
 <TEXT>
 <CPT>Liekkuvirsi.</CPT>
 <V>1. [Kasvatti miu emmoin]i,</V>
-<V>2. [kasvatt] on [kanno&#239; paljon],</V>
+<V>2. [kasvatt] on [kannoi&#776; paljon],</V>
 <V>5 saattoi joutsenet juoelle,</V>
 <V>6. [kui]n [tuli haukka haikotellen],</V>
 <V>5 10. [yhen vei Vennää]i[n maille],</V>
@@ -4906,7 +4906,7 @@ laulettaessa.
 <V>10 16. [siint] on [kasvoi kauppamies]i,</V>
 <V>17. [minkän kantoi Karjalaan]e,</V>
 <V>18. [siintä siitt] on [Kalerva kasvoi],</V>
-<V>19. hän [minkän kotti&#239;n heitti],</V>
+<V>19. hän [minkän kottii&#776;n heitti],</V>
 <V>20. [siint] [on Untomo sikisi].</V>
 <V>15 22. [Untamon tuvan perrään]e,</V>
 <V>24. [söi kaikki Kalervan kaura]n,</V>
@@ -4958,7 +4958,7 @@ laulettaessa.
 <V>106. tuo [selvä] [sepän emäntä]</V>
 <V>107. [uootteloo] heä [lehmiää]se,</V>
 <V>110. [heä voi vettä lehmillee]se,</V>
-<V>65 111. [varri&#239; vasikoillee]se.</V>
+<V>65 111. [varrii&#776; vasikoillee]se.</V>
 <V>113- Tuo selvä sepän emäntä.</V>
 <V>114. [ky]y[kistäi heä kykkimää]ne,</V>
 <V>115. lehmiään heää [lypsämeää]ne.</V>
@@ -4990,7 +4990,7 @@ laulettaessa.
 <V>siipilintunen sirotti:</V>
 <V>10 yhen vei Vennäin moaalle,</V>
 <V>toisen kantoi Karjalaan,</V>
-<V>kolmannen kotti&#239; heitti</V>
+<V>kolmannen kottii&#776; heitti</V>
 <V>ison mieleksi pahaksi,</V>
 <V>emon mieli-murhehiksi.</V>
 <V>15 Minkä vei Vennäin moaalle,</V>
@@ -5067,7 +5067,7 @@ numeroilla.
 <V>16. [siint] on [kasvo kaupamies]i,</V>
 <V>10 17. [minkä kanto Karjalaan]e,</V>
 <V>18. tuost [si][t] on [Kalerva kasvo],</V>
-<V>19. hän [minkä kotti&#239;n heitti],</V>
+<V>19. hän [minkä kottii&#776;n heitti],</V>
 <V>20. [siint] on [Untamo sikisi].</V>
 <V>22. [Untamon tuvan perreää]ne.</V>
 <V>15 23. [Untamoll] ol [uhma uutti]</V>
@@ -5087,9 +5087,9 @@ numeroilla.
 <V>kun viien kuen viikon päästä.</V>
 <V>30 laittoi orot katsomaan</V>
 <V>kahen kolmen yön perästä;</V>
-<V>44- ei poika mere&#235; kuole,</V>
+<V>44- ei poika meree&#776; kuole,</V>
 <V>45. [poik] [ei kuole puolikkoo]ne,</V>
-<V>47. [onki&#239; meren kalloi]in,</V>
+<V>47. [onkii&#776; meren kalloi]in,</V>
 <V>35 48. [ajeloo] on [ahvenii]ni</V>
 <V>49. [vapa vaskinen keääjess]ä,</V>
 <V>50. [siima silkkinen peräss]ä.</V>
@@ -5150,7 +5150,7 @@ numeroilla.
 <V>35 kykistäi heä kykkimään,</V>
 <V>lehmäjäi lypsämeää:</V>
 <V>sus söi emännän reien,</V>
-<V>karhu pohke&#235;n purasi.</V>
+<V>karhu pohkee&#776;n purasi.</V>
 </TEXT>
 <REFS>
   #1 Säkeiden järjestys 22, 21 toistamiseen laulettaessa, muutettu numeroilla.
@@ -5193,7 +5193,7 @@ numeroilla.
 <V>kultasen kujan perässä</V>
 <V>rautaraajenta käjessä:</V>
 <V>30. [heä vei vettä lehmillee]se,</V>
-<V>31. [varri&#239; vasikoillee]se,</V>
+<V>31. [varrii&#776; vasikoillee]se,</V>
 <V>25 35. [kykistäi heä kykkimään]e,</V>
 <V>36. [lehmäjä]äse [lypsämeää]ne,</V>
 <V>37<I>.</I> [sus] on [söi emännän reien].</V>
@@ -5426,7 +5426,7 @@ numeroilla.
 <V>15 Tuota neito itkemääne.</V>
 <V>"Älä itke, neito parka#6,</V>
 <V>kyllä#7 vello toisen tuopi#8,</V>
-<V>tuolta siu vello&#239;s tulloopi,</V>
+<V>tuolta siu velloi&#776;s tulloopi,</V>
 <V>läpi linnan peää näkkyypi,</V>
 <V>20 jalat alta kuumottaate,</V>
 <V>Ruotsin ruunalla ajjaapi</V>
@@ -5631,7 +5631,7 @@ numeroilla.
 <V>itse Iivana enem<I>än</I>(ii);</V>
 <V>pyysi kullaista kuuvvaa,</V>
 <V>20 hopiaista morsiant<I>a</I>(tii).</V>
-<V>Sika tunke&#239; tulesta,</V>
+<V>Sika tunkei&#776; tulesta,</V>
 <V>kuletai kultaharj<I>a</I>(ui);</V>
 <V>muu kaikk pere ihastui,</V>
 <V>itse Iivana pölästy.</V>
@@ -5741,7 +5741,7 @@ numeroilla.
 <V>pelto-piustin mittajeltu;</V>
 <V>jäi sarka jakelematta,</V>
 <V>pelto-piusti mittaamatta.</V>
-<V>5 tuoho seppä seisata&#239;,</V>
+<V>5 tuoho seppä seisatai&#776;,</V>
 <V>isetäi Ilmarinta,</V>
 <V>heä vuuven pan paletta,</V>
 <V>toisen ahjoo asetti;</V>
@@ -5757,7 +5757,7 @@ numeroilla.
 <V>itse Iivana enemmän,</V>
 <V>pyysi kultasta kuvvaa,</V>
 <V>20 hopiaista morsianta.</V>
-<V>Sika tunke&#239; tulesta,</V>
+<V>Sika tunkei&#776; tulesta,</V>
 <V>kuletai kulta-harja.</V>
 <V>Muu pere kaikki ihastui,</V>
 <V>itse Iivana pelästyi.</V>
@@ -5783,7 +5783,7 @@ numeroilla.
 <V>itse Iiv[ana] v[- -],</V>
 <V>45 pyys kultasta kuvvaa,</V>
 <V>hopeoista morsianta.</V>
-<V>Oro tunke&#239; tulesta,</V>
+<V>Oro tunkei&#776; tulesta,</V>
 <V>kuletai kultaharja,</V>
 <V>neito oli korjon kolkkasessa.</V>
 <V>50 Muu pere pölästyi,</V>
@@ -5838,7 +5838,7 @@ numeroilla.
 <V>20 27. [hopioi] on [lääpän täyen],</V>
 <V>28. [pan] on orjot [lietsomaan]e,</V>
 <V>29. [väki] puolet [vääntämään]e.</V>
-<V>33. [Härkä tunk]e&#239; [tulesta],</V>
+<V>33. [Härkä tunk]ei&#776; [tulesta],</V>
 <V>34. [kuletai] on [kulta-sarvi].</V>
 <V>25 35. [muu] kaikk on [pere ihastui],</V>
 <V>37. [Iivana Kojo]i[sen poika].</V>
@@ -6122,9 +6122,9 @@ numeroilla.
 <V>5 se on kaikk vellon vertä.</V>
 <V>Älköön ilmonen issoin#3,</V>
 <V>älköön vieträ vellosein</V>
-<V>syökö'ön meren kallo&#239;</V>
+<V>syökö'ön meren kalloi&#776;</V>
 <V>sinä ilmoisna ikännä,</V>
-<V>10 ne on vello&#239;n lihhoi#4.</V>
+<V>10 ne on velloi&#776;n lihhoi#4.</V>
 </TEXT>
 <REFS>
   #1 myöh. lis.
@@ -6217,7 +6217,7 @@ numeroilla.
 <V>[seppyyvein] oot [selvyyvein]i,</V>
 <V>[taitaja takojasein]i,</V>
 <V>[tuoao]i[t eklen, tuaaoit enne],</V>
-<V>nyt [tuoao tännä&#239; päinn]ä,</V>
+<V>nyt [tuoao tännäi&#776; päinn]ä,</V>
 <V>[20] tuaao [rautane harava],</V>
 <V>[piit] paneta [pihjalaiset],</V>
 <V>[vasest] on [valata] varsi.</V>
@@ -6729,7 +6729,7 @@ kavala|.
 <V>vai soaanen soti-satulan?"</V>
 <V>45 Emo vasten vastajeli:</V>
 <V>"Oro ostama issois,</V>
-<V>satula isso&#239;s soaama;</V>
+<V>satula issoi&#776;s soaama;</V>
 <V>sie nai nyt soria nainen!"</V>
 <V>Laurin poika oli poikulainen</V>
 <V>50 totteli emo sanasen,</V>
@@ -7044,7 +7044,7 @@ laulettaessa.
 <TEXT>
 <CPT>Liek[kuvirsi].</CPT>
 <V>- - -</V>
-<V>2. [tek] heä [suksi&#239; syky]vet,</V>
+<V>2. [tek] heä [suksii&#776; syky]vet,</V>
 <V>3. [kes]' on [kauvet liukkumii]ni,</V>
 <V>4. [kesät seääst]i [vuohen voita]</V>
 <V>5. ja [talvet pukin tallii]ni,</V>
@@ -7114,7 +7114,7 @@ laulettaessa.
 <V>80. mäne [kulta-kankahalle],</V>
 <V>83. [ottamajais] sie [opetat].</V>
 <V>70 84. [Laurinpoika o]l' [poikulainen]</V>
-<V>86. [leikka&#239;s] [leipää] heä [kasasen]</V>
+<V>86. [leikkai&#776;s] [leipää] heä [kasasen]</V>
 <V>87. [vois] on [voita leivän peäälle].</V>
 </TEXT>
 </ITEM>
@@ -7377,9 +7377,9 @@ numeroilla.
 <V>13. [kuninkas kovin kyssyy]pi,</V>
 <V>14. [linnan vanhin vaikuttaa]pi.</V>
 <V>17. [miks makas]i [nuoren neion],</V>
-<V>10 19. [neito poiki&#239; tekköö]pi,</V>
-<V>20. [laivaseppi&#239; lattoo]pi</V>
-<V>21. [tähä suure&#235; sottaa]ne,</V>
+<V>10 19. [neito poikii&#776; tekköö]pi,</V>
+<V>20. [laivaseppii&#776; lattoo]pi</V>
+<V>21. [tähä suuree&#776; sottaa]ne,</V>
 <V>22. [tasamartin tappeluu]ne;</V>
 <V>23. siel [on peäätä kun mätästä],</V>
 <V>15 24. siel [on hiusta kun kuloista],</V>
@@ -7390,7 +7390,7 @@ numeroilla.
 <V>20 31. [peäät on suolle mättähäks]e,</V>
 <V>33. [veri suolle ruostehe]kse.</V>
 <V>35. [Neito parka tuomittiin]e</V>
-<V>36. [Lohi-käärme&#235;n kittaa]ne.</V>
+<V>36. [Lohi-käärmee&#776;n kittaa]ne.</V>
 <V>37. [Lohi-kärme huokasoo]pi,</V>
 <V>25 38. [huokasoo ja henkäsöö]pi:</V>
 <V>40. [miehen nuoren miekkoine]se,</V>
@@ -7536,12 +7536,12 @@ numeroilla.
 <V>14. [linnan vanhin vaikuttaa]pi:</V>
 <V>15. [min]kän[täh]t[en teää] siottu,</V>
 <V>15- vaimon poika vankajeltu?</V>
-<V>10 20. [neito poikki&#239; tekköö]pi,</V>
-<V>21. [laiva-seppi&#239; lattoo]pi</V>
-<V>22. täähän [suure&#235; sottaan]e,</V>
+<V>10 20. [neito poikkii&#776; tekköö]pi,</V>
+<V>21. [laiva-seppii&#776; lattoo]pi</V>
+<V>22. täähän [suuree&#776; sottaan]e,</V>
 <V>23. [Tasamartin tappeluu]'u.</V>
 <V>24. [neito parka tuomittiin]i</V>
-<V>15 25. [loh]i[kärme&#235;n kittaan]e:</V>
+<V>15 25. [loh]i[kärmee&#776;n kittaan]e:</V>
 <V>26. siel [on peäätä] [kui]n [mätästä],</V>
 <V>27. siel on [hiusta kui]n [kuloista],</V>
 <V>28. [peäät] on [suolle mättähäks]e,</V>
@@ -7553,12 +7553,12 @@ numeroilla.
 <V>36. [veri suollen ruosteheks]e,</V>
 <V>25 37. [suolle]n [ruostehettomalle],</V>
 <V>38. N[eito parka tuomittiin]e</V>
-<V>39. [lohi-kärme]&#235;n [kittaan]e.</V>
+<V>39. [lohi-kärme]e&#776;n [kittaan]e.</V>
 <V>40. [loh]i[kärm]e [huokasoo]pi,</V>
 <V>41. [huokasoo ja henkäsöö]pi.</V>
 <V>30 43. [miehen nuoren miekkoinee]s[e],</V>
 <V>44. [hevonen satuloinee]sen,</V>
-<V>45. [lukkarin perhe&#235;nee]se,</V>
+<V>45. [lukkarin perhee&#776;nee]se,</V>
 <V>46. [papin kirkon kuntinee se.</V>
 </TEXT>
 </ITEM>
@@ -7833,14 +7833,14 @@ No ja 89.
 <V>3. [lentel] on [kesoisen päivän],</V>
 <V>3- sykyvenki yö syvämen,</V>
 <V>4. [ets] on [maata maataksee]se,</V>
-<V>5 5. pessuo'o munni&#239;kseese.</V>
+<V>5 5. pessuo'o munnii&#776;kseese.</V>
 <V>6. [saant ei maata maataksee]se,</V>
-<V>7. [murru]oo [ei munni]&#239;[ksee]se,</V>
+<V>7. [murru]oo [ei munni]i&#776;[ksee]se,</V>
 <V>9. [mun] on [kultasen munasen],</V>
 <V>9- val on vaskisen pesosen.</V>
 <V>10 12. [suuren tuulen ves]-[satteen]i,</V>
 <V>13. [kaato pesän kallallee]se,</V>
-<V>15. [munat vieri]&#239;[t vettee]ne.</V>
+<V>15. [munat vieri]i&#776;[t vettee]ne.</V>
 <V>18. heä [lentel kesoisen päivän]</V>
 <V>18- sykyvenki yö syvämen;</V>
 <V>15 19. [heä sai rautaa] on [palaisen],</V>
@@ -7950,7 +7950,7 @@ No ja 89.
 <V>Pauluskoille palveliaksi,</V>
 <V>mie sain sieltä sarka-viitan,</V>
 <V>maa-vetosen verka-viitan.</V>
-<V>5 Tuota puisti&#239;t pohatat,</V>
+<V>5 Tuota puistii&#776;t pohatat,</V>
 <V>rikkahammat riiteliit.</V>
 <V>Nostin riian rikkahille,</V>
 <V>mie puhuin pohatan kanssa:</V>
@@ -7992,7 +7992,7 @@ No ja 89.
 <V>10. [Pauluskoille palvel]j[aksi],</V>
 <V>11. [sielt] työ [saa]tta [sarka-viit]an,</V>
 <V>10 12. [maa-vetoise]n [verka-viita]n.</V>
-<V>13. [Jos miu]n [emmo&#239;n] [eläisi],</V>
+<V>13. [Jos miu]n [emmoi&#776;n] [eläisi],</V>
 <V>15- näin olisi, näin kävisi</V>
 <V>16. [nukka-vieruss] ei [nutussa],</V>
 <V>17. [karva-vier] ei [viit]t[a] [peääll]ä,</V>
@@ -8223,7 +8223,7 @@ No ja 89.
   #4 [varsoi] män [valitsemaa]ne.
   #5 [ottamaa]ne.
   #6 [makka]ile[mast]a.
-  #7 [heä] on [viere&#235;n].
+  #7 [heä] on [vieree&#776;n].
 </REFS>
 </ITEM>
   
@@ -8243,9 +8243,9 @@ No ja 89.
 <V>- - -</V>
 <V>Jeesus kielen, Luoja mielen</V>
 <V>kolmi#1 öiselle pojolle.</V>
-<V>*Poika ääne&#235;n parahti:*</V>
+<V>*Poika äänee&#776;n parahti:*</V>
 <V>"Hannuksen heliä hattu</V>
-<V>5 miu vette&#235;n verhakseen#2,</V>
+<V>5 miu vettee&#776;n verhakseen#2,</V>
 <V>Marketan punahamonen</V>
 <V>mun tulleen turvakseen!"#3</V>
 </TEXT>
@@ -8280,9 +8280,9 @@ No ja 89.
 <V>heimokunnan heltuttemet.</V>
 <V>Siel kun Marketta makas,</V>
 <V>löys neion makkaamast,</V>
-<V>10 heä viere&#235; vänähti,</V>
+<V>10 heä vieree&#776; vänähti,</V>
 <V>hän suu'un suuta vaste,</V>
-<V>kääe&#235;n kässi&#239; vaste,</V>
+<V>kääee&#776;n kässii&#776; vaste,</V>
 <V>jalat ristii rapasi.</V>
 <V>Tul tyttö tiineheks,</V>
 <V>15 tuost paksuks pamahti,</V>
@@ -8326,7 +8326,7 @@ No ja 89.
 <TEXT>
 <V>- - -</V>
 <V>4. [oroloi] on [ottamaa]ne,</V>
-<V>5. [varso&#239; valitsemaa]n</V>
+<V>5. [varsoi&#776; valitsemaa]n</V>
 <V>7. [heimokunnan heltutt]i[met].</V>
 <V>8. [siel kun Marketta makas]i.</V>
 <V>5 9. [löys neion makka'amast]a.</V>
@@ -8342,9 +8342,9 @@ No ja 89.
 <V>15 25. [turkki pääl] on [tupsehtii],</V>
 <V>26. [aina saunassa assuu]pi.</V>
 <V>29. heä män [oltta ottamaa]ne,</V>
-<V>30. [taari]&#239; [tavoittamaa]ne.</V>
+<V>30. [taari]i&#776; [tavoittamaa]ne.</V>
 <V>32. [pojon porsahi]e[n seasta].</V>
-<V>20 33. [heä vei miehi&#239;n tuppaan]e.</V>
+<V>20 33. [heä vei miehii&#776;n tuppaan]e.</V>
 </TEXT>
 </ITEM>
   
@@ -8374,11 +8374,11 @@ No ja 89.
 <V>sukukunnan suitset kanssa,</V>
 <V>heimo-kunnan heltuttimet</V>
 <V>hevosii tuli etsimääne,#1</V>
-<V>varso&#239; valitsemaane.</V>
+<V>varsoi&#776; valitsemaane.</V>
 <V>15 Sitt heä viereen vänähti,</V>
 <V>pani suuta suuta vastaan,</V>
 <V>keäen käsii vastaane,</V>
-<V>jalat risti&#239;n rapasi.</V>
+<V>jalat ristii&#776;n rapasi.</V>
 <V>tuli tyttö tiineheksi,</V>
 <V>20 tuost paksuksi pamahti,</V>
 <V>vatsa paisui, vyö lyheni;</V>
@@ -8450,7 +8450,7 @@ No ja 89.
 <CPT>Liek[kuvirsi].</CPT>
 <V>- - -</V>
 <V>3. [viisi] (on) laitteli vihille,</V>
-<V>4. [kuuenne]e[n kotti&#239;n heitti]</V>
+<V>4. [kuuenne]e[n kottii&#776;n heitti]</V>
 <V>6. [oman eukon lehmoisii]ni,</V>
 <V>7. [ets]i [moaata maataksee]se,</V>
 <V>5 8. lehto'o [levätäksee]se</V>
@@ -8459,9 +8459,9 @@ No ja 89.
 <V>13. [hevosii] män' [etsimääne],</V>
 <V>14- löys neion makka'amasta.</V>
 <V>10 tuoll on Marketta makasi.</V>
-<V>15. [heä] on [viere&#235;n vänähti],</V>
+<V>15. [heä] on [vieree&#776;n vänähti],</V>
 <V>16. heä [pani suu]un [suuta vast]e,</V>
-<V>17. [keäe]&#235;[n käsi&#239; vast]e.</V>
+<V>17. [keäe]e&#776;[n käsii&#776; vast]e.</V>
 <V>19. tuost [tuli tyttö tiineheks]e,</V>
 <V>15 20. [tuost] on [paksuks]e [pamahti].</V>
 <V>21- neliskokka korkenoopi,</V>
@@ -8475,11 +8475,11 @@ No ja 89.
 <V>27- turkki pääl on tupsehtiipi,</V>
 <V>25 28. [aina saunassa assuu]pi</V>
 <V>31. heä [läks olutta ottamaane],</V>
-<V>32. [toaari&#239; tavoittamaane],</V>
+<V>32. [toaarii&#776; tavoittamaane],</V>
 <V>33. heä [löys] [lapsen lastuloista],</V>
 <V>34. [pojan porsahi]en [seasta],</V>
 <V>30 37. [pojan porsahi]en [seasta].</V>
-<V>38. [heä] vei [miehi&#239;]n [tuppaan]e:</V>
+<V>38. [heä] vei [miehii&#776;]n [tuppaan]e:</V>
 <V>39. [ke]n&#772;[en työ tämä tekemä],</V>
 <V>40. [kenen laps]i [laittelema]?</V>
 <V>41. [kuka ties]i [tehnehee]se,</V>
@@ -8487,7 +8487,7 @@ No ja 89.
 <V>43. [se vanno] [valan kovemman],</V>
 <V>44. [kipiämmä]ste kirosi.</V>
 <V>47. [pojan porsahi]en [seasta].</V>
-<V>48. [heä] vei [naisi&#239;]n [tuppaan]e.</V>
+<V>48. [heä] vei [naisii&#776;]n [tuppaan]e.</V>
 <V>40 49. [ke]n&#772;[en työ tämä tekemä],</V>
 <V>50. [kenen laps]i [laittelema]?</V>
 <V>51. [kuka ties]i [tehnehee]se,</V>
@@ -8495,14 +8495,14 @@ No ja 89.
 <V>53. [se vanno] [valan kovemman],</V>
 <V>45 54. [kipiämmän] kismitteli.</V>
 <V>57. [ku]i[n lien]öö [isoton poika],</V>
-<V>58. [niin tule&#235;n tunketaan]e,</V>
+<V>58. [niin tulee&#776;n tunketaan]e,</V>
 <V>59. [kun lien]öö [emoton poika],</V>
-<V>60. [niin vette&#235;n vietän]e&#235;.</V>
+<V>60. [niin vettee&#776;n vietän]ee&#776;.</V>
 <V>50 61. [Iesus kielen, Luoja mielen]</V>
 <V>62. [kolme-öyselle poj]o[lle].</V>
-<V>62- poika ääne&#235; parahti:</V>
-<V>64. [miu tule&#235;n turvaksein]i,</V>
-<V>66. [miu vette&#235;n verhoksein]i!</V>
+<V>62- poika äänee&#776; parahti:</V>
+<V>64. [miu tulee&#776;n turvaksein]i,</V>
+<V>66. [miu vettee&#776;n verhoksein]i!</V>
 </TEXT>
 </ITEM>
   
@@ -8569,7 +8569,7 @@ No ja 89.
 <V>Turun helka helmikakla*</V>
 <V>istu saaren sillan päässä,</V>
 <V>5 vuoron itki, vuoron nakro,</V>
-<V>vuoron päätään#1 hää#2 sukki&#239;,</V>
+<V>vuoron päätään#1 hää#2 sukkii&#776;,</V>
 <V>kiinnitti heä#3 kenkiääse#4,</V>
 <V>vuoron pannoo paklojaase#5,</V>
 <V>uoottel#6 miestä mielellistä,</V>
@@ -8744,7 +8744,7 @@ No ja 89.
 <V>6- vuoron pannoo paklojaase,</V>
 <V>kenkiääse kiinittääpi,</V>
 <V>5 9. [sulh]a[ista sima-suloista].</V>
-<V>10. [mies merestä näyttelei]&#239;#1</V>
+<V>10. [mies merestä näyttelei]i&#776;#1</V>
 <V>12. [kulta-kihla]a[t] käessä.</V>
 <V>16. [tulet]s [neitonen miulle]</V>
 <V>17- ja lavesta laskijakse.</V>
@@ -8875,7 +8875,7 @@ No ja 89.
 <V>3. [soitti kauvan kanteleella],</V>
 <V>4. [viikko viim]o [pillillää]se,</V>
 <V>5. [uootteli muita nukkumaan]e,</V>
-<V>5 6. [väkki&#239; vähenemään]e,</V>
+<V>5 6. [väkkii&#776; vähenemään]e,</V>
 <V>10. jo[tt ei ukset ulvasis]i</V>
 <V>12. [K]a[hin luoks männässä]se.</V>
 </TEXT>
@@ -9076,7 +9076,7 @@ No ja 89.
 <V>7. [Hannu] [saaren saksalainen]</V>
 <V>9. [viiko]n [viim][o pillillää]se,</V>
 <V>10. [ootteli muita nukkumaan]e,</V>
-<V>11. [väki]&#239; [vähenemään]e.</V>
+<V>11. [väki]i&#776; [vähenemään]e.</V>
 <V>10 13. [Hannu saar]en [saksalainen],</V>
 <V>16. [jottei ukset ulva]isisi,</V>
 <V>17. [sano]is [ei sarenta-rau]v[at].</V>
@@ -9086,7 +9086,7 @@ No ja 89.
 <V>24. [vai]n [uoot väärti] [mies välissä]?</V>
 <V>30- Kati kauno immin neito</V>
 <V>33. tuoll [sysi syvän all]oini,</V>
-<V>34. [alle makso]&#239;[n mahutti].</V>
+<V>34. [alle makso]i&#776;[n mahutti].</V>
 <V>20 35. [Hannus maahan maksoillee]se,</V>
 <V>36. [koprin kouhkumaisillee]se.</V>
 <V>37. [makas Antti Annin] kanssa#1</V>
@@ -9105,7 +9105,7 @@ No ja 89.
 <V>35 54. [Voi miu siityinen sissoin]i,</V>
 <V>55. [teit huol]ta [hopioille]i[s]i,</V>
 <V>56. [teit kulu]ukin [kullillees],</V>
-<V>57. nyt siu [kulla&#239;s kulluut]u,</V>
+<V>57. nyt siu [kullai&#776;s kulluut]u,</V>
 <V>58. [hopiais] siu [hoikkenuoot]o,</V>
 <V>40 59. varma'a vaset [männööt]ö,</V>
 <V>60. [kulloot pankost]a [paperi]t.</V>
@@ -9189,13 +9189,13 @@ No ja 89.
 <V>17. [Issoi]n on [soti-oronen]</V>
 <V>15 18. [sotatieellen sortukoon]e</V>
 <V>19. [paras sota-aik]anaase.</V>
-<V>20. [vello]&#239;n [soti-venonen]</V>
+<V>20. [vello]i&#776;n [soti-venonen]</V>
 <V>21. [kahen puolen kaatukoo]ne,</V>
 <V>22. [kons on velloin] miu [vesillä],</V>
 <V>20 22- eukon lapsi lainehille.</V>
 <V>24. [maahan maion kaatakoo]ne</V>
 <V>25. [paras antiaikanaa]se,</V>
-<V>25- sisso&#239;n sinerva uutti,</V>
+<V>25- sissoi&#776;n sinerva uutti,</V>
 <V>maahan villat vuotakoone</V>
 <V>25 paras villa-aikanaan!</V>
 <V>27. [kuin] hyö kauppasiit katalan.</V>
@@ -9225,7 +9225,7 @@ No ja 89.
 <REFS>
   #1 [mi]e.
   #2 [pellervaa]ne.
-  #3 [sinno]&#239;n.
+  #3 [sinno]i&#776;n.
   #4 [kitkii] vaan [sinno]ista.
 </REFS>
 </ITEM>
@@ -9291,11 +9291,11 @@ No ja 89.
 <TEXT>
 <CPT>Liekkuvirsi.</CPT>
 <V>1. [Puistin maata velloltain]i,</V>
-<V>3. [pellolt]a [pettä&#239;kö]i[st]ä,</V>
+<V>3. [pellolt]a [pettäi&#776;kö]i[st]ä,</V>
 <V>4. [antoi maata vell]oseeni.</V>
 <V>5. [mie lus'kan sin]oista [kylvin],</V>
 <V>5 6. [toisen luskan pellervaa]ne.</V>
-<V>7. [tul miu sinno]&#239;n [kukalle],</V>
+<V>7. [tul miu sinno]i&#776;n [kukalle],</V>
 <V>8. [pallervoo puhistettava].</V>
 <V>9. [aloin kitkii] mie [sinoista],</V>
 <V>10. [puhastellen pellervaa]ne.</V>
@@ -9304,7 +9304,7 @@ No ja 89.
 <V>15. [kuka möi miu]n [polosen],</V>
 <V>16. [kuka kauppas] on [kanasen]?</V>
 <V>16- iso möi siun polosen,</V>
-<V>15 vello kauppa&#239;s kanasen.</V>
+<V>15 vello kauppai&#776;s kanasen.</V>
 <V>18. [issois sai] [kivisen kirkon],</V>
 <V>20. [maammois] sai [mahikki lehmän],</V>
 <V>19. [vellois] on [soti orosen],</V>
@@ -9346,10 +9346,10 @@ No ja 89.
 <V>10 itse kynnän, itse kylvän,</V>
 <V>itse vaivanen vakkoilen,</V>
 <V>selässäin on siemen säkki,</V>
-<V>vakkain on voaao&#239;n päässä."</V>
+<V>vakkain on voaaoi&#776;n päässä."</V>
 <V>Mie luskan sinoista kylvin,</V>
 <V>15 toisen luskan pellervaa#1.</V>
-<V>Tul miu sinno&#239;n kukalle,</V>
+<V>Tul miu sinnoi&#776;n kukalle,</V>
 <V>pellervo puhastettava.</V>
 <V>Aloin kitkii mie sinnoo,</V>
 <V>puhastella pellervaa,</V>
@@ -9364,7 +9364,7 @@ No ja 89.
 <V>vello kauppas kanasen."</V>
 <V>Isin kahta kämmentäin</V>
 <V>30 kun rukasta roisahutin:</V>
-<V>"Isso&#239;n kivinen kirkko</V>
+<V>"Issoi&#776;n kivinen kirkko</V>
 <V>kahen puolen koaatukoo!</V>
 <V>Velloin soti-oronen</V>
 <V>sota tieell sortukoo</V>
@@ -9392,7 +9392,7 @@ No ja 89.
 <TEXT>
 <CPT>Liek[kuvirsi].</CPT>
 <V>1. [Puistin maata velloltain]i,</V>
-<V>3. [pellolt pettä&#239;kö]i[stä].</V>
+<V>3. [pellolt pettäi&#776;kö]i[stä].</V>
 <V>5. [mitä siso maall] [tekköö]pi,</V>
 <V>6. [ei uo miestä ei hevoista].</V>
 <V>5 8. [hoit mie kynnän kynsilläin]i,</V>
@@ -9405,9 +9405,9 @@ No ja 89.
 <V>21. [kolme puoti-poikasii]ni.</V>
 <V>23. [sie uoot neito] meille [myöty].</V>
 <V>25. [kuka möi miu]n [polosen],</V>
-<V>15 26. [kuka kauppa]&#239;[s katalan]?</V>
+<V>15 26. [kuka kauppa]i&#776;[s katalan]?</V>
 <V>27. [iso möi siu]n [polo]i[sen]</V>
-<V>28. [vello kauppa]&#239;[s kanasen].</V>
+<V>28. [vello kauppa]i&#776;[s kanasen].</V>
 <V>28- mitä sai iso miulla?</V>
 <V>issois sai kivisen kirkon,</V>
 <V>20 vellois sai soti orosen,</V>
@@ -9417,7 +9417,7 @@ No ja 89.
 <V>30. [kun ruka]i[sta roisahutin]:</V>
 <V>25 32. [kahen puolen koaatukoo]ne</V>
 <V>32- paras saarna aikanaase,</V>
-<V>33. [vello&#239;n soti-]venonen</V>
+<V>33. [velloi&#776;n soti-]venonen</V>
 <V>34. [sota tieell]ä [sortukoo]ne</V>
 <V>35. [paras sota aikannaa]se,</V>
 <V>30 36. [miks heää möi miu]n [polo]i[sen],</V>
@@ -9495,7 +9495,7 @@ No ja 89.
 <V>anopp on kovin kirosi,</V>
 <V>30 omat#4 tavoitti ohjaksilla.</V>
 <V>Mie en tuota on toteltu;</V>
-<V>panin rei(j)e&#235;n re&#235;kse,</V>
+<V>panin rei(j)ee&#776;n ree&#776;kse,</V>
 <V>perrääin perä pajuksee,</V>
 <V>sormet suorat ohjaksiksii.</V>
 <V>35 Ei ollut sitä mätäistä,</V>
@@ -9512,7 +9512,7 @@ No ja 89.
 <V>Mänin vellon pellon alle,</V>
 <V>mie aitaa sylin rappailin:</V>
 <V>teää aita ison tekemä,</V>
-<V>vitsakset sisso&#239;n tuomat,</V>
+<V>vitsakset sissoi&#776;n tuomat,</V>
 <V>50 seiväs vellon vestelemä.</V>
 <V>Vellon lapset lastuloilla;</V>
 <V>sano vellon vanhin lapsi:</V>
@@ -9624,7 +9624,7 @@ numeroilla.
 <V>20 29. [anopp]i [kovin kirosi],</V>
 <V>30. oma ohjaksen perille;</V>
 <V>31. [mie en tuota]'a#1 [toteltu]:</V>
-<V>33. [perrää&#239;n perä-pajukse],</V>
+<V>33. [perrääi&#776;n perä-pajukse],</V>
 <V>34. [sormet suorat ohjaksiks]e.</V>
 <V>25 35. [ei ollut sitä mätä][stä],</V>
 <V>37. [ei ollut sitä] o[ijoista],</V>
@@ -9639,7 +9639,7 @@ numeroilla.
 <V>35 59. sielt [tulloo munill]e [murhe].</V>
 <V>62<I>.</I> [mie en] tuota'a [toteltu].</V>
 <V>64. [uoottelin mie velloistain]i</V>
-<V>65. [portti&#239;] [avvailemmaa]ne,</V>
+<V>65. [porttii&#776;] [avvailemmaa]ne,</V>
 <V>66. hevoistaini [riisumaane],</V>
 <V>40 67. [aisoi] on [alentammaa].</V>
 <V>68. [ei] tuo [tult]u [vellosein]i,</V>
@@ -9653,7 +9653,7 @@ numeroilla.
 <V>82. [oven suuhun seisatain]i,</V>
 <V>50 84. [miss] ol [enne orjo oltu],</V>
 <V>86. [uoottelin mi]e [vellon naista]</V>
-<V>87. [vyötä&#239;n] ava'amaane,</V>
+<V>87. [vyötäi&#776;n] ava'amaane,</V>
 <V>88. peäästämää mie peääveraista,</V>
 <V>89. [viitta'a viruttammaa]ne,</V>
 <V>55 90. [orrell]e [ojentammaa]ne:</V>
@@ -9794,7 +9794,7 @@ numeroilla.
 <V>Mänin vellon pellon alle,</V>
 <V>mie aitoaa sylin rappailin:</V>
 <V>40 teää aita ison tekemä,</V>
-<V>vitsakset sisso&#239;n tuomat,</V>
+<V>vitsakset sissoi&#776;n tuomat,</V>
 <V>seiväs vellon vestelemä.</V>
 <V>Kukkuit kuuset kukkalatvat,</V>
 <V>lauloit lakkapäät petäjät:</V>
@@ -9834,7 +9834,7 @@ laulettaessa, muutettu
 <TEXT>
 <CPT>Liek[kuvirsi].</CPT>
 <V>1. [Sotkin koito] [kostolin]i,</V>
-<V>2. paito&#239; mie parin [varustin]</V>
+<V>2. paitoi&#776; mie parin [varustin]</V>
 <V>3. [oljamii] mie [männäksee]ni.</V>
 <V>5. [katsoin kannat]o[s hevoista],</V>
 <V>5 8. [katsoin peä'äin kallallein]i,</V>
@@ -10029,8 +10029,8 @@ toistamiseen laulettaessa, muutettu
 <V>10 11. [velloistain] on [uoottellessa].</V>
 <V>13. oppimaan [ei oljam]iini,</V>
 <V>14. [vetämää ei vierahiks]e.</V>
-<V>15. [mie en tokki]&#239;#1 [toteltu],</V>
-<V>16. [panin reijein] mie [rie&#235;ks]e,</V>
+<V>15. [mie en tokki]i&#776;#1 [toteltu],</V>
+<V>16. [panin reijein] mie [riee&#776;ks]e,</V>
 <V>15 17. [perräin] mie [perä-pajuks]e,</V>
 <V>18. [sormet suorat ohjasiks]e</V>
 <V>19. [oljam]ii[n] mie [männäkseen]i.</V>
@@ -10055,7 +10055,7 @@ toistamiseen laulettaessa, muutettu
 <V>kiinittänt en kenkiäini.</V>
 <V>38. [mie aitaa syllii rappaili]n:</V>
 <V>39. [teää aita] [ison tekemä],</V>
-<V>40. [vitsakset] [sisso&#239;n tuomat].</V>
+<V>40. [vitsakset] [sissoi&#776;n tuomat].</V>
 <V>40 42. [vellon lapset] [lastuloilla].</V>
 <V>43. [sanoi eukon eisimmäine]n:</V>
 <V>45. [tuolt tulloo miu]n [tättiin]i.</V>
@@ -10066,7 +10066,7 @@ toistamiseen laulettaessa, muutettu
 <V>50. sielt [tulloo munille murhe],</V>
 <V>52. [lehmä-karja]lle [levitös].#2</V>
 <V>53. mänin [tokki]i en [toteltu]</V>
-<V>50 56. [portti]&#239; [avoaamaane],</V>
+<V>50 56. [portti]i&#776; [avoaamaane],</V>
 <V>57. [hevoista]in [riisumaane].</V>
 <V>58. [ei] tuo [tullut velloseini]</V>
 <V>59. [hevois]tain ei [riisumaane],</V>
@@ -10085,7 +10085,7 @@ toistamiseen laulettaessa, muutettu
 <V>77. peäästämmään ei peää-veraista.</V>
 <V>78. [itse vyö]ö[n] mie [avasin],</V>
 <V>79. [itse peäästin peää-verrain]i,</V>
-<V>81. [itse viita]&#239;[n virutin].</V>
+<V>81. [itse viita]i&#776;[n virutin].</V>
 <V>70 83. [älä meä, täti, tuppaa]ne,</V>
 <V>84. [ennenk muut murru]se [syövät],</V>
 <V>85. [kohtalo]ose [kollohtaat]a!</V>
@@ -10224,7 +10224,7 @@ toistamiseen laulettaessa, muutettu
 <V>Karhun maksat kainalossa.</V>
 <V>5 1. [En suris]i [sulhojain]i,</V>
 <V>2. kuin [näkisin leikatta]van</V>
-<V>3. [viel] on [veistä&#239;n hihosin],</V>
+<V>3. [viel] on [veistäi&#776;n hihosin],</V>
 <V>4. [nykäjäin] on [nyrsyttaisin];</V>
 <V>5. kun [näkisin hirtettää],</V>
 <V>10 6. [viel]ä [nuorasta vetäisin];</V>
@@ -10252,7 +10252,7 @@ toistamiseen laulettaessa, muutettu
 </INF>
 </META>
 <TEXT>
-<V>Neitonen vie&#235;llä itki,</V>
+<V>Neitonen viee&#776;llä itki,</V>
 <V>vesi-tiellä vieretteli,</V>
 <V>kaivo-tiellä kallotteli#1.</V>
 <V>Puuttuu emo kuulemaa:</V>
@@ -10262,7 +10262,7 @@ toistamiseen laulettaessa, muutettu
 <V>ei niitä vesiäkkää.</V>
 <V>Niin on miull' anoppi siellä</V>
 <V>10 kui ennen emoin kotona."</V>
-<V>Neitonen vie&#235;llä itki,</V>
+<V>Neitonen viee&#776;llä itki,</V>
 <V>vesitiellä vieretteli.</V>
 <V>Puuttui iso kuulemaa.</V>
 <V>Alkoi iso kysellä:</V>
@@ -10271,7 +10271,7 @@ toistamiseen laulettaessa, muutettu
 <V>vai appi pahoin pitteää?"</V>
 <V>"Niin on miulla appi sielä</V>
 <V>kui ennen iso(i)n kotona."</V>
-<V>20 Neitonen vie&#235;llä itki,</V>
+<V>20 Neitonen viee&#776;llä itki,</V>
 <V>vesi-tiellä vieretteli.</V>
 <V>Puuttui vello kuulemaan:</V>
 <V>"Mitäs itket, miu sissoin,</V>
@@ -10317,14 +10317,14 @@ toistamiseen laulettaessa, muutettu
 <V>3. [kaivo-tiell] on [kallo]i[tteli].</V>
 <V>4. [puuttu]i [emo kuulemaa]ne:</V>
 <V>5. [mitäs itket piiku]v[eini],</V>
-<V>5 5- nuorin lapse&#239;n nurajat?</V>
+<V>5 5- nuorin lapsei&#776;n nurajat?</V>
 <V>6. [vai]n [anopp]' [pahoin pitteää]ne?</V>
 <V>7. [ei uo niitä maitakaa]ne,</V>
 <V>8. [ei niitä ves]s[iäkkää]n,</V>
 <V>10. [kui ennen emo] [kotona].</V>
 <V>10 13. [puuttui is]ä [kuulemaa]ne:</V>
 <V>15. [mitäs itket piiku]v[eini],</V>
-<V>16. [nuorin lapse&#239;n] nurajat?</V>
+<V>16. [nuorin lapsei&#776;n] nurajat?</V>
 <V>17. [vai]n [appi pahoin pitteää]ne?</V>
 <V>17- ei o n[iitä] m[aitakaane],</V>
 <V>15 ei niit[ä] ves[siäkkään],</V>
@@ -10505,8 +10505,8 @@ toistamiseen laulettaessa, muutettu
 <CPT>Liek[kuvirsi].</CPT>
 <V>3. L[äksi poika päähkenee]ne,</V>
 <V>4. [toinen poika tuorehee]ne,</V>
-<V>5. [kolma]&#239;[s keso-kallaan]e,</V>
-<V>6. [neljä]&#239;[s jänis-jälill],</V>
+<V>5. [kolma]i&#776;[s keso-kallaan]e,</V>
+<V>6. [neljä]i&#776;[s jänis-jälill],</V>
 <V>5 7. [viies] on [suven viho]i[lle].</V>
 <V>8. [tul] on [poika peäähkenestä]</V>
 <V>10. [kolma]i[s] on [keso-kalasta],</V>
@@ -10521,7 +10521,7 @@ toistamiseen laulettaessa, muutettu
 <V>19. [huus] on [kerran huisahutti]:</V>
 <V>20. [tule pois]i [poik]uveini.</V>
 <V>21. [poika vast]en [vastaeeli]:</V>
-<V>22. [en peääse isosuuein]i, (emosuuve&#239;ni)</V>
+<V>22. [en peääse isosuuein]i, (emosuuvei&#776;ni)</V>
 <V>20 23. [pilvot peäätäin] miun [peittäät]e,</V>
 <V>24. [hattarat hapeniai]ni.</V>
 <V>25. [Ota olkii] sie [kuponen],</V>
@@ -10827,7 +10827,7 @@ toistamiseen laulettaessa, muutettu
 <V>Jalo herra Jaakko Puntus</V>
 <V>sor' kun sorsa poikiaan#1</V>
 <V>tah kana munaisiaan,</V>
-<V>laittoi laivo&#239; merelle,</V>
+<V>laittoi laivoi&#776; merelle,</V>
 <V>5 veti päälle purjehoisen</V>
 <V>kun pimiän pilven reuna.</V>
 <V>Paniit vanhat soutamaan:</V>
@@ -11014,8 +11014,8 @@ numeroilla.
 <V>15 katsoin suurelle merelle:</V>
 <V>näin purjen purjehtii,</V>
 <V>sotilaivan lainehtii;</V>
-<V>liekos tuo isso&#239;n purje,</V>
-<V>vai lie vello&#239;n venonen.</V>
+<V>liekos tuo issoi&#776;n purje,</V>
+<V>vai lie velloi&#776;n venonen.</V>
 <V>20 Aloin telloi tehhä,</V>
 <V>varustella valkamii,</V>
 <V>puhastella puolapuita#1.</V>
@@ -11058,7 +11058,7 @@ numeroilla.
 <V>17. [sotilaivan lainehtii]ni.</V>
 <V>17- kennen tuo veno tulloopi,</V>
 <V>kennen laiva laitteleepi.</V>
-<V>20. [aloin] mie [tello&#239; tehhä]</V>
+<V>20. [aloin] mie [telloi&#776; tehhä]</V>
 <V>15 21. [varustella valkamii]ni.</V>
 </TEXT>
 </ITEM>
@@ -11195,7 +11195,7 @@ numeroilla.
 <V>9. [katsoin] suurelle [merell]e.</V>
 <V>11. [mie näin purjen purjehtii]ni,</V>
 <V>10 12. [sotilaivan lainehtii]ni.</V>
-<V>13. [mie alloin tello]&#239; [tehhä],</V>
+<V>13. [mie alloin tello]i&#776; [tehhä],</V>
 <V>14. [varustella valkamii]ne.</V>
 <V>15- tänne haapanen venonen</V>
 <V>17. [näille]n [tehhyille teloille].</V>
@@ -11207,10 +11207,10 @@ numeroilla.
 <V>20 27. [mie] oon [vasten vastajeelin].</V>
 <V>29. [teräksiset tenk]ä[likot],</V>
 <V>31 [halki haapasen ven]osen.</V>
-<V>33. kyll on [päivi&#239; kesossa],</V>
+<V>33. kyll on [päivii&#776; kesossa],</V>
 <V>34. [syky]v[ess on puhtehii]ni,</V>
 <V>25 35. [mill] on [purje paikataan]e.</V>
-<V>36. [tehhään tilkko&#239; vennee]hen.</V>
+<V>36. [tehhään tilkkoi&#776; vennee]hen.</V>
 </TEXT>
 </ITEM>
   
@@ -11540,7 +11540,7 @@ numeroilla.
 <CPT>Liekkuvirsi.#1</CPT>
 <V>*Mie käin piennä paimenessa,</V>
 <V>lassa lammasten ajossa.*</V>
-<V>Mie en pilli&#239; pitänty</V>
+<V>Mie en pillii&#776; pitänty</V>
 <V>enkä kantant kanteloista,</V>
 <V>5 soitin kolmen torven kanssa,</V>
 <V>soitin luuhun, puhuin puuhun,#2</V>
@@ -11666,7 +11666,7 @@ numeroilla.
 <TEXT>
 <V>Käin piennä paimenessa,</V>
 <V>lassa lammasten ajossa,</V>
-<V>mie en pilli&#239; pitänty</V>
+<V>mie en pillii&#776; pitänty</V>
 <V>enkä kantant kanteloista,</V>
 <V>5 soitin kolmen torven kanssa,</V>
 <V>puhuin puuhun, soitin luuhun,</V>
@@ -11731,7 +11731,7 @@ numeroilla.
 <TEXT>
 <V>Mie käin piennä paimenessa,</V>
 <V>lassa lammasten ajossa,</V>
-<V>mie en pilli&#239; pitänty</V>
+<V>mie en pillii&#776; pitänty</V>
 <V>enkä kantant kanteloista,</V>
 <V>5 soitin kolmen torven kanssa,</V>
 <V>puhuin puuhun, soitin luuhun,</V>
@@ -11851,7 +11851,7 @@ numeroilla.
 <CPT>Liekkuvirsi.</CPT>
 <V>- - -</V>
 <V>2. [Saksan maass] on [sairasteli].</V>
-<V>3. [hän sano läsi&#239;ssää]se:</V>
+<V>3. [hän sano läsii&#776;ssää]se:</V>
 <V>5. kui [mie kuolen koito piika],</V>
 <V>6. [piika kalkinen kattuoon]e,</V>
 <V>5 7. kuhun [kuoppa kaivetaan]e.</V>
@@ -11925,7 +11925,7 @@ numeroilla.
 <V>6. mihis [kuoppa kaivetaan]e?</V>
 <V>7. [ison ikkunan] aloille,</V>
 <V>8. [vello]n [seinä-vierosee]ne,</V>
-<V>10 9. [emo]&#239;[n tuvan etteen]e.</V>
+<V>10 9. [emo]i&#776;[n tuvan etteen]e.</V>
 <V>10. [mie en] malta tuossa [moaata]</V>
 <V>12. [ison kirve]e[n kilkunnalta],</V>
 <V>13. [vellon vesto]s[-lastuloilta],</V>
@@ -11995,7 +11995,7 @@ numeroilla.
 <V>Lapin tyttäre[n latoma],*</V>
 <V>Heän#28 näyttel#29 hoppeitase#30,</V>
 <V>Kultasuita kukkaroine#31,</V>
-<V>Veitsi&#239; o#32 hopiapäitä#33.</V>
+<V>Veitsii&#776; o#32 hopiapäitä#33.</V>
 <V>45 Neito korjohon#34 kavahte#35</V>
 <V>Niin kuin kultanen#36 orava</V>
 <V>*Taihka ruskia repoini*</V>
@@ -12281,7 +12281,7 @@ tähdillä merkityt lisätty.
 </META>
 <TEXT>
 <V>- - -</V>
-<V>2. [näyttel] heä [hoppe]&#239;[taa]se,</V>
+<V>2. [näyttel] heä [hoppe]i&#776;[taa]se,</V>
 <V>3. [kulta]-[suita kukkaroi]ni,</V>
 <V>4. [vetsii] on [hopia]-[päitä].</V>
 <V>- - -</V>
@@ -12418,7 +12418,7 @@ tähdillä merkityt lisätty.
 <V>Lemettuisen liekuttama</V>
 <V>näyttel' hoppeitaan,</V>
 <V>35 kulta suuta kukkaroi,</V>
-<V>veitsi&#239; hopiapäitä.</V>
+<V>veitsii&#776; hopiapäitä.</V>
 <V>Neito korjoo kavahti</V>
 <V>niin kui kuiva hoaavalehti</V>
 <V>tahka kultanen orava.</V>
@@ -12456,7 +12456,7 @@ tähdillä merkityt lisätty.
 <V>its käi päälle itkemään:</V>
 <V>"Emoseen oot ehtosein,</V>
 <V>maammoseen oot mairoseen,</V>
-<V>pane säkki&#239; evästä</V>
+<V>pane säkkii&#776; evästä</V>
 <V>75 miu pakkoon männäkseen</V>
 <V>pahojaan piilomaan,</V>
 <V>teitäi häppiimään."</V>
@@ -12533,7 +12533,7 @@ numeroilla.
 <V>5. [maksamaan] on [maarahaista]#1.</V>
 <V>6. [tytöt kirkkoo männi]i[t]i,</V>
 <V>5 7. [siniviitat villersiit]i,</V>
-<V>8. [puursi&#239;t punahammeet]e.</V>
+<V>8. [puursii&#776;t punahammeet]e.</V>
 <V>13. [tule]ts' [neito korjohein]i,</V>
 <V>14. [soaahka'a tekmähh]e[in]i,</V>
 <V>15. [panemillein] on [pajulle],</V>
@@ -12550,7 +12550,7 @@ numeroilla.
 <V>20 28- ympäri meren jokkiini.</V>
 <V>39. [tytöt kirkosta tulliit]i,</V>
 <V>30. [sini-viitat viilessiit]i,</V>
-<V>31. [puursi&#239;t punahammeet]e.</V>
+<V>31. [puursii&#776;t punahammeet]e.</V>
 <V>34. [näyttel'] on [hoppeitaa]se,</V>
 <V>25 35. [kulta-su]i[ta kukkaroi]ni.</V>
 <V>37. [neito korjoo] on [kavahti].</V>
@@ -12566,7 +12566,7 @@ numeroilla.
 <V>65. [hyppäs] on [hyvän selälle],</V>
 <V>66. [istu laukin laut]a[sill]e,</V>
 <V>67. [liitäi] on [liha-mytylle].</V>
-<V>68. heän [män itki&#239;n kottiin]i,</V>
+<V>68. heän [män itkii&#776;n kottiin]i,</V>
 <V>40 69. [pan] on [pöyälle]n [kypärän],</V>
 <V>71. [its käi päälle] istumaane</V>
 <V>71- istumaan ja itkemääne.</V>
@@ -12574,7 +12574,7 @@ numeroilla.
 <V>73. [maammose]i[n oot mairose]ini,</V>
 <V>45 75. [miu pakko'on männäkseen]i</V>
 <V>76. [pahoja]in on [piilomaan]e,</V>
-<V>77. töitäin on [häppi&#239;mään]e.</V>
+<V>77. töitäin on [häppii&#776;mään]e.</V>
 <V>79. [mit] [oot pahinta tehty]</V>
 <V>80. [vain oot miehen tappanut]u</V>
 <V>50 81. vain uron [upottanut]u.</V>
@@ -12591,10 +12591,10 @@ numeroilla.
 <V>94- jos ois tyssätty tytöllä,</V>
 <V>alenneltu päänaloilla,</V>
 <V>kallistelt ois kattehilla;</V>
-<V>95. [kyll ois soaatu]&#239; [rahho&#239;]</V>
+<V>95. [kyll ois soaatu]i&#776; [rahhoi&#776;]</V>
 <V>65 95- ennen eukon pyytämiini,</V>
 <V>vanhemman varustamiini;</V>
-<V>kyll ois kulti&#239; issoisi,</V>
+<V>kyll ois kultii&#776; issoisi,</V>
 <V>hopioi ois vanhemmaisi;</V>
 <V>97. [makasin oman sissoin]i.</V>
 <V>70 99. [heä vet sulkkuset sukkaa]se</V>
@@ -12603,8 +12603,8 @@ numeroilla.
 <V>102. [päälle sulkkusiin sukkiin]i,</V>
 <V>103. [vet] on [verkkaset tannii]se</V>
 <V>75 104. [peääll] on [Saksan soaappahii]ni.</V>
-<V>105. [siit] heä [paina&#239; pakkoo]ne</V>
-<V>107. [töitä'än häppi&#239;meää]ne,</V>
+<V>105. [siit] heä [painai&#776; pakkoo]ne</V>
+<V>107. [töitä'än häppii&#776;meää]ne,</V>
 <V>106. [pahojaan] on [piilomaan]e.</V>
 <V>118- Viipuriin on vietäjessä,</V>
 <V>80 tantsaan on taluttajessa,</V>
@@ -12654,7 +12654,7 @@ numeroilla.
 <V>Poika tuima Tuurikkaisen</V>
 <V>näytteli hopiojaan,</V>
 <V>25 kulta-suita kukkaroi,</V>
-<V>veitsi&#239; hopia-päitä.</V>
+<V>veitsii&#776; hopia-päitä.</V>
 <V>Neito korjoo kavahti</V>
 <V>niin kuin kuiva haavalehti</V>
 <V>tahka kultanen orava.</V>
@@ -12744,11 +12744,11 @@ numeroilla.
 <V>1. [Poika] tuhma [Tuurikkaisen],</V>
 <V>2. [Lemett]ui[sen liekuttama],</V>
 <V>3- heä män' viemeä'ä verrooni,</V>
-<V>maa-rahho&#239; maksamaane.</V>
+<V>maa-rahhoi&#776; maksamaane.</V>
 <V>5 7. [tytöt kirkkoo männiit]i,</V>
 <V>9. [sini-viitat viilersiit]i,</V>
-<V>8. [puursi]&#239;[t puna-hameet]e</V>
-<V>11. rekke&#235;n tekemähäini,</V>
+<V>8. [puursi]i&#776;[t puna-hameet]e</V>
+<V>11. rekkee&#776;n tekemähäini,</V>
 <V>13. [tulko'o]n [tuli punanen],</V>
 <V>10 14. [ajako]o on [amputauti],</V>
 <V>15. [siu]n on [koiran korjoheisi],</V>
@@ -12758,8 +12758,8 @@ numeroilla.
 <V>15 20. [Nevan nientä kier]rä[tteli]</V>
 <V>21. [ympäri mere jok]iini.</V>
 <V>22- siniviitat viilersiiti,</V>
-<V>puuri&#239;t punahamoiset.</V>
-<V>24. [näyttel] on hoppe&#239;taase,</V>
+<V>puurii&#776;t punahamoiset.</V>
+<V>24. [näyttel] on hoppei&#776;taase,</V>
 <V>20 25. [kulta-suita kukkaroi]ni.</V>
 <V>27. [neito korjoo] on [kavahti].</V>
 <V>31. se ol [oron ohjaksissa],</V>
@@ -12775,7 +12775,7 @@ numeroilla.
 <V>47. [siihen aisa'an alensi],</V>
 <V>47- hyppäs on hyvän selälle,</V>
 <V>istui laukin lautasille,</V>
-<V>35 48. siit [män itki&#239;n] hän [kottiin]i,</V>
+<V>35 48. siit [män itkii&#776;n] hän [kottiin]i,</V>
 <V>49. [pan] on [pöyälle kypärän],</V>
 <V>51. [its] [käi] [päälle istumaan]e,</V>
 <V>52. [istumaan ja itkemään]e.</V>
@@ -12805,7 +12805,7 @@ numeroilla.
 <V>maammosein mairoseini.</V>
 <V>64. pane [säkkiin] sie [evästä]</V>
 <V>65. [miu pakko'o männäksein]i,</V>
-<V>65 65- töitä&#239;n häppi&#239;määne,</V>
+<V>65 65- töitäi&#776;n häppii&#776;määne,</V>
 <V>pahojain on piilomaane,</V>
 <V>P[oika] tuim[a] T[uurikkaisen],</V>
 <V>L[emettuisen] l[iekuttama].</V>
@@ -12817,11 +12817,11 @@ numeroilla.
 <V>71. [peääl] on [saksa]n [saappahiin]i.</V>
 <V>75 71- P[oika] tuima T[uurikkaisen],</V>
 <V>Lem[ettuisen] liek[uttama],</V>
-<V>72. [sitt] [heä paina]&#239; [pakkoo]ne</V>
+<V>72. [sitt] [heä paina]i&#776; [pakkoo]ne</V>
 <V>72- pahojaan on piilomaane,</V>
-<V>töitään on häppi&#239;määne.</V>
+<V>töitään on häppii&#776;määne.</V>
 <V>80 P[oika] tuh[ma] T[uurikkaisen]</V>
-<V>73. heä [katsoo] [katta&#239;kko]sta</V>
+<V>73. heä [katsoo] [kattai&#776;kko]sta</V>
 <V>77. [Viipuriin] on [viettäjessä],</V>
 <V>78. [Tantsaan] on [taluttajessa],</V>
 <V>82. [vettiit maata Mannun nänn]ä[t].</V>
@@ -13025,8 +13025,8 @@ numeroilla.
 <V>5. [meren kaislan kannattaa]ne.</V>
 <V>6. [ei tuo lumme luusintkaa]ne,</V>
 <V>5 7. [meren kaisl] [ei kannattantu],</V>
-<V>8. [jäi poika vie&#235;n varroi]ni,</V>
-<V>9. [lapsi laine&#235;n ojjaan]e.</V>
+<V>8. [jäi poika viee&#776;n varroi]ni,</V>
+<V>9. [lapsi lainee&#776;n ojjaan]e.</V>
 <V>10. [Olihan meitä kun oli]kin,</V>
 <V>11. [siso]sii [oli sillallinen],</V>
 <V>10 12. [velloi ol] [vene punanen],</V>
@@ -13036,8 +13036,8 @@ numeroilla.
 <V>16. [laiva rikk] käi [lankoloilta].</V>
 <V>15 17. [jäivät sormet soutimeks]e,</V>
 <V>18. [kämmenet käsimel]oi[ks]e,</V>
-<V>18- jäi poika ve&#235;n varroini,</V>
-<V>lapsi laine&#235;n nojjaane.</V>
+<V>18- jäi poika vee&#776;n varroini,</V>
+<V>lapsi lainee&#776;n nojjaane.</V>
 </TEXT>
 </ITEM>
   
@@ -13065,10 +13065,10 @@ numeroilla.
 <V>meren kaislan kannattavan.</V>
 <V>Ei se lumme luusintkaa,</V>
 <V>10 meren kaisl' ei kannattantu,</V>
-<V>jäi poika ve&#235;n varroini,</V>
+<V>jäi poika vee&#776;n varroini,</V>
 <V>jäivät sormet soutimekse,</V>
 <V>kämmenet käsimeloikse,</V>
-<V>lapsi laine&#235;n nojaane.</V>
+<V>lapsi lainee&#776;n nojaane.</V>
 </TEXT>
 </ITEM>
   
@@ -13357,7 +13357,7 @@ vuosi kolmatta
 <V>tinatuppi, vyö hopia,</V>
 <V>parta kullan palmikoissa,#4</V>
 <V>5 pää kullan hipalehiss#5.</V>
-<V>Vieti&#239;n sana jälest#6:</V>
+<V>Vietii&#776;n sana jälest#6:</V>
 <V>*Jo on kuollut siu issoosi.*</V>
 <V>- - -</V>
 </TEXT>
@@ -13457,7 +13457,7 @@ vuosi kolmatta
 <V>- - -</V>
 <V>2. [tina]-[tuppi tappeloo]nu,</V>
 <V>4. [parta kullan palmiko][ssa],</V>
-<V>6. [vieti&#239;n sana jälest]e:</V>
+<V>6. [vietii&#776;n sana jälest]e:</V>
 <V>7. [jo on kuol]tu [siu emmois]i.</V>
 <V>5 8. [milläs miu pesen emmoin]i?</V>
 <V>9. [ostan Saksan saippuva]ista,</V>
@@ -13550,10 +13550,10 @@ vuosi kolmatta
 <V>11. [kyläkunta korjajaa]vat,</V>
 <V>12. [en]hä [mie sovasta jouva].</V>
 <V>- - -</V>
-<V>16. [vieti&#239;n sana jälest]e:</V>
+<V>16. [vietii&#776;n sana jälest]e:</V>
 <V>17. [jo on kuollut siu]n [emmois]i,</V>
 <V>15 19. [jo on kuollut kumppaliis]i,</V>
-<V>20. [vaipu]i [vaipa&#239;s alanen].</V>
+<V>20. [vaipu]i [vaipai&#776;s alanen].</V>
 <V>21. heä [laitto sanan kottii]ni:</V>
 <V>24. [tapettun]na [tattarlainen],</V>
 <V>24- mies musta muserrettunna.</V>
@@ -13621,7 +13621,7 @@ vuosi kolmatta
 <V>mies musta musertamatta.</V>
 <V>Vietii sana jälest:</V>
 <V>Jo on kuollut kumppaliis,</V>
-<V>vaipu vaipa&#239;s alanen.</V>
+<V>vaipu vaipai&#776;s alanen.</V>
 <V>15 Jo nyt mie sovasta jouvan,</V>
 <V>jo on turkki tunnettunna,</V>
 <V>tapettunna tattarlaine(n),</V>
@@ -13655,7 +13655,7 @@ vuosi kolmatta
 <V>2. [tinatuppi tappeluu]ne,</V>
 <V>2- parta kullan palmikoissa,</V>
 <V>pää kullan hipalehissa.</V>
-<V>5 3. [vieti&#239; sana jälest]e:</V>
+<V>5 3. [vietii&#776; sana jälest]e:</V>
 <V>4. [jo on kuol]tu [siu issois]i.</V>
 <V>4- heä laitto sanan kottiini:</V>
 <V>5. [kui lie kuolt]u, [jous heä kuolla],</V>
@@ -13665,7 +13665,7 @@ vuosi kolmatta
 <V>kyläkunta korjajaapi;</V>
 <V>8. [enhä mie sovast]a [jouva],</V>
 <V>10. [tappamatta] [tattarlainen].</V>
-<V>15 12. [vieti&#239; sana jälest]e:</V>
+<V>15 12. [vietii&#776; sana jälest]e:</V>
 <V>13. [jo on kuol]tu [kumppaliis]i.</V>
 <V>14- heä laitto sanan kottiini:</V>
 <V>18. [mies musta muserrettu]nna</V>
@@ -13808,7 +13808,7 @@ vuosi kolmatta
 <V>Puolan kolkka kollohtaapi,</V>
 <V>10 Siperjan siliät nurmet</V>
 <V>ja konnun laviat latsit.</V>
-<V>Siit soppii sotti&#239;n käyvä,</V>
+<V>Siit soppii sottii&#776;n käyvä,</V>
 <V>hiekkateitä helsytellä,</V>
 <V>rapateitä rausutella.</V>
 <V>15 Viiään pojat Pietäriihi</V>
@@ -13931,7 +13931,7 @@ vuosi kolmatta
 <V>Lasseis Lapesta lintu,</V>
 <V>sill oli silmät siiven alla,</V>
 <V>näkemät sulan neniss;</V>
-<V>tuomaan tul soti sanno&#239;,</V>
+<V>tuomaan tul soti sannoi&#776;,</V>
 <V>15 lausehii laittamaa:</V>
 <V>viiään sottaa vellot.</V>
 <V>Sisot mielille hyville,</V>
@@ -13990,7 +13990,7 @@ vuosi kolmatta
 <V>lassei Lapesta lintu,</V>
 <V>sill oli silmät siiven alla,</V>
 <V>näkemät sulan nenissa;</V>
-<V>5 tuomaan tul soti sanno&#239;:</V>
+<V>5 tuomaan tul soti sannoi&#776;:</V>
 <V>viiän sisot sottaa,</V>
 <V>vellot jäämään kottiin.</V>
 <V>Sisot mielille pahoille,</V>
@@ -14030,13 +14030,13 @@ vuosi kolmatta
 <V>6. nyt [viiä]ä[n sisot sottaa]ne,</V>
 <V>7. [vellot jäämään kottiin]i.</V>
 <V>9. [vellot mielille] [hyville],</V>
-<V>5 10. sisot [männ]i&#239;[t sottaan]e.</V>
+<V>5 10. sisot [männ]ii&#776;[t sottaan]e.</V>
 <V>11. [mihis teilt]ä [miehet saivat],</V>
 <V>12. [kuhu]n urroot urkeniiti?</V>
 <V>13. [puolaanko]s [pojat männiit]i,</V>
 <V>14. [vai männiit voapukkoan]e,</V>
 <V>10 15. [lillukkoa]a[kos lippasiit]i.</V>
-<V>17. [jot sissot sott]i&#239; [kä]i[vät],</V>
+<V>17. [jot sissot sott]ii&#776; [kä]i[vät],</V>
 <V>17- alla ei linnan lieripäitä,</V>
 <V>solkipäitä ei sovassa,</V>
 <V>18. jott [on akat ampumassa].</V>
@@ -14111,14 +14111,14 @@ vuosi kolmatta
 <V>1. [Tuli utka Turj]e[n moaasta],</V>
 <V>2. [lassei] on [Lap]e[sta lintu],</V>
 <V>4. [näk]e[m]ä[t sulan nenissä].</V>
-<V>5. [tuomaan] on [soti sanno&#239;],</V>
+<V>5. [tuomaan] on [soti sannoi&#776;],</V>
 <V>5 6. [nyt viiään sisot sottaa]ne.</V>
 <V>9. [ei uoo t]uo[ta enne kuultu],</V>
 <V>11. [jott viiää]n [sisot sottaa]ne.</V>
 <V>13. [solkirinto]i ei [sovassa],</V>
 <V>15. [tuli utka Turj]e[n maasta],</V>
 <V>- - -</V>
-<V>10 17. tuomaan tul soti sanno&#239;:</V>
+<V>10 17. tuomaan tul soti sannoi&#776;:</V>
 <V>18. [nyt viiää]n [sottoa'a vellot],</V>
 <V>20. [vellot mielille]n [pahoille].</V>
 <V>14. [siso saunan lämmittää]pi</V>
@@ -14390,9 +14390,9 @@ virsi.
 <V>5 8- sukint ei ison sukanen,</V>
 <V>emon harj' ei harjajeltu,</V>
 <V>vellon kamp' ei kampajeltu.</V>
-<V>9. [män] [miu vello&#239;n Virroo]ne</V>
+<V>9. [män] [miu velloi&#776;n Virroo]ne</V>
 <V>10. [viemä'än vero-rahhoi]ni,</V>
-<V>10 10- maaraho&#239; maksamaane.</V>
+<V>10 10- maarahoi&#776; maksamaane.</V>
 <V>11. siel on viipy velloseini,</V>
 <V>12. [heä viiko Virossa viipy],</V>
 <V>12- kauvan viipy kaupunnissa,</V>
@@ -14405,7 +14405,7 @@ virsi.
 <V>20 23. mie mänin meri kivelle,</V>
 <V>21. [mer]i-[poaasille pakenin],</V>
 <V>26. [harja]i[sin hapeniaini].</V>
-<V>28. [kampa vette&#235;n] [kalahti].</V>
+<V>28. [kampa vettee&#776;n] [kalahti].</V>
 <V>29. [ojennain] mie [ottamaane],</V>
 <V>25 30. [kallistain] mie [katsomaan]e.</V>
 <V>31. [mänin syltäin] mie [syvvää]ne,</V>
@@ -14413,7 +14413,7 @@ virsi.
 <V>33. [tarttui miekka helmihe]i[ni],</V>
 <V>34. [miekan-västi ristihe]ini.</V>
 <V>30 35. [otin miekan, toin kottiin]i,</V>
-<V>37. [mie vein vello&#239;n kätteen]e.</V>
+<V>37. [mie vein velloi&#776;n kätteen]e.</V>
 <V>38. [kaatu]it [kansa katsomaane].</V>
 <V>39. [teä miekka] [so'asta tuotu],</V>
 <V>40. [talutettu] on [tappelusta].</V>
@@ -14499,10 +14499,10 @@ virsi.
 <V>[liioin pitkät], liioin paksut,</V>
 <V>5 10. [emon harj]' [ei harjajeltu],</V>
 <V>11. [vellon kamp]' ei [kampajeltu].</V>
-<V>12. [män miu vello&#239; Virroo]ne,</V>
+<V>12. [män miu velloi&#776; Virroo]ne,</V>
 <V>13. [viemä'ä vero rahhoi]ni,</V>
-<V>14. [maarahho&#239; maksamaa]ne.</V>
-<V>10 15. [Vello]&#239;n [Virossa viipy]i,</V>
+<V>14. [maarahhoi&#776; maksamaa]ne.</V>
+<V>10 15. [Vello]i&#776;n [Virossa viipy]i,</V>
 <V>20. [Ruotsin otraset olu]v[et].</V>
 <V>22. [tul miu viime vellosein]i,</V>
 <V>23. [toi sielt]ä [su]v[an mokoman].</V>
@@ -14510,7 +14510,7 @@ virsi.
 <V>15 27. [suvin sulkku-tukkiain]i,</V>
 <V>28. [harjasin] hapeniaini.</V>
 <V>29. sujahti suka merreene,</V>
-<V>29- kampa vette&#235; kalahti.</V>
+<V>29- kampa vettee&#776; kalahti.</V>
 <V>30. [ojennain] mie [ottamaa]ne,</V>
 <V>20 31. [kallistain] mie [katsomaa]ne</V>
 <V>32. [mänin syltäin] mie [syyvveää]ne,</V>
@@ -14555,7 +14555,7 @@ virsi.
 <V>20 suvin sulkku-tukkiain,</V>
 <V>harjasin hapeniiain.</V>
 <V>Suilaht suka merree,</V>
-<V>kampa vette&#235; kalahti.</V>
+<V>kampa vettee&#776; kalahti.</V>
 <V>Ojennain mie ottamaa,</V>
 <V>25 kallistain mie katsomaa.</V>
 <V>Mänin syltäin mie syyvviää,</V>
@@ -14595,9 +14595,9 @@ virsi.
 <TEXT>
 <CPT>Liekkuvirsi.</CPT>
 <V>1. Kasvatti emo [miusta].</V>
-<V>13. [män] miu [vello&#239;n Virroo]ne</V>
+<V>13. [män] miu [velloi&#776;n Virroo]ne</V>
 <V>14. [viemää] on [vero rahho]oni,</V>
-<V>15. [maarahho&#239; maksamaa]ne.</V>
+<V>15. [maarahhoi&#776; maksamaa]ne.</V>
 <V>5 20. [suvin sulkku-tukkiain]i.</V>
 <V>21. [harjasin hapeniiain]i#1</V>
 <V>22. [suilaht]i [suka merree].</V>
@@ -14638,7 +14638,7 @@ virsi.
 <V>meren paasille pakenin.</V>
 <V>- - -</V>
 <V>*suilahti suka mereene,</V>
-<V>kampa vette&#235;n kalahti,*</V>
+<V>kampa vettee&#776;n kalahti,*</V>
 <V>5 veesaht vello vettee.#3</V>
 <V>- - -</V>
 </TEXT>
@@ -14903,7 +14903,7 @@ virsi.
 <V>Päiväläss oli päivä lämmin,</V>
 <V>päivä lämmin, soria sulho.</V>
 <V>10 Emo laittoi rikkahaa;</V>
-<V>mie suutuin emo&#239;n peäälle,</V>
+<V>mie suutuin emoi&#776;n peäälle,</V>
 <V>tost mie suutuin ja vihastuin,</V>
 <V>lensin lintunna emolle,</V>
 <V>mie lensin ison sattuun#1,</V>
@@ -14946,7 +14946,7 @@ virsi.
 <V>3. [mie vaan itse taivosee]ne#1.</V>
 <V>9. [päivä lämmin], sulho soria.</V>
 <V>5 10. iso [laittoi rikkahaa]ne#2,</V>
-<V>10- emmo&#239;n rahalliselle.</V>
+<V>10- emmoi&#776;n rahalliselle.</V>
 <V>14. [mie lensin ison sattuun]e.</V>
 <V>15. tuoss [mie lauluin liirittelin]:</V>
 <V>16. [miull ol] [sormet soitukkaiset],</V>
@@ -15055,10 +15055,10 @@ numeroilla.
 <V>5 5- eikä tuontu tuomisiini</V>
 <V>7. [ja män] koira kosjoimaane,</V>
 <V>7- narri naima'a kylästä.</V>
-<V>8. [tuli itki]&#239;[n kottiin]i.</V>
+<V>8. [tuli itki]i&#776;[n kottiin]i.</V>
 <V>8- heä sanoi emoselleese:</V>
 <V>10 10. [miks on äijä siskoloi]ni,</V>
-<V>11. [paljon paito&#239; pittää]te,</V>
+<V>11. [paljon paitoi&#776; pittää]te,</V>
 <V>12. [enemmän hyvi]ä [vöitä],</V>
 <V>12- hamehii on hankajaavat,</V>
 <V>16. [kannetaan] on [kaivo-tielle].</V>
@@ -15069,7 +15069,7 @@ numeroilla.
 <V>20. [tulloo tarvis tyttölöi]ni,</V>
 <V>20 22. kolm on [kiirettä kesällä]:</V>
 <V>22- heliäinen heinän aika,</V>
-<V>rutia rukkie&#235;n niitto</V>
+<V>rutia rukkiee&#776;n niitto</V>
 <V>sekä kaunis kauran niitto</V>
 <V>sekä oivon otran niitto.</V>
 <V>25 23. [emollein tul] [mieli min]ja.</V>
@@ -15084,7 +15084,7 @@ numeroilla.
 <V>35. [kyll] [min]nuu [kylä kuttoot]o,</V>
 <V>35 36. [käveliät keääntelööt]ö,</V>
 <V>37. [papit kuttoot paio]i[ksee]se,</V>
-<V>38. [lukkari]t [perre&#235;llee]se,</V>
+<V>38. [lukkari]t [perree&#776;llee]se,</V>
 <V>39. [kylä kynty-rättilöiks]e.</V>
 <V>40. [emolle]in [tuli tuuli-mieli],</V>
 <V>40 40- hatsahti harakan mieli,</V>
@@ -15131,7 +15131,7 @@ numeroilla.
 <V>miks on äijä siskoloi,</V>
 <V>15 paljon paitoi pitteäät,</V>
 <V>hamehii hankajaat,</V>
-<V>enemmin hyvvi&#239; vöitä."</V>
+<V>enemmin hyvvii&#776; vöitä."</V>
 <V>Emolleen tul tuul' mieli,</V>
 <V>hatsaht harakan mieli:</V>
 <V>20 Viiään tytöt merelle j. n. e.</V>
@@ -15162,7 +15162,7 @@ numeroilla.
 <V>8. [ei]kä [tuontu tuomissii]ni,</V>
 <V>9. [heä män' koira kossiomaa]ne,</V>
 <V>10 10. [narri naima'a]n [kyl]älle.</V>
-<V>11. [heä tul' itki&#239;n kottii]ni,</V>
+<V>11. [heä tul' itkii&#776;n kottii]ni,</V>
 <V>12. [heä sano emosellee]ne:</V>
 <V>14. [miks on] paljon [siskoloi]ni,</V>
 <V>15. [paljon paitoi] hyö [pitteäät]ä,</V>
@@ -15364,7 +15364,7 @@ numeroilla.
 <V>5. [se ol viel]ä [kylpömättä].</V>
 <V>5 6. [panin pajjain] mie [pajulle],</V>
 <V>7. [hamehein] on [haavan päälle],</V>
-<V>8. [sukka&#239;n sulal]le [maal]le,</V>
+<V>8. [sukkai&#776;n sulal]le [maal]le,</V>
 <V>9. [koivun p][ääll]e [kostoliin]i,</V>
 <V>10. [helmet hiekkarantasell]e,</V>
 <V>10 12. [riisuin ristin kaulastain]i.</V>
@@ -15372,7 +15372,7 @@ numeroilla.
 <V>18. [hamehee]in on [hoaaon päältä],</V>
 <V>19. [koivun päält] on [kostoliin]i,</V>
 <V>20. [sukkain] on [sulalta maalta],</V>
-<V>15 23. [pois] on [risti]&#239;[n ripusti].</V>
+<V>15 23. [pois] on [risti]i&#776;[n ripusti].</V>
 <V>24. [mänin itkiin kottiin]i,</V>
 <V>25. [kaa]loi[tellen kartanoo]ne;</V>
 <V>26. [iso aitassa assuu]pi,</V>
@@ -15385,14 +15385,14 @@ numeroilla.
 <V>25 36- otti paijan miu pajulta,</V>
 <V>37. [otti soriat sormuksein]i,</V>
 <V>37- sukkain on sulalta maalta,</V>
-<V>38. [pois] on [risti]&#239;[n ripusti],</V>
+<V>38. [pois] on [risti]i&#776;[n ripusti],</V>
 <V>38- hamehein on haavan päältä.</V>
 <V>30 39. [pois] on [kanto kaula-huilit].</V>
 <V>40. [emo vast]en [vastajeeli]:</V>
 <V>41. [älä itke piikuvein]i,</V>
 <V>41- nuorimpaise(i)ni nureksi,</V>
 <V>42. mäne [aittaa] sie [meääell]e,</V>
-<V>35 44. [paa] ne [päälle&#239;s parasta],</V>
+<V>35 44. [paa] ne [päällei&#776;s parasta],</V>
 <V>45. [valk]i[aista varrelleis]i,</V>
 <V>46. [siit meää kirkko]'on [kukaks]e,</V>
 <V>47. [kauneheks]e [kappalii]ni,</V>
@@ -15515,7 +15515,7 @@ numeroilla.
 <TEXT>
 <CPT>Liek[kuvirsi].#1</CPT>
 <V>Käin#2 pilven piitä myöten,</V>
-<V>taivaan rajjo&#239; myöten,</V>
+<V>taivaan rajjoi&#776; myöten,</V>
 <V>mie sain silkit silmillein#3,</V>
 <V>kulta langat kulmilleen#4,</V>
 <V>5 peäähäin hyvät#5 hopiat.</V>
@@ -15559,7 +15559,7 @@ numeroilla.
 </TEXT>
 <REFS>
   #1 Myöh. lis.
-  #2 [taiva'a raijo]&#239; [myöte]n.
+  #2 [taiva'a raijo]i&#776; [myöte]n.
   #3 mie [sain].
   #4 [silmillein]i.
   #5 [kulmillein]i.
@@ -15604,7 +15604,7 @@ numeroilla.
 <TEXT>
 <CPT>Liek[kuvirsi].</CPT>
 <V>- - -</V>
-<V>2. [taiva'an rajj]o&#239; [myöten],</V>
+<V>2. [taiva'an rajj]oi&#776; [myöten],</V>
 <V>3. mie [sain silkit silmilleen]i,</V>
 <V>4. [kulta]-[langat kulmilleen]i,</V>
 <V>5. [peäähäin] mie [hyvät hopiat].</V>
@@ -16006,7 +16006,7 @@ hoastatella|.
 <V>tuli honka vastahain;</V>
 <V>10 isin kerran kirvehein.</V>
 <V>Alko honka huokaella,</V>
-<V>honka ääne&#235; parahti:</V>
+<V>honka äänee&#776; parahti:</V>
 <V>"Ei synny vene miuista,</V>
 <V>laiva ei lastun ottamatta."</V>
 <V>15 Hihon päivän kirvestäin,</V>
@@ -16039,8 +16039,8 @@ hoastatella|.
 <V>40 haapasuuttain en halaja;</V>
 <V>sitä ulvon uusi purje,</V>
 <V>vene haaponen halajan:</V>
-<V>muut venot sotti&#239; käyvät,</V>
-<V>muut venot satto&#239; saivat,</V>
+<V>muut venot sottii&#776; käyvät,</V>
+<V>muut venot sattoi&#776; saivat,</V>
 <V>45 mie vaan lamon lastullain,</V>
 <V>veno vestämäisilläin."</V>
 </TEXT>
@@ -16128,7 +16128,7 @@ hoastatella|.
 <V>tuli honka vastahain.</V>
 <V>Isin kerran kirvehein:</V>
 <V>"Syntyyks veno siuista?"</V>
-<V>Honka eääne&#235; paraht:</V>
+<V>Honka eäänee&#776; paraht:</V>
 <V>10 "Ei synny vene miuist,</V>
 <V>olt on lintu oksillain,</V>
 <V>toukka pinnain pilantu,</V>
@@ -16251,7 +16251,7 @@ hoastatella|.
 <V>haappasuuttain en halaja</V>
 <V>enkä tervaista telloaa;</V>
 <V>sitä ulvon uusi purje:</V>
-<V>muut venot sotti&#239;n käivät,</V>
+<V>muut venot sottii&#776;n käivät,</V>
 <V>20 mie vaan lamon lastuillain,</V>
 <V>veno vestämäisilläin."</V>
 <V>Viiään veno vesille.</V>
@@ -16289,7 +16289,7 @@ hoastatella|.
 <V>13. [haappasuuttais] on [halajat]?</V>
 <V>15. mie en [ulvo uuttuuttain]i,</V>
 <V>17. [enkä tervaista telloaa]ne.</V>
-<V>19- sekä hyö satto&#239; saivat,</V>
+<V>19- sekä hyö sattoi&#776; saivat,</V>
 <V>15 20. [mie vaan lamo]o[n lastuillain]i,</V>
 <V>21. [veno vestämäisilläin]i.</V>
 <V>22. vietiin [veno vesille],</V>
@@ -16315,7 +16315,7 @@ hoastatella|.
 <V>tul' miu hoaapa vastahain,</V>
 <V>tuli hoaapa haaraniekka.</V>
 <V>5 Isin kerran kirvehein.</V>
-<V>Hoaapa eääne&#235; parahti:</V>
+<V>Hoaapa eäänee&#776; parahti:</V>
 <V>"Ei synny vene minusta,</V>
 <V>lintu on ollut oksillain,</V>
 <V>juureein on mato moaantu."</V>
@@ -16340,7 +16340,7 @@ hoastatella|.
 <V>vestin päivän, vestin toisen,</V>
 <V>kohta kolmatta rupesin.</V>
 <V>30 Soaatiin veno valmeheksi,</V>
-<V>vieti&#239;n veno vesille.</V>
+<V>vietii&#776;n veno vesille.</V>
 <V>Pantiin nuoret soutamaa,</V>
 <V>vanhat sousiit pää tutaji.</V>
 <V>Sano vanha Väinämöinen:</V>
@@ -16507,7 +16507,7 @@ numeroilla.
 <V>10 14. [tuli honka huo][la-niekka].</V>
 <V>15. [isin kerran kirvehein]i,</V>
 <V>15- t[oisen] k[erran] t[oista]p[uolta].</V>
-<V>17. [honka] ääne&#235;n parahti:</V>
+<V>17. [honka] äänee&#776;n parahti:</V>
 <V>17- ei synny - - -.</V>
 <V>15 18. [syntyy] on [vene miuista],</V>
 <V>18- vene ilman vestämättä,</V>
@@ -16524,8 +16524,8 @@ numeroilla.
 <V>28. [vai]n on [ulvot uuttuuttaisi],</V>
 <V>29. [haapaisuutta] sie [halajat].</V>
 <V>31. [haapaisuutta]in [en halaja],</V>
-<V>30 34. [muut ven]ot [sotti&#239;n kä]i[vät],</V>
-<V>34- muut venot sotti&#239; saivat,</V>
+<V>30 34. [muut ven]ot [sottii&#776;n kä]i[vät],</V>
+<V>34- muut venot sottii&#776; saivat,</V>
 <V>35. [mie vaan lamon lastuillain]i,</V>
 <V>36. [ven]o [vest]äm[äisilläini].</V>
 <V>38. vietiin [vene] [vesille],</V>
@@ -16684,7 +16684,7 @@ numeroilla.
 </INF>
 </META>
 <TEXT>
-<V>Annukka rukko&#239;loopi</V>
+<V>Annukka rukkoi&#776;loopi</V>
 <V>Venäläisille venneehen:</V>
 <V>"Vie minun venosessais,</V>
 <V>puna-paita purjessaisi!"</V>
@@ -16692,7 +16692,7 @@ numeroilla.
 <V>souteli mere jokkee,</V>
 <V>Nevan nientä kierteli.</V>
 <V>Iso rannalle lassei</V>
-<V>ja lasse&#239; laiturille</V>
+<V>ja lassei&#776; laiturille</V>
 <V>10 hevoista juottamaan.</V>
 <V>"Lunasta iso miuista!"</V>
 <V>"Millä mie siu lunastan?"</V>
@@ -16737,7 +16737,7 @@ numeroilla.
 <V>henkeini lunastimeksi."</V>
 <V>"Ennen mie sisosta luovun</V>
 <V>kui sinerva uutistaini."</V>
-<V>Annukka rukko&#239;loopi:</V>
+<V>Annukka rukkoi&#776;loopi:</V>
 <V>55 "Issoin soti-oronen</V>
 <V>sota-tiellä sortukoo</V>
 <V>paras sota-aikanaan;</V>
@@ -16747,7 +16747,7 @@ numeroilla.
 <V>mamon Mahikki lehmä</V>
 <V>maahan maion kaatakoo</V>
 <V>paras annin aikanaan;</V>
-<V>sisso&#239;n sinerva-uutti</V>
+<V>sissoi&#776;n sinerva-uutti</V>
 <V>65 maahan villan vuotakoot</V>
 <V>paras villa-aikanaan!"</V>
 </TEXT>
@@ -16781,46 +16781,46 @@ numeroilla.
 <V>sousi tuolle rantaselle,</V>
 <V>10 missä tuo tulonen tuikki,</V>
 <V>valkiainen pilkutteli.</V>
-<V>8. [iso rannalle lassei]&#239;</V>
+<V>8. [iso rannalle lassei]i&#776;</V>
 <V>10. [hevoista]ase [juottamaan]e.</V>
 <V>11. [lunasta iso mi]nuune</V>
-<V>15 11- venäläisi&#239;n veneestä,</V>
+<V>15 11- venäläisii&#776;n veneestä,</V>
 <V>punapaian purjehesta!</V>
 <V>12. [millä mie siu]n [lunastan].</V>
 <V>14. [puol peä'äin] miun [peäästimeks]e,</V>
-<V>15 [henke]&#239;n [lunastimeks]e.</V>
+<V>15 [henke]i&#776;n [lunastimeks]e.</V>
 <V>20 18. [ennenku]in [soti-orosta].</V>
 <V>21. [vello rannalle lassei]pi</V>
-<V>21- ja lasse&#239; laiturille.</V>
+<V>21- ja lassei&#776; laiturille.</V>
 <V>22. [lunasta mi]uista [vello]!</V>
 <V>23. [millä]s [mie siu]n [lunastan]?</V>
 <V>25 25. [puol peä'äin] miun [päästimeks]e,</V>
-<V>26. [henke&#239;n lunastimeks]e.</V>
+<V>26. [henkei&#776;n lunastimeks]e.</V>
 <V>27. [ennen] mie [sisosta luovun]</V>
 <V>28. [ennen ku] [soti-venosta].</V>
 <V>29. [emo rannalle lassei]pi</V>
-<V>30 29- ja l[asse&#239;] l[aiturille]</V>
+<V>30 29- ja l[assei&#776;] l[aiturille]</V>
 <V>30. [lehmäjä]ä[se] [juottamaan]e.</V>
 <V>31. [Annukka rukkoiloo]p:</V>
 <V>32. [lunasta emo minu]une</V>
-<V>33. [venäläisi&#239;]n [venneest]ä!</V>
+<V>33. [venäläisii&#776;]n [venneest]ä!</V>
 <V>35 35. [millä mie siu]n l[unastan]?</V>
 <V>38. [puol peä'äin]i [peäästimeks]e,</V>
-<V>39. [henke&#239;n] [lunastimeks]e.</V>
-<V>42. [siso rannalle lassei]&#239;,</V>
+<V>39. [henkei&#776;n] [lunastimeks]e.</V>
+<V>42. [siso rannalle lassei]i&#776;,</V>
 <V>42<I>-</I> vieri vettä ottamaane.</V>
-<V>40 44. [venäläisi&#239;]n [venneess]ä:</V>
+<V>40 44. [venäläisii&#776;]n [venneess]ä:</V>
 <V>46. [lunasta siso minnuu]ne!</V>
 <V>47. [millä]s [mie siu]n [lunastan]?</V>
 <V>50. [puoli peä'äin päästimeks]e,</V>
-<V>51. [henke&#239;n] [lunastimeksi].</V>
+<V>51. [henkei&#776;n] [lunastimeksi].</V>
 <V>45 52. [ennen] [luovun] siskostaini,</V>
 <V>56. [sota-tiellä sortukoo]ne</V>
 <V>57. [paras sota-aikanaa]se;</V>
-<V>58. [vello]&#239;[n soti-venonen]</V>
+<V>58. [vello]i&#776;[n soti-venonen]</V>
 <V>59. [kahen puolen kaatukoo]ne,</V>
 <V>50 60. [paras sota-aikanaa]se;</V>
-<V>61. [ma]am[mo]&#239;[n Mahikki lehmä]</V>
+<V>61. [ma]am[mo]i&#776;[n Mahikki lehmä]</V>
 <V>62. [maahan maion kaatakoo]ne</V>
 <V>63. [paras an]ti [aikanaa]se,</V>
 <V>60. [maahan villa]t [vuotakoot]e</V>
@@ -16856,7 +16856,7 @@ numeroilla.
 <REFS>
   #1 myöh. lis.
   #2 yl. itkoo.
-  #3 [venläisi&#239;]n.
+  #3 [venläisii&#776;]n.
   #4 miss|ä| : miss <I>on.</I>
   #5 [pilkuttaa]pi.
   #6 [tuleks]e.
@@ -17115,7 +17115,7 @@ merkitty alimuistutuksina.
 <V>talutettiin taivosee</V>
 <V>ilo-sieluin sekkaa;</V>
 <V>avattiin hopia portti,</V>
-<V>tuoti&#239;n hopia tuolit:</V>
+<V>tuotii&#776;n hopia tuolit:</V>
 <V>15 "Istu tuoho, orjo parka,</V>
 <V>jo uot saantu seissakseis</V>
 <V>käyessäis käskyläissä."</V>
@@ -17136,7 +17136,7 @@ merkitty alimuistutuksina.
 <V>"Istu tuoho, isäntä parka,</V>
 <V>jo uoot saantu istukseis</V>
 <V>isäntännä ollessais."</V>
-<V>35 Tuoti&#239;n tulinen tuoppi,</V>
+<V>35 Tuotii&#776;n tulinen tuoppi,</V>
 <V>tuol kärmi keäänteleepi#1,</V>
 <V>sisoliesko sierteleepi,</V>
 <V>tulta tervaa on sisässä:</V>
@@ -17189,11 +17189,11 @@ numeroilla.
 <V>8. [ajo kolm] [pyhäistä miestä],</V>
 <V>10 9. [kolme Herran enkelii]ni.</V>
 <V>9- oli orjo tielle kuoltu</V>
-<V>suin sulla'an, päin lumme&#235;,</V>
+<V>suin sulla'an, päin lummee&#776;,</V>
 <V>koprin ilma'an kovvaane.</V>
 <V>10. [otettiin] on [orjan sielu],</V>
 <V>15 11. [talutettiin taivo]i[see]ne,</V>
-<V>12. [ilo-sielu&#239;n sekkaa]ne;</V>
+<V>12. [ilo-sielui&#776;n sekkaa]ne;</V>
 <V>15. [istu] tuossa [orjo parka],</V>
 <V>16. [jo uot saantu seissakseis]i</V>
 <V>16- orjuuvessa ollessaisi,</V>
@@ -17206,13 +17206,13 @@ numeroilla.
 <V>25. [kolme Herran enkelii]ni.</V>
 <V>26. [oli isäntä tiell]e [kuoltu].</V>
 <V>28. [talutettiin taivosee]ne</V>
-<V>29. [suru-sielu&#239;n sekkaan]e;</V>
-<V>30 31. [tuoti&#239;n tuli]s[e]t [tuoli]t:</V>
+<V>29. [suru-sielui&#776;n sekkaan]e;</V>
+<V>30 31. [tuotii&#776;n tuli]s[e]t [tuoli]t:</V>
 <V>32. [istu] tuoss iloisäntä,</V>
 <V>33. [jo uoot saantu istukseis]i</V>
 <V>34. [isäntännä ollessais]i.</V>
-<V>36. [tuol]l on [kärm]e [keääntelee]&#239;.</V>
-<V>35 37. [sisoliesk]u [siertelee]&#239;:</V>
+<V>36. [tuol]l on [kärm]e [keääntelee]i&#776;.</V>
+<V>35 37. [sisoliesk]u [siertelee]i&#776;:</V>
 <V>39. [ota tuost] ilo isäntä,</V>
 <V>40. [soaant oot oltta juuaksees]i</V>
 <V>41. [isäntännä ollessais]i,</V>
@@ -17489,7 +17489,7 @@ numeroilla.
 <V>tulliit sulhot rikkahasta,</V>
 <V>15 tulliit toiset rahallisest.</V>
 <V>Isoin laittoi rikkahan;</V>
-<V>mie suutuin isso&#239;n peäälle,</V>
+<V>mie suutuin issoi&#776;n peäälle,</V>
 <V>laitoin nuoren miehellä.</V>
 <V>Sulholl on suven ikenet,</V>
 <V>20 karhun maksat kainalossa.</V>
@@ -17535,7 +17535,7 @@ numeroilla.
 <V>5 6- alkoi miiru mielistellä,</V>
 <V>vallan pojat valmistella.</V>
 <V>7. [isä] [toivoi rikkaha]lle,</V>
-<V>8. [emo]&#239;n [raha]kkahalle,</V>
+<V>8. [emo]i&#776;n [raha]kkahalle,</V>
 <V>9. [mie vaan itse Päivälään]e.#1</V>
 <V>10 10. [Päiväläss] ois [päivä lämmin],</V>
 <V>11. päivä lämmin, sulho soria.</V>
@@ -17766,7 +17766,7 @@ siskonsa anopin,
 <V>5 laihan linnun lapsosein#4?</V>
 <V>Liekos soilla vai lie mailla.</V>
 <V>vai lie pitkillä vesillä,</V>
-<V>herro&#239;n hetulehinn#5,</V>
+<V>herroi&#776;n hetulehinn#5,</V>
 <V>papin turkin kauluksinna,</V>
 <V>10 pipin pitkinnä hihoinna?"</V>
 </TEXT>
@@ -17874,7 +17874,7 @@ siskonsa anopin,
 <V>katsoin Luaatukan merelle.</V>
 <V>Mie näin purjen purjehtiini,</V>
 <V>15 sotilaivan lainehtiini,</V>
-<V>siit aloin tello&#239; tehhä,</V>
+<V>siit aloin telloi&#776; tehhä,</V>
 <V>puhastella puolapuita,</V>
 <V>varustella valkamiini.</V>
 <V>Souva tänne, uusi purje,</V>
@@ -17988,8 +17988,8 @@ siskonsa anopin,
 <V>kuin ei vanha virrenseppä,</V>
 <V>ku ei lase laulujaan</V>
 <V>eikä virka virsiään</V>
-<V>vanha laulu&#239;n latoja,</V>
-<V>10 vanha virsi&#239;n vetäjä.</V>
+<V>vanha laului&#776;n latoja,</V>
+<V>10 vanha virsii&#776;n vetäjä.</V>
 <V>Ilotaan nyt tääki ilta</V>
 <V>muihen iltoin mukkaa!</V>
 <V>Taas meitä moni sannoo</V>
@@ -18165,7 +18165,7 @@ numeroilla.
 <V>5 6. [järkytä jäseniää]se,</V>
 <V>6- ku ei virka virsiääse</V>
 <V>eikä lase laulujaase.</V>
-<V>8- vanha laulu&#239;n latoja.</V>
+<V>8- vanha laului&#776;n latoja.</V>
 <V>11. [ilo(n) kasvoin kartanoll]a,</V>
 <V>10 14. [ilo]i[n söin, ilo]i[n makasin].</V>
 <V>12. [ilo istu]i [vieressäin]i,</V>
@@ -18336,7 +18336,7 @@ numeroilla.
 <V>Lankot laula'at hyväste,</V>
 <V>vellokset hyvin vettäätä.</V>
 <V>5 Lyyvä'än käsi kätteene</V>
-<V>laulamakseen#1 on hyvvi&#239;,</V>
+<V>laulamakseen#1 on hyvvii&#776;,</V>
 <V>lauletaan on laatusaste,</V>
 <V>veäätään virttä viisahaste,</V>
 <V>jott ei ihmiset#2 ivvais,</V>
@@ -18667,7 +18667,7 @@ sivumuoto, sitävastoin on <I>-
 <V>25 *palasikse pannessaase,*</V>
 <V>vello vie(r)rettä punaista</V>
 <V>puolikkoo on pannessaase.</V>
-<V>*Tulin toise&#235;n talloone,</V>
+<V>*Tulin toisee&#776;n talloone,</V>
 <V>ei anna emo(ne) voita,</V>
 <V>30 issoin ei sian lihhaane,</V>
 <V>vello ei vierrettä punaista,</V>
@@ -19036,7 +19036,7 @@ sivumuoto, sitävastoin on <I>-
 <V>17. [pooan pahoissa mielissäin]i,</V>
 <V>18. [suru virret suuhun tuop]i,</V>
 <V>15 19. [ikeväinen itkettää]pi,</V>
-<V>19- ve&#235;n silmä'än on vettääpi,</V>
+<V>19- vee&#776;n silmä'än on vettääpi,</V>
 <V>20. [huolet lasta laulattaat]e.</V>
 </TEXT>
 </ITEM>
@@ -19119,7 +19119,7 @@ sivumuoto, sitävastoin on <I>-
 <V>5 ves' on tilkat virsissäni,</V>
 <V>lammikoiset lauluissani.</V>
 <V>1. [Haastan] suulla surkealla,</V>
-<V>5. [sulo] [n suuta&#239;n avata],</V>
+<V>5. [sulo] [n suutai&#776;n avata],</V>
 <V>6. [kesälin]nun [kieloistain]i.</V>
 </TEXT>
 </ITEM>
@@ -19169,11 +19169,11 @@ sivumuoto, sitävastoin on <I>-
 <V>1. [En keääenty laulamaa]ne,</V>
 <V>3- kesoin kuusin kymmeniini.</V>
 <V>5. [jouvuin nuoriin nuotioo]ne,</V>
-<V>6. [laps] on [lapsi&#239;n sekkaa]ne#1,</V>
+<V>6. [laps] on [lapsii&#776;n sekkaa]ne#1,</V>
 <V>5 7. [soaattoit lapset laulamaa]ne,</V>
-<V>8. [panni&#239;t pakajamaa]ne,</V>
+<V>8. [pannii&#776;t pakajamaa]ne,</V>
 <V>9. [tapasin suu'uin laulamast]a,</V>
-<V>10. [itse&#239;n iloitsemast]a.</V>
+<V>10. [itsei&#776;n iloitsemast]a.</V>
 <V>11. [sul]i[n suu'uin laulamast]a.</V>
 <V>10 12. [kätken leikistä keääein]i,</V>
 <V>13. [itsein ilon piee'ost]a</V>
@@ -19317,10 +19317,10 @@ sivumuoto, sitävastoin on <I>-
 <V>Muut lapset olliit opissa,</V>
 <V>muut seisoit seppälässä,</V>
 <V>sepän piihtii pittiit,</V>
-<V>vaali&#239;t vasaran vartta,</V>
-<V>5 paino&#239;t sepän paletta,</V>
+<V>vaalii&#776;t vasaran vartta,</V>
+<V>5 painoi&#776;t sepän paletta,</V>
 <V>sepän liettä liekuttiit,</V>
-<V>likki&#239;t teräksen lientä.</V>
+<V>likkii&#776;t teräksen lientä.</V>
 <V>Enhä mie opissa oltu,</V>
 <V>keäänt on kielen koululoissa,</V>
 <V>10 sepän pihtii en pitänty,</V>
@@ -19360,7 +19360,7 @@ sivumuoto, sitävastoin on <I>-
 <V>9. [k][ä]y[nt] en [kielen koululoissa],</V>
 <V>12. [syönt en rauvan suurumii]ni.</V>
 <V>14. [omat virret oppimain]i,</V>
-<V>10 15. [omat soaama&#239;n sannain]i:</V>
+<V>10 15. [omat soaamai&#776;n sannain]i:</V>
 <V>16. [otin tuumat otsastain]i,</V>
 <V>17. [nenästäin] mie [neuvot keksin],</V>
 <V>18. [risuloist on riuhtomain]i,</V>
@@ -19812,7 +19812,7 @@ sivumuoto, sitävastoin on <I>-
 <V>kieluuvein ponnellaan!</V>
 <V>5 Äijä on eääntäin kulunut,</V>
 <V>vaaksa on varttain valunut,</V>
-<V>siint on männe&#235;n kesosen#1,</V>
+<V>siint on männee&#776;n kesosen#1,</V>
 <V>siint on toisen toukovuuven,</V>
 <V>kyynär kuppeitain.</V>
 </TEXT>
@@ -19840,7 +19840,7 @@ sivumuoto, sitävastoin on <I>-
 <V>4. [kieluuvein] on [ponnellaan]e;</V>
 <V>5 5. [äijä on] [ääntäin] miu [kulunut]u,</V>
 <V>6. [vaaksa] [varttain] on [valunut],</V>
-<V>9. [kyynär] on [kuppe]&#239;t[tain]i,</V>
+<V>9. [kyynär] on [kuppe]i&#776;t[tain]i,</V>
 <V>9- kahen verran kasvojaini</V>
 <V>7- kesosta kulunehesta.</V>
 </TEXT>
@@ -19882,10 +19882,10 @@ sivumuoto, sitävastoin on <I>-
 <V>20 jott se soriin suu kulluupi,</V>
 <V>kauno varsi vaivahuupi.</V>
 <V>Mie en huoli huulistain(i),</V>
-<V>enkä suuta&#239;n sureksi,</V>
+<V>enkä suutai&#776;n sureksi,</V>
 <V>enkä kiellä kieloistain(i);</V>
 <V>25 suu on muillaiki#4 mukana,</V>
-<V>kiel on muilla&#239; keralla.</V>
+<V>kiel on muillai&#776; keralla.</V>
 <V>Passipo emoselleeni,</V>
 <V>*kaks on kantajaisellene,</V>
 <V>1000 tuutijaiselleni!*</V>
@@ -20114,7 +20114,7 @@ sivumuoto, sitävastoin on <I>-
 <V>15 täss ei sorian suu kuluis,</V>
 <V>kaunon vars ei vaivahuis;</V>
 <V>suu on muillai mukana,</V>
-<V>kiel on muilla&#239; keralla.</V>
+<V>kiel on muillai&#776; keralla.</V>
 <V>Mie en huoli huulistain,</V>
 <V>20 enkä kiellä kielostain,</V>
 <V>enkä suutai sureks.</V>
@@ -20149,10 +20149,10 @@ sivumuoto, sitävastoin on <I>-
 <V>14. [kaunot] [vartt] ei [vaivaele],</V>
 <V>15. jott [ei sor]jiin [suu kul]uisi.</V>
 <V>16. [kaunon vars ei vaivahu][s]i,</V>
-<V>15 17. [suu on muilla&#239;] muvassa,</V>
+<V>15 17. [suu on muillai&#776;] muvassa,</V>
 <V>19. [mie en huoli huulistain]i</V>
 <V>20. [enkä kiellä kielostain]i</V>
-<V>21. [enkä suuta&#239; sureks]i.</V>
+<V>21. [enkä suutai&#776; sureks]i.</V>
 </TEXT>
 </ITEM>
   
@@ -20232,7 +20232,7 @@ sivumuoto, sitävastoin on <I>-
 <V>4. viinarallin [rattahille];</V>
 <V>5. [juomari johonki viep]i,</V>
 <V>5 6. [kuhunki kulettelloo]pi,</V>
-<V>6- aita-vieru&#239; ajaapi,</V>
+<V>6- aita-vierui&#776; ajaapi,</V>
 <V>7. [aijan kolkkii] hää [aijjaa]pi,</V>
 <V>8. [seipähii] hän [seisattaa]pi.</V>
 </TEXT>
@@ -20322,7 +20322,7 @@ sivumuoto, sitävastoin on <I>-
 </TEXT>
 <REFS>
   #1 r. (myös: raha saamatta ei sikkii). - huom. punctae diaereseos 
-sikkii&#239; = sanassa.
+sikkiii&#776; = sanassa.
 </REFS>
 </ITEM>
   
@@ -20928,7 +20928,7 @@ tantsiss, kun ei
 <V>toisen sutkin juomattai,</V>
 <V>päivän päälle määrästäin:</V>
 <V>mie laulan 9 yötä#1</V>
-<V>yhen pajja&#239;n panolla,</V>
+<V>yhen pajjai&#776;n panolla,</V>
 <V>10 yhen vyön vyötännällä,</V>
 <V>yhen vatsan syönnöksellä.</V>
 </TEXT>
@@ -21523,12 +21523,12 @@ tuli terveeksi.</L>
 <TEXT>
 <CPT>Tantsuvirsi,</CPT>
 <L>(tahi jos yksinpäissiäis lauletaan mojostetaan).</L>
-<V>Täss on virsi&#239;n#1 vetäjä,</V>
+<V>Täss on virsii&#776;n#1 vetäjä,</V>
 <V>täss on lauluin latoja;</V>
 <V>nyt mie virsii on vetelen,</V>
 <V>nyt mie laitan laululoini;</V>
 <V>5 niinhän minä viritän virttä,</V>
-<V>niin kuin virvi&#239;#2 vetteene;</V>
+<V>niin kuin virvii&#776;#2 vetteene;</V>
 <V>minhän minä puran puhetta,</V>
 <V>kuin puran punaa kerääne,</V>
 <V>*sitä tullo kui tupesta,*</V>
@@ -21741,7 +21741,7 @@ tuli terveeksi.</L>
 <V>huolet lasta laulattaat#8,</V>
 <V>10 ikäväinen itkettää#9,</V>
 <V>suruvirret suuhun tuop#10,</V>
-<V>*vie&#235;n silmä'än vettääpi.*</V>
+<V>*viee&#776;n silmä'än vettääpi.*</V>
 </TEXT>
 <REFS>
   #1 myöh. lis.
@@ -21869,7 +21869,7 @@ tuli terveeksi.</L>
 eikä tantsuvirreksi,
   sillä suurella nuotilla lauletaan.</L>
 <V>Lauloin ennen, taisin ennen,</V>
-<V>muulloin muita&#239;#1 mie opetin,</V>
+<V>muulloin muitai&#776;#1 mie opetin,</V>
 <V>nyt en taia itsekkeääne,</V>
 <V>taij#2 en oikein mie osata</V>
 <V>5 enkä taiten tarkkajella,</V>
@@ -21888,7 +21888,7 @@ eikä tantsuvirreksi,
 <V>tantsin tantsijan takanna.</V>
 </TEXT>
 <REFS>
-  #1 muita&#239; cum punctis diaereseos.
+  #1 muitai&#776; cum punctis diaereseos.
   #2 r. = taija.
   #3 r. viipyneet.
   #4 laulakk|o|aane.
@@ -22250,7 +22250,7 @@ numeroilla.
 <V>30 ku on pantu palmikolle,</V>
 <V>sykkyräll' on synnytetty;</V>
 <V>siit mie jouvan laulamaane,</V>
-<V>kons ei rukke&#235;t rutaja,</V>
+<V>kons ei rukkee&#776;t rutaja,</V>
 <V>ei karise kaura-ripsit#14,</V>
 <V>35 eikä#15 taitu otran tähkä,</V>
 <V>*eikä heinikko heläjä,</V>
@@ -22459,7 +22459,7 @@ numeroilla.
 </META>
 <TEXT>
 <V>1. La l[aula]n [tähän talloo]ne,</V>
-<V>2. [tähän täyte&#235; talloo]ne,</V>
+<V>2. [tähän täytee&#776; talloo]ne,</V>
 <V>2- täss on täyttä tarvitaane,</V>
 <V>täst on aina annetaane,</V>
 <V>5 mie laulan tähän talloone</V>
@@ -22678,7 +22678,7 @@ eeslaulajanna niin
 <V>synnyttelen sykkyräll,</V>
 <V>mie poaan aitan parren päähän.</V>
 <V>Silloin laulan, konsa jouvan,</V>
-<V>15 kons ei rukke&#235;t rutaja,</V>
+<V>15 kons ei rukkee&#776;t rutaja,</V>
 <V>ei karise kaura-ripsit</V>
 <V>eikä taitu otran tähkä,</V>
 <V>kons on kaura koaappunalla,</V>
@@ -22712,7 +22712,7 @@ eeslaulajanna niin
 <V>11. [kerin verrein] mie [keräll]e,</V>
 <V>10 12. [synnyttelen sykkyräll]e,</V>
 <V>13. siit [poaan aitan parren päähän].</V>
-<V>19- kons on rukke&#235;t rutussa,</V>
+<V>19- kons on rukkee&#776;t rutussa,</V>
 <V>20. [siit mie jouvan laulamaa]ne.</V>
 </TEXT>
 </ITEM>
@@ -22967,7 +22967,7 @@ eeslaulajanna niin
 <V>katajainen ol katto päällä.</V>
 <V>Tulkaa suku tukkuu,</V>
 <V>10 ak viel saatais sammumaa!</V>
-<V>Suotta rikoin ree&#235;in,</V>
+<V>Suotta rikoin reee&#776;in,</V>
 <V>kiusen katkoin kaplahain;</V>
 <V>leppänen miu rekkein,</V>
 <V>syvänpuiset kaplahain.</V>
@@ -23675,7 +23675,7 @@ virsissä ja huomattava on
 <TEXT>
 <V>Öskä löskä löytettiini,</V>
 <V>virren seppä virvottiini,</V>
-<V>lyötiin pelto&#239;n perällä,</V>
+<V>lyötiin peltoi&#776;n perällä,</V>
 <V>virpoit veräjän suussa,</V>
 <V>5 yhä virttä virkenoopi,</V>
 <V>yhä eisty'y enemmän.</V>
@@ -23892,7 +23892,7 @@ virsissä ja huomattava on
 <CPT>Liek[kuvirsi].</CPT>
 <V>- - -</V>
 <V>2. [kaih]o [leipäkannikaista],</V>
-<V>4. [suru] [suuruma pallo&#239;],</V>
+<V>4. [suru] [suuruma palloi&#776;],</V>
 <V>4- isostain on miun ikävä,</V>
 <V>kaiho suur' on kantajaista,</V>
 <V>5 6. [murhe musta]-[kulmastain]i,</V>
@@ -23955,7 +23955,7 @@ virsissä ja huomattava on
 <CPT>Liek[kuvirsi].#1</CPT>
 <V>Ei ois suoneet miu sukkuini,</V>
 <V>ei ois lankot#2 laittaneete,</V>
-<V>ei ois miu emmo&#239;n suontu,</V>
+<V>ei ois miu emmoi&#776;n suontu,</V>
 <V>enem(m)än omat eläjät</V>
 <V>5 käyvä renkille rekkieene,</V>
 <V>karjalaisen kaplahille.</V>
@@ -23971,13 +23971,13 @@ virsissä ja huomattava on
 <V>usein on#4 uron sannoissa,</V>
 <V>miehen valskin vannonnassa#5,</V>
 <V>kaikki piiat pettelyööte#6.</V>
-<V>Nythän mie iiä&#239;n itken,</V>
+<V>Nythän mie iiäi&#776;n itken,</V>
 <V>20 ajan kaiken kaikattelen,</V>
 <V>totelt en emon sanaista#7,</V>
 <V>*vakutost en vanhemmaini.*</V>
 <V>En itke emoin peäälle,</V>
 <V>en valita vanhemmaini,</V>
-<V>25 ei uo#8 emmo&#239;n syytä,</V>
+<V>25 ei uo#8 emmoi&#776;n syytä,</V>
 <V>ei uo syytä synnyttäjän,</V>
 <V>ei minnuu emo ajantu,</V>
 <V>mie tein itse itselleini,</V>
@@ -24000,7 +24000,7 @@ virsissä ja huomattava on
 <V>45 en musta emon pesulta#15,</V>
 <V>*en oo saunan saamattuutta</V>
 <V>enkä löylyn luomattuutta,</V>
-<V>en ve&#235;n pesemättyyttä,*</V>
+<V>en vee&#776;n pesemättyyttä,*</V>
 <V>en#16 uo kaita luonnen#17 kaita,</V>
 <V>50 en kaita emon tekemä,</V>
 <V>mie uoon musta murhettain#18,</V>
@@ -24021,7 +24021,7 @@ virsissä ja huomattava on
 <V>käsivarren valkiaisen,</V>
 <V>iso huoli suuret huolet,</V>
 <V>emo kaihot kannatteli,</V>
-<V>*emo murhe&#235;t murensi.*</V>
+<V>*emo murhee&#776;t murensi.*</V>
 </TEXT>
 <REFS>
   #1 myöh. lis.
@@ -24349,7 +24349,7 @@ virsissä ja huomattava on
 <V>Lennä lintu, kiiä korppi!</V>
 <V>- - -</V>
 <V>4. [jos mie huol]i[n täänkin huolen],</V>
-<V>5- tämän murhe&#235;n murennan,</V>
+<V>5- tämän murhee&#776;n murennan,</V>
 <V>8. [meren altoiset ajjaat]a,</V>
 <V>5 9. [meren tyrskyt työntelööt]ö.</V>
 <V>11. hoitamaan miu huoliaini,</V>
@@ -24417,7 +24417,7 @@ virsissä ja huomattava on
 <V>5 vai vestän vetteen lastut?</V>
 <V>Tul'ha polttaa miu tuuvain.#1</V>
 <V>Jos tieen tuvan tullee,</V>
-<V>jos vestän vette&#235;n lastut,</V>
+<V>jos vestän vettee&#776;n lastut,</V>
 <V>ves'ha se viepi miu vestokseen.</V>
 <V>10 Mitäs tehnen kui ruvenen#2</V>
 <V>tämän suuren huolen kanss,</V>
@@ -24483,7 +24483,7 @@ virsissä ja huomattava on
 </META>
 <TEXT>
 <CPT>Liekkulaulu.#1</CPT>
-<V>Käkesin iijä&#239;n kaiken,</V>
+<V>Käkesin iijäi&#776;n kaiken,</V>
 <V>ajan kaiken uhkajelin,</V>
 <V>käkesin käkönä käyvä,</V>
 <V>joka kuusen kukkuvain#2,</V>
@@ -24493,7 +24493,7 @@ virsissä ja huomattava on
 <V>joka latva laulamatta.</V>
 <V>Jo nyt jätti jällen syöntä,</V>
 <V>10 puun pukiks#5 kettäminen.</V>
-<V>Käkesin iijä&#239;n kaiken,</V>
+<V>Käkesin iijäi&#776;n kaiken,</V>
 <V>*ajan kaiken uhkajelin*</V>
 <V>lepytellä huolellista,</V>
 <V>huoletonta itketellä.</V>
@@ -24515,7 +24515,7 @@ virsissä ja huomattava on
   #5 [pukiks]e.
   #6 yl. mie.
   #7 [lauleloo]pi.
-  #8 [huhho&#239;loo]pi.
+  #8 [huhhoi&#776;loo]pi.
   #9 Säkeiden järjestys 23, 22 toistamiseen laulettaessa, muutettu numeroilla.
   #10 [kävvyy]pi.
 </REFS>
@@ -24904,7 +24904,7 @@ virsissä ja huomattava on
 <V>1. [Mie kun miitin mielellein]i,</V>
 <V>2. [ajattelen aivolleein]i</V>
 <V>3. [ennistä elämäjjäin]i,</V>
-<V>4. [vierööt vie&#235;t silmiheen]i</V>
+<V>4. [vierööt viee&#776;t silmiheen]i</V>
 <V>5 5. [helkkiämmät hernehii]ni,</V>
 <V>6. [kalkkiammat karpaloi]ni,</V>
 <V>7. [paksummat pa'un jyvvii]ni.</V>
@@ -24916,7 +24916,7 @@ virsissä ja huomattava on
 <V>14. [muhotellen] muihen muorit.</V>
 <V>19. [jouvun kylmä'ä kyllää]ne,</V>
 <V>15 21. [rautasee] on [rahvohaa]ne,</V>
-<V>20. [perehe&#235;] on [vierahaa]ne.</V>
+<V>20. [perehee&#776;] on [vierahaa]ne.</V>
 </TEXT>
 </ITEM>
   
@@ -25203,7 +25203,7 @@ virsissä ja huomattava on
 <V>Enemmän miulla huolta</V>
 <V>ku huolen-hoitajalla,</V>
 <V>suuren kaihon kantajalla,</V>
-<V>5 murhe&#235;n-murentajalla.</V>
+<V>5 murhee&#776;n-murentajalla.</V>
 <V>En o hoikka luone hoikka.</V>
 <V>Anna surra suuren ruunan,</V>
 <V>murehtii mustan ruunan,</V>
@@ -25211,7 +25211,7 @@ virsissä ja huomattava on
 <V>10 hevosell on luu lujemp,</V>
 <V>luu lujemp, jää kovemp,</V>
 <V>kui surroo suuri ruuna,</V>
-<V>huoli&#239; hyvä hevonen</V>
+<V>huolii&#776; hyvä hevonen</V>
 <V>piian hoikan huolijais,</V>
 <V>15 piian kaian kaihojais.</V>
 <V>Huolet huonoks vettäät,</V>
@@ -25219,7 +25219,7 @@ virsissä ja huomattava on
 <V>murhe muita mustemmaks.</V>
 <V>En ois saunan saamattuutta,</V>
 <V>20 en löylyn luomattuutta,</V>
-<V>en vie&#235;n pesemättyyttä.</V>
+<V>en viee&#776;n pesemättyyttä.</V>
 <V>Tek ehtone emmoen,</V>
 <V>tek voiset saippuvaiset,</V>
 <V>tek liukkaat lipiät,</V>
@@ -25377,7 +25377,7 @@ virsissä ja huomattava on
 <V>1. [Mahoit ehtonen emmoin]i,</V>
 <V>1- mahoit ennen maammoseini,</V>
 <V>2. [männä meren rantasell]e,</V>
-<V>3. [pessä pieni]&#239; [kivi]ni,</V>
+<V>3. [pessä pieni]i&#776; [kivi]ni,</V>
 <V>5 4. [kapaloija karttusii]ni,</V>
 <V>5. [ku vaali]i#1 [tätä tytöistä],</V>
 <V>5- tätä lasta liekutella,</V>
@@ -25411,7 +25411,7 @@ virsissä ja huomattava on
 </META>
 <TEXT>
 <V>Mahtoi ennen miu emmoi</V>
-<V>viun vette&#235;n visata,</V>
+<V>viun vettee&#776;n visata,</V>
 <V>panna tuutusen tullee;</V>
 <V>ei ois miel mettä tehty,</V>
 <V>5 syvän synnyttänt olutta,</V>
@@ -25520,7 +25520,7 @@ laulettaessa.
 <V>mie oon tauvin tähtehii#6,</V>
 <V>sovan suuren suutehii#7,</V>
 <V>15 mie oon jääneitä jälellä#8;</V>
-<V>ajoin surman suun e&#239;tsen,</V>
+<V>ajoin surman suun ei&#776;tsen,</V>
 <V>kalman kammarin perätsen,</V>
 <V>jott ois ottant miuisen,</V>
 <V>ottaint#9 ois kova osaisen#10.</V>
@@ -25698,7 +25698,7 @@ numeroilla.
 <V>kylpönt' en kylän vesillä,</V>
 <V>30 pest en perreen vesillä,</V>
 <V>mie vaan kylvin kyyneleillä,</V>
-<V>kun puhelin Jumalan pu&#239;lle.</V>
+<V>kun puhelin Jumalan pui&#776;lle.</V>
 </TEXT>
 </ITEM>
   
@@ -26095,13 +26095,13 @@ muutettu numeroilla.
 <V>syvän synnyttää olutta,</V>
 <V>14. [miel terva']a [tekis]i,</V>
 <V>13. [syvän syttä polttelis]i,</V>
-<V>10 10. [paremp ois tännä&#239; päinn]ä,</V>
+<V>10 10. [paremp ois tännäi&#776; päinn]ä,</V>
 <V>11. [huokeamp ois huomenna]ki.</V>
 <V>14- ku' ei ois ehtonen emoni,</V>
 <V>ku ei ois synnyttänyt minuista</V>
 <V>16. [näille]n [päiville]n [pahoille],</V>
 <V>15 17. [mokomille]n [mielaloille]</V>
-<V>19. [kaikki&#239;n] on [sanottavaks]e,</V>
+<V>19. [kaikkii&#776;n] on [sanottavaks]e,</V>
 <V>20. [kielin kelläjeltäväks]e.</V>
 <V>21. [ossa]jelha [miu emmoin]i,</V>
 <V>22. [ossais] heä [omenat tehhä],</V>
@@ -26148,7 +26148,7 @@ muutettu numeroilla.
 <V>poika kalkinen koaaontu,</V>
 <V>näiltä päiviltä pahoilta,</V>
 <V>ilkiöilt istumilta,</V>
-<V>kaikki&#239;n sanottavanta,</V>
+<V>kaikkii&#776;n sanottavanta,</V>
 <V>20 kielin kelläjeltäväntä.</V>
 <V>Moni paskanen pannoot,</V>
 <V>moni kehno kelläjäävät,</V>
@@ -26189,7 +26189,7 @@ muutettu numeroilla.
 </META>
 <TEXT>
 <V>1. [Paremp ois olt miu]n [polosen],</V>
-<V>4. [paremp ois tännä&#239; päinn]ä,</V>
+<V>4. [paremp ois tännäi&#776; päinn]ä,</V>
 <V>5. [huokeamp ois huomenna]kki,</V>
 <V>6. [mitä henkii ois vähem]pi,</V>
 <V>5 7. [sit]ä [huolt] ois [huokeamp].</V>
@@ -26396,7 +26396,7 @@ muutettu numeroilla.
 <V>ja anottu ahkerasti,</V>
 <V>ku ei ois kuomat kutsuneet,</V>
 <V>5 vaterin ei voaatinieet,</V>
-<V>kuomat kutsu&#239;t hyvästi,</V>
+<V>kuomat kutsui&#776;t hyvästi,</V>
 <V>kovin vaatiit vaterit,</V>
 <V>tulin kuoman kutsuntaa,</V>
 <V>tulin vaterin voaaintaa.</V>
@@ -26437,7 +26437,7 @@ numeroilla.
 <V>3. [ja anottu ahkerast]e,</V>
 <V>5 4. [ku ei ois kuomat kutsuneet]e,</V>
 <V>5. [vateri]i[n ei voaatinieet]e,</V>
-<V>7. hyvin [vaati&#239;t vaterit].</V>
+<V>7. hyvin [vaatii&#776;t vaterit].</V>
 <V>8. [tulin kuoman kutsuntaa]ne,</V>
 <V>9. [vateri]i[n] on [voaaintaa]ne.</V>
 <V>10 10. [kell ei] [kuomast]a [kylä]llä,</V>
@@ -26737,7 +26737,7 @@ numeroilla.
 <V>*En oo siitte siivoin syönty,</V>
 <V>en siitte sikkii ma'antu,</V>
 <V>kuin miun eukkoin illasteli,</V>
-<V>10 kuin miun maammo&#239;n makkoitti.</V>
+<V>10 kuin miun maammoi&#776;n makkoitti.</V>
 <V>Jo näkky'y nälkä tulla</V>
 <V>ison tuomilla kaloilla,</V>
 <V>emon leivän leivonnalla,</V>
@@ -26998,7 +26998,7 @@ numeroilla.
 <V>silloikse lika siojoini,</V>
 <V>likalammin laituriks.</V>
 <V>16. kyllhä [puura]t [puuta tuovat],</V>
-<V>17. [orot orsi&#239; vettäät]ä,</V>
+<V>17. [orot orsii&#776; vettäät]ä,</V>
 <V>20 18. [mitä suoho sorretaa]se,</V>
 <V>18- lammikkoo on laitetaane,</V>
 <V>19. [likkaa lätikkö puuks]e</V>
@@ -27198,7 +27198,7 @@ numeroilla.
 <V>ajjan selkii ajjaa,</V>
 <V>seipähii seisattaa.</V>
 <V>Jouvuin kulkijan kupille</V>
-<V>ja va&#239;ll vaivasiin,</V>
+<V>ja vai&#776;ll vaivasiin,</V>
 <V>10 jouvuin köyhän keitoksill,</V>
 <V>rasva rikkaan rokass,</V>
 <V>kettu köyhän keitoksess.</V>
@@ -27525,7 +27525,7 @@ numeroilla.
 <V>istun ilveksen rekkeene,</V>
 <V>ilves viep ison kottiine,</V>
 <V>kantaa vellon kartanolle,</V>
-<V>15 viep on maammo&#239;n majoille,</V>
+<V>15 viep on maammoi&#776;n majoille,</V>
 <V>tassii toaaton tanhuvalle.</V>
 <V>En istu revon rekkee,</V>
 <V>revoll on reki matala,</V>
@@ -27881,7 +27881,7 @@ numeroilla.
 <TEXT>
 <V>Kot' on muilla kuola-suilla,</V>
 <V>maja on muilla maitosuilla;</V>
-<V>onhan pyyllä&#239; pesonen,</V>
+<V>onhan pyylläi&#776; pesonen,</V>
 <V>tetrilöill on tehtapaikka,</V>
 <V>5 pyy lentää pesosehheen,</V>
 <V>tetri lentää tehta paikkaa.</V>
@@ -27938,7 +27938,7 @@ numeroilla.
 <V>12. [tuul on usta turjuttaa]pi,</V>
 <V>13. [ahavainen läikyttää]pi,</V>
 <V>14. [Lempo liet]tä liekuttapi,</V>
-<V>15 15. [tuul]i [tuhki]&#239; puhhuupi,</V>
+<V>15 15. [tuul]i [tuhki]i&#776; puhhuupi,</V>
 <V>16- majan marja-kankahalta,</V>
 <V>17. [se on suur suojaltaa]se.</V>
 <V>19. [tykelä] [tuvass] on [toisen],</V>
@@ -28101,7 +28101,7 @@ numeroilla.
 <V>arkipaijan antajaa.</V>
 <V>Kui miu emmoin eläisi,</V>
 <V>15 toaatto maita tallajaisi,</V>
-<V>moaata verka&#239;n vetäisi,</V>
+<V>moaata verkai&#776;n vetäisi,</V>
 <V>heää miu sais sarkaviitan,</V>
 <V>kaunot koaatiot tekis,</V>
 <V>antais aina aivinaiset,</V>
@@ -28835,7 +28835,7 @@ vartelot ja
 <V>Luulin polonen piika</V>
 <V>päivän päältäin puttuoo,</V>
 <V>kohastain kuun kattuoo:</V>
-<V>40 kuu paistaa kojji&#239;n päälle,</V>
+<V>40 kuu paistaa kojjii&#776;n päälle,</V>
 <V>päivä päälle kartanoin.</V>
 </TEXT>
 </ITEM>
@@ -28907,7 +28907,7 @@ vartelot ja
 <V>liiell' ol liha-pallain,</V>
 <V>puukolossa kohtaloin,</V>
 <V>10 palasein pankon päässä.</V>
-<V>Kun kuoli koij&#239;n vanhin,</V>
+<V>Kun kuoli koiji&#776;n vanhin,</V>
 <V>katos vanhin kartanosta,</V>
 <V>hävis orrelta ossain,</V>
 <V>palasein parren päästä,</V>
@@ -29266,7 +29266,7 @@ vartelot ja
 <V>miu tul emmuoo ikävä,</V>
 <V>10 mie kiisin kirkkosee,</V>
 <V>kiisin kirkon penkin päähän,</V>
-<V>kuuntelin emmo&#239;n eääntä,</V>
+<V>kuuntelin emmoi&#776;n eääntä,</V>
 <V>valitosta vanhemmaini;</V>
 <V>kuulunt ei emmoin ääntä,</V>
 <V>15 valitost ei vanhemmain;</V>
@@ -29309,7 +29309,7 @@ vartelot ja
 <V>10 9. [miu]n [tul[' emmuo'o#1 [ikävä],</V>
 <V>10. [mie] vaan [kiisin kirkkosee]ne,</V>
 <V>13. [valitosta vanhem]p[aini];</V>
-<V>14. ei kuultu [emmo&#239;n ääntä],</V>
+<V>14. ei kuultu [emmoi&#776;n ääntä],</V>
 <V>15. [valitost ei vanhemmain]i;</V>
 <V>15 16. [mie] siit [kiisin kirkkomaalle],</V>
 <V>17. [mie] vaan [ristille ritajin],</V>
@@ -29370,7 +29370,7 @@ vartelot ja
 <V>Miun tul emmo ikävä,</V>
 <V>10 mie kiisin kirkkosee,</V>
 <V>kiisin kirkon-penkin päähän,</V>
-<V>kuuntelin emmo&#239;n ääntä,</V>
+<V>kuuntelin emmoi&#776;n ääntä,</V>
 <V>valitusta vanhemmain,</V>
 <V>en kuult emmoin ääntä,</V>
 <V>15 valitusta ei vanhemmain,</V>
@@ -29411,7 +29411,7 @@ vartelot ja
 <V>10 9. [miun tul emmo]'on [ikävä],</V>
 <V>10. [mie] vaan [kiisin kirkkosee]ne,</V>
 <V>13. [valit]o[sta vanhemmain]i,</V>
-<V>14. [en kuult]u [emmo&#239;n ääntä],</V>
+<V>14. [en kuult]u [emmoi&#776;n ääntä],</V>
 <V>15. [valit]o[st] [ei vanhemmain]i,</V>
 <V>15 16. [mie] vaan [kiisin kirkkomaahan].</V>
 <V>20. [älä piennä piikaseen]i,</V>
@@ -29577,7 +29577,7 @@ vartelot ja
 <V>vaikk on kuu kumottakoone;</V>
 <V>5 häkänen emoton sauna,</V>
 <V>vaikk on päivän lämmitköön;</V>
-<V>ruokonen isso&#239;n ruoska,</V>
+<V>ruokonen issoi&#776;n ruoska,</V>
 <V>vaikk on kuuron ruoskikoon;</V>
 <V>villanen emosen vitsa,</V>
 <V>10 vaikk on viikon vitsokoone;</V>
@@ -29634,13 +29634,13 @@ vartelot ja
 <V>toimetta totisen Luojan.</V>
 <V>5 Pie#4, Jumala, piirissäin,</V>
 <V>vaali valtakunnassais#5,</V>
-<V>akkiloi jalla&#239;s alla!</V>
+<V>akkiloi jallai&#776;s alla!</V>
 <V>*Ei ole pololla puolta,</V>
 <V>ei oo puolta puolettoman.*</V>
 </TEXT>
 <REFS>
   #1 myöh. lis. "Liekussa".
-  #2 [jonna]&#239;.
+  #2 [jonna]i&#776;.
   #3 [kunnai] on.
   #4 [pie] sie.
   #5 [valtakunnassais]i.
@@ -29730,7 +29730,7 @@ vartelot ja
 <V>Jos mie kuolen korven päähän,</V>
 <V>koaaon kankaan nenneää,</V>
 <V>10 saavat lintuiset lihhoan,</V>
-<V>varikset varri&#239; vertä,</V>
+<V>varikset varrii&#776; vertä,</V>
 <V>suvet suojaan vetteäät,</V>
 <V>karhut kuopan kaiveloot,</V>
 <V>harakka lukko'o hauvan,</V>
@@ -29877,7 +29877,7 @@ vartelot ja
 <TEXT>
 <V>Kui mie tehnen, kui ruvennen#1,</V>
 <V>tehnenkos tuvan tullee#2,</V>
-<V>vai vestän vette&#235;n lastut?</V>
+<V>vai vestän vettee&#776;n lastut?</V>
 <V>Jos mie teen tuvan tullee#3,</V>
 <V>5 tul po[l]ttaa miu tuuvvain#4,</V>
 <V>ves viep#5 vestokseen#6.</V>
@@ -29908,10 +29908,10 @@ vartelot ja
 <CPT>Liekuss.#1</CPT>
 <V>*Kui mie tehnen, kui ruvennen,*</V>
 <V>Tehnenkös#2 tuvan tullee#3,</V>
-<V>vai vestän vette&#235;n lastut?</V>
+<V>vai vestän vettee&#776;n lastut?</V>
 <V>Jos mie teen tuvan tullee#3,</V>
 <V>5 tuli polttaa miu tuuvain,#4</V>
-<V>*jos vestän vette&#235; lastut,*</V>
+<V>*jos vestän vettee&#776; lastut,*</V>
 <V>ves viep vestokseen#5.</V>
 <V>- - -</V>
 </TEXT>
@@ -30353,7 +30353,7 @@ vartelot ja
 <V>sissoist#10 ei sivusessaani.</V>
 <V>Miull on mieli melkiässä,</V>
 <V>35 syvä synkäss on#11 salossa.</V>
-<V>Jos miu tuttu&#239;n tulisi,</V>
+<V>Jos miu tuttui&#776;n tulisi,</V>
 <V>ennen nähtyin miu näkyis,</V>
 <V>tuntisin tutun tulosta,</V>
 <V>astunnast on#12 arvajaisin.</V>
@@ -30428,7 +30428,7 @@ vartelot ja
 <V>7. [sur] et [sulhon soriattuutta]</V>
 <V>8. [e]t[kä#1 miehen mielettyyttä];</V>
 <V>9. [itken assioi] mie [anopin];</V>
-<V>10. [antaat asia&#239;n ommain]i;</V>
+<V>10. [antaat asiai&#776;n ommain]i;</V>
 <V>10 12. [tulin vanhaks]e [varrain]i</V>
 <V>13. ja [akaks]e [aikaseen].</V>
 </TEXT>
@@ -30558,7 +30558,7 @@ vartelot ja
 </META>
 <TEXT>
 <CPT>Liekkuvirsi.#1</CPT>
-<V>En itke emmo&#239;n peäälle,</V>
+<V>En itke emmoi&#776;n peäälle,</V>
 <V>en valita vanhemmain#2,</V>
 <V>ei uoo#3 emmoin syytä,</V>
 <V>ei uoo#4 syytä synnyttäjän;</V>
@@ -30672,7 +30672,7 @@ vartelot ja
 <V>kuin vanki Vennäin maalla.</V>
 <V>Kuin mikä pahoin tulloo,</V>
 <V>se on kaikk miniän syytä,</V>
-<V>15 pojan naine&#235;n asia;</V>
+<V>15 pojan nainee&#776;n asia;</V>
 <V>kun mikä hyvin tulloo,</V>
 <V>tytön työks työnnetään,</V>
 <V>asiaks annetaan;</V>
@@ -30717,7 +30717,7 @@ vartelot ja
 <V>9. [vallan herrat valloissaa]se:</V>
 <V>10- niin kuin kyyttö kytkyessä,</V>
 <V>11. taihka [orjo kaupunnissa],</V>
-<V>15 12. tai [vanki Vennä]&#239;[n maalla]:</V>
+<V>15 12. tai [vanki Vennä]i&#776;[n maalla]:</V>
 <V>13. [kuin mikä pahoin tulloo]pi,</V>
 <V>14. miniän syykse synkässääse,</V>
 <V>14- asiakse annetaane;</V>
@@ -30887,7 +30887,7 @@ vartelot ja
 <V>*ilotaan myö tääkin ilta</V>
 <V>15 muihen iltoin mukkane,</V>
 <V>remutaan myö tääkin ilta</V>
-<V>muihen retki&#239;n mukkaane.*</V>
+<V>muihen retkii&#776;n mukkaane.*</V>
 <V>Mitäs minä sanoista huolin,</V>
 <V>ketäs pelkään, en kettään,</V>
 <V>20 la sannooto, la pannoot,</V>
@@ -31168,7 +31168,7 @@ vartelot ja
 <V>Tiettäisin surusta suitset,</V>
 <V>päitset päivistä pahoista,</V>
 <V>satulan kylän sanoista,</V>
-<V>kirve&#235;n kylän kiroista.</V>
+<V>kirvee&#776;n kylän kiroista.</V>
 <V>5 Mitäs mie sanoista huolin,</V>
 <V>tottelen kylän torista,</V>
 <V>mie oon sattunt sannoi,</V>
@@ -31205,8 +31205,8 @@ vartelot ja
 <V>päitset päivist ei pahoista,</V>
 <V>ei kirves kylän kiroista.</V>
 <V>6. kutas tottelen torista,</V>
-<V>10 7. [mie oon sattun]u[t sanno&#239;],</V>
-<V>8. [tottun]u[t kylän torri&#239;];</V>
+<V>10 7. [mie oon sattun]u[t sannoi&#776;],</V>
+<V>8. [tottun]u[t kylän torrii&#776;];</V>
 <V>9. [viipynt] on [kylän vihho]ni,</V>
 <V>10. [käynt] on [toht#1 toran veräjät]</V>
 <V>11. [astunt rikki] Riita-[nurmet].</V>
@@ -31289,7 +31289,7 @@ vartelot ja
 <V>yli kynnyksen kyllään,</V>
 <V>5 yli pellon naapuriin,</V>
 <V>kolme hyvvää jäi kottiin:</V>
-<V>lämmin leipä, voi va&#239;n,</V>
+<V>lämmin leipä, voi vai&#776;n,</V>
 <V>varahainen murkinainen.</V>
 </TEXT>
 </ITEM>
@@ -31613,9 +31613,9 @@ vartelot ja
 <V>9. [kaapasi]n [kalan]-[pallaa].</V>
 <V>10 10. [mäni]n [toisee] mie [talloo]ne,</V>
 <V>11. [iso kutsu]i [kulkijaks]e,</V>
-<V>11- emo&#239;n kävelijäkse,</V>
+<V>11- emoi&#776;n kävelijäkse,</V>
 <V>12. [vello ranna]n [vierijäks]e</V>
-<V>13. [sisso&#239;n kerrä'äjäks]e.</V>
+<V>13. [sissoi&#776;n kerrä'äjäks]e.</V>
 </TEXT>
 </ITEM>
   
@@ -31712,8 +31712,8 @@ numeroilla.
 <V>12. [tii]j[ett' ei tytön nimmii]ni,</V>
 <V>10 13. [iso kutsu kuuvaloks]e#1,</V>
 <V>14. [emo] ehtolapsekseese,</V>
-<V>15. [velloi] miu [ve]&#235;[n kalaks],</V>
-<V>16. [sisso&#239;n sinikeräks]e.</V>
+<V>15. [velloi] miu [ve]e&#776;[n kalaks],</V>
+<V>16. [sissoi&#776;n sinikeräks]e.</V>
 <V>16- olin yksi eukollaini,</V>
 <V>15 18. [maksoin kaks kassariis]sa#2,</V>
 <V>18- kaksi kassarin ranissa.</V>
@@ -31733,7 +31733,7 @@ numeroilla.
 <V>30 minkän syönen leivässäini.</V>
 <V>40. [mie] vaan [kuuluin kuuluisalle],</V>
 <V>41. mie [heläjin heiluvalle];</V>
-<V>42. [tulin toisie&#235;n talluoo]ne,</V>
+<V>42. [tulin toisiee&#776;n talluoo]ne,</V>
 <V>43. [yli kynnyksen kyllään]e,</V>
 <V>35 44. [yli pellon naapuriin]e.</V>
 </TEXT>
@@ -32127,7 +32127,7 @@ numeroilla.
 </META>
 <TEXT>
 <V>Kaks on meitä kaikkiaan,</V>
-<V>kaks on kaikki&#239;n parasta;</V>
+<V>kaks on kaikkii&#776;n parasta;</V>
 <V>kuin meitä kolmas olis,</V>
 <V>linna uusi ostettaisi,</V>
 <V>5 vanha linna vaihettais,</V>
@@ -32168,7 +32168,7 @@ numeroilla.
 <TEXT>
 <CPT>Liek[kkuvirsi].</CPT>
 <V>1. [Kaks on meitä kaikkiaa]se,</V>
-<V>3. [kuin] se [kolma]&#239;[s olis]i,</V>
+<V>3. [kuin] se [kolma]i&#776;[s olis]i,</V>
 <V>5. [vanha linna vaihettais]i,</V>
 <V>6. [linnat liikuteltasii]ni,</V>
 <V>5 7. [järvet järköteltäsii]ni,</V>
@@ -32247,7 +32247,7 @@ numeroilla.
 <V>10 10. [miehiää]se, [poikiaa]se,</V>
 <V>10- otetaan urosiaase</V>
 <V>11. [tykin suuren suun etteen]e,</V>
-<V>12. [rautakirnu&#239;n kittaa]ne,</V>
+<V>12. [rautakirnui&#776;n kittaa]ne,</V>
 <V>12- rauta-rassin kannantaane,</V>
 <V>15 viiään miehet millitsakse,</V>
 <V>13. [tykki suuri suuteloo]pi,</V>
@@ -32451,7 +32451,7 @@ numeroilla.
 <V>hoit miu petti poika nuori,</V>
 <V>kyllhä muoto muita tuopi,</V>
 <V>lähäs lämpönen vettääpi,</V>
-<V>5 *luonto luokse&#235;n vettääpi,*</V>
+<V>5 *luonto luoksee&#776;n vettääpi,*</V>
 <V>kasvo muita kaunehii.</V>
 <V>Ei pie surra suottenkaane,</V>
 <V>ei paljon pahoilla mielin,</V>
@@ -32490,8 +32490,8 @@ numeroilla.
 <V>toisin Luoja toivotteli,</V>
 <V>miul oli toisin liitto tehty,</V>
 <V>toisin liitto, toisin läkki#2</V>
-<V>10 ulkomaan urro&#239;n kanssa,</V>
-<V>Puolan poiki&#239;n keralla,</V>
+<V>10 ulkomaan urroi&#776;n kanssa,</V>
+<V>Puolan poikii&#776;n keralla,</V>
 <V>kapaloiss oli kauppa tehty,#3</V>
 <V>käs oli lyöty kätkyvessä.</V>
 <V>Niin mie laulan liirittelen</V>
@@ -32507,7 +32507,7 @@ numeroilla.
 <V>jonka viereen mie kävisin,</V>
 <V>25 käisin kännän vartoselle,</V>
 <V>*jolle verrain mie vetäisin,*</V>
-<V>jolle vuote&#235;t tekisin,</V>
+<V>jolle vuotee&#776;t tekisin,</V>
 <V>lakaliinat laittelisin,</V>
 <V>höyhen sänkyt#4 höpsyttäisin.</V>
 </TEXT>
@@ -32733,7 +32733,7 @@ numeroilla.
 <V>ruhvonrikko ruuvan syöpi,</V>
 <V>kun soria soritteipi,</V>
 <V>kaunis vartta'an kanniipi.</V>
-<V>5 Ei pie suuri&#239; suvaita,</V>
+<V>5 Ei pie suurii&#776; suvaita,</V>
 <V>ei valita valkioi:</V>
 <V>suuret päätä'än sukkiiti,</V>
 <V>kaunot varttaan kanniiti.</V>
@@ -32842,7 +32842,7 @@ numeroilla.
 <V>oravaisen tarkat korvat#1,</V>
 <V>5 jalat juoksevan jänösen,</V>
 <V>jott en turhillen tulis,</V>
-<V>enkä sais sanno&#239;n alle,</V>
+<V>enkä sais sannoi&#776;n alle,</V>
 <V>vahinkoo ei vaarahtais,</V>
 <V>horjahtais huoruuvee.</V>
 </TEXT>
@@ -32887,19 +32887,19 @@ numeroilla.
 </META>
 <TEXT>
 <CPT>Liek[kuvirsi].#1</CPT>
-<V>Pitä&#239;s pietteleijä</V>
+<V>Pitäi&#776;s pietteleijä</V>
 <V>pää tarkka, tania mieli,</V>
 <V>ymmärrys ylen leviä,</V>
 <V>oravaisen tarkat korvat,</V>
 <V>5 jalat juoksevan jäniksen#2,</V>
 <V>jott'en turhillen tulis#3</V>
-<V>enkä sais sanno&#239;n alle,</V>
+<V>enkä sais sannoi&#776;n alle,</V>
 <V>vahinkuoo vaarahtais#4,</V>
 <V>horjahtais en huoruuvee#5.</V>
 <V>10 Pian nyt#6 nykyiset,</V>
 <V>nyt nykyiset, sen sekaiset,</V>
 <V>pian turhillen tulloot#7,</V>
-<V>hyö#8 saavat sanno&#239;n alle,</V>
+<V>hyö#8 saavat sannoi&#776;n alle,</V>
 <V>ei usko uron sannoi#9,</V>
 <V>15 *miehen valskin vannomista.*</V>
 </TEXT>
@@ -33132,7 +33132,7 @@ numeroilla.
 <V>itse kynnän, itse kylvän,</V>
 <V>itse vaivanen vakkuoo,</V>
 <V>selässäin on siemen-säkki,</V>
-<V>10 vakkain on voaao&#239;n päässä.</V>
+<V>10 vakkain on voaaoi&#776;n päässä.</V>
 </TEXT>
 </ITEM>
   
@@ -33182,7 +33182,7 @@ numeroilla.
 <V>kohastain ei kuu koaaont:</V>
 <V>kuu paistaa ko'in päälle,</V>
 <V>päivä peäällä kartanoin.</V>
-<V>Niin ne luuli&#239;t monikin,</V>
+<V>Niin ne luulii&#776;t monikin,</V>
 <V>10 moni ajattelliit,</V>
 <V>jott ei miulla milloinkaa,</V>
 <V>kurjasell ei kulloinkaa</V>
@@ -33271,7 +33271,7 @@ numeroilla.
 <V>35. [pitteä'ä pi]ä[ttellei]j[ä],</V>
 <V>37. [ymmärrys ylen] levijä,</V>
 <V>38. [jott e]n [turhille tulis].</V>
-<V>39. [e]n[kä sais sano&#239;n all]e,</V>
+<V>39. [e]n[kä sais sanoi&#776;n all]e,</V>
 <V>30 39- vahinkoo en vaarahtaisi,</V>
 <V>41. [jalat juoksevan jän]ösen.</V>
 <V>43. [kuin piika pahoin tekköö]pi,</V>
@@ -33575,13 +33575,13 @@ numeroilla.
 <V>itse laitoin lahjuksein#10,</V>
 <V>itse valkiat#11 varustin,</V>
 <V>sorin itse suhmanoin#12,</V>
-<V>itse pajja&#239;n panelin,</V>
-<V>15 itse viita&#239;n virutin.</V>
+<V>itse pajjai&#776;n panelin,</V>
+<V>15 itse viitai&#776;n virutin.</V>
 </TEXT>
 <REFS>
   #1 myöh. lis.
   #2 |on|.
-  #3 [iijä&#239;n]i.
+  #3 [iijäi&#776;n]i.
   #4 |ollut| : *oltu*.
   #5 [emmo]i[ni].
   #6 |on| : *ei*.
@@ -33644,7 +33644,7 @@ numeroilla.
 <V>kantamatta kartanoone.</V>
 <V>5 4. [monta kiirettä] [kesällä]:</V>
 <V>7. sek' [on kaunis kaura-niitto]</V>
-<V>6. [ja rutto rukke]&#235;[n niitto],</V>
+<V>6. [ja rutto rukke]e&#776;[n niitto],</V>
 <V>8. sekä [oivo otr]a[n-niitto].</V>
 </TEXT>
 </ITEM>
@@ -33797,7 +33797,7 @@ numeroilla.
 <V>toisin oli miulle tehty,</V>
 <V>toisin liitto, toisin läkki,</V>
 <V>ulkonmaan urroin kanssa,</V>
-<V>10 Puolan poiki&#239;n keralla,</V>
+<V>10 Puolan poikii&#776;n keralla,</V>
 <V>kapaloiss oli kauppa tehty,</V>
 <V>käs on lyöty kätkyessä,</V>
 <V>ulkon maan urroin kanssa#1,</V>
@@ -33827,7 +33827,7 @@ numeroilla.
 <V>2- toisin uljas uhkajelin,</V>
 <V>6. [toisin] miu [käkk]yyöö[ksein]i</V>
 <V>5 7. [toisin] [miull] ol liitto [tehty],</V>
-<V>9. [ulko][maan urro&#239;n kanssa],</V>
+<V>9. [ulko][maan urroi&#776;n kanssa],</V>
 <V>11. [kapaloiss oli kaup][a]t [tehty],</V>
 <V>12. [käs on lyöty kätky]v[essä].</V>
 </TEXT>
@@ -33957,11 +33957,11 @@ numeroilla.
 <V>15. [kuuven veljeksen kottiin]i</V>
 <V>16. [kahen vanhan voaalijaks]e</V>
 <V>17. [miniäks]e [ainoaks]e.</V>
-<V>35 18. [sen miu Luoja&#239;n lupas]i.</V>
+<V>35 18. [sen miu Luojai&#776;n lupas]i.</V>
 <V>22. [apen viel]ä [ankaramman],</V>
 <V>23. [leivät liieltä lukkoo]pi,</V>
 <V>24. [arinalt] on [arveloo]pi,</V>
-<V>24- jott ei saa salla&#239; syyvä,</V>
+<V>24- jott ei saa sallai&#776; syyvä,</V>
 <V>40 kasoin kaksin kerrallaane,</V>
 <V>28. [mie ne luuvalla laka]i[sin].</V>
 </TEXT>
@@ -34409,7 +34409,7 @@ numeroilla.
 <V>1- kaippo kantamaisiaasee:</V>
 <V>poikuuvein oot puoluvein,</V>
 <V>armas mielein oot alainen,</V>
-<V>5 5. [lyö niitty]y [käkki&#239;mättä],</V>
+<V>5 5. [lyö niitty]y [käkkii&#776;mättä],</V>
 <V>5- siit tajjat talonna käyvä,</V>
 <V>talonpoikanna elellä,</V>
 <V>7. [karitsast] on [lammas katso].</V>
@@ -34539,15 +34539,15 @@ numeroilla.
 <V>ken makasi miu marjuuvein(i),</V>
 <V>5 ken lepäis lintuseini#1,</V>
 <V>sen pitäis matonna moaat<I>a</I>(ui)#2,</V>
-<V>käyvä kärmi&#235;n tavalt(i),</V>
+<V>käyvä kärmie&#776;n tavalt(i),</V>
 <V>kulkii on kulon alaits(i),</V>
 <V>männä mättään#3 lävits(i),</V>
 <V>10 vieen alaitse vieretell<I>ä</I>(-ii).</V>
 </TEXT>
 <REFS>
-  #1 al. (laulussa: kuka lintu&#239;n miu lepäsi).
+  #1 al. (laulussa: kuka lintui&#776;n miu lepäsi).
   #2 r. (tahi: maatuu).
-  #3 yl. [mätt]&#235;ään.
+  #3 yl. [mätt]e&#776;ään.
 </REFS>
 </ITEM>
   
@@ -34617,7 +34617,7 @@ numeroilla.
 <V>2. [maksan miestä makkara]ss[a],</V>
 <V>3. [kaks]i [kakkaran joaaoss]a,</V>
 <V>5 7. [mie käsen kätösiiäin]i,</V>
-<V>9. [viit]tä sormi&#239; vir]i[t]ä[n],</V>
+<V>9. [viit]tä sormii&#776; vir]i[t]ä[n],</V>
 <V>11. [peukalo] [urosta] vasten,</V>
 <V>12. [kohta naisen kohtajaap]i.</V>
 </TEXT>
@@ -34840,7 +34840,7 @@ numeroilla.
 <V>5 muut veivät verellissein,</V>
 <V>miulle kehnon kenkkäsiit,</V>
 <V>täi-pään, home sykerön,</V>
-<V>miulle luoti&#239;n lupakko,</V>
+<V>miulle luotii&#776;n lupakko,</V>
 <V>miulle herja heitettiin.</V>
 <V>10 Tuo kui metsää männöö,</V>
 <V>sika syöp selästä lapsen,</V>
@@ -35119,7 +35119,7 @@ numeroilla.
 <V>kannoin rannallen kalluini,</V>
 <V>itse painain (on) pakkoo</V>
 <V>5 pahojain (on) piilomaa,</V>
-<V>töitä&#239;n häppi&#239;mään.</V>
+<V>töitäi&#776;n häppii&#776;mään.</V>
 <V>2. [vihitylle vaimollein]i:</V>
 <V>3. [annoin kai]j[alta katetta],</V>
 <V>6. [viit]t[ä sormii] vaan [vir]i[tin],</V>
@@ -35708,7 +35708,7 @@ numeroilla.
 </META>
 <TEXT>
 <CPT>Miehiin laulu.</CPT>
-<V>1. [Nii] ne [luuli]&#239;t [monikin],</V>
+<V>1. [Nii] ne [luuli]i&#776;t [monikin],</V>
 <V>1- niin moni ajatteliiti</V>
 <V>2. [piikoi] on [pitelevä][n]i,</V>
 <V>3. [akkoi] on [ajelevain]i,</V>
@@ -35718,7 +35718,7 @@ numeroilla.
 <V>6- ja lempo lutuksistaase,</V>
 <V>7. [häijy saivar korvistaa]se</V>
 <V>10 8. [piru heitä pielkyöö]ne.</V>
-<V>9. [Niin sanno&#239;t, niin panniit]i,</V>
+<V>9. [Niin sannoi&#776;t, niin panniit]i,</V>
 <V>10. [syömäriks]e, [juomariks]e,</V>
 <V>11. [kylän kaiken kallariks]e#1.</V>
 <V>14. [es' puolet] emakkoloilta,</V>
@@ -35726,7 +35726,7 @@ numeroilla.
 <V>15. [koin]asin [kukot kotonta],</V>
 <V>16. [aja]sin [akat läijään];</V>
 <V>16- jos mie juomari olisin,</V>
-<V>mie joisin jokka&#239; päivän,</V>
+<V>mie joisin jokkai&#776; päivän,</V>
 <V>20 18. mie joisin [joka kapakan],</V>
 <V>19. [joka pullin pyllist]äisin,</V>
 <V>20. [joka kannun kallist]aisin.</V>
@@ -35849,7 +35849,7 @@ poisjätetyiksi toistamiseen
 <TEXT>
 <CPT>Rekvirsi (miesten laulu).#1</CPT>
 <V>*Voi velloin oot, voi kannaini,</V>
-<V>vello&#239;n sulosannaini,*</V>
+<V>velloi&#776;n sulosannaini,*</V>
 <V>istu vello vierehein#2,</V>
 <V>vasemmallen puolelleen#3,</V>
 <V>5 maksat markan mielestäin#4,</V>
@@ -36115,7 +36115,7 @@ poisjätetyiksi toistamiseen
 <V>3. [Lämps]ä[n Kaisun kainaloo]ne</V>
 <V>5. eikä [haukkujat havaitse],</V>
 <V>5 6- käpälit kävelijöini,</V>
-<V>7. [Merk][i]t [miehi&#239; hyyvvi&#239;].</V>
+<V>7. [Merk][i]t [miehii&#776; hyyvvii&#776;].</V>
 </TEXT>
 </ITEM>
   
@@ -36186,11 +36186,11 @@ poisjätetyiksi toistamiseen
 <V>mie käin hurja hulkkamassa</V>
 <V>ja koira kolajamassa,</V>
 <V>5 narri naimass on kylällä.</V>
-<V>Jo aik ois kotti&#239;n männä,</V>
+<V>Jo aik ois kottii&#776;n männä,</V>
 <V>jo on alku päivän valku,</V>
 <V>kukot laulaat jo kylällä,</V>
 <V>hoikka-sääret hoiluvaata.</V>
-<V>10 Mites nyt kotti&#239;n männen,</V>
+<V>10 Mites nyt kottii&#776;n männen,</V>
 <V>jo on valkia tuvassa,</V>
 <V>vanhemmain on valkialla.</V>
 <V>Siit alkoi emo kysellä:</V>
@@ -36235,7 +36235,7 @@ poisjätetyiksi toistamiseen
 </META>
 <TEXT>
 <V>Älköön isoton poika</V>
-<V>mänköö kossi&#239; pyhännä,</V>
+<V>mänköö kossii&#776; pyhännä,</V>
 <V>ajatelkoo arkennai;</V>
 <V>pyhänn pahatkin piiat</V>
 <V>5 lappavöihen laitteleevat,</V>
@@ -36299,12 +36299,12 @@ paneevat.
 <TEXT>
 <CPT>Liek[kuvirsi].#1</CPT>
 <V>Älköön#2 isoton poika</V>
-<V>mänköö kossi&#239; pyhänä,</V>
+<V>mänköö kossii&#776; pyhänä,</V>
 <V>ajatelkoo arkennakki:</V>
 <V>pyhänkin#3 on pahatkin piiat</V>
 <V>5 lappa-vöihe#4 laitteleevat#5,</V>
 <V>tina-vöihet#6 tietteleevät#7,</V>
-<V>manski-paito&#239; pannoot#8.</V>
+<V>manski-paitoi&#776; pannoot#8.</V>
 <V>Neittä#9 kaselta katso,</V>
 <V>älä katso kirkko-tieltä,</V>
 <V>10 katso kanka'an takanta,</V>
@@ -36348,12 +36348,12 @@ paneevat.
 <TEXT>
 <L>Liek[ussa] ja häissä.#1</L>
 <V>Älkyöö#2 isoton poika</V>
-<V>mänk(y)öö kossi&#239; pyhännä,</V>
+<V>mänk(y)öö kossii&#776; pyhännä,</V>
 <V>ajatelkuoo arkennakki:</V>
 <V>pyhänn#3 on pahatki piiat</V>
 <V>5 lappa-vöihen laittelee(i)vat,</V>
 <V>tinavöihen tieettelee(i)vät#4,</V>
-<V>manski-paito&#239; pannuoot#5.</V>
+<V>manski-paitoi&#776; pannuoot#5.</V>
 <V>Sie neittä#6 kaselta katso,</V>
 <V>katso kanka'an takanta,</V>
 <V>10 kaski-pölkyn kannannasta,</V>
@@ -36395,7 +36395,7 @@ paneevat.
 </META>
 <TEXT>
 <V>Älkö'ön isoton poika</V>
-<V>mänköö kossi&#239; pyhännä,</V>
+<V>mänköö kossii&#776; pyhännä,</V>
 <V>ajatelkoo arkennai:</V>
 <V>pyhänn on pahatkin piiat</V>
 <V>5 lappavöihen laitteleivat,#1</V>
@@ -36540,7 +36540,7 @@ paneevat.
 </META>
 <TEXT>
 <CPT>Miesten laulu.</CPT>
-<V>1. Mie [suotta rikoin ree]&#235;[n]i,</V>
+<V>1. Mie [suotta rikoin ree]e&#776;[n]i,</V>
 <V>2. [Kiusen katkoin kaplahain]i;</V>
 <V>3. [Leppäne] [miu]n [rekkein]i,</V>
 <V>4. [Syvän-puis][t] oli [kaplahain]i,</V>
@@ -36727,7 +36727,7 @@ paneevat.
 <V>*tunnustelen ken tulloopi,</V>
 <V>ajattelen ken ajjaapi.</V>
 <V>Kun miu tuttuin tulisi,</V>
-<V>10 ennen nähty&#239;n näkyisi,*</V>
+<V>10 ennen nähtyi&#776;n näkyisi,*</V>
 <V>kypäräst ja kintahast#3,</V>
 <V>kaikesta#4 keso-kalusta;#5</V>
 <V>tuntisin tutun tulosta,</V>
@@ -36761,8 +36761,8 @@ numeroilla.
 </META>
 <TEXT>
 <CPT>Liek[kuvirsi].#1</CPT>
-<V>Jos miu tuttu&#239;n tulis#2,</V>
-<V>ennen nähty&#239;n näkyis#3,</V>
+<V>Jos miu tuttui&#776;n tulis#2,</V>
+<V>ennen nähtyi&#776;n näkyis#3,</V>
 <V>tuntisin tutun tulosta,</V>
 <V>astunnast#4 arvajaisin,</V>
 <V>5 sille suuta suikkajaisin,</V>
@@ -37540,7 +37540,7 @@ numeroilla.
 <V>10 10. ootkos [emon unoh]tantu,</V>
 <V>11. masentantu oot [maammois]eisi,</V>
 <V>12. [sinipolven polkenu]nna.</V>
-<V>14. kuin [mie maamo&#239;n masensin],</V>
+<V>14. kuin [mie maamoi&#776;n masensin],</V>
 <V>15. [mie] on [sortelin sissoin]i,</V>
 <V>15 16. [naisen nuoren naituvain]i,</V>
 <V>17. [verevän veääettyväin]i,</V>
@@ -37550,11 +37550,11 @@ numeroilla.
 <V>20 21. mie [sain tuhmin tuumi][nee]kse,</V>
 <V>22. [sain pahoin sanonehe]kse,</V>
 <V>23. [sain emon unehtan][eeks]e,</V>
-<V>24. [maammo&#239;n masentan]eekse,</V>
+<V>24. [maammoi&#776;n masentan]eekse,</V>
 <V>26. [näht on vaivaa vaaliess]a,</V>
 <V>25 26- vaivan näht on varrain noustu,</V>
 <V>28. [olt on kynsin kynnyksiss]ä,</V>
-<V>29. [hampa&#239;n vesi]-[hoaaoss]a.</V>
+<V>29. [hampai&#776;n vesi]-[hoaaoss]a.</V>
 </TEXT>
 </ITEM>
   
@@ -37896,7 +37896,7 @@ numeroilla.
 <V>10. [katso varren kaun]u[kkaisen];</V>
 <V>11. [mie viitsin kyllää] on [männä],</V>
 <V>12. [viitsin männä vierahii]ni,</V>
-<V>12- tohin toise&#235; talloone;</V>
+<V>12- tohin toisee&#776; talloone;</V>
 <V>10 nakr ei naiset nääölläini,</V>
 <V>ilmist ei ikenilläini,</V>
 <V>miehet muull ei muuvollain;</V>
@@ -38762,7 +38762,7 @@ toistamiseen laulettaessa.
 <V>4. [ei] tuo [tuuli tuulutkaa]ne,</V>
 <V>5 5. [maajyri järistykää]ne,</V>
 <V>6. [pin] [ei pitkä viertykää]ne,</V>
-<V>6- neion nuotte&#235;t tulliiti,</V>
+<V>6- neion nuottee&#776;t tulliiti,</V>
 <V>8. [tulliit neittä noutamaa]ne,</V>
 <V>9. [pyörykäistä pyytämää]ne.</V>
 </TEXT>
@@ -38853,13 +38853,13 @@ toistamiseen laulettaessa.
 <V>2. [mahtuu] on [vävy tuppaa],</V>
 <V>6- vävyn tullessa tuppaane,</V>
 <V>9. [naakla]'a [napattan]e[ne],</V>
-<V>11. jottei [kaatu&#239;s kapukka],</V>
+<V>11. jottei [kaatui&#776;s kapukka],</V>
 <V>5 12. [nuoen nukka lankiais]i.</V>
 <V>14. [vävyn turkki tuller][oinen]</V>
 <V>15. [orrell]e [ojennettaan]e,</V>
 <V>16. [hursti]t [alle, hursti]t [päälle]</V>
-<V>17. jottei [kaatu&#239;s kapukka].</V>
-<V>10 24. [talli&#239; talutettaan]e,</V>
+<V>17. jottei [kaatui&#776;s kapukka].</V>
+<V>10 24. [tallii&#776; talutettaan]e,</V>
 <V>24- kannetaan katoksen alle,</V>
 <V>26. [jott ei tuiskut tuiskuvais]i,</V>
 <V>27. [satais ei utu satteet]e,</V>
@@ -39217,7 +39217,7 @@ numeroilla.
 <V>5. [kalamiestä kaihottiin]i.</V>
 <V>5 9. keäännellä oron [osasit]</V>
 <V>11. [pöry seääl]lä [pakkasella].</V>
-<V>13. [porsas portti&#239;] [avasi].</V>
+<V>13. [porsas porttii&#776;] [avasi].</V>
 <V>16. [ja emännän heimola]i[ssa].</V>
 <V>17. [sie näit neion kasvavaks]e,</V>
 <V>10 18. [hienotukan tui]kk[avaks]e,</V>
@@ -39236,7 +39236,7 @@ numeroilla.
 <V>33. [kot] [on meill konnun verta],</V>
 <V>34. [maja linna]n [verrallinen],</V>
 <V>25 35. [meill on uuvet ukset ieess]ä,</V>
-<V>35- meill on kaune&#235;t katokset,</V>
+<V>35- meill on kaunee&#776;t katokset,</V>
 <V>38. [hirve]n[luinen lukku ieessä].</V>
 </TEXT>
 </ITEM>
@@ -39363,7 +39363,7 @@ numeroilla.
 <V>viinaratti rallattaa.</V>
 <V>Ois olt miu sissoin,</V>
 <V>ois olt siulla ottaji,</V>
-<V>ois olt vieji&#239; vihille,</V>
+<V>ois olt viejii&#776; vihille,</V>
 <V>15 sie vaa suostut sulhasee,</V>
 <V>suostut sulho sormuksee,</V>
 <V>rakastut pojan rahhoi;</V>
@@ -39388,8 +39388,8 @@ numeroilla.
 <TEXT>
 <V>1 [Käit sie sisko seppäläss]ä</V>
 <V>2. [teräksii] on [tieettämäss]ä,</V>
-<V>3. [rauto&#239; rakentamass]a?</V>
-<V>5. [vai] si&#235; [tieetit rautakenkät],</V>
+<V>3. [rautoi&#776; rakentamass]a?</V>
+<V>5. [vai] sie&#776; [tieetit rautakenkät],</V>
 <V>5 8. [pih]k[i-puoliset pitelet],</V>
 <V>10. [mist se juoma]ri [tulloo],</V>
 <V>11. [viinaratti rallattaa]pi?</V>
@@ -39481,14 +39481,14 @@ numeroilla.
 <V>lautakatto kartanosta;*</V>
 <V>matalaisesta majasta</V>
 <V>korkiaiseeki kottii#6.</V>
-<V>*lähti&#239; tytön tulloopi,*</V>
+<V>*lähtii&#776; tytön tulloopi,*</V>
 <V>10 tyttö on luotu lähtemää.</V>
 </TEXT>
 <REFS>
   #1 myöh. lis.
   #2 [Lähti]i [tytön] [tulloo]ne.
   #3 [korkiaisest]ki.
-  #4 [matalaise&#235;]n.
+  #4 [matalaisee&#776;]n.
   #5 [majjaa]ne.
   #6 [kottii]ni.
 </REFS>
@@ -39583,14 +39583,14 @@ numeroilla.
 <V>8. [näillen päiville]n [pahoille],</V>
 <V>8- mokomille mielaloille,</V>
 <V>10 9. [ilkiöill]e [istu][mille],</V>
-<V>9- kaiki&#239;n sanottavaksi</V>
+<V>9- kaikii&#776;n sanottavaksi</V>
 <V>10. [joka paskan pantavaks]e,</V>
 <V>11. [kielin kelläjeltäväks]e.</V>
 <V>12. [ne samat sanojaisein]i</V>
 <V>15 13. viisi ei maksa [virsujain]i,</V>
 <V>15- sontakaista#1 varvastain,</V>
 <V>16- ne samat sanojaisein.</V>
-<V>17. [mon] on [vartta&#239;n valitsi],</V>
+<V>17. [mon] on [varttai&#776;n valitsi],</V>
 <V>19. [moni] on [moitti muotojain]i,</V>
 <V>20 20. [moni] on [sihti silmiäin]i;</V>
 <V>22. [kuin niill muuvon-moittijoill]a:</V>
@@ -39722,7 +39722,7 @@ numeroilla.
 <V>7. [selin seinää oot issois]i,</V>
 <V>8. [päin issois oot pöytäsee]ne,</V>
 <V>9. [nyt oot pantu palmikkoi]he,</V>
-<V>10. [nyt oot silkki&#239; si]j[ottu].</V>
+<V>10. [nyt oot silkkii&#776; si]j[ottu].</V>
 <V>10 11. [ota aukseeis] sie [Jumala],</V>
 <V>12. [kerallais] on [Herra Jeesus],</V>
 <V>13. [Ota onni ohjollees]i,</V>
@@ -39793,7 +39793,7 @@ numeroilla.
 <V>2. [ku]i[n on kintta'at kääessä],</V>
 <V>5. [ku]in [on jalka kenkitetty],</V>
 <V>6. [toista kenkiteltänee]ne.</V>
-<V>8. [vie&#235;n viemäll]ä [h](o)[aaolla]</V>
+<V>8. [viee&#776;n viemäll]ä [h](o)[aaolla]</V>
 <V>5 10. [tähän kostoon] on [kovvaan]e</V>
 <V>11. [aikaan] on [ani pahhaan]e.</V>
 <V>12. [et kääent]y [lähteväis]i,</V>
@@ -39823,7 +39823,7 @@ numeroilla.
 <V>tään korian kompastuu,</V>
 <V>5 potran polku'un lasseia(-ju).</V>
 <V>Nyt jo kompastu koria,</V>
-<V>potra polkuu on lasse&#239;,</V>
+<V>potra polkuu on lassei&#776;,</V>
 <V>kun olliit poset punais't,</V>
 <V>ol kaunis kasvoltaase,</V>
 <V>10 söivät uuvelta urroot,#1</V>
@@ -40211,7 +40211,7 @@ numeroilla.
 <V>suuri joukku suhmanoi,</V>
 <V>sill on pankko paitasii,</V>
 <V>hänen ehtonen emmoose,</V>
-<V>10 paljon paito&#239; paneli,</V>
+<V>10 paljon paitoi&#776; paneli,</V>
 <V>paljon sori suhmanoi,</V>
 <V>harakkoi paljon hoaalsi.</V>
 </TEXT>
@@ -40289,7 +40289,7 @@ numeroilla.
 <V>3. [viitsit käyvä vieroseen]e,</V>
 <V>5. sie [viitsit kyllä'ä männä],</V>
 <V>5 6. [viitsit] männä [vierahi]ini,</V>
-<V>7. [tohit toise&#235; talloo]ne.</V>
+<V>7. [tohit toisee&#776; talloo]ne.</V>
 </TEXT>
 </ITEM>
   
@@ -40423,7 +40423,7 @@ numeroilla.
 <V>- - -</V>
 <V>5 Osajaaha meiän neito</V>
 <V>panna lankat paikoilleen,</V>
-<V>rihmat risti&#239;n ravata.</V>
+<V>rihmat ristii&#776;n ravata.</V>
 <V>Ei oo kuussa vuolamista,</V>
 <V>päiväss ei silittämistä,</V>
 <V>10 ei oo meiän neiossaan,</V>
@@ -40433,7 +40433,7 @@ numeroilla.
 <V>vaali viikate kättiee,</V>
 <V>15 vaali varsi viikatteehen,</V>
 <V>jott ei niukuis nivveet</V>
-<V>eikä nauku&#239;s napukat.</V>
+<V>eikä naukui&#776;s napukat.</V>
 <V>Kui viet neion niityn päälle,</V>
 <V>siit katso kaven kässii,</V>
 <V>20 hyvän neion hyppysii:</V>
@@ -40472,8 +40472,8 @@ numeroilla.
 <V>9. [päiväss]ä [silittämistä],</V>
 <V>10. [ei oo meiän neiossaa]se.</V>
 <V>13. [kui]n [saat neion naineheks]e,</V>
-<V>14. [vaali viikate kättiee]&#235;,</V>
-<V>15 16. [jottei niuku&#239;s nivveet]e.</V>
+<V>14. [vaali viikate kättiee]e&#776;,</V>
+<V>15 16. [jottei niukui&#776;s nivveet]e.</V>
 <V>19. [siit katso kav]i[n kässii]ni,</V>
 <V>20. [hyvän neion hyppysii]ni,</V>
 <V>21. [jussikkoinen jursahtaa]pi,</V>
@@ -40668,7 +40668,7 @@ morsianta:)</L>
 <TEXT>
 <V>Sulho, viljo veljyyvein,</V>
 <V>sie sulho kanasuuvein,</V>
-<V>käkesit iijä&#239;s kaiken,</V>
+<V>käkesit iijäi&#776;s kaiken,</V>
 <V>ajan kaiken uhkajelit,</V>
 <V>5 sie vannoit valitsevais,</V>
 <V>piikajoukust pitimän,</V>
@@ -40761,7 +40761,7 @@ morsianta:)</L>
 <V>Nouse riihikko reest#7,</V>
 <V>10 alta viitan viirusilmä,</V>
 <V>ala tunkeja tuppaa#8</V>
-<V>muihen naisi&#239;n mukkaa#9,</V>
+<V>muihen naisii&#776;n mukkaa#9,</V>
 <V>istu penkilla pelatos#10,</V>
 <V>mäne pötkö pöyän päähän!</V>
 </TEXT>
@@ -40831,7 +40831,7 @@ morsianta:)</L>
 <TEXT>
 <V>Muut kaikk kannoi naivat,</V>
 <V>mie nai vaivanen varista,</V>
-<V>korppi&#239; kova-osanen.</V>
+<V>korppii&#776; kova-osanen.</V>
 <V>Enhä mie naista naintu,</V>
 <V>5 nai naisen nuttuloi.</V>
 <V>Olisha ollut mie polonen</V>
@@ -40904,12 +40904,12 @@ morsianta:)</L>
 <V>10 25. [oli]t [ennen ollessai]si,</V>
 <V>26. [oli]t [norkka nuorempana],</V>
 <V>28. [hevoista] sie [keikutteli]t,</V>
-<V>29. [luuli]t [lumpe&#235;n pittää]ne,</V>
+<V>29. [luuli]t [lumpee&#776;n pittää]ne,</V>
 <V>30. [meren kaislan kannattaa]ne;</V>
 <V>15 31. [ei se lummen luusintkaa]ne,</V>
 <V>32. [meren kaisl] [ei kannattantu],</V>
-<V>33. [jäi poika vie]&#235;[n varroi]ni,</V>
-<V>34. [lapsi laine&#235;n nojjaan]e.</V>
+<V>33. [jäi poika vie]e&#776;[n varroi]ni,</V>
+<V>34. [lapsi lainee&#776;n nojjaan]e.</V>
 <V>35. [oilhan meitä kuin oli]ki</V>
 <V>20 37. [velloloi] [vene punanen],</V>
 <V>38. [suur oli laiva lankoloi]ni,</V>
@@ -41157,7 +41157,7 @@ morsianta:)</L>
 <V>5 anoppii Aunuksesta</V>
 <V>ja källyy Kärsälästä;</V>
 <V>saant et Suomesta sukkuu,</V>
-<V>anoppi&#239; et Aunuksesta,</V>
+<V>anoppii&#776; et Aunuksesta,</V>
 <V>et källyy Kärsäläst,</V>
 <V>10 pit ottaa omilta mailta,</V>
 <V>oman kukon kuuluvista,</V>
@@ -41450,7 +41450,7 @@ numeroilla.
 <V>3. [toisin sanno'ot saren]n[at],</V>
 <V>4. [toisin ukset ulvassuoot]o,</V>
 <V>5. [kiskorauvat kiljasoot]o.</V>
-<V>5 6. [Kui määt] toise&#235; [talloo],</V>
+<V>5 6. [Kui määt] toisee&#776; [talloo],</V>
 <V>7. ossaa et [ovissa käyvä],</V>
 <V>9. käyvä [miehen mieltä myöten],</V>
 <V>13. [osa]jel' [se miu emmoin],</V>
@@ -41501,7 +41501,7 @@ numeroilla.
 <V>Kuin elin emmoin luonna,</V>
 <V>kasvoin luonna kantajain#2,</V>
 <V>olin luon#3 luojaseen#4.</V>
-<V>Mänin tois(i)e&#235; tall(u)oo#5,</V>
+<V>Mänin tois(i)ee&#776; tall(u)oo#5,</V>
 <V>5 yli kynnyksen kylleää#6,</V>
 <V>yli pellon noaapurii#7,</V>
 <V>kolm#8 hyyvveää jäi kottii#9:</V>
@@ -41616,7 +41616,7 @@ numeroilla.
 <V>revot reij[i]stä reppiit.</V>
 <V>Kui mänet makkailemmaa,</V>
 <V>tulloot tuiskut silmilleis,</V>
-<V>15 nivatos nennä&#239;s päälle.</V>
+<V>15 nivatos nennäi&#776;s päälle.</V>
 </TEXT>
 <REFS>
   #1 yl. "ilman hakkulaa".
@@ -41643,7 +41643,7 @@ numeroilla.
 <V>5. [olliit sorjat suojukseis]i.</V>
 <V>5 7. [kuin m](e)[äät maalle vierahalle],</V>
 <V>7- maalle tuntemattomalle,</V>
-<V>8. [kuin määt toise&#235; talloo]ne,</V>
+<V>8. [kuin määt toisee&#776; talloo]ne,</V>
 <V>9. [katot nissaas katkasoot]e,</V>
 <V>10. [räystäät rievuis] siu [reppiit]i,</V>
 <V>10 11. [suvet syövät salvamist]a,</V>
@@ -41857,7 +41857,7 @@ numeroilla.
 <V>11. [hevoseis] siu [juotetaan]</V>
 <V>15. [herasest]a [lähtehest]ä,</V>
 <V>15 16. [Jorttanaise]s[ta juooe]s[ta],</V>
-<V>17. [viiään heini]&#239; [hevolle],</V>
+<V>17. [viiään heini]i&#776; [hevolle],</V>
 <V>18- itsiäis on syötetääne;</V>
 <V>19. [kui]ha [sie pahoin pitelet],</V>
 <V>20. [hevoseis] siu [hirtetään],</V>
@@ -41888,7 +41888,7 @@ numeroilla.
 <V>nato on noaaklanna ovella.</V>
 <V>5 Älä anna anopin lyyvä,</V>
 <V>apen ruosin roimiloia,</V>
-<V>noaaon nalkki&#239; kivellä,</V>
+<V>noaaon nalkkii&#776; kivellä,</V>
 <V>kyynn kyntyvitsallaan!</V>
 <V>Seiso ieessä niinkuin seinä,</V>
 <V>10 asu ieessä niin kuin aita,</V>
@@ -41931,7 +41931,7 @@ numeroilla.
 </META>
 <TEXT>
 <V>4- kuule, sulho, kui mie laulan,</V>
-<V>ja kuule ku&#239; sanelen!</V>
+<V>ja kuule kui&#776; sanelen!</V>
 <V>5. [äl]' [anna anopin lyyvä],</V>
 <V>6. [apen ruosin roimiloi]j[a],</V>
 <V>5 8. [ky]'[yn] [kyntyvitsallaa]se!</V>
@@ -41976,7 +41976,7 @@ numeroilla.
 <V>älä vitsoin vinkuttele,</V>
 <V>nahkaruosin nauvuttele!</V>
 <V>Älä anna anopin lyyvä,</V>
-<V>noaaon nalkki&#239; kivell,</V>
+<V>noaaon nalkkii&#776; kivell,</V>
 <V>20 apen ruosin roimiloia,</V>
 <V>kyy'yn kynty-vitsallaan!</V>
 <V>Seiso ieessä niinkuin seinä,</V>
@@ -42150,7 +42150,7 @@ numeroilla.
 <V>käynt ei kielten kelleriss,</V>
 <V>kaart' ei maito-kammariss:</V>
 <V>illat uksii käi lukuten,</V>
-<V>aamut aitto&#239; avaten.</V>
+<V>aamut aittoi&#776; avaten.</V>
 <V>20 Olha meiän neiollan#4</V>
 <V>liha tiinu tietyssään,</V>
 <V>vallassaan ol voivatinen;</V>
@@ -42208,8 +42208,8 @@ numeroilla.
 <TEXT>
 <CPT>Hääruno juomarille.</CPT>
 <V>Älä meiän neiostaan,</V>
-<V>älä vieru&#239; vetele,</V>
-<V>ajan kolkki&#239; ajele,</V>
+<V>älä vierui&#776; vetele,</V>
+<V>ajan kolkkii&#776; ajele,</V>
 <V>seipähii seisattele,</V>
 <V>5 älä kuoleta villuu,#1</V>
 <V>palennuta pakkasiee!</V>
@@ -42258,7 +42258,7 @@ numeroilla.
 <V>vaali viikate kättee,</V>
 <V>vaali vars viikatteehen,</V>
 <V>ettei niukuis nivveet,</V>
-<V>5 eika nauku&#239;s napukat.</V>
+<V>5 eika naukui&#776;s napukat.</V>
 <V>Kui viet neion niityn päälle,</V>
 <V>siit katso kavin#1 kässii</V>
 <V>hyvän neion hyppysii#2:</V>
@@ -42329,7 +42329,7 @@ numeroilla.
 </META>
 <TEXT>
 <V>Kuule, sulho, kui mie laulan</V>
-<V>ja kuule ku&#239; sanelen,</V>
+<V>ja kuule kui&#776; sanelen,</V>
 <V>kuule, sulho, kullan poika,</V>
 <V>mies kuulu, Kalervan poika,</V>
 <V>5 kuule, kuuntele hyväst,</V>
@@ -42389,7 +42389,7 @@ numeroilla.
 <V>10 15. [älä ota orjaksees]e,</V>
 <V>16. [pane palkan-piiaksees]i,</V>
 <V>17. [ota orjo kaupunnist]a,</V>
-<V>18. ja [vank]i [Vennä]ä[&#239;n moaalta]</V>
+<V>18. ja [vank]i [Vennä]ä[i&#776;n moaalta]</V>
 <V>19. [älä kutsu kurvijais]i,</V>
 <V>15 20. [älä huuva huorijais]i.</V>
 <V>21. [pie vihitty vieressäis]i,</V>
@@ -42489,7 +42489,7 @@ numeroilla.
 <V>18. [ei uoo kuussa] vuolemista.</V>
 <V>15 20. [jo se]n [eukko ennen neuvo],</V>
 <V>21. [oma vanhempji [opetti],</V>
-<V>22. [oike]&#235;[n omin takkee]ne.</V>
+<V>22. [oike]e&#776;[n omin takkee]ne.</V>
 </TEXT>
 <REFS>
   #1 yl. lauhkeemmakse.
@@ -42566,7 +42566,7 @@ numeroilla.
 <V>kyll se ommella ossaa,</V>
 <V>kyll se tietää tikkajella,</V>
 <V>panna lankat paikoilleen,</V>
-<V>rihmat risti&#239;n ravata,</V>
+<V>rihmat ristii&#776;n ravata,</V>
 <V>30 keträä rihmat kieremmäksi,</V>
 <V>laskoo lankan lievemmäksi;</V>
 <V>ei uo kuussa vuolamista,</V>
@@ -42636,7 +42636,7 @@ viikate pannaan
 <V>25 32. [ei uo kuussa vuol]e[mista].</V>
 <V>35. [vaali viikate kätteen]e,</V>
 <V>37. [jott ei niukkuis] ne [niveet]e,</V>
-<V>38. [eikä naukk]u[&#239;s nupukat],</V>
+<V>38. [eikä naukk]u[i&#776;s nupukat],</V>
 <V>39. [sit katso kavin kässii]ni,</V>
 <V>30 40. [hyvän neion hyppösii]ni,</V>
 <V>41. [jusikoinen jursahtaa]pi,</V>
@@ -42697,7 +42697,7 @@ viikate pannaan
 <V>5. [älä vierui] sie [vetele],</V>
 <V>5 6. [ai]j[an kolkkii] sie [ajele],</V>
 <V>7. [seip][ähii] on [seisattele].</V>
-<V>8. [kui sie vieru]&#239; [vetelet],</V>
+<V>8. [kui sie vieru]i&#776; [vetelet],</V>
 <V>8- aijan kolkkii sie ajelet,</V>
 <V>seipähii sie seisattelet,</V>
 <V>10 9. kui sie [meiän] neitoseense,</V>
@@ -42765,7 +42765,7 @@ viikate pannaan
 <V>5 *marjakseis sie maanittele,*</V>
 <V>limoittele linnukseis#4,</V>
 <V>äl' anna anopin lyyvä,</V>
-<V>naaon nalkki&#239; kivellä,</V>
+<V>naaon nalkkii&#776; kivellä,</V>
 <V>*apen ruosin roimiloija,*</V>
 <V>10 kyy'yn kynty-vitsalla#5,</V>
 <V>naaot on#6 naaklanna ovella,</V>
@@ -42886,7 +42886,7 @@ viikate pannaan
 <V>toin on parkki-kankahalla,</V>
 <V>30 kolmas on kotonna aitta:</V>
 <V>yks hiirii hilaji,</V>
-<V>toine rotti&#239; romaji,</V>
+<V>toine rottii&#776; romaji,</V>
 <V>kolmas tyhjä tykkyneää.</V>
 <V>Tupa ku[u]ella tukilla#2,</V>
 <V>35 seitsemällä seipähällä.</V>
@@ -42939,7 +42939,7 @@ viikate pannaan
 <V>27. [eik uoo kussa'a kuttaa]ne;</V>
 <V>29. [toin]en [parkki-kankahalla],</V>
 <V>30. [kolma]i[s on kotonna aitta]:</V>
-<V>31. [yks] on [hiiri&#239; hilaji]</V>
+<V>31. [yks] on [hiirii&#776; hilaji]</V>
 <V>25 33. [kolmas tyhjä tykkyneää]se.</V>
 <V>36. [sanottiin on teääll] olevan</V>
 <V>37. [kuus] on [ruuna'a rupulla]:</V>
@@ -42995,11 +42995,11 @@ viikate pannaan
 <V>ei oo tällä puollakaane,</V>
 <V>täll ei rannall oo rakasta,</V>
 <V>täll ei puolla rantasella,</V>
-<V>5 jolle vuotte&#235;t tekisin,</V>
+<V>5 jolle vuottee&#776;t tekisin,</V>
 <V>lakaliinat laittelisin,</V>
 <V>höyhentyynyt höpsyttäisin,</V>
-<V>jonka viere&#235;n kävisin,</V>
-<V>jolle verra&#239;n vetäisin.</V>
+<V>jonka vieree&#776;n kävisin,</V>
+<V>jolle verrai&#776;n vetäisin.</V>
 <V>10 3. vaihto mielen [vaapukoilla],</V>
 <V>4. [limoitteli] on [lillukoilla],</V>
 <V>5. maannittel on mantsikoilla,</V>
@@ -43169,7 +43169,7 @@ viikate pannaan
 <REFS>
   #1 sulku myöh. lis.
   #2 [vihitty] on.
-  #3 [vissi]&#239;.
+  #3 [vissi]i&#776;.
   #4 yl. muhakka muoto.
   #5 [hattujais]i.
   #6 [kypäräjäis]i.
@@ -43201,8 +43201,8 @@ viikate pannaan
 <V>korkioill kannoillain</V>
 <V>5 vihittyi vierahii,</V>
 <V>papin pantui parrii,</V>
-<V>nyt ne on viissi&#239; vihitty,</V>
-<V>nyt ne on parri&#239; pantu,</V>
+<V>nyt ne on viissii&#776; vihitty,</V>
+<V>nyt ne on parrii&#776; pantu,</V>
 <V>kummall on somemmat silmät,</V>
 <V>10 kumman kasvo kaunehempi.</V>
 </TEXT>
@@ -43230,7 +43230,7 @@ viikate pannaan
 <V>4. [korkioill]a [kannoillain]i,</V>
 <V>3. [sorioill]a [silmilläin]i</V>
 <V>5 5. [vihittyi] on [vierahii]ni,</V>
-<V>6. [papin pantui] on [parri&#239;],</V>
+<V>6. [papin pantui] on [parrii&#776;],</V>
 <V>10- k[umman] varsi valkiampi.</V>
 </TEXT>
 </ITEM>
@@ -43259,7 +43259,7 @@ viikate pannaan
 <V>maatakäyvess ei majalle,</V>
 <V>10 tuskiain ei tultamaa,</V>
 <V>halujain ei hoaastamaa.</V>
-<V>Kelles mie tussa&#239;n tuullan,</V>
+<V>Kelles mie tussai&#776;n tuullan,</V>
 <V>kelles mie halluin hoaastan,</V>
 <V>pakajelen miel' pahhain,</V>
 <V>15 tukehtuuthan ne miu tussain,</V>
@@ -43353,7 +43353,7 @@ viikate pannaan
 <V>36. [nuo ei kerro kellenkeää]ne,</V>
 <V>37. [kuihuttel] [ei kullenkoaa]ne,</V>
 <V>30 38. [kylä luuloot kylpöneeks]e,</V>
-<V>39. [muu pere pesse&#239;neeks]e,</V>
+<V>39. [muu pere pessei&#776;neeks]e,</V>
 <V>41. [pest en perreen] mie [vesillä],</V>
 <V>42. [mie voaa]n [kylvin kyyneleillä],</V>
 <V>44. [silmät sorjat syntyjess]ä,</V>
@@ -43437,7 +43437,7 @@ kuin ois tuonut tuohuksii
 <V>tuli kaihoo kantajaista,</V>
 <V>mie kiisin kirkkoseen,</V>
 <V>kiisin kirkon penkin peäähän,</V>
-<V>kuuntelin emmo&#239;n eääntä,</V>
+<V>kuuntelin emmoi&#776;n eääntä,</V>
 <V>25 valitusta vanhimmaini.</V>
 <V>Mie kiisin kirkko-moaalle,</V>
 <V>mie ristille ritajin,</V>
@@ -43484,7 +43484,7 @@ kuin ois tuonut tuohuksii
 <V>20. [tuli emmo'o]n [ikävää],</V>
 <V>22. [mie kiisin kirkkoseen]e,</V>
 <V>20 25. [valit]o[sta vanh]e[mmaini].</V>
-<V>25- en kuultu emmo&#239;n ääntä,</V>
+<V>25- en kuultu emmoi&#776;n ääntä,</V>
 <V>valitost en vanhemmaini,</V>
 <V>26. [mie kiisin kirkko-moaa]han,</V>
 <V>27. siit [mie ristille ritajin],</V>
@@ -43661,7 +43661,7 @@ kuin ois tuonut tuohuksii
 <CPT>[Tytön läksiäisvirsi] häissä.</CPT>
 <V>1. [Otetaan] on [orja meiltä],</V>
 <V>3. [kaivo-vintti katkaissaa]se.</V>
-<V>4. [ken mei]j[ät vie&#235;lle viepi],</V>
+<V>4. [ken mei]j[ät viee&#776;lle viepi],</V>
 <V>5. [ken juoelle juohattaa]pi,</V>
 <V>5 6. [saavat saavit seissaksee]se,</V>
 <V>7. [korennat kolissaksee]se.</V>
@@ -43746,7 +43746,7 @@ kuin ois tuonut tuohuksii
 <CPT>Läks[iäishäissä]:</CPT>
 <V>1. [Otetaan] on [orja meiltä],</V>
 <V>3. [kaivonvintti katkaissaan]e,</V>
-<V>4. [ken meiät v]e&#235;[lle viepi],</V>
+<V>4. [ken meiät v]ee&#776;[lle viepi],</V>
 <V>5. [ken juoelle juohattaa]pi,</V>
 <V>5 5- viepi vettä ottamaane,</V>
 <V>6. [s(o)aavat soaavet seissaksee]se.</V>
@@ -43835,14 +43835,14 @@ kuin ois tuonut tuohuksii
 </META>
 <TEXT>
 <CPT>Läksij[äishäissä].</CPT>
-<V>1. Sie h[eität emmo&#239;s vanhan],</V>
+<V>1. Sie h[eität emmoi&#776;s vanhan],</V>
 <V>2. [heität vanhan vanhemmais]i</V>
 <V>3. [kujjaa] on [kupo syllee]ne,</V>
 <V>4. [jeääll] on [karttu kainaloo]ne.</V>
 <V>5 5. [tulet käymää]n sie [kottiin]i,</V>
 <V>6. [olemaa] sie [oljamii]ni,</V>
 <V>7. [tulet toisten vierahiks]e,</V>
-<V>8. siit [löy]v[ät [em&#772;o]&#239;[s vanhan]</V>
+<V>8. siit [löy]v[ät [em&#772;o]i&#776;[s vanhan]</V>
 <V>9. [kujast] on [kupo syles]tä,</V>
 <V>10 11. [jeäält] on [karttu kainalosta],</V>
 <V>10. [kaivotielt]ä [koaatuneen]ta,</V>
@@ -44035,7 +44035,7 @@ kuin ois tuonut tuohuksii
 <V>ero leipä on leikattunna,</V>
 <V>ero kannikka kaheks,</V>
 <V>10 ero pytky pyyrettiin.</V>
-<V>Nyt oot silkki&#239; siottu,</V>
+<V>Nyt oot silkkii&#776; siottu,</V>
 <V>nyt oot pant palmikkoihe,</V>
 <V>nyt oot vöihen vyönteleinty,</V>
 <V>nyt on kinttaat keääess,</V>
@@ -44071,7 +44071,7 @@ kuin ois tuonut tuohuksii
 <V>1. [Lik]' [on liuska kiukuvaa]ne,</V>
 <V>3. [reppänä liki lakkii]ne,</V>
 <V>5. [Mie en luult]u [lähteväks]e,</V>
-<V>6. [en kuullu[t käkki&#239;väks]e;</V>
+<V>6. [en kuullu[t käkkii&#776;väks]e;</V>
 <V>5 7. [nyt mie nään siu lähteväks]e</V>
 <V>8. [ero] on [leipä] [leikattunna],</V>
 <V>9. [ero kannikka kaheks]e,</V>
@@ -44174,10 +44174,10 @@ kuin ois tuonut tuohuksii
 <V>kun seisot seinän vieret,</V>
 <V>kuuntelet kujan perukset.</V>
 <V>5 4. [ala tunkeija tuppaa]ne</V>
-<V>5. [muihen naisi&#239;n mukkaa]ne.</V>
+<V>5. [muihen naisii&#776;n mukkaa]ne.</V>
 <V>6. [kui]n [kuulet pahat sanomat],</V>
 <V>7. [kuulet ruosan roimiloi]j[a],</V>
-<V>8. [siit] on [paina&#239; pakkuoo]ne.</V>
+<V>8. [siit] on [painai&#776; pakkuoo]ne.</V>
 <V>10 11- viinaratti raukenoopi.</V>
 </TEXT>
 </ITEM>
@@ -44243,7 +44243,7 @@ kuin ois tuonut tuohuksii
 <V>- - -</V>
 <V>2. [valkia], verevä [k(o)aase],</V>
 <V>3. [nyt] on [peäätä pantan(i)ee]ne,</V>
-<V>4. [silkki&#239; si]j[ottann(i)ee]ne,</V>
+<V>4. [silkkii&#776; si]j[ottann(i)ee]ne,</V>
 <V>4- pannaan päätä palmikolle,</V>
 <V>5 5. [lakki p(e)äähä laitet(o)aa]ne,</V>
 <V>6. [liina lakki liit(e)ää]ne</V>
@@ -44336,7 +44336,7 @@ kuin ois tuonut tuohuksii
 </META>
 <TEXT>
 <V>1. [Nyt] on [päätä pantanee]ne,</V>
-<V>2. [silkki&#239; siottanee]ne,</V>
+<V>2. [silkkii&#776; siottanee]ne,</V>
 <V>3. [pannaa]n [päätä palmikolle].</V>
 <V>4. [nyt sie heitä hermut pois]i,</V>
 <V>5 5<I>.</I> [heität helm]e[t ka]k[lastais]i,</V>
@@ -44427,7 +44427,7 @@ kuin ois tuonut tuohuksii
 <V>kalju et kaupan tehtäjessä,</V>
 <V>itken toisten tultuvais,</V>
 <V>kolme vuotta oltuvais,</V>
-<V>sitt itket iijä&#239;s kaiken,</V>
+<V>sitt itket iijäi&#776;s kaiken,</V>
 <V>10 ajan kaiken kaikattelet.</V>
 <V>Tulet käymeää kottii,</V>
 <V>tulet toiste vierahiks,</V>
@@ -44489,7 +44489,7 @@ numeroilla.
 <V>17. [vesi-kappanen keääjess]ä,</V>
 <V>19. [mitä si]t[t on mielessäis],</V>
 <V>20. [kuta pää-kulusessais]i,</V>
-<V>21. sie [löyvät emmo&#239;s vanhan]</V>
+<V>21. sie [löyvät emmoi&#776;s vanhan]</V>
 <V>20 23- kujamaalt kuukultaase,</V>
 <V>24. [kujast] on [kupo syles]sä,</V>
 <V>23. [jäält] on [karttu kainalossa],</V>
@@ -44525,7 +44525,7 @@ numeroilla.
 <V>apen vielä ankaramman:</V>
 <V>leivät liieltä lukkoopi,</V>
 <V>arinalt on arveloopi,</V>
-<V>15 siit et saa salla&#239; syyvä,</V>
+<V>15 siit et saa sallai&#776; syyvä,</V>
 <V>kasoin kaksin kerrallaan.</V>
 <V>Autuvas anopin luokse,</V>
 <V>vaivanen kälyn kässii;</V>
@@ -44570,7 +44570,7 @@ numeroilla.
 <V>itket lammit lattialle,</V>
 <V>kyynereet joka soppee,</V>
 <V>15 ikkunat ikuvesiks,</V>
-<V>kuin löyvät emmo&#239;s vanhan</V>
+<V>kuin löyvät emmoi&#776;s vanhan</V>
 <V>kujamaalt kuukultaan,</V>
 <V>jäält karttu kainaloss,</V>
 <V>kui on kynnet kylmänneet,</V>
@@ -44588,7 +44588,7 @@ numeroilla.
 <V>erroo en emosestain,</V>
 <V>pois en vierre vellostain,</V>
 <V>nyt mie nään siu lähteväks,</V>
-<V>nyt oot silkki&#239; siottu,</V>
+<V>nyt oot silkkii&#776; siottu,</V>
 <V>35 nyt oot pant palmikkoi,</V>
 <V>nyt on turkkiviitta päällä,</V>
 <V>nyt kintaat kääess,</V>
@@ -44654,7 +44654,7 @@ numeroilla.
 <V>25. [sie sait siityinen sissoin]i,</V>
 <V>26. [sie sait tuhmin tuumineeks]e,</V>
 <V>30 27. [sie sait pahoin sanoneheks]e</V>
-<V>28. [en kuul]u[t käkki&#239;väks]e,</V>
+<V>28. [en kuul]u[t käkkii&#776;väks]e,</V>
 <V>29. [et keääent]y [lähteväis]i,</V>
 <V>30. [jotten luovu luojastain]i,</V>
 <V>31. [erroo en emosestain]i,</V>
@@ -44669,7 +44669,7 @@ numeroilla.
 <V>43. [ota onni ohjolleis]i,</V>
 <V>44. [Jumala rekosehees]i,</V>
 <V>45 46. [kaunis Luoja kaplahei]lle,</V>
-<V>48. [Jumala ei riko rekki&#239;]ni,</V>
+<V>48. [Jumala ei riko rekkii&#776;]ni,</V>
 <V>47. [katko ei Luoja kaplahii]ni.</V>
 </TEXT>
 <REFS>
@@ -44704,7 +44704,7 @@ sill aikaa kun
 </TEXT>
 <REFS>
   #1 myöh. lis.
-  #2 [suortuvii]&#239;.
+  #2 [suortuvii]i&#776;.
   #3 [katajoill] on.
   #4 r. (tahi: havuksilla).
   #5 |jott|.
@@ -44825,7 +44825,7 @@ sill aikaa kun
 <V>luont on varsin vanhemmaini;</V>
 <V>tunkin tulta sukkiheini,</V>
 <V>5 kekäleitä kenkiheini,</V>
-<V>hiiliä pärre&#235;n#4-päitä,</V>
+<V>hiiliä pärree&#776;n#4-päitä,</V>
 <V>jott ei pistyis noian nuolet,</V>
 <V>noian nuolet, verhon veitset,</V>
 <V>*eikä tietäjän teräkset.</V>
@@ -44848,7 +44848,7 @@ sill aikaa kun
   #1 myöh. lis.
   #2 kott|u|oo on.
   #3 [kyll][ää].
-  #4 [pärr]i[e&#235;n].
+  #4 [pärr]i[ee&#776;n].
   #5 t|i|ee.
   #6 mitt|e|ääne.
   #7 [noia]t.
@@ -44876,7 +44876,7 @@ sill aikaa kun
 <V>luont on eukoin erosin,</V>
 <V>tunkin tulta sukkiheen,</V>
 <V>kekäleitä kenkiheen,</V>
-<V>5 hiilii ja pärre&#235;n päitä,</V>
+<V>5 hiilii ja pärree&#776;n päitä,</V>
 <V>jott ei pistyis noijan nuolet,</V>
 <V>noijan nuolet, verhon veitset,</V>
 <V>mie syön noijat nuolineen,#1</V>
@@ -45016,7 +45016,7 @@ numeroilla.
 <V>5 mie kesällä, mie keralla,</V>
 <V>kennen kanss mie illat istun,</V>
 <V>(kennen kanss) viikot viet<I>än</I>(-ui)</V>
-<V>ja poltan pärrie&#235;t pitkät,</V>
+<V>ja poltan pärriee&#776;t pitkät,</V>
 <V>kesä-vellit keittelem<I>mä</I> (-ui),</V>
 <V>10 talvi-talkkunat tekem&#772;<I>ä</I> (-u),</V>
 <V>kui vietiin miu sissoini.</V>
@@ -45026,7 +45026,7 @@ numeroilla.
 <V>15 sison lausu lausehill<I>a</I> (-ui),</V>
 <V>puhu sison puhheill<I>a</I> (-u),#3</V>
 <V>sison vöihe vyöteleti,</V>
-<V>sison paito&#239; heä paneli.</V>
+<V>sison paitoi&#776; heä paneli.</V>
 </TEXT>
 <REFS>
   #1 [Suluissa olevat kohdat ovat luultavasti lauletut "suurnuotilla"].
@@ -45101,7 +45101,7 @@ naiset tulevat tuppaan
 <CPT>Häävirsi, lähtövirsi.</CPT>
 <V>Älä, siitynen siskoin,</V>
 <V>älä nouse nostamatta,</V>
-<V>käy rekke&#235; käskemättä</V>
+<V>käy rekkee&#776; käskemättä</V>
 <V>näillen paskoille pajulle,</V>
 <V>5 likasill liistehill.</V>
 <V>Ota auksees J[uma]la,</V>
@@ -45326,7 +45326,7 @@ pöyvässä istuessaan
 <V>miel loin suolla sammalii,</V>
 <V>kaikk oli kynnet kylmänneet,</V>
 <V>jalkineet ol jäättyneet,</V>
-<V>hallass ol hamme&#235;n helmat,</V>
+<V>hallass ol hammee&#776;n helmat,</V>
 <V>15 hunnun sikko huutehess.</V>
 </TEXT>
 <REFS>
@@ -45367,7 +45367,7 @@ numeroilla.
 <V>15 10. [iso seiso]i [salvamella],</V>
 <V>11. [miel]' [loin suolla sammalii]ni,</V>
 <V>12. [kaikk]' [ol] [kynnet kylmänneet]e,</V>
-<V>12- kää&#235;in palentunee,</V>
+<V>12- kääe&#776;in palentunee,</V>
 <V>15. [hunnun sikko huutehess]a.</V>
 </TEXT>
 </ITEM>
@@ -45439,9 +45439,9 @@ numeroilla.
 <V>revot rötkön reunasessa</V>
 <V>ajoillaan onnettoman.</V>
 <V>Enhä mie polonen piika,</V>
-<V>en itke emmo&#239;n peälle,</V>
+<V>en itke emmoi&#776;n peälle,</V>
 <V>15 syyksi en syytä synnyttäjän,</V>
-<V>ei uo miu emmo&#239;n syytä,</V>
+<V>ei uo miu emmoi&#776;n syytä,</V>
 <V>ei uo syytä synnyttäjän,</V>
 <V>ei miu emmoin ajantu,</V>
 <V>mie tein itse itselleen,</V>
@@ -45487,7 +45487,7 @@ numeroilla.
 <V>18. [ei] minnuu [em]o [ajantu],</V>
 <V>10 19. [mie tein itse itselleen]i,</V>
 <V>21. [kuuksein] on [kujerrus-kaupat],</V>
-<V>22. [sitä minä ii]j[ä&#239;n itken],</V>
+<V>22. [sitä minä ii]j[äi&#776;n itken],</V>
 <V>22- ajan kaiken kaikattelen,</V>
 <V>24- ei olt tuuman tuumijaista,</V>
 <V>15 ikukaupan iskijäistä,</V>
@@ -45637,7 +45637,7 @@ numeroilla.
 <V>5 saaha sammal-huonehoisen,</V>
 <V>käitkös sie salovällii,</V>
 <V>vai käit talon vällii?</V>
-<V>Tänne tuoti&#239;n sanomat,</V>
+<V>Tänne tuotii&#776;n sanomat,</V>
 <V>tänne kirjat kiiettiit,</V>
 <V>10 tänne kellot soitettiin:</V>
 <V>kyllä on tupanen tehty,</V>
@@ -45674,7 +45674,7 @@ numeroilla.
 <V>10 10. [tänne kellot soitettiin]i:</V>
 <V>11. [kyll] [on] se [tupanen tehty],</V>
 <V>12. [kyll] [on saatu sammallhuone].</V>
-<V>14. [tuhat tuomass] ol [kotti&#239;],</V>
+<V>14. [tuhat tuomass] ol [kottii&#776;],</V>
 <V>15- sulho käy talon välliini.</V>
 </TEXT>
 </ITEM>
@@ -45701,7 +45701,7 @@ numeroilla.
 <V>5 Ei ole sitä pojoista,</V>
 <V>ei oo tällä puollakaane,</V>
 <V>täll ei rannall oo rakasta,</V>
-<V>jolle vuote&#235;t tekisin,</V>
+<V>jolle vuotee&#776;t tekisin,</V>
 <V>lakaliinat laittelisin,</V>
 <V>10 höyhen tyynit höpsyttäisin,*</V>
 <V>kennen sormukset soppiit#2,</V>
@@ -45743,7 +45743,7 @@ numeroilla.
 <V>Mie kysyin sisoseltaini,</V>
 <V>lausuin lapselta emmoini:</V>
 <V>käit sie kirkossa usseini</V>
-<V>kuuvi&#239; kumartamassa,</V>
+<V>kuuvii&#776; kumartamassa,</V>
 <V>5 panemassa tuohuksiini,</V>
 <V>jott ois onneis siun osakas?</V>
 <V>Sie et siityinen sissoini,</V>
@@ -45758,7 +45758,7 @@ numeroilla.
 <V>sie sait tuhmin tuumineekse,</V>
 <V>sait pahoin sanonehekse.</V>
 <V>Ei sinnuu emo ajantu,</V>
-<V>nyt sie suutu&#239;t suu'uisi,</V>
+<V>nyt sie suutui&#776;t suu'uisi,</V>
 <V>20 vihastutit velloseisi,</V>
 <V>nyt siu vellosi vihastui,</V>
 <V>ei siun vierty velloseisi,</V>
@@ -45978,7 +45978,7 @@ morsian
 <V>miehet nuoret naimattomat,</V>
 <V>toveritsan tuomattomat!</V>
 <V>Hiljoin, hiljoin, ei ruttoone,</V>
-<V>5 ei ruttoin satto&#239; saaha,</V>
+<V>5 ei ruttoin sattoi&#776; saaha,</V>
 <V>tuhhansii ei tuuvakkaane,</V>
 <V>hiljoin saahan sattoini,</V>
 <V>hiljoin tuuva'an tuhhanet.</V>
@@ -46036,7 +46036,7 @@ numeroilla.
 <TEXT>
 <CPT>Häävirsi (Tuliaishäissä).</CPT>
 <V>1. [Sen sain] mie [mitä halajin],</V>
-<V>2. [sen] on [Luoja]&#239;n [lupasi],</V>
+<V>2. [sen] on [Luoja]i&#776;n [lupasi],</V>
 <V>3. [sen] on [anto armollinen];</V>
 <V>4. [kuin toi]n mie [tulen puhujan],</V>
 <V>5 5. [sai]n on [saunan lämmittäjän],</V>
@@ -46080,7 +46080,7 @@ numeroilla.
 <V>15 sie et purnuu puintukaa,</V>
 <V>salvoo ruist et soaantukaa,</V>
 <V>sie sait vihkeron vihhoi,</V>
-<V>pankon pahho&#239; tappo&#239;,</V>
+<V>pankon pahhoi&#776; tappoi&#776;,</V>
 <V>kiroloi kipukan suuren.</V>
 </TEXT>
 <REFS>
@@ -46300,7 +46300,7 @@ numeroilla.
 <TEXT>
 <L>([Häävirsi morsiamell] tulohäiss [sulhasen kodiss]).</L>
 <V>1. [Kyll] [on] kaakku kaunis [päältä],</V>
-<V>2. [jos lie sirkko&#239; sisäss]ä,</V>
+<V>2. [jos lie sirkkoi&#776; sisäss]ä,</V>
 <V>3. [akanoi] on [kuoren alla].</V>
 </TEXT>
 </ITEM>
@@ -46356,9 +46356,9 @@ numeroilla.
 <V>35 vie vellois rekkeen,</V>
 <V>kaase viep ison kottiin,</V>
 <V>vello viep emoselleen.</V>
-<V>Älä vie kylli&#239; myöten,</V>
+<V>Älä vie kyllii&#776; myöten,</V>
 <V>vie vehka-soita myöten,</V>
-<V>40 sie kui viet kylli&#239; myöten,</V>
+<V>40 sie kui viet kyllii&#776; myöten,</V>
 <V>torat tarttuut talloo.</V>
 </TEXT>
 <REFS>
@@ -46413,7 +46413,7 @@ numeroilla.
 <V>32. [panet torvelle torrais]i,</V>
 <V>33. [pankolle pahat tavvais]i,</V>
 <V>34. [anna kaasen kainaloo]ne,</V>
-<V>35. [vie] sie [vello&#239;s rekkeen]e,</V>
+<V>35. [vie] sie [velloi&#776;s rekkeen]e,</V>
 <V>35 36. [kaase viep ison kottiin]i,</V>
 <V>37. [vello viep emoselle]isi,</V>
 <V>41. [torat tarttu'ut talloo]ne.</V>
@@ -46440,7 +46440,7 @@ numeroilla.
 <V>5 risuloihen riuhtomatta,</V>
 <V>kantoloihen kaapimatta,</V>
 <V>oksiin otelematta,</V>
-<V>vesso&#239;n vetelemättä?</V>
+<V>vessoi&#776;n vetelemättä?</V>
 <V>Eik ne oksat ottaneet,</V>
 <V>10 tervaskannot temponeet?</V>
 <V>Mie kyselen velloltain,</V>
@@ -46509,7 +46509,7 @@ numeroilla.
 <V>*Nouse, riihikko reestä,</V>
 <V>10 alta viitan viirusilmä,</V>
 <V>ala tunkeija tuppaane</V>
-<V>muihen naisi&#239;n mukkaane!*</V>
+<V>muihen naisii&#776;n mukkaane!*</V>
 <V>Oisha olt meiän vello</V>
 <V>paremmanki neion väärti,</V>
 <V>15 paremman talon vävyks,</V>
@@ -46552,7 +46552,7 @@ numeroilla.
 <V>viep vellois kättee,</V>
 <V>kantaa kantajaiselleis.</V>
 <V>15 Kaasoseen oot kaunoseen,</V>
-<V>älä vie kylli&#239; myöte,</V>
+<V>älä vie kyllii&#776; myöte,</V>
 <V>vie sie vehka-soita myöten,</V>
 <V>torat tarttuut talloo!</V>
 </TEXT>
@@ -46577,7 +46577,7 @@ numeroilla.
 </META>
 <TEXT>
 <V>1. [Tänne]n [kontit kannettiin]e,</V>
-<V>3. [tänne]n [kuulu&#239;t kuparit],</V>
+<V>3. [tänne]n [kuului&#776;t kuparit],</V>
 <V>2. [tänne]n [kellot soitettiin]e,</V>
 <V>4. [jott on teiän neitose]ese</V>
 <V>5 6. jott' [se on torille torski],</V>
@@ -46587,7 +46587,7 @@ numeroilla.
 <V>10. [pankolle pahat tavvais]i,</V>
 <V>10 11. [anna kaasen kainaluoo]ne,</V>
 <V>12. [kaase viep ison kottii]ni,</V>
-<V>13. [viep] on [vello&#239;s kättee]ne,</V>
+<V>13. [viep] on [velloi&#776;s kättee]ne,</V>
 <V>14. [kantaa kantajaiselleis]i,</V>
 <V>15. [kaasoseen oot kaunoseen]i,</V>
 <V>15 17- sie kui viet kyllii myöten</V>
@@ -46619,7 +46619,7 @@ numeroilla.
 <V>kauno kank(o)a'an kutojan?</V>
 <V>Tänne kontit kannettii,</V>
 <V>tänne kellot soitettiin,</V>
-<V>10 tänne kuulu&#239;t kuparit.</V>
+<V>10 tänne kuului&#776;t kuparit.</V>
 <V>Sie toit torujan vaimon</V>
 <V>ja toit tukan vetäjän,</V>
 <V>pientareen pirottelia,</V>
@@ -46649,7 +46649,7 @@ numeroilla.
 <V>4. [toit]kos [sie tulen puhujan].</V>
 <V>5. [vai sait] sie [saran jakajan],</V>
 <V>5 6. [saitko]i[s saunan lämmittäjän].</V>
-<V>7- tännen tuoti&#239;n sanomat,</V>
+<V>7- tännen tuotii&#776;n sanomat,</V>
 <V>8. [tänne]n [kontit kannettii]ni,</V>
 <V>9. [tänne kellot soitettiin]i,</V>
 <V>11. jott [sie toit torujan vaimon],</V>
@@ -46675,7 +46675,7 @@ numeroilla.
 <CPT>Morsiamen lähtiäisissä.</CPT>
 <V>Tänne kontit kannettiin,</V>
 <V>tänne kellot soitettiin,</V>
-<V>tuoti&#239;n pahat pakinat:</V>
+<V>tuotii&#776;n pahat pakinat:</V>
 <V>anoppi on susi kotona,</V>
 <V>5 appi karhu kartanossa.</V>
 <V>Kun ottanet omenan,</V>
@@ -46748,7 +46748,7 @@ numeroilla.
 <CPT>Läks[iäishäissä].</CPT>
 <V>1. [Tänne kontit kannettiin]i,</V>
 <V>2. [tänne kellot soitettiin]i,</V>
-<V>2- tännen kuulu&#239;t kuparit:</V>
+<V>2- tännen kuului&#776;t kuparit:</V>
 <V>4. [anopp] [on susi kotona],</V>
 <V>5 5. [app] on [karhu kartanossa].</V>
 <V>6. [ku]i[n] sie [ottanet omenan],</V>
@@ -46756,7 +46756,7 @@ numeroilla.
 <V>7- meiltä lillukan limotat,</V>
 <V>8. [äl] [anna anopin lyy]v[ä],</V>
 <V>10 9. [apin r]uo[sin r]o[im]i[loi]j[a],</V>
-<V>9- naaon nalki&#239; kivellä,</V>
+<V>9- naaon nalkii&#776; kivellä,</V>
 <V>10. [ky'yn kynty-vitsalla]ase,</V>
 <V>11- asu eessä niin kuin aita,</V>
 <V>13. [älä] [itse ieellimmäissä],</V>
@@ -46783,7 +46783,7 @@ numeroilla.
 <V>35 39. [kui]han [sie hyvin pitelet],</V>
 <V>40. [tulet toisten vierahiks]e,</V>
 <V>41. [oljantais] on ottamaane,</V>
-<V>41- tuuvaan heini&#239; hevolle,</V>
+<V>41- tuuvaan heinii&#776; hevolle,</V>
 <V>42- konkariis on korjataane.</V>
 <V>40 47. [kun on kuhmu kulman peääll]ä,</V>
 <V>47- sinimarja silmän päällä,</V>
@@ -46826,7 +46826,7 @@ numeroilla.
 <V>Mie kysyn siso siulta:</V>
 <V>15 käitkös sisko seppälässä</V>
 <V>teräksii tieettämässä,</V>
-<V>rauto&#239; rakentamassa,</V>
+<V>rautoi&#776; rakentamassa,</V>
 <V>tieetit sie terävän veitsen,</V>
 <V>mill sie halot hauvin päitä,</V>
 <V>20 terät vierööt veitsistäis,</V>
@@ -46860,8 +46860,8 @@ numeroilla.
 kaloja, milloin
   tuotiin morsia muualta.)</L>
 <V>1. [Tänne]n [kellot soitettiin]i,</V>
-<V>2. [tänne]n [kuulu&#239;t kuparit],</V>
-<V>3. [tänne]n [tuoti&#239;n sanomat].</V>
+<V>2. [tänne]n [kuului&#776;t kuparit],</V>
+<V>3. [tänne]n [tuotii&#776;n sanomat].</V>
 <V>7. [mitäs tuumit tullessai]si</V>
 <V>5 8. [veräjill]ä [seisattelit]</V>
 <V>5. [meijän kuulu'u kottii]ni,</V>
@@ -46973,7 +46973,7 @@ häntä
 <V>viruttaa viittaseen?</V>
 <V>Tänne kontit kannettiin,</V>
 <V>tänne tuotiin sanomat,</V>
-<V>tänne kuulu&#239;t kuparit,</V>
+<V>tänne kuului&#776;t kuparit,</V>
 <V>20 tänne(n) kellot soitettiin,</V>
 <V>- - -</V>
 <V>jäävät hermut heilaamaan</V>
@@ -47008,7 +47008,7 @@ häntä
 <V>15. [mihin sor]r[ii suhmanoo]se,</V>
 <V>16. [viruttaa] se [viittasee]se.</V>
 <V>17. [tänne]n [kontit kannettiin]i,</V>
-<V>10 18. [tänne]n [tuoti&#239;n sanomat],</V>
+<V>10 18. [tänne]n [tuotii&#776;n sanomat],</V>
 <V>20. [tänne]n [kellot soitettiin]i,</V>
 <V>21. [jäävät hermut heilaamaan]e</V>
 <V>22. [ja silkit sipajamaan]e.</V>
@@ -47066,7 +47066,7 @@ orrelle; kun
   morsiain oli köyhä. Raudust niin lauloivat</L>
 <L>Häämiehet:</L>
 <V>Tänne kontit kannettiin,</V>
-<V>tänne kuulu&#239;t kuparit,</V>
+<V>tänne kuului&#776;t kuparit,</V>
 <V>tänne kellot soitettiin,</V>
 <V>jott ei teiän neitoseen,</V>
 <V>5 jott ei ommella ossaile</V>
@@ -47154,7 +47154,7 @@ orrelle; kun
 <V>34. [tuoll samass]a [Sakkulass]a</V>
 <V>36. [akka raisat rallattaat]a,</V>
 <V>37. [pannoot pakko-päiviää]se.</V>
-<V>37- miilläs myö mäkki&#239; määmmä</V>
+<V>37- miilläs myö mäkkii&#776; määmmä</V>
 <V>30 kylän suuren Kyyrilöille#1,</V>
 <V>38. kuin [on meilt]ä [viitat viety],</V>
 <V>40. [pant on viitat viilekke]i[hen]#2</V>
@@ -47257,14 +47257,14 @@ orrelle; kun
 <V>20 pientareen piroittelija,</V>
 <V>vain toit kulin kutojan,#2</V>
 <V>vain veit veran tekijän?</V>
-<V>Tännen tuoti&#239;n sanomat,</V>
+<V>Tännen tuotii&#776;n sanomat,</V>
 <V>tännen kontit kannettiin,</V>
 <V>25 tännen kellot soitettiin,</V>
-<V>tännen kuulu&#239;t kuparit,</V>
+<V>tännen kuului&#776;t kuparit,</V>
 <V>jott on teiän neitoseen,</V>
 <V>jott se on torille torski,</V>
 <V>se on sankar sanoille,</V>
-<V>30 tuo vaan kulli&#239; kuttoo,</V>
+<V>30 tuo vaan kullii&#776; kuttoo,</V>
 <V>rokoskaa roisuttaa.</V>
 <V>Viat virkan vellostain,</V>
 <V>pahat tavat tammestain#3:</V>
@@ -47349,7 +47349,7 @@ numeroilla.
 <V>lausuin lapselta emmoin:</V>
 <V>käit sie tiees tervehennä,</V>
 <V>matkaas ani vappaann</V>
-<V>5 oksi&#239;n otelematta,</V>
+<V>5 oksii&#776;n otelematta,</V>
 <V>kantoloihen kaapimatta,</V>
 <V>tervaskannon tempomatta.</V>
 <V>Mie kys[elin] vell[oltain]:</V>
@@ -47739,7 +47739,7 @@ numeroilla.
 <V>kuuluis ei kumu kylleää#5,</V>
 <V>tomu toiseen ei#6 talloo#7</V>
 <V>15 tätä nuorta nostattais#8;</V>
-<V>kuulu&#239;s kutojan eääni</V>
+<V>kuului&#776;s kutojan eääni</V>
 <V>sekä kuuluis pirran piuke,</V>
 <V>pirran piuke, niien niuske,</V>
 <V>jott ei kuulu kulkun eääntä.</V>
@@ -47754,7 +47754,7 @@ numeroilla.
   #1 myöh. lis.
   #2 [kanss]a.
   #3 [hauka]n-[ruuatta]; yl. "kukko on haukan ruoka".
-  #4 [työ]&#239;s [tiie]t.
+  #4 [työ]i&#776;s [tiie]t.
   #5 [kyl]älle.
   #6 *ei*.
   #7 [talloo]ne.
@@ -47848,13 +47848,13 @@ numeroilla.
 <V>jouvuit juomarin rekkeen.</V>
 <V>- - -</V>
 <V>1. [Ku]i[n kuulet pahat sanomat],</V>
-<V>2. [siit] on [paina&#239; pakkuoo]ne;</V>
+<V>2. [siit] on [painai&#776; pakkuoo]ne;</V>
 <V>5 5. [korpii] on [kylän kohassa]</V>
 <V>5- siun pakko'o männäkseisi,</V>
 <V>6. [siit] on [viipy'y vihanen],</V>
 <V>7. [siit] on [äähty]y on [äkänen],</V>
 <V>8. [viinaratti raukenoo]pi,</V>
-<V>10 9. [siit vaa tunke&#239; tuppaa]ne,</V>
+<V>10 9. [siit vaa tunkei&#776; tuppaa]ne,</V>
 <V>9- siit vaa luokse luokastele,</V>
 <V>10. [muihen naisiin mukkaa]ne.</V>
 <V>11. [ei ois suoneet siu sukkuis]i,</V>
@@ -47864,7 +47864,7 @@ numeroilla.
 <V>14- oma läylö lämpöjeli,</V>
 <V>15. [osaa vaati]i [vaivasille],</V>
 <V>16. [vaati]i [vaivasen pojill]e.</V>
-<V>20 17- ja va&#239;lle vaivasille</V>
+<V>20 17- ja vai&#776;lle vaivasille</V>
 <V>18- kävelijän käytöksille;</V>
 <V>19. [kävelijä käyttelööp]i.</V>
 </TEXT>
@@ -47887,7 +47887,7 @@ numeroilla.
 <V>kesen leivän leipominen,</V>
 <V>kesen lehmän lypsäminen,</V>
 <V>*taikinan alustaminen,*</V>
-<V>5 miehen tarpe&#235;t tassoo#2.</V>
+<V>5 miehen tarpee&#776;t tassoo#2.</V>
 </TEXT>
 <REFS>
   #1 Säkeiden järjestys 2-4, 1 toistamiseen laulettaessa, muutettu numeroilla.
@@ -47962,11 +47962,11 @@ numeroilla.
 <V>- - -</V>
 <V>leivo leipä leppiästi,</V>
 <V>- - -</V>
-<V>15 8- älä lapsi&#239; lakaise,</V>
+<V>15 8- älä lapsii&#776; lakaise,</V>
 <V>9. [älä potkii porsahii]ne:</V>
 <V>11. ja kohota [kolpitsalle],</V>
 <V>13. [anna leivosta kättee]ne;</V>
-<V>15. [anna lastu&#239; kättee]ne,</V>
+<V>15. [anna lastui&#776; kättee]ne,</V>
 <V>20 17. [lastu lapsen vii]h[yttää]pi.</V>
 </TEXT>
 <REFS>
@@ -48050,11 +48050,11 @@ numeroilla.
 <V>20. [ota halko haapane]n[ki],</V>
 <V>21. [koivune]n[ki koppajele],</V>
 <V>15 22. [ota puu petäjäne]n[ki]!</V>
-<V>23. [sie kui halko&#239;] (on) [valitset],</V>
+<V>23. [sie kui halkoi&#776;] (on) [valitset],</V>
 <V>24- sanno'ot kyläiset naiset,</V>
 <V>sannoot naiset naap[urista]:</V>
 <V>25. [mist on tult]u [Turj]en [hullu],</V>
-<V>20 26. [veääett] on [Vennä&#239;n hullu]</V>
+<V>20 26. [veääett] on [Vennäi&#776;n hullu]</V>
 <V>28. [meiän pitkälle]n [pinolle]</V>
 <V>27. [halkoi] on [valitsemaan]e.</V>
 </TEXT>
@@ -48162,16 +48162,16 @@ numeroilla.
 <V>6. [ei miniän milloinkoaa]ne.#1</V>
 <V>7. [katso lammaskarsinaa]ne,</V>
 <V>8. hevosille heinät anna#2,</V>
-<V>8- luo silmät sikko&#239;n päälle,</V>
+<V>8- luo silmät sikkoi&#776;n päälle,</V>
 <V>10 olet lehmille ojenna:</V>
 <V>ensin annat Annikille,</V>
 <V>siit sie pistät Pienikille,</V>
 <V>siit suhistat Sunterille,</V>
 <V>siit vast annat sillen tälle.</V>
 <V>15 emännäkse etsittiine,</V>
-<V>käyti&#239;n käsillisekse,</V>
+<V>käytii&#776;n käsillisekse,</V>
 <V>lukulankan#3 laittajakse,</V>
-<V>suolo&#239;n sopottajakse.</V>
+<V>suoloi&#776;n sopottajakse.</V>
 <V>sie kuin tunsit meille tulla,</V>
 <V>20 niin tunne tutuin elellä.</V>
 <V>eihä meillä eisinkääne</V>
@@ -48183,7 +48183,7 @@ numeroilla.
 <REFS>
   #1 r. (myöskin [ruots.]: "miniäisen ei m.", tahi laulaen [ruots.]: "miniäis 
 ei mil").
-  #2 r. (= "pane heini&#239; hevolle", "pane heinii sie hevolle").
+  #2 r. (= "pane heinii&#776; hevolle", "pane heinii sie hevolle").
   #3 yl. "noitalanka".
   #4 yl. "kauha".
 </REFS>
@@ -48205,18 +48205,18 @@ ei mil").
 <CPT>Häävirsi.</CPT>
 <L>(sulhasen häis).#1</L>
 <V>Silloin on nuoren#2 nousun aika,</V>
-<V>vanho&#239;n leppo'us-aika:</V>
+<V>vanhoi&#776;n leppo'us-aika:</V>
 <V>otavass on nuoren nousu,#3</V>
 <V>ei kuussa, ei kukossa;</V>
 <V>5 kons on oikein#4 otava,</V>
 <V>kons on pursto pohjasess#5,</V>
-<V>päin sarvet sulli&#239;n maihen.</V>
+<V>päin sarvet sullii&#776;n maihen.</V>
 </TEXT>
 <REFS>
   #1 myöh. lis.
   #2 [Silloin] [nuoren].
   #3 Säkeiden järjestys 4, 3 toistamiseen laulettaessa, muutettu numeroilla.
-  #4 [oike]&#235;[n].
+  #4 [oike]e&#776;[n].
   #5 [pohjasess]a.
 </REFS>
 </ITEM>
@@ -48262,7 +48262,7 @@ ei mil").
 <V>2. pää tarkka, [tani]j[a mieli],</V>
 <V>3. [ymmärrys ylen] jämijä,</V>
 <V>4- jalat juoksevan jäniksen,</V>
-<V>5 jott en sais sano&#239;n alle,</V>
+<V>5 jott en sais sanoi&#776;n alle,</V>
 <V>vahinkoo en vaarahtaisi.</V>
 </TEXT>
 </ITEM>
@@ -48286,7 +48286,7 @@ ei mil").
 <V>remut vellois rekkee;</V>
 <V>5 jäi ilot ison kottiin#1,</V>
 <V>tantsut toaaton tanhuvalle,</V>
-<V>laulut moaammo&#239;s majoille.</V>
+<V>laulut moaammoi&#776;s majoille.</V>
 </TEXT>
 <REFS>
   #1 Säkeiden järjestys 2, 1, 6, 5 toistamiseen laulettaessa, muutettu 
@@ -48358,7 +48358,7 @@ numeroilla.
 </INF>
 </META>
 <TEXT>
-<V>1. [Kaik]k' [on muut k]a[llu&#239;n muistin],</V>
+<V>1. [Kaik]k' [on muut k]a[llui&#776;n muistin],</V>
 <V>2. [kolme hyyvveää jäi kottii]ne:</V>
 <V>5. [lämmin leipä, voi]patanen,</V>
 <V>3. [unikontti jäi kottii]ne,</V>
@@ -48387,12 +48387,12 @@ numeroilla.
 <V>5 tee#2 liitto päivän kanss,</V>
 <V>päivän kanss, kuun keralla,</V>
 <V>silloin on nuoren nousuaika#3,</V>
-<V>vanho&#239;n leppousaika#4;</V>
+<V>vanhoi&#776;n leppousaika#4;</V>
 <V>ei oo kuussa, ei kukoss,</V>
 <V>10 otavass on nuoren nousu,</V>
-<V>kons on oike&#239;n otava,</V>
+<V>kons on oikei&#776;n otava,</V>
 <V>kons on pursto pohjasess#5,</V>
-<V>päin sarvet sulli&#239;n maihen.</V>
+<V>päin sarvet sullii&#776;n maihen.</V>
 </TEXT>
 <REFS>
   #1 myöh. lis.
@@ -48487,7 +48487,7 @@ numeroilla.
 </INF>
 </META>
 <TEXT>
-<V>1. [Tule ei tuiska]&#239;n [tuppaa]ne</V>
+<V>1. [Tule ei tuiska]i&#776;n [tuppaa]ne</V>
 <V>3. [kiljahellen], [kaljahellen],</V>
 <V>4. tuo ei [riuh]u [rististäis]i,</V>
 <V>5. [katk] [ei kaulaketju]jais,</V>
@@ -48536,7 +48536,7 @@ numeroilla.
 <V>25 ota halko hoaapanekki,</V>
 <V>ota puu petäjännekki,</V>
 <V>koivunekki koppaele!</V>
-<V>Sie kui halko&#239; valitset,</V>
+<V>Sie kui halkoi&#776; valitset,</V>
 <V>siit alkaat akat sanella,</V>
 <V>30 sanno'ot kyläiset naiset,</V>
 <V>sannoot naiset naapuriset,</V>
@@ -48588,7 +48588,7 @@ numeroilla.
 <V>9. [tule kolmenna tuppaa]ne;</V>
 <V>10. [laka-liina olkapeääll]ä,</V>
 <V>11- vesikappa kämmen päässä,</V>
-<V>10 12. [sie pese perre]&#235;n [silmät],</V>
+<V>10 12. [sie pese perre]e&#776;n [silmät],</V>
 <V>13. [kui soaat ty]y[ös tehneheks]e,</V>
 <V>15. [ne] sie [kiietä kivell]e,</V>
 <V>15- älä huuva kulkullaisi,</V>
@@ -48607,8 +48607,8 @@ numeroilla.
 <V>26. [ota puu petäjänne]n[ki],</V>
 <V>27. [koivune]n[ki koppa]j[ele].</V>
 <V>36. [mist on tullut Turj]e[n hullu],</V>
-<V>37. [veääetty] on[Vennää]&#235;[n hullu].</V>
-<V>30 38. [halko&#239; valitsemaan]e</V>
+<V>37. [veääetty] on[Vennää]e&#776;[n hullu].</V>
+<V>30 38. [halkoi&#776; valitsemaan]e</V>
 <V>38- meijän pitkälle pinolle.</V>
 <V>39. [kui saat työ]ö[s] [tehneheks]e,</V>
 <V>40. [si]i[tt sie lattia lakaise],</V>
@@ -48617,7 +48617,7 @@ numeroilla.
 <V>43. [kui]n [on leivoista talossa],</V>
 <V>44. [anna leivoista kätteen]e,</V>
 <V>45. [ku] [ei] o [leivoista talossa],</V>
-<V>46. [anna lastu&#239; kätteen]e,</V>
+<V>46. [anna lastui&#776; kätteen]e,</V>
 <V>40 48. [lastu lapsen vii]h[yttää]pi.</V>
 </TEXT>
 </ITEM>
@@ -48666,7 +48666,7 @@ numeroilla.
 <V>jäis ei selkiät sekkoukset.</V>
 <V>Kui saat työs tehneheks,</V>
 <V>30 siit sie lattia lakaise,</V>
-<V>älä lapsi&#239; lakaise,</V>
+<V>älä lapsii&#776; lakaise,</V>
 <V>kohottele kolpitsolle!</V>
 </TEXT>
 <REFS>
@@ -48696,7 +48696,7 @@ numeroilla.
 <V>8. [tule kolmenna tuppa]ne:</V>
 <V>10. [leht]i-[luuta kainalossa],</V>
 <V>11. [ves]ikappa [kämmenpäässä],</V>
-<V>12. sie [pese] [perre&#235;n silmät],</V>
+<V>12. sie [pese] [perree&#776;n silmät],</V>
 <V>10 13. [ota otrat kiukuvast]a,</V>
 <V>14. [lemahuta lies]i-[lauta]#1,</V>
 <V>15. [otrat kiietä kivell]e.</V>
@@ -48786,7 +48786,7 @@ numeroilla.
 <CPT>Tulijaishäissä.</CPT>
 <V>1. [Emännäks]e [etsittiin]i,</V>
 <V>2. [käytiin käsiliseks]e</V>
-<V>3. [suolo&#239;]n [sopottajaks]e,</V>
+<V>3. [suoloi&#776;]n [sopottajaks]e,</V>
 <V>4. [lukulanka]n [laittajaks]e.</V>
 <V>5 6. [hauka]n [ruuvatta havaita],</V>
 <V>6- sie tie liitto päivän kanssa,</V>
@@ -48813,7 +48813,7 @@ numeroilla.
 <V>siit sie kuukuta kujalle,</V>
 <V>siit sie lähe läävä töille,</V>
 <V>15. [katso]t [lammas karsinaa]ne,</V>
-<V>30 14. [luo]t [silmät sikko&#239;n päälle],</V>
+<V>30 14. [luo]t [silmät sikkoi&#776;n päälle],</V>
 <V>16. [hevosill]e [heinät anna],</V>
 <V>18. eisin [annat Annikill]e,</V>
 <V>17. siit on [pistät Pienikill],</V>
@@ -48860,7 +48860,7 @@ numeroilla.
 <V>siit alkaat akat sanella,</V>
 <V>piiat pistellä puhetta:</V>
 <V>25 mist on tultu Turjan#1 hullu,</V>
-<V>veääett' on Vennä&#239;n hullu</V>
+<V>veääett' on Vennäi&#776;n hullu</V>
 <V>halkoi valitsemmoaa?</V>
 <V>Kui soaat työs tehneheks,</V>
 <V>ota otrat kiukuvasta,</V>
@@ -48909,7 +48909,7 @@ numeroilla.
 <V>10. [ku]i[n on leivo]i[sta talossa],</V>
 <V>10 11. [anna leivo]i[sta kättiee]ne,</V>
 <V>12. [ku] [ei leivo]i[sta talossa],</V>
-<V>13. [anna lastu&#239; kättiee]ne,</V>
+<V>13. [anna lastui&#776; kättiee]ne,</V>
 <V>14. se on [lastu] [lapsen lelli],</V>
 <V>15. [lastu lapsen vii]h[ytteää]pi.</V>
 <V>15 16. [kui saat ty]y[ö]'ö[s tehneheks]e,</V>
@@ -48920,7 +48920,7 @@ numeroilla.
 <V>20 22. [sie kui halkoi] vaan [valitset]:</V>
 <V>25. [mist on tultu Turj]e[n hullu]</V>
 <V>26- meiän pitkälle pinolle</V>
-<V>27. [halko&#239; valitsemmoaa]ne.</V>
+<V>27. [halkoi&#776; valitsemmoaa]ne.</V>
 <V>28. [kui soaat työ]ö[s tehneheks]e,</V>
 <V>25 30. [ne siit kiietä kivell]e,</V>
 <V>30- lemahuta liesilauta#1.</V>
@@ -49159,7 +49159,7 @@ numeroilla.
 <V>20. [masentant maammoseis]i,</V>
 <V>20- sini-polven polkenunna?</V>
 <V>23. [olt on kynsin kynnyksiss]ä,</V>
-<V>25 24. [hampa&#239;n vesi hoaaoss]a.</V>
+<V>25 24. [hampai&#776;n vesi hoaaoss]a.</V>
 </TEXT>
 </ITEM>
   
@@ -49184,7 +49184,7 @@ numeroilla.
 <V>5 niin on kaasen pää nivottu</V>
 <V>niin kuin miekan pää nivottu.</V>
 <V>Katso, kaase, kansajais#3,</V>
-<V>katso kansa&#239;s hyväst#4,</V>
+<V>katso kansai&#776;s hyväst#4,</V>
 <V>jott ei pojat pois mänis#5,</V>
 <V>10 jott ei#6 kaaset karkajais#7;</V>
 <V>jos ne pojat pois männööt#8,</V>
@@ -49221,7 +49221,7 @@ numeroilla.
 <TEXT>
 <L>Häämiehet laulaat (kaaseloill, nuoteille ja morsiamme[ll].</L>
 <V>Katso, kaase, morsianta,</V>
-<V>jottei poiki&#239;s rekkeene,</V>
+<V>jottei poikii&#776;s rekkeene,</V>
 <V>satulall ei lasta saisi,</V>
 <V>sanois ei satulan syykse,</V>
 <V>5 esikoljon koskeneekse.</V>
@@ -49302,7 +49302,7 @@ numeroilla.
 </TEXT>
 <REFS>
   #1 Myöh. lis.
-  #2 [poiki]&#239;[s].
+  #2 [poiki]i&#776;[s].
   #3 [sais]i.
   #4 [syyks]e.
   #5 [koskeneeks]e.
@@ -49345,7 +49345,7 @@ numeroilla.
 <V>riih kylmää lässii,</V>
 <V>lavantaut ol taikinassa;</V>
 <V>20 ne ovat tämän talosen,</V>
-<V>tämän pienosen perre&#235;n.</V>
+<V>tämän pienosen perree&#776;n.</V>
 </TEXT>
 <REFS>
   #1 yl. "Hevosill paistetaan <I>pöpötti-</I>leipii<I>,</I> johon pannaan 
@@ -49368,7 +49368,7 @@ liivii ja toukojauhoi".
 <TEXT>
 <L>Hääväki laulaat [morsiammell ja nuotteell]e (Tulohäissä).</L>
 <V>1. [Nättek tänne tullessaa]se</V>
-<V>2. [kekko&#239; kerä-perrii]ni,</V>
+<V>2. [kekkoi&#776; kerä-perrii]ni,</V>
 <V>3. [näsä-päitä närttehii]ni?</V>
 <V>4. [nättäk tänne tullessaa]se</V>
 <V>5 5. [lav]i[aisen lammas-katran],</V>
@@ -49583,7 +49583,7 @@ liivii ja toukojauhoi".
 <V>luulin tuotaa mie emoistaa,</V>
 <V>luulin tuova tuutiaista:</V>
 <V>5 ei emoista tuotukaa,</V>
-<V>tuoti&#239;n tukan vetäjä,</V>
+<V>tuotii&#776;n tukan vetäjä,</V>
 <V>hieno-hiuksen suoltelija,</V>
 <V>lieminän levittelijä;</V>
 <V>tukat tuulelle jakkaa,</V>
@@ -49679,7 +49679,7 @@ liivii ja toukojauhoi".
 <V>aivoin on ajatteloto:</V>
 <V>5. [l]a[aiheen laativaa]ista.</V>
 <V>6. [Sen sain] mie, [mitä halajin],</V>
-<V>6- mitä miele&#239;n tekkii,</V>
+<V>6- mitä mielei&#776;n tekkii,</V>
 <V>15 7. [sukuhein] sain [suuren miehen],</V>
 <V>9- sulhon suuren ja sorijan.</V>
 </TEXT>
@@ -49738,7 +49738,7 @@ liivii ja toukojauhoi".
 <V>- - -</V>
 <V>2. [yliste]l[ty yksin Luoja]!</V>
 <V>3. [sen] sain mie [mitä halajin],</V>
-<V>4. [minkän Luoja]&#239;n [lupasi],</V>
+<V>4. [minkän Luoja]i&#776;n [lupasi],</V>
 <V>6. [sukuhein] on [suuren miehen],</V>
 <V>5 7. [l]aa[ihein] on [miehen loaaon],</V>
 <V>7- miehen laain laativaisen,</V>
@@ -49770,7 +49770,7 @@ liivii ja toukojauhoi".
 <V>Kiitä neito lykkyjäis,</V>
 <V>osallista onnijais!</V>
 <V>Hyvän sait, hyvän tapasit,</V>
-<V>hyvän Luoja&#239;s lupasi</V>
+<V>hyvän Luojai&#776;s lupasi</V>
 <V>5 hyvän anto armollinen.</V>
 <V>Hyvälässä Miehelässä,</V>
 <V>Pahalassa miehelässä</V>
@@ -49836,7 +49836,7 @@ liivii ja toukojauhoi".
 <V>miniäks ainuaks,</V>
 <V>ainuvan pojan akaks!</V>
 <V>Sen sait, mitä halajit,</V>
-<V>sen siull Luoja&#239;s lupasi.</V>
+<V>sen siull Luojai&#776;s lupasi.</V>
 </TEXT>
 <REFS>
   #1 vanhanaikaisella tavalla syleillen tervehtiä [ruots.] = armustaa, tellii 
@@ -49868,7 +49868,7 @@ j. tk.
 <V>8. [paimeness]a [käyvessäis]i,</V>
 <V>8- likkanna lipatessaisi,</V>
 <V>9. [kannon peääs]sä [seissessais]i:</V>
-<V>10 10. [kuin] se [autta&#239;s] (on) [Jumala]</V>
+<V>10 10. [kuin] se [auttai&#776;s] (on) [Jumala]</V>
 <V>11. [miniäks]e [ainu]v[aks]e,</V>
 <V>12. [ainuvan pojan akaks]e.</V>
 <V>13. [sen]hän [sait, mitä halajit],</V>
@@ -50526,10 +50526,10 @@ j. tk.
 <V>Hyvä täss on orjonn olla,</V>
 <V>sen paremp on palkkalaisen,</V>
 <V>miniän mitä parempi:</V>
-<V>ei meillä varra&#239; noussa,</V>
+<V>ei meillä varrai&#776; noussa,</V>
 <V>5 meill ei puuhata puhetta,</V>
 <V>kiven puuhun kiirehest#2,</V>
-<V>raa'an varte&#235; ei varrai#3,</V>
+<V>raa'an vartee&#776; ei varrai#3,</V>
 <V>ei oo kiirettä kivelle,</V>
 <V>eikä huolta hummareelle;</V>
 <V>10 ves meill#4 vehnat jauho,</V>
@@ -50570,7 +50570,7 @@ j. tk.
 <V>kaunis olla kartanolla;</V>
 <V>meri meijälle näkkyy#3,</V>
 <V>meri on meijän ikkunaane;</V>
-<V>5 tuoss#4 soppi&#239; sorsan uija,</V>
+<V>5 tuoss#4 soppii&#776; sorsan uija,</V>
 <V>meren utkan uiksennalla,</V>
 <V>kaallella meren kajavan,</V>
 <V>meren linnun liiritellä.</V>
@@ -50683,7 +50683,7 @@ muutettu numeroilla.
 <V>On meillä Jumalan kiitos,</V>
 <V>on meillä koti kotonn,</V>
 <V>koin-katsojat kotonn,</V>
-<V>meill on kaune&#235;t katokset,</V>
+<V>meill on kaunee&#776;t katokset,</V>
 <V>5 meill suojat aivon sorjat,</V>
 <V>mihin vienen vierahain,</V>
 <V>mihin soaattanen suuvuin;</V>
@@ -50695,7 +50695,7 @@ muutettu numeroilla.
 <V>Hyvä meill on olla orjann,</V>
 <V>sen paremp on palkkalaisen,</V>
 <V>15 miniän mitä paremp,</V>
-<V>ei meillä varra&#239; noussa,</V>
+<V>ei meillä varrai&#776; noussa,</V>
 <V>meill ei puuhata puhetta,</V>
 <V>kiven puuhun ei kiirehest,</V>
 <V>roaan varteen ei varrain,</V>
@@ -50735,7 +50735,7 @@ muutettu numeroilla.
 <V>13. [hyvä meill on] orjonn olla,</V>
 <V>15. [miniän mitä paremp]i.</V>
 <V>10 18. [kiven puuhun] [kiirehest],</V>
-<V>19. [roa'an varte&#235;n] [varrain]i,</V>
+<V>19. [roa'an vartee&#776;n] [varrain]i,</V>
 <V>20. [vakka vuonna jauhetaan]e,</V>
 <V>22. [siekla seitse]männ kesännä,</V>
 <V>23. [meill on myllyt myyr]ii[n päällä],</V>
@@ -50761,7 +50761,7 @@ muutettu numeroilla.
 <V>Hyvä on meillä orjonn olla,</V>
 <V>sen paremp on palkkalaisen,#1</V>
 <V>miniän on mitä parempi;</V>
-<V>ei meillä varra&#239;n noussa,</V>
+<V>ei meillä varrai&#776;n noussa,</V>
 <V>5 meill ei puuhata puhetta,</V>
 <V>roaan varteen ei varrain,</V>
 <V>kiven puuhun ei kiirehest,</V>
@@ -50925,7 +50925,7 @@ muutettu numeroilla.
 <V>35. [mikä aitta] [vehka-s]oi[lla],</V>
 <V>36. [se vaan hiiri] on [hilajii],</V>
 <V>30 37. [mik]ä [pa]r[kki-kankahalla],</V>
-<V>38. [se] on [rotti&#239; romajii],</V>
+<V>38. [se] on [rottii&#776; romajii],</V>
 <V>39. kolmas on [kotona aitta],</V>
 <V>40. [se on tyhjä tykkynään]e.</V>
 </TEXT>
@@ -50999,9 +50999,9 @@ muutettu numeroilla.
 <CPT>(Tulijaishäissä).</CPT>
 <L>Nuotteet tah morsiamen kerallisin:</L>
 <V>1.[Mitä häissä syötetään]e?</V>
-<V>2. [kiiski]&#239; [kirokallo]&#239;#1,</V>
+<V>2. [kiiski]i&#776; [kirokallo]i&#776;#1,</V>
 <V>3. [ahvenii] on [ruotasii]ni,</V>
-<V>4. [särki&#239; sapekkahii]ni#2,</V>
+<V>4. [särkii&#776; sapekkahii]ni#2,</V>
 <V>5 6. [vaste näitä nuotehii]ni,</V>
 <V>8. [kannett kaaselle ettee]ne.</V>
 </TEXT>
@@ -51100,7 +51100,7 @@ numeroilla.
 <CPT>Tulijaish[äissä].</CPT>
 <V>1. [Laha] [siivein] miu [sullaat]e,</V>
 <V>2. [höyhenein] on [lämpiäät]e,</V>
-<V>3. [hallass on hamme]&#235;[n helmat],</V>
+<V>3. [hallass on hamme]e&#776;[n helmat],</V>
 <V>4. [hunnu]n [sikko huutehessa],</V>
 <V>5 6. [voinha miekin vuorostain]i,</V>
 <V>7. [voinha miekin vo]l[kotella]#1,</V>
@@ -51421,9 +51421,9 @@ numeroilla.
 <V>suostunt en pojan sormuksii,</V>
 <V>rakastunt en pojan rahhoi;</V>
 <V>oishan naitu, oishan vietty,</V>
-<V>oishan oike&#239;n otettu</V>
+<V>oishan oikei&#776;n otettu</V>
 <V>20 nääön kautta, varren kautta,</V>
-<V>tahott ois tappo&#239;n kautta,</V>
+<V>tahott ois tappoi&#776;n kautta,</V>
 <V>mutt ei se oltu miu ossain,</V>
 <V>vetänt ei miu verrein,</V>
 <V>oma läyl ei lämpejelty.</V>
@@ -51671,7 +51671,7 @@ numeroilla.
 <V>kun mie saisin, minkä soisin,</V>
 <V>15 saisin mitä halajan,</V>
 <V>saisin suojat aivon sorjat,</V>
-<V>saisin kaune&#235;t katokset.</V>
+<V>saisin kaunee&#776;t katokset.</V>
 <V>Onhan teiän neiollaan,</V>
 <V>on sillä J[uma]lan kiitos</V>
 <V>20 tuvat uuven uutukkaiset,</V>
@@ -51704,10 +51704,10 @@ numeroilla.
 <V>7. [koaakkusaajan kainaloo]ne,</V>
 <V>5 10- punakuoren koivikosta.</V>
 <V>11. [ol'ha teiän neiosee]se,</V>
-<V>12. [se ol oike]&#235;[n osakas],</V>
+<V>12. [se ol oike]e&#776;[n osakas],</V>
 <V>15. kuin [saisin mitä halajan].</V>
 <V>18. [onhan teiän neiollaa]se,</V>
-<V>10 20- onhan kaune&#235;t katokset,</V>
+<V>10 20- onhan kaunee&#776;t katokset,</V>
 <V>22. [nurm]i [nuori juostavanna].</V>
 </TEXT>
 </ITEM>
@@ -52465,7 +52465,7 @@ sitten morsiammen
 <V>13. [oro, oro pie varrais]i,</V>
 <V>14. [etsi luontos] sie [lumesta],</V>
 <V>10 15. [hoaaon alt] on [haltiais]i,</V>
-<V>16. [synty]&#239;[s syväst]ä [moaasta],</V>
+<V>16. [synty]i&#776;[s syväst]ä [moaasta],</V>
 <V>17- jott ei pistyis noian nuolet,</V>
 <V>noian nuolet, verhan veitset,</V>
 <V>eikä tietäjän teräkset!</V>
@@ -52637,7 +52637,7 @@ sitten morsiammen
 <V>ei o lammi lautasissa,</V>
 <V>lähe länkiin ei välissä,</V>
 <V>5 kolo keski selkä piissä;</V>
-<V>ree&#235;n päält on riisuttava,</V>
+<V>reee&#776;n päält on riisuttava,</V>
 <V>ajalt on satuloittava,</V>
 <V>veen pilvestä vettääpi,</V>
 <V>kakrat syöp räystähältä.</V>
@@ -52725,13 +52725,13 @@ sitten morsiammen
 <V>vaivanen virittellöö,5 tuota vinkiä vihhaini,</V>
 <V>tuota äitelä äkkäili,</V>
 <V>kuin kylän paras panisi</V>
-<V>miun isso&#239;n peltoloini.</V>
+<V>miun issoi&#776;n peltoloini.</V>
 <V>Sit' on mielein miu pahempi,</V>
 <V>10 sitä kahta karkijampi,</V>
 <V>kuin se kyntää kyykkäselkä,</V>
-<V>vaivanen vakko&#239;loopi,</V>
+<V>vaivanen vakkoi&#776;loopi,</V>
 <V>paksu-kaklaset pannooto,</V>
-<V>miun isso&#239;n peltoloini.</V>
+<V>miun issoi&#776;n peltoloini.</V>
 </TEXT>
 <REFS>
   #1 yl. Porovieekka.
@@ -53015,7 +53015,7 @@ sitten morsiammen
 <L>Lapset kuiskaat ja ähittellööt näin toisilleen:#1</L>
 <V>Kyll mie siulle neuvon keksin,</V>
 <V>tehhään nuppu nuoran päähän,</V>
-<V>solmuu säike&#235;n nennää#2,</V>
+<V>solmuu säikee&#776;n nennää#2,</V>
 <V>rieen rautasen rakennan.</V>
 </TEXT>
 <REFS>
@@ -53389,7 +53389,7 @@ sitten morsiammen
 <V>tappoi issoin, tappoi emmoin,</V>
 <V>tappoi viisi vellostaini,</V>
 <V>5 seitsemän sisäriäini,</V>
-<V>kuusi kuoma&#239;n tytärtä.</V>
+<V>kuusi kuomai&#776;n tytärtä.</V>
 <V>Käi miuista tappamaa.</V>
 <V>Mie pääsin päistärille,</V>
 <V>päistäret tulelle syttyit,</V>
@@ -53456,7 +53456,7 @@ sitten morsiammen
 <V>10 15. [sauvan miun] on [tielle saattoi],</V>
 <V>20. [t]ie[e] miulle [ämmä] [kaakun]</V>
 <V>21. [kiven silmän suurukkai]nen,</V>
-<V>22. [piirakan re&#235;n pittuu]su.</V>
+<V>22. [piirakan ree&#776;n pittuu]su.</V>
 <V>22- teki ämmä miulle kaakun,</V>
 <V>15 24. [kalamiehet miulle kalloi]ni,</V>
 <V>25. [mie] on [kalat riihen puijill],</V>
@@ -53468,7 +53468,7 @@ sitten morsiammen
 <V>32. [kokko miulle siipiää]se,</V>
 <V>33. [kokko siipi-sulkiaa]se</V>
 <V>34. [yli meren männäkse]i[n]i</V>
-<V>25 35. [tuonne uute&#235;]n [tuppaa]ne,</V>
+<V>25 35. [tuonne uutee&#776;]n [tuppaa]ne,</V>
 <V>36. [kauneheen] on [kartanoon]e,</V>
 <V>37. [kalkittuu]n on [kammarii]ni,</V>
 <V>38. [siel] on [uuet ukset ieessä],</V>
@@ -53593,7 +53593,7 @@ sitten morsiammen
 <V>3. [kokko miulle siipiää]se,</V>
 <V>4. [siipi]ääse, [sulkiaa]se</V>
 <V>5. [yli meren männäkseen]i,</V>
-<V>6. [tuonne uute&#235;n tuppaa]ne,</V>
+<V>6. [tuonne uutee&#776;n tuppaa]ne,</V>
 <V>5 7. [penkit pienist]ä [rahoista],</V>
 <V>8. [silta] [tehty] on [sietran luista],</V>
 <V>10. [lak] on [lahnan suomuksist].</V>
@@ -54096,7 +54096,7 @@ sitten morsiammen
 <V>muihen mustien seasta,</V>
 <V>10 kirna kornitsan keselt,</V>
 <V>läpi kuuman nieklan silmän,</V>
-<V>läpi kirve&#235;n kasast,</V>
+<V>läpi kirvee&#776;n kasast,</V>
 <V>kukkin omaan ottakoo</V>
 <V>ja toisen oman heittäköö,</V>
 <V>15 katso yhtä katso toista,</V>
@@ -54303,7 +54303,7 @@ sitten morsiammen
 <V>5. [nyt myö leikkii lyötänee]ne</V>
 <V>5 6. [ja ilo isettänee]ne,</V>
 <V>8. [yhteen] myö [yhyttäjessä],</V>
-<V>9. myö [pari&#239; päästäjessä]</V>
+<V>9. myö [parii&#776; päästäjessä]</V>
 <V>9- tämän vaarin vainiolla,</V>
 <V>tämän nuorin muosiolla,</V>
 <V>10 tämän rikka'an rikoilla.</V>
@@ -54326,7 +54326,7 @@ sitten morsiammen
 <V>- - -</V>
 <V>Heitä pois#1 heinäkenkät,</V>
 <V>riisu pois#1 riihikoisi,</V>
-<V>kaski-vaatte&#235;t karista,</V>
+<V>kaski-vaattee&#776;t karista,</V>
 <V>paa peääll#2 paremmat paiat,</V>
 <V>5 soriammat suhmanoisi!</V>
 </TEXT>
@@ -54543,9 +54543,9 @@ sitten morsiammen
 <V>tämän iltasen ilosta,</V>
 <V>tämän päivän pään peräste.</V>
 <V>5 Ilotaan#1 myö tääki#2 ilta</V>
-<V>muihen ilto&#239;n mukkaane#3,</V>
+<V>muihen iltoi&#776;n mukkaane#3,</V>
 <V>remutaan#4 myö#5 tääki#2 retki</V>
-<V>muihen retki&#239;n mukkaane#3!</V>
+<V>muihen retkii&#776;n mukkaane#3!</V>
 </TEXT>
 <REFS>
   #1 ilot|o|aan.
@@ -54694,7 +54694,7 @@ sitten morsiammen
 <V>siel ei kose pää lakkein,</V>
 <V>20 päälak ei tuvan lakkiee,</V>
 <V>jalat sillan liitoksee,</V>
-<V>otsa orte&#235;n ei kolaha,</V>
+<V>otsa ortee&#776;n ei kolaha,</V>
 <V>pää pamah' ei patsahaa.</V>
 </TEXT>
 </ITEM>
@@ -54908,7 +54908,7 @@ sitten morsiammen
 <V>enkä sillalla siraja.</V>
 <V>Onhan meillä ollenkii,</V>
 <V>10 meill on kielonen keralla,</V>
-<V>suu on muilla&#239; muassa,</V>
+<V>suu on muillai&#776; muassa,</V>
 <V>kiel on meilläi keralle.</V>
 <V>Mie en huoli huulistain</V>
 <V>enkä suutain sureksi</V>
@@ -55720,7 +55720,7 @@ että emo kantoi
 <V>päästä paimenta kottiin#4,</V>
 <V>5 vilusta, pahasta säästä,</V>
 <V>*pörysääst ja pakkasesta,*</V>
-<V>vie kotti&#239; herran karja,</V>
+<V>vie kottii&#776; herran karja,</V>
 <V>oma karja kartannoo#5,</V>
 <V>vieras karja vitsikkuoo#6,</V>
 <V>10 oma paimen orren peäähän,</V>
@@ -55787,7 +55787,7 @@ että emo kantoi
 <V>Mie tein tielle kiukuvaisen,</V>
 <V>10 paistoin pienet piirakkaiset,</V>
 <V>tuon mie syötin velluvein,</V>
-<V>elätin em&#772;o&#239;n lapset*.#2</V>
+<V>elätin em&#772;oi&#776;n lapset*.#2</V>
 <L>Kuultu Serun (Serkein) Annilta, kotoisin Kuivasiin Kiiskilästä. Elää 
 vielä.</L>
 </TEXT>
@@ -56693,7 +56693,7 @@ numeroilla.
 <V>8. [laiva suur lanko]siini,</V>
 <V>5 8- sisoloilt on silta taittu,</V>
 <V>1. [vello]i[lt]a [vene hajosi],</V>
-<V>2- jäi poika ve&#235;n varroone,</V>
+<V>2- jäi poika vee&#776;n varroone,</V>
 <V>lapsi laineen ojaane,</V>
 <V>3. [jäivät sormet soutimeks]e,</V>
 <V>10 4. [kämmenet käsi meloiks]e.</V>
@@ -56723,9 +56723,9 @@ numeroilla.
 <V>tänne savvuu lankiaapi</V>
 <V>5 hivuksille hiiltäville,</V>
 <V>tukille tuli-palo(i)lle.</V>
-<V>En itke isso&#239;n#1 maita,</V>
+<V>En itke issoi&#776;n#1 maita,</V>
 <V>mait#2 en vellon vierettele,</V>
-<V>itkööt miu isso&#239;n pellot,</V>
+<V>itkööt miu issoi&#776;n pellot,</V>
 <V>10 ison nurmet nurkuttaata,</V>
 <V>*vellon pellot vierättäätä*</V>
 <V>koreaista kyntäjäistä</V>
@@ -56733,7 +56733,7 @@ numeroilla.
 <V>kuka kyllin kyntelisi.*</V>
 <V>15 Ku polo pojaks ois#3 luotu,</V>
 <V>kyheält ois#4 kyntäjäksi,</V>
-<V>kyntäisin isso&#239;n pellot,</V>
+<V>kyntäisin issoi&#776;n pellot,</V>
 <V>vellon pellot pehmyttäisin,</V>
 <V>ison nurmet nostelisin,</V>
 <V>20 jäis ei moaat jäniksen maata,</V>
@@ -56838,7 +56838,7 @@ numeroilla.
 <V>meren linnun liiritellä,#1</V>
 <V>kaalella meren kajavan,</V>
 <V>10 meren utkan uiksen[n]ella.</V>
-<V>Voi meiän hyvvi&#239; maita,</V>
+<V>Voi meiän hyvvii&#776; maita,</V>
 <V>meiän maita mairehii,</V>
 <V>meill ei kastu kaitakenkä,</V>
 <V>ei likahu liinasukka,</V>
@@ -57054,7 +57054,7 @@ numeroilla.
 <V>kuuset meille kullat tuovat,</V>
 <V>5 honkat huohta'at hopiat,</V>
 <V>maitoo on mahot petäjät.</V>
-<V>5. [voi meiän hyvi]&#239; [maitui],</V>
+<V>5. [voi meiän hyvi]i&#776; [maitui],</V>
 <V>7. [maita mairoteltavii]ni,</V>
 <V>8. [n]e [ei kasva kastikaista],</V>
 <V>10 9. [ei nosta noki-nennä]istä,</V>
@@ -57266,7 +57266,7 @@ numeroilla.
 <V>38. [sa]a['an saunan ikkunasta].</V>
 <V>40. [kunis moaat nämä näkkyyt]y</V>
 <V>30 40- sinis puita pullittelen#3,</V>
-<V>kunis näre&#235;t näkkyyty,</V>
+<V>kunis näree&#776;t näkkyyty,</V>
 <V>41. [kuusen oksat kuumottaat]e,</V>
 <V>42. [sinis itken ilmisii]ni,</V>
 <V>43. [kunis ilmisest elä]ätä.</V>
@@ -57312,7 +57312,7 @@ numeroilla.
 <V>Paremp on omilla mailla#6</V>
 <V>tupa kolmekolkkonenki#8,</V>
 <V>20 kuin on maalla vierahalla</V>
-<V>olla Sakso&#239;n saliss#9,</V>
+<V>olla Saksoi&#776;n saliss#9,</V>
 <V>keltakostolin kesess#10,</V>
 <V>*verkaviitan vierosessa,*</V>
 <V>siniviittasen sivuss#11.</V>
@@ -57382,7 +57382,7 @@ numeroilla.
 <V>Paremp on omilla mailla</V>
 <V>tupa kolmi-kolkkanenki</V>
 <V>kuin maalla vierahalla</V>
-<V>olla sakso&#239;n salissa</V>
+<V>olla saksoi&#776;n salissa</V>
 <V>30 sini-viittasen sivussa,</V>
 <V>verka viita vierosessa,</V>
 <V>kelta-kostoliin kesessä.</V>
@@ -57533,7 +57533,7 @@ numeroilla.
 <V>jäis ei maat jäniksen moaata#1,</V>
 <V>lehot ilveksen levätä,</V>
 <V>pellot ei petran piehtaroija,</V>
-<V>10 kyntäisin isso&#239;n pellot,</V>
+<V>10 kyntäisin issoi&#776;n pellot,</V>
 <V>vellon pellot pehmyttäisin,</V>
 <V>ison nurmet nostelisin,</V>
 <V>ajelisin aitavieret,</V>
@@ -57985,7 +57985,7 @@ numeroilla.
 <V>tuhmat selväkse tulema.</V>
 <V>Onhan maata muuallai,</V>
 <V>ilmaa etempänäi,</V>
-<V>10 ei isso&#239;n ikkunalla,</V>
+<V>10 ei issoi&#776;n ikkunalla,</V>
 <V>eikä vellon pellon päässä.</V>
 </TEXT>
 </ITEM>
@@ -58030,7 +58030,7 @@ numeroilla.
 <TEXT>
 <V>On maata muuallai,</V>
 <V>ilmoaa etempännäi,</V>
-<V>ei isso&#239;n ikkunalla.</V>
+<V>ei issoi&#776;n ikkunalla.</V>
 </TEXT>
 </ITEM>
   
@@ -58723,7 +58723,7 @@ numeroilla.
 <V>7- niin luulin polon alanen</V>
 <V>5 8. [päivän päältäin] on [puuttoovan],</V>
 <V>9. [kohastain] on [kuun kattoovan],</V>
-<V>11. [kuu paistaa kojji]&#239;[n päälle],</V>
+<V>11. [kuu paistaa kojji]i&#776;[n päälle],</V>
 <V>12. päälle päivä [kartanoin]i.</V>
 </TEXT>
 </ITEM>
@@ -59033,7 +59033,7 @@ numeroilla.
 <V>5 eihä se näy (siit) närttehiini,</V>
 <V>teht ei joulunna olutta.</V>
 <V>Tikka paljon puita pilkko,</V>
-<V>teht ei pitki&#239; on pinnon#2;</V>
+<V>teht ei pitkii&#776; on pinnon#2;</V>
 <V>kana äijä vettä lakkii,</V>
 <V>10 kuulunt ei kusella käyvä.</V>
 </TEXT>
@@ -59057,7 +59057,7 @@ numeroilla.
 </META>
 <TEXT>
 <CPT>Liekuss.#1</CPT>
-<V>Kukkuu#2 käkki&#239; kolme</V>
+<V>Kukkuu#2 käkkii&#776; kolme</V>
 <V>kolmen koivun latvasessa,</V>
 <V>kahen puolen kaijan notkon,</V>
 <V>kahen kuivan kuusen latvan,</V>
@@ -59337,7 +59337,7 @@ numeroilla.
 </META>
 <TEXT>
 <V>Kylvämätt ei touko kasva,</V>
-<V>raha saamatt ei sikkii&#239;,</V>
+<V>raha saamatt ei sikkiii&#776;,</V>
 <V>leip ei kasva kyntämättä,</V>
 <V>eihä leipä syyven puutu.</V>
 <V>- - -</V>
@@ -59480,7 +59480,7 @@ numeroilla.
 <V>Mie sain#1 kokolta koprat#2,</V>
 <V>mie otin kurelta kulkun,</V>
 <V>kajavalta#3 pitkän kaulan,</V>
-<V>mill mie velli&#239; vetelen,</V>
+<V>mill mie vellii&#776; vetelen,</V>
 <V>5 lohon lientä lotkottelen.</V>
 </TEXT>
 <REFS>
@@ -59648,7 +59648,7 @@ numeroilla.
 <TEXT>
 <V>Poika, poika, te'e rekkii,</V>
 <V>toinen poika, paa pajuune,</V>
-<V>taivas talvi&#239; tekkööpi,</V>
+<V>taivas talvii&#776; tekkööpi,</V>
 <V>rekisäätä reutuvaapi.</V>
 <V>5 Ei sukset sulalla juokse,</V>
 <V>ven' ei viere pakkasella.</V>
@@ -60306,7 +60306,7 @@ minun
 <V>Tupa on tehty miesten tulla,</V>
 <V>talli seisovan orosen,</V>
 <V>läävä lehmän lämmitellä,</V>
-<V>sanna akko&#239;n assu'u.</V>
+<V>sanna akkoi&#776;n assu'u.</V>
 </TEXT>
 </ITEM>
   
@@ -60326,7 +60326,7 @@ minun
 <V>Tähän istun, täss on lämmi,</V>
 <V>tähän muori muonan tuopi,</V>
 <V>veikko veitsen lennättääpi,</V>
-<V>vaar' on vatte&#235;n vettääpi,</V>
+<V>vaar' on vattee&#776;n vettääpi,</V>
 <V>5 suuret muorit muonan tuovat,</V>
 <V>pienet muorit pistelöötö.</V>
 </TEXT>
@@ -60688,7 +60688,7 @@ häissään häpiät
 <V>5 silmät suuret hylkeheks.</V>
 <V>Pani Mikko pakkojaan:</V>
 <V>"Mikä lie tult mertohein</V>
-<V>ja tul miu toke&#239;heeni?"</V>
+<V>ja tul miu tokei&#776;heeni?"</V>
 <V>Otti pitkän pihjalaisen,</V>
 <V>10 leikas lepästä vitsan,</V>
 <V>otti koivusen korennan,</V>
@@ -60786,7 +60786,7 @@ häissään häpiät
 <V>veivät vahtii Valetan#2.</V>
 <V>Malttant ei vahtii Valetta</V>
 <V>hukan-pala, juoksultaan,</V>
-<V>tuo hukka hovvi&#239; juoksi,</V>
+<V>tuo hukka hovvii&#776; juoksi,</V>
 <V>10 kaalo maito kammarii,</V>
 <V>heä särk pari pattoi,</V>
 <V>parin toisen tuoppiloi,</V>
@@ -60833,7 +60833,7 @@ häissään häpiät
 <V>10. [kaalo maito kammarii]ni,</V>
 <V>11. tuo [särk pari pattoi]ni,</V>
 <V>12. [parin toisen tuoppiloi]ni,</V>
-<V>13. [pari ruutu]&#239; [rutus]i.</V>
+<V>13. [pari ruutu]i&#776; [rutus]i.</V>
 <V>10 14. [ravi][tteli] ol [Rantsi-herra],</V>
 <V>15. [lykkäs lyyjyt pyssyhee]se,</V>
 <V>16. [ampui kerran, käi alatse]n,</V>
@@ -60844,7 +60844,7 @@ häissään häpiät
 <V>21- pist on piirakan sissääne,</V>
 <V>23 hyö [luuliit sikka'a syövän],</V>
 <V>24. [sipuvaa] hyö [sirkatsuu]ne,</V>
-<V>20 24- hyö kollo&#239;t koiran luita,</V>
+<V>20 24- hyö kolloi&#776;t koiran luita,</V>
 <V>Valetta on vatkasiiti.</V>
 <L>Öskän löskän (Oskalan Vyöter) tekemä. Seppä Jaakko kaipas herralle ja sitten 
 
@@ -61049,7 +61049,7 @@ meidän; Helka
 <V>mist on liha liikahtantu?</V>
 <V>Paa lihat lihhoi vaste,</V>
 <V>poaa luut luita vastikka,</V>
-<V>5 suonet solme&#235; sovitta,</V>
+<V>5 suonet solmee&#776; sovitta,</V>
 <V>suuret suonet rinnakkaisin,</V>
 <V>pienet suonet peääksekkäisin;</V>
 <V>kui liet luist luikahtantu,#1</V>
@@ -61080,7 +61080,7 @@ numeroilla.
 <V>tule tänne, Herra Jeesus,</V>
 <V>saa tänne, hyvä Jumala,</V>
 <V>5 4. pane [luut] on [lu]u[ta vast]e,</V>
-<V>4- lihat on lihho&#239; vaste,</V>
+<V>4- lihat on lihhoi&#776; vaste,</V>
 <V>10. [koiran suolilla so]vi[ta]!</V>
 <V>9. [jäsenist]ä [järkähtänty]</V>
 <V>9- ja lihoista liikahtantu!</V>
@@ -61741,11 +61741,11 @@ kipaht kipuna, niin
 <V>Vellot verkkoo kuttuoot,#1</V>
 <V>sisärykset keträsiit.</V>
 <V>Saatiin verkot valmeheks,</V>
-<V>10 vieti&#239;n vesille verkot;</V>
+<V>10 vietii&#776;n vesille verkot;</V>
 <V>ei saatu sitä kalloaa,</V>
 <V>mitä vast ol verkot tehty,</V>
 <V>mitä vast ol valmistettu,</V>
-<V>soaati&#239;n halia hauki,</V>
+<V>soaatii&#776;n halia hauki,</V>
 <V>15 halaistiin on hauvin vatsa,</V>
 <V>saatiin on silijä siika,</V>
 <V>halaistiin on siian vatsa,</V>
@@ -61790,17 +61790,17 @@ kipaht kipuna, niin
 <V>1. [Yöllä liina kylvöttiin]i,</V>
 <V>2. [kylvöttiin ja kynnettiin]i,</V>
 <V>3. [kuutomall] on [koirittiin]i,</V>
-<V>4. [yöllä vieti&#239;n vetteen]e,</V>
+<V>4. [yöllä vietii&#776;n vetteen]e,</V>
 <V>5 5. [yöll] [on liinat lipsuttiin]i,</V>
 <V>6. [lipsuttiin ja loukuttiin]i.</V>
 <V>8. [sisärykset keträsiit]i,</V>
 <V>7. [vellot verkko'o kuttuoot]i.</V>
 <V>9. [saatiin verkot valmeheks]e,</V>
 <V>10 11. [ei saatu sitä kalloa]ista,</V>
-<V>16. [saati&#239;n] [silijä siika],</V>
+<V>16. [saatii&#776;n] [silijä siika],</V>
 <V>26. [kiisilt] on [kivisen linnan],</V>
 <V>30. [akka kaukanen ajjaa]pi,</V>
-<V>33. [hallas]sa [hamme&#235;]n [helmat],</V>
+<V>33. [hallas]sa [hammee&#776;]n [helmat],</V>
 <V>15 34. [jäinen kattila kääjess]ä,</V>
 <V>35. [jäinen kauha kattilass]a,</V>
 <V>35- ootkos sie pah[oin] pal[anut],</V>
@@ -61898,7 +61898,7 @@ kipaht kipuna, niin
 <V>ei saatu sitä kalaista,</V>
 <V>mitä vast oli verkot tehty,</V>
 <V>mitä vast oli valmistettu;</V>
-<V>saati&#239;n halia hauki,</V>
+<V>saatii&#776;n halia hauki,</V>
 <V>5 halaistiin hauvin vatsa,</V>
 <V>saatiin siliä siika,</V>
 <V>halaistiin siian vatsa,</V>
@@ -61950,9 +61950,9 @@ numeroilla.
 <V>Yöll liinat kylvettiin.</V>
 <V>- - -</V>
 <V>5. [halaistiin] on [hauvin vatsa],</V>
-<V>6. [saati&#239;n sili]jä [siika],</V>
+<V>6. [saatii&#776;n sili]jä [siika],</V>
 <V>7. [halaistiin] on [siian vatsa],</V>
-<V>5 8. [saati&#239;n sori]j[a sorva],</V>
+<V>5 8. [saatii&#776;n sori]j[a sorva],</V>
 <V>9. [halaistiin sorva]n [vatsa],</V>
 <V>12. [tuisaht]i [tuli]-[kipuna]</V>
 <V>14- meren mustille muville,</V>
@@ -61987,7 +61987,7 @@ numeroilla.
 <V>pojan polviin välitse,</V>
 <V>5 poltti aitan ahvenilta,</V>
 <V>kiisilt kivisen linnan,</V>
-<V>ko&#239;n kaikilt kaloilta,#1</V>
+<V>koi&#776;n kaikilt kaloilta,#1</V>
 <V>särki linnan särkilöiltä,</V>
 <V>poltti polvet poikasilta,</V>
 <V>10 rikko rinnat neitosilta.</V>
@@ -62027,12 +62027,12 @@ numeroilla.
 <TEXT>
 <CPT>Tulen luku (tulen vihhoi katsoot). Vrt. 533.</CPT>
 <V>1. [Isk] on [tulta Ilmarinta],</V>
-<V>4. [pojan polvi&#239;n välitse]n,</V>
+<V>4. [pojan polvii&#776;n välitse]n,</V>
 <V>6. [kiisilt]ä [kivisen linnan],</V>
 <V>8. [särk] on [linnan särkilöiltä],</V>
 <V>5 14. [pakkohisen parkuntaa]ne.</V>
 <V>15. [akka kaukanen ajjaa]pi,</V>
-<V>18. [hallas]s on [hamme&#235; helmat].</V>
+<V>18. [hallas]s on [hammee&#776; helmat].</V>
 <V>22. [oot korpun]u[t kova]kse,</V>
 <V>23. [mie] niin [jäillä jäähyttelen],</V>
 <V>10 24. [mie] on [hyyhmillä hytelen],</V>
@@ -62622,10 +62622,10 @@ harjooaika (eli
 <V>26. [pajun juuret paisukoot]o,</V>
 <V>20 28. [tämä paise painukoo]ne,</V>
 <V>28- tää kipiä kiertykööne</V>
-<V>29. [maahan kolme&#235; syyvveää]ne,</V>
+<V>29. [maahan kolmee&#776; syyvveää]ne,</V>
 <V>30. [yheksää] on [kyyn]ä[ree]ne,</V>
 <V>30- mist et kuulu sinä päinnä,</V>
-<V>25 selki&#239; sinä ikännä!</V>
+<V>25 selkii&#776; sinä ikännä!</V>
 </TEXT>
 </ITEM>
   
@@ -62656,12 +62656,12 @@ harjooaika (eli
 <V>kipiää kiertymää#6;</V>
 <V>mie kun painan, sie painu,</V>
 <V>mie kun kierän, sie kiristy#7</V>
-<V>*maahan kolme&#235; syvään,</V>
+<V>*maahan kolmee&#776; syvään,</V>
 <V>15 yheksään kyynereene,</V>
 <V>mist et kuulu kuunna päinnä,</V>
 <V>selkii et sinä ikännä.*</V>
-<V>kivi&#239; kivistäkköö#8,</V>
-<V>paasi&#239; pakottakkoo#9,</V>
+<V>kivii&#776; kivistäkköö#8,</V>
+<V>paasii&#776; pakottakkoo#9,</V>
 <V>20 kivess on kivut kovemmat,</V>
 <V>maass on vaivat vaikeammat#10.</V>
 <V>Hajotkoon#11 haavan juuret,</V>
@@ -62977,7 +62977,7 @@ harjooaika (eli
 <CPT>Kylvöttäissä haukkeita#1.</CPT>
 <V>Oli meill ennen musta koira,</V>
 <V>räkki rauan karvallinen</V>
-<V>syömä'än kylän kirro&#239;,lainehii lakkimaa.</V>
+<V>syömä'än kylän kirroi&#776;,lainehii lakkimaa.</V>
 <V>5 Mäne sinnee, kunne käsken,</V>
 <V>mäne sinne, kuhun lähätän:</V>
 <V>pimiää Pohjasee;</V>
@@ -63012,7 +63012,7 @@ harjooaika (eli
 <V>5 7. [pimiää] on [Pohjasee]ne</V>
 <V>8. [siel on rantaa juossaksees]i</V>
 <V>9. [hiekka]a [helsytelläksees]i</V>
-<V>10. [maahan kolme&#235;n syyveää]ne,</V>
+<V>10. [maahan kolmee&#776;n syyveää]ne,</V>
 <V>11. [yhäks]ää on [kyynäree]hen,</V>
 <V>10 13. sinä ilmoissa ikännä!</V>
 </TEXT>
@@ -63126,7 +63126,7 @@ visattiin jos mitä rommii
 <V>Ei oo löylyn löytämistä,</V>
 <V>ei vetoisen velkomista,</V>
 <V>5 löylyt kiukuvan kiville,</V>
-<V>ve&#235;t saunan sammalille!</V>
+<V>vee&#776;t saunan sammalille!</V>
 <L>(lehtilöi otetaan kiukuvasta ja sammalia ja poltetaan, kipiää savustetaan, 
 herkiää).</L>
 </TEXT>
@@ -63146,7 +63146,7 @@ herkiää).</L>
 </META>
 <TEXT>
 <CPT>Kylvöttäessä:</CPT>
-<V>Herki&#239;, emätön pois#1,</V>
+<V>Herkii&#776;, emätön pois#1,</V>
 <V>luovu luomatoin sikiö</V>
 <V>syömäst#2, kalluumast,</V>
 <V>ihmisest viattomast,</V>
@@ -63470,7 +63470,7 @@ herkiää).</L>
 <V>tinarinta riksuttele,</V>
 <V>helsytä hopiarinta,</V>
 <V>kuku kullan kielosella,</V>
-<V>5 kuku miu iijä&#239;n määrä,</V>
+<V>5 kuku miu iijäi&#776;n määrä,</V>
 <V>elänk mie vuuven vai#2 yheksän,</V>
 <V>vain#3 peäälle kymmenästä,</V>
 <V>vain täytä#4 en tättä'ä vuotta.</V>
@@ -63649,7 +63649,7 @@ herkiää).</L>
 männööt sulhasen
   kotiin morsiamen kanssa)#1.</L>
 <V>Terve maa, terve Manoinen,</V>
-<V>terve terve&#235;t tulijat,</V>
+<V>terve tervee&#776;t tulijat,</V>
 <V>terve maihen tervehtijä!#2</V>
 <V>*anna sie miulle niin puhas tervyys,</V>
 <V>5 kun mie annan sinulle puhtaat verhat#3.*</V>

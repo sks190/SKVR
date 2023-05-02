@@ -1381,7 +1381,7 @@
    <TEXT>
    <V>Siirä, konna, sijaisi,</V>
    <V>Muuta, murha, kartanoisi;</V>
-   <V>Ett täs&#383;ä sija saa.</V>
+   <V>Ett täs¤#383;ä sija saa.</V>
    <V>Suorita, selvitä,</V>
    <V>5 Piästä, pelasta!</V>
    </TEXT>
@@ -4966,7 +4966,7 @@ nå
                         käden
    näppiin, mennään juuri siihen paikkaan, jossa on säikähtänyt ja käännetään 
                         selkä
-   sinne#1 päin ja py&#248;ritetään suoloja vasemmalla kädellä#2 2 myöten-
+   sinne#1 päin ja pyo&#824;ritetään suoloja vasemmalla kädellä#2 2 myöten-
     ja 
                         3:s kerta
    vastenpäivään pään ympäri, heitetään suolat vasemman olkapään yli, ja 
@@ -5953,7 +5953,7 @@ nå
    <V>15 Jos on sopinut minon sormi,</V>
    <V>Sopikon Luojan sormi.</V>
    <V>Jos on käune minun hänki,</V>
-   <V>Nin kä&#252;kön herran Jumalan hengi.</V>
+   <V>Nin käu&#776;kön herran Jumalan hengi.</V>
    <V>Piälte tervex,</V>
    <V>20 Alta nuromattomax,</V>
    <V>Sisälte kivottomax!</V>
@@ -6581,8 +6581,8 @@ nå
    <L>Ladotaan 9 pärettä korkea poikkileikkaukseltaan kolmiomainen torni. 
                         Sytytetään
    palamaan yläpäästä. Silmisairas pitää silmiään sen yläpuolella hokien:</L>
-   <V>Noarvannäpp&#252; silemässän,</V>
-   <V>konna&#331;kota palla&#772;.</V>
+   <V>Noarvannäppu&#776; silemässän,</V>
+   <V>konna¤#331;kota palla&#772;.</V>
    <L>Lausuu siten 3 x 9 kertaa. Paranee.</L>
    </TEXT>
    <REFS>
@@ -6622,18 +6622,18 @@ nå
    </INF>
    </META>
    <TEXT>
-   <CPT>Neärärinäpp&#252; ku' on silemässä,</CPT>
-   <L>ni&#772;n tehhä&#772;m_pärrestä kolomnurkkane&#331;_kota i&#815;a
+   <CPT>Neärärinäppu&#776; ku' on silemässä,</CPT>
+   <L>ni&#772;n tehhä&#772;m_pärrestä kolomnurkkane¤#331;_kota i&#815;a
     se
    panna&#772;n tulle&#772;i&#815;_i&#815;a si&#772;hen viskata&#772;n
     suoloi&#815;a
               i&#815;a
-   sitte h&#252;pätä&#772;n tasakäpälässä kolome&#331;_
-        k&#252;nn&#252;kse'
-   &#252;l' enne&#331;_kun suolat ennättä&#772; räsähtö&#772; i&#815;a
+   sitte hu&#776;pätä&#772;n tasakäpälässä kolome¤#331;_
+        ku&#776;nnu&#776;kse'
+   u&#776;l' enne¤#331;_kun suolat ennättä&#772; räsähtö&#772; i&#815;a
    hu&#772;vveta&#772;':</L>
-   <V>neärännäpp&#252;, kotas palla&#772;',</V>
-   <V>neärännäpp&#252;, kotas j.n.e.</V>
+   <V>neärännäppu&#776;, kotas palla&#772;',</V>
+   <V>neärännäppu&#776;, kotas j.n.e.</V>
    </TEXT>
    </ITEM>
    
@@ -7592,7 +7592,7 @@ loihi:</L>
    niiden sekaan valumessinkiä (kaavittua), sekoitetaan nukkain kanssa.</L>
    <L>Niillä painellaan turvonneita kohtia lukien:</L>
    <V>Paenup_paha, elä pahene',</V>
-   <V>alene', elä &#252;lene'!</V>
+   <V>alene', elä u&#776;lene'!</V>
    </TEXT>
    </ITEM>
    
@@ -7659,7 +7659,7 @@ loihi:</L>
    <CPT>Kieleen kasvaneen näpyn saa häviämään,</CPT>
    <L>kun sanoo jollekin:</L>
    <K>a.</K>
-   <V>Näpp&#252; o&#331;_kielessän!</V>
+   <V>Näppu&#776; o¤#331;_kielessän!</V>
    <L>ja toverin neuvottua:</L>
    <K>b.</K>
    <V> Sylökäsep_poes!</V>
@@ -7705,13 +7705,13 @@ loihi:</L>
    </INF>
    </META>
    <TEXT>
-   <CPT>Jos näpp&#252; o&#331;_kielessä</CPT>
+   <CPT>Jos näppu&#776; o¤#331;_kielessä</CPT>
    <L>ja se' ilemasoo toeselle ja se vastoo:</L>
    <K>a.</K>
-   <V>S&#252;lökäse poes!</V>
-   <L>Ja jos muutamia kertoja näin s&#252;lökäsöö ja sannoo:</L>
+   <V>Su&#776;lökäse poes!</V>
+   <L>Ja jos muutamia kertoja näin su&#776;lökäsöö ja sannoo:</L>
    <K>b.</K>
-   <V>Lähtöö näpp&#252;.</V>
+   <V>Lähtöö näppu&#776;.</V>
    <V>Syylä, käsnä.</V>
    </TEXT>
    </ITEM>
@@ -8943,7 +8943,7 @@ loihi:</L>
    </META>
    <TEXT>
    <CPT>Näriminen.</CPT>
-   <V>När&#769; i&#815;uoks tietä m&#252;öten, när&#769; pur&#769;
+   <V>När&#769; i&#815;uoks tietä mu&#776;öten, när&#769; pur&#769;
                   Vappu&#772;.</V>
    <L>Kakstoista kerto&#772; pitäs&#769; sanno&#772;, ettei huokasis (niin 
                         näriminen
@@ -8964,10 +8964,10 @@ loihi:</L>
    </INF>
    </META>
    <TEXT>
-   <L>Ku &#252;heksä&#331;_kerto&#772; sanno&#772; huokumata,
+   <L>Ku u&#776;heksä¤#331;_kerto&#772; sanno&#772; huokumata,
     että:</L>
-   <V>När&#769; (= näri) s&#252;ö lihho&#772;,</V>
-   <V>När&#769; kettä ke&#331;&#331;ittä&#772;,</V>
+   <V>När&#769; (= näri) su&#776;ö lihho&#772;,</V>
+   <V>När&#769; kettä ke¤#331;¤#331;ittä&#772;,</V>
    <L>ni taoko&#772; närimästä.</L>
    </TEXT>
    </ITEM>
@@ -9177,8 +9177,8 @@ loihi:</L>
    <V>Navan_näestä niertelii&#815;ä,</V>
    <V>Perse&#772;m_pykertelii&#815;ä,</V>
    <V>Mänet_tuonnek_kunnek_käsken</V>
-   <V>5 Kirko&#331;_kiri&#815;avan tykö;</V>
-   <V>Siell_on suolta s&#252;&#772;vväkses,</V>
+   <V>5 Kirko¤#331;_kiri&#815;avan tykö;</V>
+   <V>Siell_on suolta su&#776;&#772;vväkses,</V>
    <V>Piäkallova kalavo&#772;kses.</V>
    <L>Loitsu luettiin mahanpuriaiseen. Lotsija puristeli ja hieroi mahaa
    loitsiessaan.</L>
@@ -9778,8 +9778,8 @@ loihi:</L>
    <TEXT>
    <CPT>Paiseenluku.</CPT>
    <V>Parane paha, äläkä paisu!</V>
-   <V>Miksis tulit yksi&#331;_kaksin,</V>
-   <V>Mahit tulla viisi&#331;_kuusin!</V>
+   <V>Miksis tulit yksi¤#331;_kaksin,</V>
+   <V>Mahit tulla viisi¤#331;_kuusin!</V>
    <V>Rupi alla, nahka peällä,</V>
    <V>5 Kannu märkeä välissä.</V>
    </TEXT>
@@ -9826,8 +9826,8 @@ loihi:</L>
                         ja
    luettiin:</L>
    <V>Painam_pois pahoa,</V>
-   <V>Tänäpä&#331;_ku nyrkki,</V>
-   <V>Huome&#331;_ku nirkki!</V>
+   <V>Tänäpä¤#331;_ku nyrkki,</V>
+   <V>Huome¤#331;_ku nirkki!</V>
    </TEXT>
    </ITEM>
    
@@ -12045,7 +12045,7 @@ kantapäätä ja
    </META>
    <TEXT>
    <CPT>Nikko.</CPT>
-   <L>Se kans on si&#772;he(n), että ku oeke&#772;&#331;_kovasta
+   <L>Se kans on si&#772;he(n), että ku oeke&#772;¤#331;_kovasta
               säekäöttä&#772;,
    si&#772;he_nikotukse&#772;(n), i&#815;a parkaso&#772;, että:</L>
    <V>Sen sinä varastit!</V>
@@ -12073,9 +12073,9 @@ kantapäätä ja
    <V>ku&#772;vve&#772;s ku&#772;se&#772;(n),</V>
    <V>seihteme&#772;s seipä&#772;se&#772;(n),</V>
    <V>kaheksa&#772;s kaevo&#772;(n),</V>
-   <V>&#252;heksä&#772;s &#252;llä&#772;k_</V>
-   <V>10 k&#252;mmene&#772;s k&#252;lla&#772;(n).</V>
-   <L>Se pitäs' lukke&#772; ettei he&#331;&#331;ähtö&#772;v_välillä, (jotta 
+   <V>u&#776;heksä&#772;s u&#776;llä&#772;k_</V>
+   <V>10 ku&#776;mmene&#772;s ku&#776;lla&#772;(n).</V>
+   <L>Se pitäs' lukke&#772; ettei he¤#331;¤#331;ähtö&#772;v_välillä, (jotta 
                         nikotus
    taukoaisi).</L>
    </TEXT>
@@ -13242,7 +13242,7 @@ kantapäätä ja
    <CPT>Riidenluku.</CPT>
    <V>Riis suora, näverim_poika,</V>
    <V>Kivest mie siulle kirstun tien,</V>
-   <V>Kaivan riije&#331;_kainaluo.</V>
+   <V>Kaivan riije¤#331;_kainaluo.</V>
    <L>Luettiin maitoon 3 kertaa.</L>
    </TEXT>
    </ITEM>
@@ -14078,7 +14078,7 @@ kantapäätä ja
    <CPT>Leininluku.</CPT>
    <V>Viistoistkymment juutan tytärtä,</V>
    <V>Viistoistkymment neitse Marjan tytärtä tulivat tiellä vastatuksin,</V>
-   <V>kysyivät: Kuhu&#331;kas, lein, mänet?</V>
+   <V>kysyivät: Kuhu¤#331;kas, lein, mänet?</V>
    <V>5 Luuta särkemeä, lihoa repimeä.</V>
    <V>Älä tule (Hilma)#1 luita särkemeä,</V>
    <V>Älä tule (Hilma) lihoja repimeä.</V>
@@ -14197,7 +14197,7 @@ kantapäätä ja
    <V>Kipu vuoren kuckuralle.</V>
    <V>20 Kolmet oli koiraa minulla,</V>
    <V>Nuo me linnassa lihotin,</V>
-   <V>Kasvot Narvan kaupungis&#383;a</V>
+   <V>Kasvot Narvan kaupungis¤#383;a</V>
    <V>Syömään kylän kiroja,</V>
    <V>Kylän noijut noppimaan.</V>
    <V>25 Tuonne me kivut mannaan</V>
@@ -14214,8 +14214,8 @@ kantapäätä ja
    <V>Puille peehkettömille,</V>
    <V>Sel om hyvä ollaxeis,</V>
    <V>Ihana ellääxeis,</V>
-   <V>Waan ej ihmisen ihos&#383;a,</V>
-   <V>40 Hampaita hajottamas&#383;a.</V>
+   <V>Waan ej ihmisen ihos¤#383;a,</V>
+   <V>40 Hampaita hajottamas¤#383;a.</V>
    <V>Oletko tuulilta tultu,</V>
    <V>Ahavilta annettu,</V>
    <V>Mäne tuulen teitä myöten,</V>
@@ -14315,7 +14315,7 @@ kantapäätä ja
    <V>Emoinen Neitzy Maria,</V>
    <V>Yhexiä voitteita,</V>
    <V>10 Yhäxen meren ylidze,</V>
-   <V>Meren puolen k&#252;mmenett.</V>
+   <V>Meren puolen ku&#776;mmenett.</V>
    <V>Toivo nijtä voiteita</V>
    <V>Ihollen ihnemolaisen,</V>
    <V>Kori allen Coivon temen.</V>
@@ -15633,7 +15633,7 @@ kantapäätä ja
    </META>
    <TEXT>
    <CPT>Pistoksenluku.</CPT>
-   <V>i&#815;os_sinä pistät &#252;ksin pistoin,</V>
+   <V>i&#815;os_sinä pistät u&#776;ksin pistoin,</V>
    <V>minä pistän kaksin pistoin.</V>
    <V>i&#815;os_sinä pistät kaksin pistoin,</V>
    <V>minä pistän kolmin pistoin, J.n.e.</V>
@@ -16927,7 +16927,7 @@ kantapäätä ja
    #5 r. (piru).
    #6 r. (konnan).
    #7 sota : s.
-   #8 r. (meränytt&#225; lihoo).
+   #8 r. (meränytta&#769; lihoo).
    #9 r. (iso, loaja, ettei maita näyk).
    #10 seuraa musteella tuhrittu sana: s?tt.
    #11 suureen : s.
@@ -17073,13 +17073,13 @@ kantapäätä ja
    <L>Otetaan kahvikuppiin vettä, pannaan siihen 9 silmäneulaa, sittä
     ruvetaan
    loihtemaan, pitää yhteen henkäykseen loihtea yhdeksään asti:</L>
-   <V>Jos sinä pistät &#252;he&#331;_kerran,</V>
-   <V>Niin minä pistän toese&#331;_kerran.</V>
-   <V>Jos sinä pistät toese&#331;_kerran,</V>
-   <V>Minä pistä&#331; kolomanne&#331;_kerran.</V>
+   <V>Jos sinä pistät u&#776;he¤#331;_kerran,</V>
+   <V>Niin minä pistän toese¤#331;_kerran.</V>
+   <V>Jos sinä pistät toese¤#331;_kerran,</V>
+   <V>Minä pistä¤#331; kolomanne¤#331;_kerran.</V>
    <V>-- -- --</V>
-   <V>5 Jos sinä pistät kaheksanne&#331;_kerran,</V>
-   <V>Minä pistän &#252;heksänne&#331;_kerran,</V>
+   <V>5 Jos sinä pistät kaheksanne¤#331;_kerran,</V>
+   <V>Minä pistän u&#776;heksänne¤#331;_kerran,</V>
    <V>Niin saen salapaen,</V>
    <V>Tuhansin tukkeehen.</V>
    <L>Kolme puhallusta.</L>
@@ -18687,7 +18687,7 @@ kantapäätä ja
                         ranteeseen,
    kolmesta erivärisestä ja rinnakkain pannusta villalang'asta: "Musto&#772; 
                         i&#815;a
-   punasta i&#815;a ol' pa se mikä h&#252;vvä&#772; se koloma&#772;s
+   punasta i&#815;a ol' pa se mikä hu&#776;vvä&#772; se koloma&#772;s
       vär&#769;."
    Langoista kierretään sitten, niitä yhdessä käsitellen, "i&#815;a nuin 
                         takapuolla&#772; (n)
@@ -18696,15 +18696,15 @@ kantapäätä ja
    samalla lukien:</L>
    <V>Otal_linnusta lihho&#772;,</V>
    <V>katkasek_kanai&#815;_i&#815;alaka!</V>
-   <V>i&#815;ost_o&#331;_kalavot katkenna,</V>
-   <V>si&#772;he&#331;_kalavot kasvako&#772;(n)!</V>
+   <V>i&#815;ost_o¤#331;_kalavot katkenna,</V>
+   <V>si&#772;he¤#331;_kalavot kasvako&#772;(n)!</V>
    <V>5 i&#815;ost_ol_lu&#772; luiskahtana,</V>
    <V>si&#772;hel_lu&#772; luiskahtakko&#772;(n)!</V>
-   <V>Heitäh_h&#252;&#772;tä,</V>
+   <V>Heitäh_hu&#776;&#772;tä,</V>
    <V>heitäi&#815;_i&#815;iätä,</V>
    <V>heitär_raotas&#769;ta rahetta[!]</V>
    <L>"Tä pittä&#772; i&#815;oka sanalla (l. säkeellä) tehät_tä&#772;
-      le&#331;kki." 
+      le¤#331;kki." 
                       
                       
                       
@@ -18715,10 +18715,10 @@ kantapäätä ja
    niukkuulanka", joka kierretään kipeään niveleen:</L>
    <L>"ei mu&#772;ta ku kiertämällä, sitä ei solomita", vaan lankain päät 
                         kiinnitetään
-   kierrosten alle. "Parempha se_om_m&#252;ötäpäevä&#772;(n)
+   kierrosten alle. "Parempha se_om_mu&#776;ötäpäevä&#772;(n)
       (kiertää).</L>
    <L>Hevostei&#815;_i&#815;alakoeham_min_on_ni&#772;tä
-   enemmittäem_tehn&#252;nnäei&#815;_i&#815;a lehmä(n)." Lanka pid. nivelessä, 
+   enemmittäem_tehnu&#776;nnäei&#815;_i&#815;a lehmä(n)." Lanka pid. nivelessä, 
                       kunnes 
                         se
    on parantunut.</L>
@@ -19313,7 +19313,7 @@ kantapäätä ja
   <OSA>VI2</OSA>
    <ID>4592.</ID>
    <LOC>Leppävirta.</LOC>
-   <COL>Schl&#252;ter, J. G. H.</COL>
+   <COL>Schlu&#776;ter, J. G. H.</COL>
    <SGN>n. 6.</SGN>
    <TMP>--1890.</TMP>
    <INF>
@@ -19520,14 +19520,14 @@ kantapäätä ja
    </META>
    <TEXT>
    <CPT>Venymälankaa solmittaessa.</CPT>
-   <V>Neits&#252;t Mu&#772;rii&#815;am_poeka emoene&#772;n</V>
+   <V>Neitsu&#776;t Mu&#772;rii&#815;am_poeka emoene&#772;n</V>
    <V>suonkelekko&#772; vettä&#772;.</V>
    <V>i&#815;osta on suon sutkahtanna,</V>
    <V>si&#772;hen suonen solomian.</V>
    <L>Ni&#772;tä sanoi&#772;a sannoessa pittä&#772; ennätte&#772;k
                 _kiepaotto&#772;
-   se la&#331;ka selän takana, että tullo&#772; 9 solomuva, sittä pitäs&#769;
-   mu&#772;tetu_huone&#772;&#331;_k&#252;nn&#252;ksellä istuva.</L>
+   se la¤#331;ka selän takana, että tullo&#772; 9 solomuva, sittä pitäs&#769;
+   mu&#772;tetu_huone&#772;¤#331;_ku&#776;nnu&#776;ksellä istuva.</L>
    </TEXT>
    </ITEM>
    
@@ -19847,7 +19847,7 @@ kantapäätä ja
                         dervid läsas
    dessa ord. -- 12. säk. portaan-sana selitetty: Portaat kallas stockar och 
                         plankor, lagda
-   öfver sanka kärr för att lätta öfvergången. -- 26. s&#225;e kuuluu: S. 
+   öfver sanka kärr för att lätta öfvergången. -- 26. sa&#769;e kuuluu: S. 
 l.ityös l. 
                       
                       
@@ -20346,7 +20346,7 @@ l.ityös l.
    <V>Pohja akka, harvahammas,</V>
    <V>Teki poikija yheksä</V>
    <V>Yhtenä kesässä yönä,</V>
-   <V>5 Tyttölapse&#331;_kymmenenne.</V>
+   <V>5 Tyttölapse¤#331;_kymmenenne.</V>
    <V>Ite ehti ristijätä,</V>
    <V>Ite ehti kastajata,</V>
    <V>Eipä, suatu kastajata.</V>
@@ -20357,9 +20357,9 @@ l.ityös l.
    <V>Minkä luhjoi luuvaloksi.</V>
    <V>Saipa kyitä kymmenkunnan,</V>
    <V>15 Kiärym_mustija matoja,</V>
-   <V>Kynsi&#331;_kyitä kiännytteli,</V>
-   <V>Käsi&#331;_kiärmeitä piteli.</V>
-   <V>Mullo&#331;_kynnet kyyvveriset,</V>
+   <V>Kynsi¤#331;_kyitä kiännytteli,</V>
+   <V>Käsi¤#331;_kiärmeitä piteli.</V>
+   <V>Mullo¤#331;_kynnet kyyvveriset,</V>
    <V>Kiät kiärmehen taliset,</V>
    <V>20 Niilä noijam_piäm_muserran,</V>
    <V>Niilä tapan tauvvin nuolet</V>
@@ -22683,12 +22683,12 @@ och
    </INF>
    </META>
    <TEXT>
-   <L>Kun laps s&#252;nt&#252;&#772;, ni pittä&#772; näötte&#772;s_sitä saona' 
+   <L>Kun laps su&#776;ntu&#776;&#772;, ni pittä&#772; näötte&#772;s_sitä saona' 
                       ikkunasta
    i&#815;a i&#815;os seom_poekalaps, ni pittä&#772; sanova, että':</L>
    <K>a.</K>
-   <V>Tuloke&#772;, t&#252;töt, kahtoma&#772; sulohas&#769;ta!</V>
-   <L>i&#815;a i&#815;os se ol' t&#252;ttö, ni sit sanova, että:</L>
+   <V>Tuloke&#772;, tu&#776;töt, kahtoma&#772; sulohas&#769;ta!</V>
+   <L>i&#815;a i&#815;os se ol' tu&#776;ttö, ni sit sanova, että:</L>
    <K>b.</K>
    <V>Tuloke&#772;, poi&#815;at, kahtoma&#772; morsii&#815;anta!</V>
    </TEXT>
@@ -22989,7 +22989,7 @@ och
    <TEXT>
    <L>I&#815;os keske sua lapsen_ni sanota&#772;, että:</L>
    <V>Kohta kuolleita (lapsia tulkoon),</V>
-   <V>Välemmiv_viäri&#331;käöneitä (l. toisia keskosia)!</V>
+   <V>Välemmiv_viäri¤#331;käöneitä (l. toisia keskosia)!</V>
    </TEXT>
    </ITEM>
    
@@ -25392,7 +25392,7 @@ och
    <TEXT>
    <CPT>Ku laps ol' mahatauvvilla, kuralla&#772;,</CPT>
    <L>ni se äet män&#769; saona&#772; lakkeise alas suntaeuamuva
-   vastek_kakstoesta&#772;s tunt i&#815;a kahto &#252;lös i&#815;a sano, 
+   vastek_kakstoesta&#772;s tunt i&#815;a kahto u&#776;lös i&#815;a sano, 
 että:</L>
    <V>Tuop_poes minul_lapseim_perse&#772;(n) avvaemet!</V>
    </TEXT>
@@ -25480,7 +25480,7 @@ että:</L>
    <V>Mäne, yskä, ukkoloa,</V>
    <V>Ukkolasta eukkoloa,</V>
    <V>Anna ukon rykijä,</V>
-   <V>Koukkule[u]va&#331;_kokija!</V>
+   <V>Koukkule[u]va¤#331;_kokija!</V>
    </TEXT>
    </ITEM>
    
@@ -25634,9 +25634,9 @@ että:</L>
    </INF>
    </META>
    <TEXT>
-   <V>Mäne, &#252;skä, &#252;mpärik_k&#252;lle&#772;,</V>
+   <V>Mäne, u&#776;skä, u&#776;mpärik_ku&#776;lle&#772;,</V>
    <V>vanhoe(n) akkoev_vaoskutellak,</V>
-   <V>koukkuseleki&#772;&#331;_kouskutellam_</V>
+   <V>koukkuseleki&#772;¤#331;_kouskutellam_</V>
    <V>minum_pienestä lapsestae(n).</V>
    </TEXT>
    </ITEM>
@@ -25774,7 +25774,7 @@ että:</L>
    <V>Lyön tulta lentäväistä,</V>
    <V>Kipunaista kiitäväistä,</V>
    <V>Tuulen -- -- väkie,</V>
-   <V>Ahavaise&#331;_kannom_peähä!</V>
+   <V>Ahavaise¤#331;_kannom_peähä!</V>
    </TEXT>
    </ITEM>
    
@@ -25822,8 +25822,8 @@ että:</L>
    <K>b.</K>
    <V>Tulta poltan lentäväistä,</V>
    <V>Kipunaista kiiltäväistä,</V>
-   <V>Tuulem_pohjase&#331;_kitoa,</V>
-   <V>Ahvaise&#331;_kannom_peähä.</V>
+   <V>Tuulem_pohjase¤#331;_kitoa,</V>
+   <V>Ahvaise¤#331;_kannom_peähä.</V>
    <L>Sama toistettiin 2 kertoa.</L>
    <K>[Sama: sama mp:ja n. 116, samalta sanelijalta. 1933.]</K>
    </TEXT>
@@ -25953,12 +25953,12 @@ että:</L>
    </META>
    <TEXT>
    <L>Ne otti metästä ri&#772;sheiniä, i&#815;a ne keitti sitte 
-ri&#772;smait&#245;, 
+ri&#772;smaito&#771;, 
                         i&#815;a on
    si&#772;he(n) (riisitautiin) sit taekaki&#772;, kaksi&#772;t_taeko&#772;: Ku
-   otta&#772; kerihtimet i&#815;a nuin_t&#252;hi&#815;e&#772; keriht
-   lapsei&#815;_i&#815;alakoev_välissä, i&#815;a ku toene&#331;_
-k&#252;s&#252;, 
+   otta&#772; kerihtimet i&#815;a nuin_tu&#776;hi&#815;e&#772; keriht
+   lapsei&#815;_i&#815;alakoev_välissä, i&#815;a ku toene¤#331;_
+ku&#776;su&#776;, 
                       että:</L>
                         
    <K>a.</K>
@@ -25984,9 +25984,9 @@ k&#252;s&#252;,
    <TEXT>
    <L>Sitte ku pit ollak_kolomast mu&#772;tettu huonei&#815;_i&#815;a lasta 
                         annetti&#772;
-   se&#331;_k&#252;nn&#252;kse(n) &#252;litek_kolome kerto&#772;.
+   se¤#331;_ku&#776;nnu&#776;kse(n) u&#776;litek_kolome kerto&#772;.
       I&#815;a
-   k&#252;s&#252;tti&#772;, että:</L>
+   ku&#776;su&#776;tti&#772;, että:</L>
    <K>a.</K>
    <V>Mitte&#772;s sinä käötät?</V>
    <L>ni toenev_vastas, että:</L>
@@ -26110,8 +26110,8 @@ k&#252;s&#252;,
    </INF>
    </META>
    <TEXT>
-   <V>Ites_s&#252;ön, itek_kaluvan,</V>
-   <V>itej_j&#252;rsin, itep_pureksin,</V>
+   <V>Ites_su&#776;ön, itek_kaluvan,</V>
+   <V>itej_ju&#776;rsin, itep_pureksin,</V>
    <V>iter_ri&#772;ten' rikon,</V>
    <V>ites_sätkän sären,</V>
    <V>5 ee_oor_ri&#772;jjellä rikkomista,</V>
@@ -26276,7 +26276,7 @@ k&#252;s&#252;,
                         haavalle
    hokemalla:</L>
    <V>Annatt_teppo, tervo&#772;,</V>
-   <V>Soat kapa&#331;_kauroi&#815;a!</V>
+   <V>Soat kapa¤#331;_kauroi&#815;a!</V>
    </TEXT>
    </ITEM>
    
@@ -26368,10 +26368,10 @@ k&#252;s&#252;,
    <TEXT>
    <CPT>Marjakatista,</CPT>
    <L>(eräs hepokattilaji) vanahat hoastovat, että mari&#815;akatti ol' enne'
-   aeka&#772;sam_marakatti i&#815;a se o&#331;_kehitt&#252;nnä voan
-   aei&#815;a&#331;kulokuim_mukka&#772;n, että som_pienent&#252;nnä
-                  kum_p&#252;&#772;
-   moalmal_lopu' eellä. Kun se mari&#815;akatti oteta&#772;&#331;_ki&#772;ni, 
+   aeka&#772;sam_marakatti i&#815;a se o¤#331;_kehittu&#776;nnä voan
+   aei&#815;a¤#331;kulokuim_mukka&#772;n, että som_pienentu&#776;nnä
+                  kum_pu&#776;&#772;
+   moalmal_lopu' eellä. Kun se mari&#815;akatti oteta&#772;¤#331;_ki&#772;ni, 
                       ni&#772;
    se su&#772;i&#772;sta&#772; turskutta&#772; nestettä i&#815;a sitä
         käötetti&#772;n
@@ -26504,7 +26504,7 @@ mari&#815;akativ_voei&#815;etta.
    </META>
    <TEXT>
    <L>Loukkaantuneen paikan päälle sylästään ja hoetaan:</L>
-   <V>H&#252;i, sirkka s&#252;tte&#772;ks[!],</V>
+   <V>Hu&#776;i, sirkka su&#776;tte&#772;ks[!],</V>
    <V>Kanampaska voite&#772;ks!</V>
    <V>Paranep_paha, eläkä paisu!</V>
    </TEXT>
@@ -26633,10 +26633,10 @@ mari&#815;akativ_voei&#815;etta.
    <V>Rasvoa kanarakost</V>
    <V>Kipijälle voitieks,</V>
    <V>Hoavalle parannukseks!</V>
-   <V>5 Tänäpäi&#331;_ku kirppu,</V>
-   <V>Huome&#331;_ku nyrkki,</V>
-   <V>Toise&#331;_ku pärekkurikka,</V>
-   <V>Kolmante&#331;_ku Iisaki kirkko!</V>
+   <V>5 Tänäpäi¤#331;_ku kirppu,</V>
+   <V>Huome¤#331;_ku nyrkki,</V>
+   <V>Toise¤#331;_ku pärekkurikka,</V>
+   <V>Kolmante¤#331;_ku Iisaki kirkko!</V>
    </TEXT>
    </ITEM>
    
@@ -27156,7 +27156,7 @@ mari&#815;akativ_voei&#815;etta.
    <V>karvalai&#815;i&#815;alla lakilla</V>
    <V>-- -- --</V>
    <V>ettei kukkaro kuivais</V>
-   <V>5 eikä raha&#331;kanto katkiais.</V>
+   <V>5 eikä raha¤#331;kanto katkiais.</V>
    </TEXT>
    </ITEM>
    
@@ -28633,7 +28633,7 @@ ja
    <CPT>Pyyntimiesten metsään lähtö.</CPT>
    <L>Kum_pyyntimiehet läksivät, pi' akkaihe ollat_toisela puolela tuppoo, 
                         jotteivät
-   olleet missääk_kosketuksessa mehtämiehii&#331;_kansa. Vanhim_mies 
+   olleet missääk_kosketuksessa mehtämiehii¤#331;_kansa. Vanhim_mies 
                       loihti:</L>
    <L>[Kirjallinen?]</L>
    <V>Lähem_miehissä metäle,</V>
@@ -28641,7 +28641,7 @@ ja
    <V>Otam_mehtä miehiksesi,</V>
    <V>Urohiksesi Tapio,</V>
    <V>5 Auta onni ottamaha,</V>
-   <V>Metä&#331;_kaunis kuatamaha!</V>
+   <V>Metä¤#331;_kaunis kuatamaha!</V>
    </TEXT>
    </ITEM>
    
@@ -28728,7 +28728,7 @@ tartun
    vasemelle puolen, ia otto tullesan pois ne vitat. Sitte pitä otto 3-mes[ta]
    kusiiaispes[äs]tä sitä kuivo muro nin kuin se &#8968;t&#8969;avalline on, 
 pistä 
-                      puhtas&#233;n 
+                      puhtase&#769;n 
                         riebun ia
    nillä pyhkiiä pytöiän, ia ne pitä luonan. Sitte kuin rube mehtän viemän 
                       &#8968;nin&#8969; 
@@ -29779,10 +29779,10 @@ pistä
    <CPT>Kun karhu on kierretty ja mennään tappamaan.</CPT>
    <V>Eläpä liikul_linnastas&#769;,</V>
    <V>Mes&#769;kämmem-majastas&#769;,</V>
-   <V>Enne&#331;kun tullaan noutamaan</V>
+   <V>Enne¤#331;kun tullaan noutamaan</V>
    <V>Nuortem_miesten suosiolla.</V>
    <V>5 Mill_on neula, millä keihäs</V>
-   <V>Leppäse&#331;_kepin nenässä.</V>
+   <V>Leppäse¤#331;_kepin nenässä.</V>
    </TEXT>
    </ITEM>
    
@@ -30094,7 +30094,7 @@ pistä
    </META>
    <TEXT>
    <CPT>Karrhun vakkat.</CPT>
-   <L>Kaik kokotuvat sen luone, joka maku paikan on lö&#252;teny; sitte 
+   <L>Kaik kokotuvat sen luone, joka maku paikan on löu&#776;teny; sitte 
                       mänövet 
                         liki
    site kierösmata, ja tekövät valkian mähte, ottetta tervas lastut, jolla 
@@ -30423,7 +30423,7 @@ si&#8968;ne&#8969;. --
    </INF>
    </META>
    <TEXT>
-   <L>Der det talas om Björnfesten heter det [R&#252;hs, Finland och Des
+   <L>Der det talas om Björnfesten heter det [Ru&#776;hs, Finland och Des
       Invå
                         nare, s.
    24]: "Först inbars Björnens hufwud, hwilket blef upphängt i ett träd, och 
@@ -33730,7 +33730,7 @@ häis&#8968;a&#8969;.
    </META>
    <TEXT>
    <V>i&#815;änis i&#815;äppä i&#815;uppaniska,</V>
-   <V>i&#815;uoksek_kohti p&#252;&#772;v&#252;ksiän!</V>
+   <V>i&#815;uoksek_kohti pu&#776;&#772;vu&#776;ksiän!</V>
    </TEXT>
    </ITEM>
    
@@ -36663,8 +36663,8 @@ puolen
                         ja
    lausuttiin:</L>
    <V>Ku&#772;lek_ku&#772;lev_vee' emäntä,</V>
-   <V>siell_on täös, teäll_on t&#252;hi&#815;ä,</V>
-   <V>näläkäene&#331;_kolokehti&#772;.</V>
+   <V>siell_on täös, teäll_on tu&#776;hi&#815;ä,</V>
+   <V>näläkäene¤#331;_kolokehti&#772;.</V>
    </TEXT>
    </ITEM>
    
@@ -37309,7 +37309,7 @@ puolen
    </META>
    <TEXT>
    <L>Syläistä&#772;n matto&#772;n i&#815;a sanota&#772;n:</L>
-   <V>H&#252;i, moahinen!</V>
+   <V>Hu&#776;i, moahinen!</V>
    </TEXT>
    </ITEM>
    
@@ -37350,7 +37350,7 @@ puolen
    </META>
    <TEXT>
    <V>Tule, ahven, aenoa kala,</V>
-   <V>o&#331;ke&#772;ni ottama&#772;,</V>
+   <V>o¤#331;ke&#772;ni ottama&#772;,</V>
    <V>koukkuva kopistamma&#772;.</V>
    <V>väkäraoto&#772; viäntämä&#772;!</V>
    </TEXT>
@@ -37369,7 +37369,7 @@ puolen
    </INF>
    </META>
    <TEXT>
-   <V>Ahven, antti, kö&#252;r&#252; stantti.</V>
+   <V>Ahven, antti, köu&#776;ru&#776; stantti.</V>
    </TEXT>
    </ITEM>
    
@@ -37387,7 +37387,7 @@ puolen
    </META>
    <TEXT>
    <V>Ahven, antti, säre(n) säntti,</V>
-   <V>tulem_minu o&#331;kein s&#252;ömä&#772;!</V>
+   <V>tulem_minu o¤#331;kein su&#776;ömä&#772;!</V>
    </TEXT>
    </ITEM>
    
@@ -37405,7 +37405,7 @@ puolen
    </META>
    <TEXT>
    <V>Ahve, antti, aenova poeka,</V>
-   <V>tule' o&#331;kein ottama&#772;,</V>
+   <V>tule' o¤#331;kein ottama&#772;,</V>
    <V>lieroen lipasemma&#772;,</V>
    <V>si&#772;moen sipasemma&#772;,</V>
    <V>5 väkäraotoen viäntämä&#772;!</V>
@@ -37685,7 +37685,7 @@ puolen
    <CPT>Uistelemmaal_lähtiissä</CPT>
    <L>sylästää uistimeej_ja sautaa:</L>
    <V>Tuleh_hauki haukotelle,</V>
-   <V>Vei&#331;_koira vengotelle,</V>
+   <V>Vei¤#331;_koira vengotelle,</V>
    <V>Otak_koukkuva kovasti,</V>
    <V>Terästäni väkevästi,</V>
    <V>5 Siima tiukale sipase,</V>
@@ -38236,7 +38236,7 @@ puolen
    <V>Anna, Antti, ahvenia,</V>
    <V>Pekka, pieniä kaloi&#815;a,</V>
    <V>Jussi, i&#815;uloman su&#772;ria,</V>
-   <V>Heikki, hevose&#331;_kokosia!</V>
+   <V>Heikki, hevose¤#331;_kokosia!</V>
    <K>[Sama n. 312. Kerimäki. 1913. 1--2 samat; 3--4 puuttuvat.]</K>
    </TEXT>
    </ITEM>
@@ -38401,7 +38401,7 @@ puolen
    <L>Sylästääm_mattooj_ja sautaa:</L>
    <V>Anna akka ahvenija,</V>
    <V>Pekka pienijä kaloja,</V>
-   <V>Heikki hevose&#331;_kokosija,</V>
+   <V>Heikki hevose¤#331;_kokosija,</V>
    <V>Jussi yhäj_julomempija!</V>
    <L>ja viskataa onki järvee.</L>
    </TEXT>
@@ -39502,8 +39502,8 @@ korjatta&#8968;van&#8969;ta ulos
    <CPT>Lampaan ähkyyn luettiin:</CPT>
    <V>Ähky poika äyrämöine,</V>
    <V>toinem_poika touramaine,</V>
-   <V>to&#331;ki soita, to&#331;ki maita,</V>
-   <V>to&#331;ki kovija kivijä.</V>
+   <V>to¤#331;ki soita, to¤#331;ki maita,</V>
+   <V>to¤#331;ki kovija kivijä.</V>
    <V>-- -- --</V>
    <V>(Ei muista.)</V>
    </TEXT>
@@ -39861,10 +39861,10 @@ korjatta&#8968;van&#8969;ta ulos
    märkänä navetassa), ni pittä otto&#772;n_ni&#772;tä su&#772;vverrikkoja
     sen 
                         eistä ja
-   heitte&#772;v_vasemma olokopiäsä &#252;litej_ja sanno&#772;, että:</L>
+   heitte&#772;v_vasemma olokopiäsä u&#776;litej_ja sanno&#772;, että:</L>
    <V>Mäk_koera kotti&#772;s!</V>
    <L>Sittel_likasella paijalla&#772; kolome kerto&#772;
-        p&#252;&#772;hästäl_lehmä[n]
+        pu&#776;&#772;hästäl_lehmä[n]
    seleke&#772; ja siunata'.</L>
    </TEXT>
    </ITEM>
@@ -40033,7 +40033,7 @@ korjatta&#8968;van&#8969;ta ulos
    <L>Otetti&#772; kolomelta veropi&#772;riltä varpuja Ja sillä sit 
                       ripustti&#772;
    ni&#772;tä liävän seiniä. Ku ol' ovela (ovella) toinen ni se
-    k&#252;s&#252;. 
+    ku&#776;su&#776;. 
                       
                       
                       
@@ -40041,7 +40041,7 @@ korjatta&#8968;van&#8969;ta ulos
    <V>Mitte&#772;s sinä ripsut?</V>
    <L>ni toinen vastas', että:</L>
    <V>Pahalaesta ripsun.</V>
-   <L>Ja sit vi&#772;takkella ni&#772;tti, ni toine&#331;_k&#252;s&#252;, 
+   <L>Ja sit vi&#772;takkella ni&#772;tti, ni toine¤#331;_ku&#776;su&#776;, 
                       että:</L>
                         
    <V>Mitte&#772;s sinä ni&#772;tät?</V>
@@ -40701,10 +40701,10 @@ korjatta&#8968;van&#8969;ta ulos
           suoloja
    leiplapijolla ja sanno&#772;, että:</L>
    <V>Suostum_minu suoloen,</V>
-   <V>ja lep&#252;m_minul_leipi&#772;n!</V>
+   <V>ja lepu&#776;m_minul_leipi&#772;n!</V>
    <L>Nij_ja sillä laella tehti&#772; lehmällenni. (Minä näin lehmälle 
                       annettava
-   k&#252;nn&#252;kse'&#252;litel_leiplapijolla.)</L>
+   ku&#776;nnu&#776;kse'u&#776;litel_leiplapijolla.)</L>
    </TEXT>
    </ITEM>
    
@@ -41444,16 +41444,16 @@ korjatta&#8968;van&#8969;ta ulos
    </INF>
    </META>
    <TEXT>
-   <L>Ku&#772;liham_minä enne&#331;_ku kuohar' leikkas' hevosej joka ol' 
+   <L>Ku&#772;liham_minä enne¤#331;_ku kuohar' leikkas' hevosej joka ol' 
                       toeselle
    kuoharille luvattu; ni sit tul' se, jolle se ol' luvattu ja se rupes 
                         loehtima&#772;, joka
    leikanna ol':</L>
-   <V>Joka tästä katte&#772;&#331;_kahto&#772;,</V>
+   <V>Joka tästä katte&#772;¤#331;_kahto&#772;,</V>
    <V>ni verta silemät vuotako&#772;,</V>
    <V>rasvana rapattakko&#772;!</V>
    <L>Ku ol' leikattu se, ni se käski vi&#772;jäs sem_mehtä&#772;, ettei se
-   toine&#331;_kuohar' nähnt.</L>
+   toine¤#331;_kuohar' nähnt.</L>
    </TEXT>
    </ITEM>
    
@@ -41910,7 +41910,7 @@ korjatta&#8968;van&#8969;ta ulos
    </META>
    <TEXT>
    <CPT>Kuohitseminen.</CPT>
-   <L>Ku&#331;_kuohar&#769; salavo, nii ei suana salloo kahtooj_jottei 
+   <L>Ku¤#331;_kuohar&#769; salavo, nii ei suana salloo kahtooj_jottei 
                         tulluh_huavaar_
    rauvvav_vihoja. Sitä vartem pit' kuoharim_purrak_kansa hampaillaav_
       veihtä, 
@@ -41925,7 +41925,7 @@ korjatta&#8968;van&#8969;ta ulos
    <V>Puukko pilevistä putosi,</V>
    <V>Veriveihti taevaasta,</V>
    <V>Jolla mulukkuja mutelen,</V>
-   <V>Katko&#331;_karvakelluksija.</V>
+   <V>Katko¤#331;_karvakelluksija.</V>
    </TEXT>
    </ITEM>
    
@@ -41946,8 +41946,8 @@ korjatta&#8968;van&#8969;ta ulos
       sanovat:</L>
    <V>Puukko pilivistä putosi,</V>
    <V>Ver'veiht taivaasta,</V>
-   <V>Jolla katko&#331;_kalluksija,</V>
-   <V>Jolla leikkele&#331;_kelluksija.</V>
+   <V>Jolla katko¤#331;_kalluksija,</V>
+   <V>Jolla leikkele¤#331;_kelluksija.</V>
    </TEXT>
    </ITEM>
    
@@ -42228,7 +42228,7 @@ korjatta&#8968;van&#8969;ta ulos
    <V>Pu&#772;kko pilevistä putos&#769;,</V>
    <V>veriveehti taeva&#772;sta,</V>
    <V>jolla mulokkuja mutas'en,</V>
-   <V>katko&#331;_karvakellukoeta.</V>
+   <V>katko¤#331;_karvakellukoeta.</V>
    </TEXT>
    </ITEM>
    
@@ -43894,7 +43894,7 @@ korjatta&#8968;van&#8969;ta ulos
    <L>Keväällä virvoitettiin lehmiä laitumelle laskettaissa:</L>
    <V>Virpu, varpu, lehmästäi,</V>
    <V>Pikkaraisija pässijäi</V>
-   <V>Seästä karhu&#331;_kynsistä!</V>
+   <V>Seästä karhu¤#331;_kynsistä!</V>
    </TEXT>
    </ITEM>
    
@@ -44645,8 +44645,8 @@ korjatta&#8968;van&#8969;ta ulos
    </META>
    <TEXT>
    <CPT>Jos lehmä om_metämpaene&#772;ssa,</CPT>
-   <L>ni minä ku&#772;lin &#252;hen_neuvvova, että pittä&#772; 
-                      l&#252;vväk_kirves
+   <L>ni minä ku&#772;lin u&#776;hen_neuvvova, että pittä&#772; 
+                      lu&#776;vväk_kirves
    naveta seinä&#772; kolomante&#772; hirte&#772; -- tottaha se si&#772;hem
           missä 
                       se
@@ -46483,7 +46483,7 @@ pyhittä hejle
                       3 
                         gr.
    omkring boskapen -- och begrafver fättet 1/2 aln under läpan juuri. -- Otta
-   &#8968;köuk&#244;n&#8969; (suen) sonta ei paljalla kätälle, ja meraju (hylen 
+   &#8968;köuko&#770;n&#8969; (suen) sonta ei paljalla kätälle, ja meraju (hylen 
 
 
 rasva) ja 
@@ -46727,7 +46727,7 @@ rasva) ja
    <L>loihittii.</L>
    <L>Loihtu alako:</L>
    <V>Metä hiippa halliparta,</V>
-   <V>Salo&#331;_kunnija&#331;_kuningas,</V>
+   <V>Salo¤#331;_kunnija¤#331;_kuningas,</V>
    <V>-- -- --</V>
    </TEXT>
    </ITEM>
@@ -47254,7 +47254,7 @@ rasva) ja
    3 x 9 askelta kolmen tien risteykseen, jossa löi kirveen maahan silmäänsä 
                         myöten
    sanoen:</L>
-   <V>Koeras kotti&#772;&#331; kele!</V>
+   <V>Koeras kotti&#772;¤#331; kele!</V>
    </TEXT>
    </ITEM>
    
@@ -47556,7 +47556,7 @@ rasva) ja
    </META>
    <TEXT>
    <V>Hurih_harih_härke&#772;,</V>
-   <V>Vanhav_virsu&#331;_kärke&#772;!</V>
+   <V>Vanhav_virsu¤#331;_kärke&#772;!</V>
    <L>Hoetaan härkää ärsyttäin.</L>
    </TEXT>
    </ITEM>
@@ -47789,10 +47789,10 @@ rasva) ja
       poeki&#772;, 
                       ku 
                         ens
-   kerram_männö&#772; l&#252;psämä&#772;? -- En. -- No:</L>
+   kerram_männö&#772; lu&#776;psämä&#772;? -- En. -- No:</L>
    <V>Viljasille, vaevasille,</V>
-   <V>Iteh_h&#252;vi elle&#772;ksen!</V>
-   <L>Joka tissiä pittä&#772; (toivotuksen aikana) n&#252;pästä!</L>
+   <V>Iteh_hu&#776;vi elle&#772;ksen!</V>
+   <L>Joka tissiä pittä&#772; (toivotuksen aikana) nu&#776;pästä!</L>
    </TEXT>
    </ITEM>
    
@@ -48698,7 +48698,7 @@ Et&#772;een
    </META>
    <TEXT>
    <V>Jumala antako&#772; antamista vil'jasille ja vaivasille, 
-                      iteh_h&#252;vi'</V>
+                      iteh_hu&#776;vi'</V>
                         
    <V>elle&#772;ksen!</V>
    <L>Näin lau[sutaan], kun ruvettiin keittämään vastapoik[ineen] lehmän
@@ -48719,7 +48719,7 @@ Et&#772;een
    Ku ne söe i&#815;u&#772;sto&#772;, ku vas&#769;ikka otetti&#772;
             i&#815;uoma&#772;,
                 ni
-   l&#252;öti&#772; lusikam_pohi&#815;alla toesta ohta&#772;[n] i&#815;a
+   lu&#776;öti&#772; lusikam_pohi&#815;alla toesta ohta&#772;[n] i&#815;a
    </INF>
    </META>
    <TEXT>
@@ -48744,7 +48744,7 @@ Et&#772;een
    <L>Juuston keittämisen alussa lausuttiin:</L>
    <V>Jumala antako&#772; antamista vili&#815;a-</V>
    <V>sille (l. rikkaille) i&#815;a vaevasille,</V>
-   <V>iteh_h&#252;vi elle&#772;ksen!</V>
+   <V>iteh_hu&#776;vi elle&#772;ksen!</V>
    <L>Juustonsyöntiin oli aina toivottu köyhiä vieraita.</L>
    </TEXT>
    </ITEM>
@@ -49349,7 +49349,7 @@ Et&#772;een
       sanotti&#772;,
    että</L>
    <V>Oshan_ne parempi&#772;i&#815;aem_mutta</V>
-   <V>pasko&#772; o&#331;_kielelläs!</V>
+   <V>pasko&#772; o¤#331;_kielelläs!</V>
    </TEXT>
    </ITEM>
    
@@ -49588,7 +49588,7 @@ terveeks,
    </INF>
    </META>
    <TEXT>
-   <L>Jos toenel_lehmiä l&#252;psäessä &#252;listellöö maejom_paljootta, 
+   <L>Jos toenel_lehmiä lu&#776;psäessä u&#776;listellöö maejom_paljootta, 
                       pittää
    sannoo:</L>
    <V>Katteem_paljo, voa' ei vaevan_nähneen.</V>
@@ -50521,9 +50521,9 @@ terveeks,
    </META>
    <TEXT>
    <L>Ku lehmä i&#815;äe mahoks, ettei se tehnt vasikkata, ni piäsiäsuamuna pit
-   viskatas_sen ette&#772; pai&#815;uneh_halako_i&#815;a sann&#245;, että:</L>
+   viskatas_sen ette&#772; pai&#815;uneh_halako_i&#815;a sanno&#771;, että:</L>
    <V>Nuolet_tuo vasikkaes!</V>
-   <L>ni sit maeto vuota&#772;. Se sillol_l&#252;psä&#772;. S_ei
+   <L>ni sit maeto vuota&#772;. Se sillol_lu&#776;psä&#772;. S_ei
           vasikkatta&#772;
    kaepo&#772;.</L>
    </TEXT>
@@ -51862,7 +51862,7 @@ keikahtoo
    <L>Kul_laskiisena uunista veittii hiilet, niim_pit' heitteek_kopralline 
                         herneitä
    uuniij_ja sannuu:</L>
-   <V>Kipeti&#331;_kapetil_lampaita.</V>
+   <V>Kipeti¤#331;_kapetil_lampaita.</V>
    </TEXT>
    </ITEM>
    
@@ -54230,7 +54230,7 @@ keikahtoo
    </INF>
    </META>
    <TEXT>
-   <L>Köörinä ei ennev_van&#224;haa' annettu lehmille ruokoo, ei juomoo. -- --
+   <L>Köörinä ei ennev_vana&#768;haa' annettu lehmille ruokoo, ei juomoo. -- --
         Joka 
                         kerta
    kul_lehmät nälissäär_rupesivat ammumaam_pit' emännäj_juostanaveta'
@@ -54360,7 +54360,7 @@ keikahtoo
    <V>Aja suoho sontasiäret,</V>
    <V>Lehmät liejuul_levitäk,</V>
    <V>5 Puolet suurile susile,</V>
-   <V>Toiset korve&#331;_kontijoile!</V>
+   <V>Toiset korve¤#331;_kontijoile!</V>
    </TEXT>
    </ITEM>
    
@@ -54698,7 +54698,7 @@ keikahtoo
    </META>
    <TEXT>
    <L>Para tehdään pölkyistä ja rääsyistä ja hoetaan:</L>
-   <V>S&#252;nn&#252;s_s&#252;nn&#252;h_h&#252;vä para</V>
+   <V>Su&#776;nnu&#776;s_su&#776;nnu&#776;h_hu&#776;vä para</V>
    <V>voita, maito&#772; kantama&#772;n!</V>
    </TEXT>
    </ITEM>
@@ -54891,7 +54891,7 @@ keikahtoo
                       
                       
                         otettiin sille
-   nimettömästä sormesta ja sydämeksi pant&#252;n ehtoollisoblaatti.
+   nimettömästä sormesta ja sydämeksi pantu&#776;n ehtoollisoblaatti.
     Henkiin 
                         saatiin
    para Kiiratorstai tahi Joulu-yönä joko kirkon portailla, pohjoiseen päin 
@@ -54987,7 +54987,7 @@ keikahtoo
    <L>Kum_para tehhä&#772;n, ni&#772;m_puoheta&#772;n kolome
         koiram_piätä
    salasessa paikassa i&#815;a hoeta&#772;n.</L>
-   <V>S&#252;nn&#252;p_para, s&#252;nn&#252;p_para!</V>
+   <V>Su&#776;nnu&#776;p_para, su&#776;nnu&#776;p_para!</V>
    <L>Sienien alut kantojen päissä ovat paran oksennusta. Jos lehmät hyvin 
                         lypsivät,
    sanottiin että para toi maitoa.</L>
@@ -55916,7 +55916,7 @@ lausuu
    synnyttämisestä on muun muassa seuraava tapa: "Saonaan haettiin 
                       haatuumualta
    multoo. Sillä seolalla liehottiin kiukaalla ja hoettiin":</L>
-   <V>S&#252;nn&#252;p para, s&#252;nn&#252;p para,</V>
+   <V>Su&#776;nnu&#776;p para, su&#776;nnu&#776;p para,</V>
    <V>Tie mitä tietän!</V>
    <L>Silloin para sanoi siihen: "Mitä tien, mitä kannan?" Tästä lähtien para 
                         oli
@@ -58240,9 +58240,9 @@ Som
    <L>Viskota&#772; ruosteisia naoloi&#815;a, ruosteisia raotoi&#815;a (sinne 
                         halmeeseen)
    i&#815;a sanota&#772;, että:</L>
-   <V>S&#252;ör_ruostet_tuota,</V>
-   <V>Elä s&#252;öh_halametta!</V>
-   <L>Jos ne sillo, ku k&#252;lövetä&#772; ne siemenetti&#772;n_ni
+   <V>Su&#776;ör_ruostet_tuota,</V>
+   <V>Elä su&#776;öh_halametta!</V>
+   <L>Jos ne sillo, ku ku&#776;lövetä&#772; ne siemenetti&#772;n_ni
           viskata&#772; 
                       ne
    rauvvatti&#772;.</L>
@@ -60311,9 +60311,9 @@ skogen från
    </INF>
    </META>
    <TEXT>
-   <CPT>Leekku&#772;&#331;_kuronen!</CPT>
+   <CPT>Leekku&#772;¤#331;_kuronen!</CPT>
    <L>huudettiin toiseen taloon kun leikkuu loppui, esim.:</L>
-   <V>Leekku&#772;&#331;_kuronen Halametnie-</V>
+   <V>Leekku&#772;¤#331;_kuronen Halametnie-</V>
    <V>niemelle!</V>
    <L>Sirpit emännän kaulaan leikkuun loputtua.</L>
    </TEXT>
@@ -62074,7 +62074,7 @@ skogen från
    <V>Siel on yksi poikalapsi,</V>
    <V>Jok_ei ikänänsä vettä nähnyt:</V>
    <V>5 Sylellä on silmät pesty,</V>
-   <V>Kusella o&#331;_kylvetetty,</V>
+   <V>Kusella o¤#331;_kylvetetty,</V>
    <V>Maijov_voahela valettu.</V>
    </TEXT>
    </ITEM>
@@ -62209,7 +62209,7 @@ skogen från
    <L>Enne aeka&#772; loehtivat, että:</L>
    <V>Mänep_pilevi Pietula&#772;(n),</V>
    <V>siellä vettä tarvita&#772;!</V>
-   <L>Ni k&#252;llä siellä eii&#815;_ok kahte&#772; kessa&#772; Pietulassa
+   <L>Ni ku&#776;llä siellä eii&#815;_ok kahte&#772; kessa&#772; Pietulassa
     vettä 
                       ollu 
                         (ku
@@ -62575,7 +62575,7 @@ skogen från
    <V>Ku tu&#772;le&#772;, ni mehtä humise&#772;,</V>
    <V>ku sata&#772;, ni katto rapise&#772;.</V>
    <V>Oi&#815;a om_pello_herra,</V>
-   <V>i&#815;a sonta on se&#331;_kuni&#331;&#331;as.</V>
+   <V>i&#815;a sonta on se¤#331;_kuni¤#331;¤#331;as.</V>
    </TEXT>
    </ITEM>
    
@@ -63803,7 +63803,7 @@ skogen från
    <V>5 Ni ei ilimossa ikänä.</V>
    <L>Soitti siittev_vielä porokelluu ja sano:</L>
    <K>b.</K>
-   <V>Nii&#331;_kauvvas tämä kunnija kuulukoo!</V>
+   <V>Nii¤#331;_kauvvas tämä kunnija kuulukoo!</V>
    </TEXT>
    </ITEM>
    
@@ -63828,7 +63828,7 @@ skogen från
                       
                       
                         ja
-   nuol' ja se käski tytö&#331;, ku se ol' alastip_pois päi&#331;_kävelemässä, 
+   nuol' ja se käski tytö¤#331;, ku se ol' alastip_pois päi¤#331;_kävelemässä, 
                       
                       
                       
@@ -65734,19 +65734,19 @@ otetaan
    </META>
    <TEXT>
    <CPT>Rakkauden kylmääminen.</CPT>
-   <L>Kylymäsijä kastel' vuatteentileku&#331;_kylymässä veissä ja tarttu
+   <L>Kylymäsijä kastel' vuatteentileku¤#331;_kylymässä veissä ja tarttu
     sillä 
                       
                       
                       
                         käilä,
-   jossa kasteltu tilekku ol' kaivokipov_varteej_ja ku&#331;_kylymästävä
+   jossa kasteltu tilekku ol' kaivokipov_varteej_ja ku¤#331;_kylymästävä
     tyttö
    tahip_poika ol' siinä alla, nii se puristi kättääj_ja kuv_vespis&#768;ara 
                       tipaht
-   kylymäs&#768;tävälem piähän_nii&#331;_kylymäsijä sano:</L>
-   <V>Oun_nii&#331;_kylymä,</V>
-   <V>Kuv_ves&#768;pisara o&#331;_kylymä!</V>
+   kylymäs&#768;tävälem piähän_nii¤#331;_kylymäsijä sano:</L>
+   <V>Oun_nii¤#331;_kylymä,</V>
+   <V>Kuv_ves&#768;pisara o¤#331;_kylymä!</V>
    </TEXT>
    </ITEM>
    
@@ -65767,7 +65767,7 @@ otetaan
    <L>viilattii vaskipäisestä veitsestä viilalla jauhoo ja koitettiij juottoo 
                         sitä ja viilooja
    sano:</L>
-   <V>Olokee nii&#331; kylömät toisillenna</V>
+   <V>Olokee nii¤#331; kylömät toisillenna</V>
    <V>Ku on tää rauta kylömä juuvvakseis.</V>
    </TEXT>
    </ITEM>
@@ -65792,7 +65792,7 @@ otetaan
    ommeltu kuolleem_pukuva, joka joutu hautaa. Se neula mukana pit'
    piästäk_kulukemaan_niiher_rakastelijoihev_välitej_ja pit' katkasta niihe
    huomoomatan_niihev_välissä se neula ja
-   viskatat_toine&#331;_kappalet_toisem_piälej_ja toinen toisej_ja
+   viskatat_toine¤#331;_kappalet_toisem_piälej_ja toinen toisej_ja
       sannuu:</L>
    <V>Olokee kylymät elleissäänne,</V>
    <V>Lämmitkee kuoltuvaanne!</V>
@@ -66795,7 +66795,7 @@ otetaan
    </INF>
    </META>
    <TEXT>
-   <L>i&#815;a i&#815;ossei se (taikina) lähtent käömä, ni ol' semmo&#233;nen 
+   <L>i&#815;a i&#815;ossei se (taikina) lähtent käömä, ni ol' semmoe&#769;nen 
 tapa, että
    hihas&#768;ti&#772; että:</L>
    <V>Hi-h ri&#772;ki(n) akat toruma&#772;!</V>
@@ -67663,7 +67663,7 @@ tapa, että
    </META>
    <TEXT>
    <L>[Nahkojen muokkaaminen.]</L>
-   <V>Venn&#252;&#772; venäläesen nahka,</V>
+   <V>Vennu&#776;&#772; venäläesen nahka,</V>
    <V>Sujju&#772; suomalaesen nahka</V>
    <V>Venäläesev_vinnarissa.</V>
    </TEXT>
@@ -67810,7 +67810,7 @@ tapa, että
    <TEXT>
    <CPT>Uuteen tupaan astuttaessa toivotettiin:</CPT>
    <V>Onneja uuvelle tuvalle,</V>
-   <V>lapse&#331;_kakka lattijalle!</V>
+   <V>lapse¤#331;_kakka lattijalle!</V>
    </TEXT>
    </ITEM>
    
@@ -70058,7 +70058,7 @@ tapa, että
    lumonneeks, mut jos se makkoo muassa, nii sen suap lumonneeks. En
       tiennym 
                         mitä
-   yks vanha mies tek' lumotessaam, mut se&#331; kuuli&#331; ku se
+   yks vanha mies tek' lumotessaam, mut se¤#331; kuuli¤#331; ku se
         loiht':</L>
    <V>Hiijje hilli, hiijje halli,</V>
    <V>Hiijje harmaja havukka,</V>
@@ -70294,7 +70294,7 @@ tapa, että
    </META>
    <TEXT>
    <CPT>Koiran lumonta.</CPT>
-   <L>eimpänä pittä&#772; otto&#772;p_pikkune&#331;_kivlakkari&#772;sa. 
+   <L>eimpänä pittä&#772; otto&#772;p_pikkune¤#331;_kivlakkari&#772;sa. 
                       pittä&#772;
    peästäp_pellov_veräistä sissä&#772;n_ni' ettei koira silloh_hauku. sitte 
                         pittä&#772;
@@ -70306,7 +70306,7 @@ tapa, että
    ola' yl' i&#815;a sanno&#772;':</L>
    <V>Halli hauku häntees,</V>
    <V>Piska persekarvojas!</V>
-   <L>Koiro&#772; ei sual_lumotuks jos se makko&#772; &#252;lläisellä
+   <L>Koiro&#772; ei sual_lumotuks jos se makko&#772; u&#776;lläisellä
         paikalla,
    rapulla taim_mu&#772;vvalla ni&#772;' että ilima alatep_peäsö&#772;. eivät
    tai&#815;i&#815;as_sanat koko lumonnassa vaikutto&#772;, mu&#772; vai'.</L>
@@ -70326,21 +70326,21 @@ tapa, että
    </INF>
    </META>
    <TEXT>
-   <L>&#252;öpojat_enne&#331;_koiro&#772; loihtone&#772;t.
+   <L>u&#776;öpojat_enne¤#331;_koiro&#772; loihtone&#772;t.
                 pohi&#815;osem_puolelta
-   &#252;heksästä koivusta ottane&#772;t tuoheh_helevettä su&#772;husa
+   u&#776;heksästä koivusta ottane&#772;t tuoheh_helevettä su&#772;husa
     i&#815;a 
                       sitte
-   tulle&#772;t risti&#772;n_k&#252;nnettävällep_pellolle'. aii&#815;i&#815;a' 
+   tulle&#772;t risti&#772;n_ku&#776;nnettävällep_pellolle'. aii&#815;i&#815;a' 
 
-                      &#252;l'
+                      u&#776;l'
    noustessa tervehtinne&#772;t waraseivästä. pi&#772;rtäne&#772;t
    ristim_pelto&#772;i&#815;_i&#772;a si&#772;hes_sittel_loihtoissa&#772;n
-   s&#252;l&#252;kene&#772;t ne helepe&#772;t:</L>
+   su&#776;lu&#776;kene&#772;t ne helepe&#772;t:</L>
    <V>tukih_hi&#772;s' haukun su&#772;,</V>
    <V>lempo koiral_leukalu&#772;,</V>
    <V>että ei iäntä piästäs&#769;</V>
-   <V>&#252;öllä t&#252;ttöin männessä!</V>
+   <V>u&#776;öllä tu&#776;ttöin männessä!</V>
    </TEXT>
    </ITEM>
    
@@ -70749,10 +70749,10 @@ tapa, että
    </INF>
    </META>
    <TEXT>
-   <V>S&#252;nn&#252;s_s&#252;nn&#252;s_saratarha,</V>
-   <V>jos asija ni&#331;_käö!</V>
-   <V>jos ei asija ni&#772;&#331;_käön_</V>
-   <V>ni elä s&#252;nn&#252;s_saratarha!</V>
+   <V>Su&#776;nnu&#776;s_su&#776;nnu&#776;s_saratarha,</V>
+   <V>jos asija ni¤#331;_käö!</V>
+   <V>jos ei asija ni&#772;¤#331;_käön_</V>
+   <V>ni elä su&#776;nnu&#776;s_saratarha!</V>
    </TEXT>
    </ITEM>
    
@@ -72673,7 +72673,7 @@ tapa, että
    </META>
    <TEXT>
    <V>Ites seppä Ilmarine?</V>
-   <V>Kerra&#331; kengitti hevosta,</V>
+   <V>Kerra¤#331; kengitti hevosta,</V>
    <V>Reistas rekivetosta;</V>
    <V>Vaskesta oli vasara,</V>
    <V>5 Hopijasta hohtivvarret,</V>
@@ -73457,7 +73457,7 @@ tapa, että
    <L>[Kirjallinen?]</L>
    <L>-- -- -- (ei muist. alkua).</L>
    <V>-- -- möi tilansa,</V>
-   <V>Itse re&#331;kiksi rupesi.</V>
+   <V>Itse re¤#331;kiksi rupesi.</V>
    <V>Mitä otti palkaksensa?</V>
    <V>Kirjavia porsahia.</V>
    <V>5 Sika suureksi sikisi,</V>
@@ -73471,8 +73471,8 @@ tapa, että
    <V>Kärsä kieroho kohotti.</V>
    <L>Ukko:</L>
    <V>Malta, malta, kossoparka,</V>
-   <V>15 Et sie to&#331;ki toista vuotta,</V>
-   <V>To&#331;ki toisena kesänä</V>
+   <V>15 Et sie to¤#331;ki toista vuotta,</V>
+   <V>To¤#331;ki toisena kesänä</V>
    <V>Torajoe pientareja!</V>
    </TEXT>
    </ITEM>
@@ -74234,9 +74234,9 @@ tapa, että
    </META>
    <TEXT>
    <V>-- -- --</V>
-   <V>Laitto re&#331;ki ettimeä.</V>
+   <V>Laitto re¤#331;ki ettimeä.</V>
    <V>Mäni ite ettimeä</V>
-   <V>Kolme&#331;_koira kansa.</V>
+   <V>Kolme¤#331;_koira kansa.</V>
    <V>Koirat ne sotki suota myöte,</V>
    <V>5 Ite kulki tietä myöte</V>
    <V>-- -- --</V>
@@ -74415,10 +74415,10 @@ tapa, että
    </META>
    <TEXT>
    <V>Pieni lintu liinahäntä</V>
-   <V>Hyppäis aita&#331;_kynnykselle,</V>
+   <V>Hyppäis aita¤#331;_kynnykselle,</V>
    <V>Kysy: ketäs aitassa asuu?</V>
    <V>Kolme(?) nuorta neitokaista:</V>
-   <V>5 Yksi kutoo ka&#331;kasta,</V>
+   <V>5 Yksi kutoo ka¤#331;kasta,</V>
    <V>Toinen sorii sormikasta,</V>
    <V>Kolmas kutuo kultavöitä,</V>
    <V>Neljäs itkyö veikkojansa.</V>
@@ -75551,19 +75551,19 @@ tapa, että
    <V>Otti kuusesta orava,</V>
    <V>Petäjästä pöyryhännä,</V>
    <V>Tuo tuon eteen tuoreheeta,</V>
-   <V>5 Sitte&#331;_kuuse&#331;_kuivija käpyjä,</V>
+   <V>5 Sitte¤#331;_kuuse¤#331;_kuivija käpyjä,</V>
    <V>Heitti heinijä, kanto kauroja,</V>
    <V>Teki sitä tekova</V>
    <V>Kolomet kokonaista vuotta.</V>
    <V>Siitä tuli ori oivalline:</V>
-   <V>10 Tuuma&#331;_kymmenettä korttelija,</V>
+   <V>10 Tuuma¤#331;_kymmenettä korttelija,</V>
    <V>Kyllä oli kynsillä kokova,</V>
    <V>Vaan ei kasvant kavijat,</V>
-   <V>Häntäjouhet jo&#331;kuullaiset.</V>
+   <V>Häntäjouhet jo¤#331;kuullaiset.</V>
    <V>Pani paksusta nahasta</V>
    <V>15 Suitet suuhu ja päitet päähä,</V>
-   <V>Teki lä&#331;&#331;et tervaksesta,</V>
-   <V>Luoki&#331;_karhu&#331;_kylkiluista,</V>
+   <V>Teki lä¤#331;¤#331;et tervaksesta,</V>
+   <V>Luoki¤#331;_karhu¤#331;_kylkiluista,</V>
    <V>Ajo Lapi jäisele mäjele,</V>
    <V>Ajo Lapi kammijot kumoon,</V>
    <V>20 Siellä ämmätkin ärisi,</V>
@@ -75668,7 +75668,7 @@ tapa, että
    <V>Löi ohjalla oritta,</V>
    <V>Helmiruoskalla hevosta.</V>
    <V>10 Hepo juoksi, tie helisi,</V>
-   <V>Ka&#331;&#331;as kultainen kumisi,</V>
+   <V>Ka¤#331;¤#331;as kultainen kumisi,</V>
    <V>Reki rautainen ramisi,</V>
    <V>Ulvoi ukset Uuvvel_linna,</V>
    <V>Vinkui Viipuriv_veräjät</V>
@@ -76425,8 +76425,8 @@ tapa, että
    <L>sano kuaso:</L>
    <V>Lähteä minun tulee,</V>
    <V>Lähteät tulettelloo</V>
-   <V>Alta kuulu&#331; kurkihirre,</V>
-   <V>Alta korkea&#331; kamana,</V>
+   <V>Alta kuulu¤#331; kurkihirre,</V>
+   <V>Alta korkea¤#331; kamana,</V>
    <V>5 Saranoilta suure ukser,</V>
    <V>Rautarengaster remusta.</V>
    </TEXT>
@@ -76560,7 +76560,7 @@ tapa, että
    <V>Hirnuuko ape hevonej</V>
    <V>ja piti</V>
    <V>Sannuu aina annettavav,</V>
-   <V>Vaikk' ois kerra&#331; kesässä suanu.</V>
+   <V>Vaikk' ois kerra¤#331; kesässä suanu.</V>
    </TEXT>
    </ITEM>
    
@@ -77819,7 +77819,7 @@ tapa, että
    <TEXT>
    <V>Aa, aa aholla,</V>
    <V>Aholla kasvaa kukkija,</V>
-   <V>Ruusu&#331; kukkija,</V>
+   <V>Ruusu¤#331; kukkija,</V>
    <V>Jussij jäkkijä (takkua),</V>
    <V>5 Vilipov valapo heinijä.</V>
    </TEXT>
@@ -77901,7 +77901,7 @@ tapa, että
    <CPT>Tuutulaulu.</CPT>
    <V>Aa, aa akana,</V>
    <V>Aitassa lukon takana.</V>
-   <V>Mamma&#331;_kanat ne kaakattoa,</V>
+   <V>Mamma¤#331;_kanat ne kaakattoa,</V>
    <V>Ei saa rauhassa moatakkoa.</V>
    </TEXT>
    </ITEM>
@@ -78456,7 +78456,7 @@ tapa, että
    <V>Tuut, lulla lasta,</V>
    <V>Tule surma vastaa,</V>
    <V>Tepsuttele tietä myöte,</V>
-   <V>Kule kaunista ka&#331;&#331;asta myöte,</V>
+   <V>Kule kaunista ka¤#331;¤#331;asta myöte,</V>
    <V>5 Lyö kurikal kummastakkii,</V>
    <V>Likkoo sekä lasta!</V>
    </TEXT>
@@ -79504,9 +79504,9 @@ tapa, että
    <TEXT>
    <CPT>Tuutlaulu.</CPT>
    <V>Minä se laulan lapsellei,</V>
-   <V>Kelle&#331;käs minä muille,</V>
+   <V>Kelle¤#331;käs minä muille,</V>
    <V>En minä laula kallijolle</V>
-   <V>E&#331;kä metsäm_puille.</V>
+   <V>E¤#331;kä metsäm_puille.</V>
    </TEXT>
    </ITEM>
    
@@ -79618,9 +79618,9 @@ tapa, että
    </META>
    <TEXT>
    <V>Minäpä laulal lapsellen&#769;</V>
-   <V>Se&#331; kinkka-konkka-virrem,</V>
+   <V>Se¤#331; kinkka-konkka-virrem,</V>
    <V>Pitemmäj ja paksumma?</V>
-   <V>Ku&#331; kirko seinähirre.</V>
+   <V>Ku¤#331; kirko seinähirre.</V>
    </TEXT>
    </ITEM>
    
@@ -79679,7 +79679,7 @@ tapa, että
    <TEXT>
    <CPT>Tuutulaulu.</CPT>
    <V>Minä tuutim_pientä lasta</V>
-   <V>Piene&#331;_kakkaran iestä,</V>
+   <V>Piene¤#331;_kakkaran iestä,</V>
    <V>Mut jossei anneta kakkaraa,</V>
    <V>Ni joutaa tuutin seista.</V>
    </TEXT>
@@ -79906,7 +79906,7 @@ tapa, että
    <V>Tie pellolle pesäsi,</V>
    <V>Koivuoksalle kotisi,</V>
    <V>5 Kalliolle kartanosi,</V>
-   <V>Ha&#331;&#331;ele havumajasi!</V>
+   <V>Ha¤#331;¤#331;ele havumajasi!</V>
    </TEXT>
    </ITEM>
    
@@ -80024,7 +80024,7 @@ tapa, että
    <V>Väsy, väsy, västäräkki,</V>
    <V>Tiep_pellollem_pesäsi,</V>
    <V>Kalliolle kartanoisi,</V>
-   <V>5 Koivunoksalle&#331;_kotisi,</V>
+   <V>5 Koivunoksalle¤#331;_kotisi,</V>
    <V>Kyllä se lintu paijan tuopi,</V>
    <V>Västäräkki viännättää.</V>
    </TEXT>
@@ -80049,7 +80049,7 @@ tapa, että
    <V>Tie pellolle pesäsi,</V>
    <V>Kualimualle kartanosi,</V>
    <V>5 Koivunoksale kotisi,</V>
-   <V>Ho&#331;kan oksale hovisi!</V>
+   <V>Ho¤#331;kan oksale hovisi!</V>
    </TEXT>
    </ITEM>
    
@@ -80118,8 +80118,8 @@ tapa, että
    <V>Nuku, nuku, nurmilintu,</V>
    <V>Väsy, väsy, västäräkki,</V>
    <V>Tiep_pellollem_pesäsi,</V>
-   <V>Kalliolle&#331;_kartanosi,</V>
-   <V>5 Koivunoksalle&#331;_kotisi,</V>
+   <V>Kalliolle¤#331;_kartanosi,</V>
+   <V>5 Koivunoksalle¤#331;_kotisi,</V>
    <V>Ikkunalle istumesi,</V>
    <V>Akkunallen astumesi!</V>
    </TEXT>
@@ -80355,7 +80355,7 @@ tapa, että
    </INF>
    </META>
    <TEXT>
-   <V>Tuu tuu, tuome&#331;kukka,</V>
+   <V>Tuu tuu, tuome¤#331;kukka,</V>
    <V>Eipä tiijä äitirukka,</V>
    <V>Missä lapset laulaat.</V>
    </TEXT>
@@ -81626,7 +81626,7 @@ tapa, että
    <V>Tule, surma, suota myöte,</V>
    <V>Järven päihen jäätä myöte!</V>
    <V>Sukat surmallen tekisin,</V>
-   <V>Kennät kiele&#331;kantajalle.</V>
+   <V>Kennät kiele¤#331;kantajalle.</V>
    </TEXT>
    </ITEM>
    
@@ -81844,7 +81844,7 @@ tapa, että
    <V>Tuu, tuu, tuutelilei,</V>
    <V>Kuka siltä lapselta unen vei?</V>
    <V>Tuleppa, ukko, uunimpäältä,</V>
-   <V>Nukku-Matti, pa&#331;kompäästä,</V>
+   <V>Nukku-Matti, pa¤#331;kompäästä,</V>
    <V>5 Tuo turkki tullessasi,</V>
    <V>Uniturkki untuvaine!</V>
    </TEXT>
@@ -82448,7 +82448,7 @@ tapa, että
    <V>Suurelle vuorelle kukkumaa,</V>
    <V>Sieltä alas vierimää</V>
    <V>Villaselle vuotialle,</V>
-   <V>5 Silkkiselle sä&#331;kyselle!</V>
+   <V>5 Silkkiselle sä¤#331;kyselle!</V>
    </TEXT>
    </ITEM>
    
@@ -82777,7 +82777,7 @@ tapa, että
    <TEXT>
    <CPT>Tuutulaulu.</CPT>
    <V>Tuuti lasta Tuoneloa,</V>
-   <V>Tuonne kirko&#331;_kainaluo,</V>
+   <V>Tuonne kirko¤#331;_kainaluo,</V>
    <V>Siel on tupa turvekkatto,</V>
    <V>Pieni pelto hiukkamoa.</V>
    </TEXT>
@@ -82858,7 +82858,7 @@ tapa, että
    <TEXT>
    <CPT>Tuutulaulu.</CPT>
    <V>Tuut lasta Tuonelaa,</V>
-   <V>Tuonne kirko&#331;kammioo,</V>
+   <V>Tuonne kirko¤#331;kammioo,</V>
    <V>Siel on tupa turvekkatto,</V>
    <V>Hiekka hieno pellommua.</V>
    </TEXT>
@@ -82898,7 +82898,7 @@ tapa, että
    <TEXT>
    <CPT>Tuutulaulu.</CPT>
    <V>Tuuti lasta Tuoneloa,</V>
-   <V>Tuonne kirko&#331;_kammijoo,</V>
+   <V>Tuonne kirko¤#331;_kammijoo,</V>
    <V>Siel on tupa turvekatto,</V>
    <V>Hieno hiekka peltopaikka.</V>
    </TEXT>
@@ -82919,7 +82919,7 @@ tapa, että
    <TEXT>
    <CPT>Tuutulaulu.</CPT>
    <V>Tuut tuut Tuonelaan,</V>
-   <V>Tuonne kirko&#331;_kammarii.</V>
+   <V>Tuonne kirko¤#331;_kammarii.</V>
    <V>Siel on tupa turvekkatto,</V>
    <V>Hieno hiekka peltomua,</V>
    <V>5 Peräseinä peuralluista,</V>
@@ -82965,7 +82965,7 @@ tapa, että
    </META>
    <TEXT>
    <V>Tuuti lasta Tuonelaan,</V>
-   <V>Tuonnek kirko&#331; kammarii,</V>
+   <V>Tuonnek kirko¤#331; kammarii,</V>
    <V>Siel' o hieno hiekkapelto,</V>
    <V>Tupa uusi turvekatto,</V>
    <V>5 Vanha tupa varpukatto,</V>
@@ -83560,10 +83560,10 @@ tapa, että
    <V>Nuku lapsi nulpukaine,</V>
    <V>Pienokaine, kaunokaine,</V>
    <V>Hienosissa voattehissa,</V>
-   <V>Silkkisissä sä&#331;kysissä!</V>
+   <V>Silkkisissä sä¤#331;kysissä!</V>
    <V>5 Uni ulkoa kysyvi:</V>
-   <V>O&#331;ko lapsi kätkyessä,</V>
-   <V>Silkkisissä sä&#331;kysissä,</V>
+   <V>O¤#331;ko lapsi kätkyessä,</V>
+   <V>Silkkisissä sä¤#331;kysissä,</V>
    <V>Valkosissa voattehissa,</V>
    <V>Hienosissa peittehissä?</V>
    </TEXT>
@@ -83817,7 +83817,7 @@ tapa, että
    <TEXT>
    <CPT>Tuutulaulu.</CPT>
    <V>Piu, pau, papurii,</V>
-   <V>Jälelle&#331;kö jäisi(n),</V>
+   <V>Jälelle¤#331;kö jäisi(n),</V>
    <V>Perjakka (lemän nimi) tuli perässä</V>
    <V>Ja Kukkeri keskellä mäissä.</V>
    </TEXT>
@@ -84621,7 +84621,7 @@ tapa, että
    <V>Tule köyrinä kottii,</V>
    <V>Suat sylttyvä syyvväkses,</V>
    <V>Rapataalija juuvvakses,</V>
-   <V>5 Peräpe&#331;killä muatakses,</V>
+   <V>5 Peräpe¤#331;killä muatakses,</V>
    <V>Aa, tuutima lulla.</V>
    </TEXT>
    </ITEM>
@@ -84841,7 +84841,7 @@ tapa, että
    <CPT>Lastenloru.</CPT>
    <L>Lasta "kopitettiin" polvella.</L>
    <V>Körö, körö kirkkuo,</V>
-   <V>Papim_muorim_pe&#331;kkii</V>
+   <V>Papim_muorim_pe¤#331;kkii</V>
    <V>Ruskijala ruunala,</V>
    <V>Valkijala varsalla,</V>
    <V>5 Topsis, topsis, topsis top!</V>
@@ -84927,7 +84927,7 @@ tapa, että
    <V>Jäm, jäm Jääskee</V>
    <V>Ruskijal ruunal,</V>
    <V>Valkijal varsal,</V>
-   <V>5 Hiire&#331;karvalla hevosel.</V>
+   <V>5 Hiire¤#331;karvalla hevosel.</V>
    </TEXT>
    </ITEM>
    
@@ -84946,7 +84946,7 @@ tapa, että
    <TEXT>
    <CPT>Lasta hypitettiin polvella:</CPT>
    <V>Körö, körö kirkkoo,</V>
-   <V>Pappilam_muorim_pe&#331;kkii</V>
+   <V>Pappilam_muorim_pe¤#331;kkii</V>
    <V>Ruskijala ruunala,</V>
    <V>Valkijala varsala,</V>
    <V>5 Herasilmäl hevosel,</V>
@@ -85471,7 +85471,7 @@ tapa, että
    </INF>
    </META>
    <TEXT>
-   <V>Kukko puuro&#331;_keittää,</V>
+   <V>Kukko puuro¤#331;_keittää,</V>
    <V>Kana maijol_lämmittää,</V>
    <V>Lusikat laijalle laittaa:</V>
    <V>Tulkaa lapset syömää!</V>
@@ -85597,12 +85597,12 @@ tapa, että
    </META>
    <TEXT>
    <CPT>Tuutulaulu.</CPT>
-   <V>Piu, pau papi&#331;kello,</V>
-   <V>Lukkarilleske lehmä&#331;kello,</V>
-   <V>Kivijärve&#331;_kirko&#331;kello,</V>
-   <V>Heinolaisen hevose&#331;kello,</V>
-   <V>5 Lappalaisii lampoa&#331;kello,</V>
-   <V>Lemiläisii lehmä&#331;kello.</V>
+   <V>Piu, pau papi¤#331;kello,</V>
+   <V>Lukkarilleske lehmä¤#331;kello,</V>
+   <V>Kivijärve¤#331;_kirko¤#331;kello,</V>
+   <V>Heinolaisen hevose¤#331;kello,</V>
+   <V>5 Lappalaisii lampoa¤#331;kello,</V>
+   <V>Lemiläisii lehmä¤#331;kello.</V>
    </TEXT>
    </ITEM>
    
@@ -85711,9 +85711,9 @@ tapa, että
    </META>
    <TEXT>
    <CPT>Tuutulaulu.</CPT>
-   <V>Piu, pau papi&#331;kello,</V>
-   <V>Lukkaril_leske lehmä&#331;kello,</V>
-   <V>Kivijärve&#331;_kirko&#331;kello.</V>
+   <V>Piu, pau papi¤#331;kello,</V>
+   <V>Lukkaril_leske lehmä¤#331;kello,</V>
+   <V>Kivijärve¤#331;_kirko¤#331;kello.</V>
    </TEXT>
    </ITEM>
    
@@ -85777,7 +85777,7 @@ tapa, että
    <V>Pitkä matka tätil_luo.</V>
    <V>Täti leipo suure kaku,</V>
    <V>Pani paljo voita päälle,</V>
-   <V>5 Pa&#331;kkokive paksuise,</V>
+   <V>5 Pa¤#331;kkokive paksuise,</V>
    <V>Suvesilmä suuruise.</V>
    </TEXT>
    </ITEM>
@@ -86492,7 +86492,7 @@ tapa, että
    <V>Mistäs tiesit tänne tulla?</V>
    <V>Tiesimpä tulla tietä myöte,</V>
    <V>Pappilam_pihoja myöte.</V>
-   <V>5 Pappilas oli äkäne&#331;_koira,</V>
+   <V>5 Pappilas oli äkäne¤#331;_koira,</V>
    <V>Joka puri kintum_poikki.</V>
    <V>Mirripä juoksi tätilää:</V>
    <V>Täti leipo suurel_leivä,</V>
@@ -86647,7 +86647,7 @@ tapa, että
    <V>Mistäs tiesit tännet tulla?</V>
    <V>Tietä myöten tiesin tullap,</V>
    <V>Pappilam pihoja piiskutella.</V>
-   <V>5 Pappilass' ol' äkäne&#331; koira,</V>
+   <V>5 Pappilass' ol' äkäne¤#331; koira,</V>
    <V>Puras&#769; pojalta jalam poikki.</V>
    <V>Lapsi hyppäs&#769; aijjam piäle,</V>
    <V>Aita kuatu kallijole,</V>
@@ -88065,12 +88065,12 @@ tapa, että
    <V>Meitän herrasta hevukkaa,</V>
    <V>Hevukasta heinäkelkkoa,</V>
    <V>Heinäkelkasta kekälie,</V>
-   <V>15 Kekäliestä ke&#331;kärajaa,</V>
-   <V>Ke&#331;kärajasta rapukkaa,</V>
+   <V>15 Kekäliestä ke¤#331;kärajaa,</V>
+   <V>Ke¤#331;kärajasta rapukkaa,</V>
    <V>Rapukasta raitan haaraa,</V>
    <V>Raitan haarasta havukkaa,</V>
-   <V>Havukasta ha&#331;kovartee,</V>
-   <V>20 Ha&#331;kovarresta vatikkaa,</V>
+   <V>Havukasta ha¤#331;kovartee,</V>
+   <V>20 Ha¤#331;kovarresta vatikkaa,</V>
    <V>Vatikasta vallesmannii,</V>
    <V>Vallesmannista matikkaa,</V>
    <V>Matikasta maitopyörää,</V>
@@ -88526,9 +88526,9 @@ oliit:</L>
    <V>Minä juoksin talloi,</V>
    <V>Talos ol emäntä leipomassa,</V>
    <V>Tyttäret taputtamassa.</V>
-   <V>10 Emäntä mulle&#331;_kakkaran leipo.</V>
-   <V>Minä kakkara&#331;_kalamiehille,</V>
-   <V>Kalamiehet minulle&#331;_kaloja anto.</V>
+   <V>10 Emäntä mulle¤#331;_kakkaran leipo.</V>
+   <V>Minä kakkara¤#331;_kalamiehille,</V>
+   <V>Kalamiehet minulle¤#331;_kaloja anto.</V>
    <V>Minä kalat koiralle,</V>
    <V>Koira minulle oravan haukku.</V>
    <V>15 Minä ammu orava,</V>
@@ -88561,13 +88561,13 @@ oliit:</L>
    <V>Tieppä mulle kakkara,</V>
    <V>Lepällehe levveyne,</V>
    <V>10 Koivullehe loajuine!</V>
-   <V>Minä kakkara&#331;_kalamiehille,</V>
-   <V>Kalamiehet mulle&#331;_kaloja.</V>
+   <V>Minä kakkara¤#331;_kalamiehille,</V>
+   <V>Kalamiehet mulle¤#331;_kaloja.</V>
    <V>Minä kalat kuahkolle,</V>
    <V>Kuahko mulle siivet anto.</V>
    <V>15 Minä lentee liekutteli</V>
    <V>Yheksä mere ylite,</V>
-   <V>Kaheksa&#331;_kaupunni piälite.</V>
+   <V>Kaheksa¤#331;_kaupunni piälite.</V>
    </TEXT>
    </ITEM>
    
@@ -88696,10 +88696,10 @@ oliit:</L>
    <CPT>Lapset sanovat etanan nähdessään:</CPT>
    <K>a.</K>
    <V> Etana, etana, näytä sarveis,</V>
-   <V>O&#331;ks huomenna pouta vai vessae!</V>
+   <V>O¤#331;ks huomenna pouta vai vessae!</V>
    <L>Tai:</L>
    <L>b. Etana, etana, tie tervaa,</L>
-   <V>O&#331;ks huomenna pouta vai vessae!</V>
+   <V>O¤#331;ks huomenna pouta vai vessae!</V>
    </TEXT>
    </ITEM>
    
@@ -88718,7 +88718,7 @@ oliit:</L>
    <TEXT>
    <CPT>Etanalta kysyivät lapset:</CPT>
    <V>Etana, etana, näytä sarveis,</V>
-   <V>O&#331;ko huomenna pouta!</V>
+   <V>O¤#331;ko huomenna pouta!</V>
    </TEXT>
    </ITEM>
    
@@ -89326,7 +89326,7 @@ oliit:</L>
    <TEXT>
    <CPT>Leppäkertulle lukivat lapset:</CPT>
    <V>Lennä, lennä, leppäkerttu,</V>
-   <V>Iso&#331;_kivej_juurelle,</V>
+   <V>Iso¤#331;_kivej_juurelle,</V>
    <V>Siellä on sinun isäs, äitis,</V>
    <V>Keittää siulle puurova.</V>
    </TEXT>
@@ -89347,7 +89347,7 @@ oliit:</L>
    <TEXT>
    <CPT>Lapset kysyvät leppäkertulta:</CPT>
    <V>Lennä, lennä, leppäpilikka, (t. leppäkerttu),</V>
-   <V>O&#331;ko huomenna pouta?</V>
+   <V>O¤#331;ko huomenna pouta?</V>
    </TEXT>
    </ITEM>
    
@@ -89776,7 +89776,7 @@ oliit:</L>
    </META>
    <TEXT>
    <CPT>Maitohammas heitettiin uunille ja luettiin:</CPT>
-   <V>Kilikkaa&#331;_kalakkaan,</V>
+   <V>Kilikkaa¤#331;_kalakkaan,</V>
    <V>Rautahammas sijjaa!</V>
    </TEXT>
    </ITEM>
@@ -89796,7 +89796,7 @@ oliit:</L>
    <TEXT>
    <CPT>Maitohammas heitettiin uunille:</CPT>
    <V>Kilik, kalak kivvee,</V>
-   <V>(tai: Kilikkaa&#331;_kalakkaan),</V>
+   <V>(tai: Kilikkaa¤#331;_kalakkaan),</V>
    <V>Rautahammas sijjaa!</V>
    <L>Hampaan piti sattua kiveen, muuten ei tullut lujaa sijalle.</L>
    </TEXT>
@@ -90202,7 +90202,7 @@ oliit:</L>
    <V>Mur' mar, mustalla hopalla, j.n.e.</V>
    </TEXT>
    <REFS>
-   #1 Todellisuudessa äännettävä: ko&#331;ko&#331;, ko&#331;ko&#331;.
+   #1 Todellisuudessa äännettävä: ko¤#331;ko¤#331;, ko¤#331;ko¤#331;.
    #2 Vaiko: kuin?
    #3 Pikak:ssa tuntuu olevan keittäässää(n). Mahdoll. luettava kuitenkin: 
                         keittäissää(n).
@@ -90328,7 +90328,7 @@ oliit:</L>
    </INF>
    </META>
    <TEXT>
-   <V>Pukki putos kaivoo&#331;,</V>
+   <V>Pukki putos kaivoo¤#331;,</V>
    <V>Kana lämmitti maitoo.</V>
    <V>Missä meijjä oma muori?</V>
    <V>Kive alla kellarissa.</V>
@@ -90673,8 +90673,8 @@ oliit:</L>
    </META>
    <TEXT>
    <V>Hyy, hyy Hynölää,</V>
-   <V>Hynölä&#331;_koirat haukkumoa!</V>
-   <V>Mä&#331;kee lapset kahtomoa</V>
+   <V>Hynölä¤#331;_koirat haukkumoa!</V>
+   <V>Mä¤#331;kee lapset kahtomoa</V>
    <V>Kuka siellä tulloo!</V>
    <V>5 Vanha ukor_räppänä</V>
    <V>(t. pienem_poja ressukka).</V>
@@ -90688,8 +90688,8 @@ oliit:</L>
    <V>Petkel on keppinä.</V>
    <V>15 Mikä sill on ohjaksina?</V>
    <V>Kärme on ohjaksina.</V>
-   <V>Mikä sill on lä&#331;kinä?</V>
-   <V>Sammakko on lä&#331;kinä.</V>
+   <V>Mikä sill on lä¤#331;kinä?</V>
+   <V>Sammakko on lä¤#331;kinä.</V>
    <V>Mikä sill on piiskana?</V>
    <V>20 Sisilisko piiskana.</V>
    </TEXT>
@@ -90826,7 +90826,7 @@ oliit:</L>
    <CPT>"Sotkensavisilla"</CPT>
    <L>oltaessa luki "sotkija" kiveä kätkiessään:</L>
    <V>Sotken savija,</V>
-   <V>Kätke&#331;_kivijä,</V>
+   <V>Kätke¤#331;_kivijä,</V>
    <V>Tien tiilijä,</V>
    <V>Paikkoon uunija.</V>
    <V>5 Arvoo, kelläs kiv?</V>
@@ -90852,8 +90852,8 @@ oliit:</L>
                         vuoroin
    kunkin helmassa lukien:</L>
    <V>Sotken savvee,</V>
-   <V>Kätke&#331;_kivvee,</V>
-   <V>Kure&#331;_kuiks,</V>
+   <V>Kätke¤#331;_kivvee,</V>
+   <V>Kure¤#331;_kuiks,</V>
    <V>Härän häiks,</V>
    <V>5 Maholehmäm_makkaroiks.</V>
    <V>Arvaas kellä kulla kivi on?</V>
@@ -91355,7 +91355,7 @@ oliit:</L>
    <V>Mansikki tansikki talleroine,</V>
    <V>Puolem_markam_palleroine</V>
    <V>Lyps lehmä, taitto sarve,</V>
-   <V>Koato kirnu&#331;_kallijolle,</V>
+   <V>Koato kirnu¤#331;_kallijolle,</V>
    <V>5 Siint o portti pois!</V>
    </TEXT>
    </ITEM>
@@ -91381,7 +91381,7 @@ oliit:</L>
    <V>5 Viis, kuus markkaa.</V>
    <V>Mitkä niije nimet on?</V>
    <V>Suutar, Reätäl, Pikipöksy-Pietar,</V>
-   <V>Ke&#331;kä&#331;kaputtaja ja Naskalinnaputtaja.</V>
+   <V>Ke¤#331;kä¤#331;kaputtaja ja Naskalinnaputtaja.</V>
    <V>Astu tästä portista ulos!</V>
    </TEXT>
    </ITEM>
@@ -92649,7 +92649,7 @@ oliit:</L>
    <CPT>Lastenloru.</CPT>
    <V>Tule joulu jouker kouker,</V>
    <V>Piipar paapar jauhamoa,</V>
-   <V>Sirkansiivet, kotka&#331;koivet,</V>
+   <V>Sirkansiivet, kotka¤#331;koivet,</V>
    <V>Peipusem_peräpakkariet.</V>
    </TEXT>
    </ITEM>
@@ -92714,7 +92714,7 @@ oliit:</L>
    <TEXT>
    <CPT>Lastenlaulu joulua odotellessa.</CPT>
    <V>Tule kekri, jouvu joulu,</V>
-   <V>Kyll_o&#331;_kystä aitassa,</V>
+   <V>Kyll_o¤#331;_kystä aitassa,</V>
    <V>Paljom_pantuva elova:</V>
    <V>Sirkar_reisi, poarmajjalka,</V>
    <V>5 Peipose peräpakarat.</V>
@@ -92735,9 +92735,9 @@ oliit:</L>
    </META>
    <TEXT>
    <V>Joulu tulloo, joutaa tulla,</V>
-   <V>Kyl o&#331;_kystä aitassa:</V>
+   <V>Kyl o¤#331;_kystä aitassa:</V>
    <V>Sirakan siäret,</V>
-   <V>Toraka&#331;_koivet,</V>
+   <V>Toraka¤#331;_koivet,</V>
    <V>5 Pienel_linnu piipottimet,</V>
    <V>Västäräkiv_viärät siäret,</V>
    <V>Peipusem_peräpakarat.</V>
@@ -93286,7 +93286,7 @@ oliit:</L>
    <L>Keväällä virvottiin lehmiä laitumelle laskettaessa:</L>
    <V>Virpu, varpu lehmäistäi,</V>
    <V>Pikkaraisija pässijäi</V>
-   <V>Seästä karhu&#331;_kynsistä!</V>
+   <V>Seästä karhu¤#331;_kynsistä!</V>
    </TEXT>
    </ITEM>
    
@@ -93734,8 +93734,8 @@ oliit:</L>
    <TEXT>
    <CPT>Loitsusanat toisen taikojen tyhjäksi tekemiseksi.</CPT>
    <V>Syrjitses syyttömäv,</V>
-   <V>Vieritsev vijattoma&#331;,</V>
-   <V>Käykyym piäle&#331; käskijääsä,</V>
+   <V>Vieritsev vijattoma¤#331;,</V>
+   <V>Käykyym piäle¤#331; käskijääsä,</V>
    <V>Nouskuum piälen nostajaasa!</V>
    </TEXT>
    </ITEM>
@@ -95974,7 +95974,7 @@ oliit:</L>
                         vastapäivääj ja
    sauttava:</L>
    <V>Pesässäähän ne linnuttii;</V>
-   <V>Nokkas&#769; tylsä ku&#331; kassaran nokka.</V>
+   <V>Nokkas&#769; tylsä ku¤#331; kassaran nokka.</V>
    </TEXT>
    </ITEM>
    
@@ -95992,7 +95992,7 @@ oliit:</L>
    </META>
    <TEXT>
    <CPT>Ampiaisten taltuttaminen.</CPT>
-   <L>Ku ottaa kolomesta er&#769; paikasta muata ja painaa se&#331; 
+   <L>Ku ottaa kolomesta er&#769; paikasta muata ja painaa se¤#331; 
                       kantapiällään
    takasip paikolleej ja sannoo:</L>
    <V>Mänkee takasip paikellee!</V>
@@ -96106,7 +96106,7 @@ oliit:</L>
    <V>Löysin tieltä nukkunien,</V>
    <V>Kuola suuhu koatunien.</V>
    <V>Mato musta moannäkönen,</V>
-   <V>Toukka tuome&#331;karvallinen</V>
+   <V>Toukka tuome¤#331;karvallinen</V>
    <V>5 Luulit sie puuta purreis,</V>
    <V>Pajunniintä pannies,</V>
    <V>Mut et sinä puuta purrutkoa,</V>
@@ -96235,7 +96235,7 @@ oliit:</L>
    <TEXT>
    <CPT>Käärmeenluku.</CPT>
    <V>Mato musta moanalane,</V>
-   <V>Toukka tuome&#331;karvalline,</V>
+   <V>Toukka tuome¤#331;karvalline,</V>
    <V>Joka puret puije juurija,</V>
    <V>Panet heinäjjuurija,</V>
    <V>5 Mataloita moajjuurija.</V>
@@ -96477,13 +96477,13 @@ oliit:</L>
    </META>
    <TEXT>
    <CPT>Käärmeen pureman parant[aminen].</CPT>
-   <L>Turjat (taikuri, tietäjä) saivat se&#331; kiärmeem mikä ol' pistänä, 
+   <L>Turjat (taikuri, tietäjä) saivat se¤#331; kiärmeem mikä ol' pistänä, 
                         tulemaal
-   luoksee. Ku&#331; kiärmet tul', niin turja posmenti kiärmeele:</L>
+   luoksee. Ku¤#331; kiärmet tul', niin turja posmenti kiärmeele:</L>
    <V>Jos sinä pistät yhem piston,</V>
-   <V>Niim minä pistä&#331; kaks pistoo.</V>
+   <V>Niim minä pistä¤#331; kaks pistoo.</V>
    <V>Jos sinä pistät kaks pistoo,</V>
-   <V>Niim minä pistä&#331; kolom pistoo.</V>
+   <V>Niim minä pistä¤#331; kolom pistoo.</V>
    <V>5 Jos sinä pistät kolom pistoo,</V>
    <V>Niim minä pistän neljä pistoo.</V>
    <V>Jos sinä pistät neljä pistoo,</V>
@@ -97401,7 +97401,7 @@ oliit:</L>
    <V>Tuulen pohjasen nojahan,</V>
    <V>Ahavaisen kainalohon,</V>
    <V>5 Lapin loajoille ahoille,</V>
-   <V>Pohjape&#331;keren perille!</V>
+   <V>Pohjape¤#331;keren perille!</V>
    </TEXT>
    </ITEM>
    
@@ -97419,7 +97419,7 @@ oliit:</L>
    </META>
    <TEXT>
    <CPT>"Muahiisem" (ruohtuman) parant[aminen].</CPT>
-   <L>Leikataa&#331; kolomkuloma muakappalem muasta kolomesta
+   <L>Leikataa¤#331; kolomkuloma muakappalem muasta kolomesta
     kohasta
         ja
    painellaan niilä ja pannaan ne siitten takasip paikollee.</L>
@@ -97707,7 +97707,7 @@ oliit:</L>
                       
                         joka
    sytytettiin palamaan ja sanottiin:</L>
-   <V>Kokkola&#331;_kota pallaa,</V>
+   <V>Kokkola¤#331;_kota pallaa,</V>
    <V>Pois niäränräppy silemästä!</V>
    <L>Potilaan piti koko aika tuijottaa "kokkoa".</L>
    </TEXT>
@@ -98339,7 +98339,7 @@ oliit:</L>
    <V>Kivestäkö, kannostako,</V>
    <V>Vaiko vatturaunijosta,</V>
    <V>5 Vaiko siitä seipäästä,</V>
-   <V>Joho&#331; korppi koinattiim,</V>
+   <V>Joho¤#331; korppi koinattiim,</V>
    <V>Musta lintu murhattii?</V>
    </TEXT>
    </ITEM>
@@ -98944,7 +98944,7 @@ oliit:</L>
    tiku siihen, niim pittää sannuu:</L>
    <V>Syös sitä, eläkä minu hammastan&#769;!</V>
    <L>Ja sem puul luota lähettyysä ei suak kahtuuj jälellee eikä sua 
-                        ikänää&#331;
+                        ikänää¤#331;
    käyvväs sem puul luona.</L>
    </TEXT>
    </ITEM>
@@ -98963,7 +98963,7 @@ oliit:</L>
    </META>
    <TEXT>
    <CPT>Ku hammasta pakottaa</CPT>
-   <L>nii&#331; kun tekköö yksvapasesta pihlaasta kolome tikkuu ja kaivaa 
+   <L>nii¤#331; kun tekköö yksvapasesta pihlaasta kolome tikkuu ja kaivaa 
                       niilä
    hampaasta vertä ja kaivaa poloverila reijjäm mehtääj johonniip puuhum 
                       päiväm
@@ -99629,7 +99629,7 @@ oliit:</L>
    <L>sieppasi äiti lapsen syliinsä, potkaisi saunanoven auki vasemmalla 
                         jalallaan ja
    sanoi:</L>
-   <V>Kaho kuuta ja auri&#331;koo!</V>
+   <V>Kaho kuuta ja auri¤#331;koo!</V>
    <L>(Kertoja ei tiennyt taian tarkoitusta.)</L>
    </TEXT>
    </ITEM>
@@ -100065,7 +100065,7 @@ oliit:</L>
    <L>Lasta taputettiin päälaelle ja luettiin:</L>
    <V>Tilt, talt, tasapiä,</V>
    <V>Elä kasva kuuna päivänä,</V>
-   <V>Jeä keri&#331;kakoks,</V>
+   <V>Jeä keri¤#331;kakoks,</V>
    <V>Taivaannavaks!</V>
    </TEXT>
    </ITEM>
@@ -100085,8 +100085,8 @@ oliit:</L>
    <TEXT>
    <L>Lasta taputettiin päälaelle ja luettiin:</L>
    <V>Tilt, talt, tasapiä,</V>
-   <V>Elä kasva millo&#331;kaa,</V>
-   <V>Istu tervape&#331;kkii!</V>
+   <V>Elä kasva millo¤#331;kaa,</V>
+   <V>Istu tervape¤#331;kkii!</V>
    </TEXT>
    </ITEM>
    
@@ -100663,13 +100663,13 @@ oliit:</L>
    <V>Jos ol' johhiis silimäys tahip pyyntivehkeet ol' pilatut, niim pit' 
                         käyvväv vuoresta
    väkkii.</V>
-   <L>Pit' ensistää&#331; kolomesta kohasta ottoos sammalija 
+   <L>Pit' ensistää¤#331; kolomesta kohasta ottoos sammalija 
                       pohjos&#769;puolelta 
                         ja
    sannuu:</L>
    <V>En ota ihtijäiv vastev,</V>
    <V>Vav vastev vastuksija.</V>
-   <L>Ja pit' ollav vielä enne&#331; käi&#331; kukkumista kevveelä saavu 
+   <L>Ja pit' ollav vielä enne¤#331; käi¤#331; kukkumista kevveelä saavu 
                       hauviv 
                         vase
    alaleuka hampaineej ja elävältä lohelta, minkä ol' vielä laskena takasij 
@@ -100689,9 +100689,9 @@ oliit:</L>
                         mielessää
    ajatellam, mitem paljon tahtoo sinä talavena kettuja suaha. Ja ennem 
                         päiväntulloo pit'
-   viijjäv vuoree sammalija sijalej jokkaiseen kolomee&#331; kohtaaj ja
+   viijjäv vuoree sammalija sijalej jokkaiseen kolomee¤#331; kohtaaj ja
     samoj
-   jokkaisee&#331; kuninkaammyntti (raha) ja kiehuvasta lähteestä (missä
+   jokkaisee¤#331; kuninkaammyntti (raha) ja kiehuvasta lähteestä (missä
     vesi
    alituisesti kumpuaa ylöspäin) vettä, jottei vuorehaltii suuttuna.</L>
    </TEXT>
@@ -101257,7 +101257,7 @@ ja
                         voisi olla 1
    1/2 kyynärää, silloin ei karhu pääsisi niin reutomaan, olisi ahtaassa, 
                         melkein kuin
-   pihissä. Painopuita oli molemmin puolin 6 &#224; 7 kappaletta, osaksi 
+   pihissä. Painopuita oli molemmin puolin 6 a&#768; 7 kappaletta, osaksi 
 paksuja 
                         hirsiä,
    nojalla kahan puolelta. Suu oli suolle päin. -- (Sukevan kylän Huutolahen 
@@ -101559,10 +101559,10 @@ paksuja
    </META>
    <TEXT>
    <CPT>Jäniksen luku.</CPT>
-   <V>Mie se laita la&#331;kojai,</V>
+   <V>Mie se laita la¤#331;kojai,</V>
    <V>Virittele vipujai.</V>
    <V>Pupu poika, jänis poika,</V>
-   <V>Tule minu la&#331;kohei!</V>
+   <V>Tule minu la¤#331;kohei!</V>
    </TEXT>
    </ITEM>
    
@@ -101644,11 +101644,11 @@ paksuja
    <TEXT>
    <CPT>Jän&#769;iksele:</CPT>
    <V>Ju&#183;o&#815;ksettelej jo&#183;u&#815;vuttelev</V>
-   <V>Vi&#183;telästiv vi&#772;&#183;v&#252;ttelem</V>
+   <V>Vi&#183;telästiv vi&#772;&#183;vu&#776;ttelem</V>
    <V>Mä&#183;e&#815; alat to&#183;e&#815;sem po&#183;e&#815;kki</V>
    <V>Ko&#183;lomannev vähäv vi&#183;tto&#772;n</V>
-   <V>5 No&#183;stak k&#252;&#183;ns
-        k&#252;&#183;nn&#252;kseles</V>
+   <V>5 No&#183;stak ku&#776;&#183;ns
+        ku&#776;&#183;nnu&#776;kseles</V>
    <V>Su&#183;tka&#772;t tu&#183;ppa&#772;.</V>
    </TEXT>
    </ITEM>
@@ -101669,9 +101669,9 @@ paksuja
    <CPT>Jänislangat.</CPT>
    <L>Jänislankoja mehtääl laittaissaam mehtämiehet loihtivat:</L>
    <V>Metä hippa halliparta,</V>
-   <V>Metä&#331; kultane&#331; kuningas,</V>
+   <V>Metä¤#331; kultane¤#331; kuningas,</V>
    <V>Laskev vilja vallollee,</V>
-   <V>Entisile&#331; kannollee!</V>
+   <V>Entisile¤#331; kannollee!</V>
    </TEXT>
    </ITEM>
    
@@ -102191,8 +102191,8 @@ paksuja
    kiinni. Sitten työnnettiin keppi "kusijaespesän" läpi ja vietiin lopuksi 
                         "juoksovaav
    vetteen" sekä sanottiin:</L>
-   <V>Puistako&#772;n_ni&#772;&#331;_kum_puista&#772; tätä keppijä,</V>
-   <V>ni&#331;_kul_lintuva puisti!</V>
+   <V>Puistako&#772;n_ni&#772;¤#331;_kum_puista&#772; tätä keppijä,</V>
+   <V>ni¤#331;_kul_lintuva puisti!</V>
    <L>Silloin "alako varasta puistattoo ja käet täris, ettee voenu mihinkään 
                         tarttuva, ja
    mon&#769; kuol' siihe'".</L>
@@ -102339,9 +102339,9 @@ paksuja
    </INF>
    </META>
    <TEXT>
-   <CPT>Ku&#331; kalampyytöjä kevveelä pantiij järveen,</CPT>
+   <CPT>Ku¤#331; kalampyytöjä kevveelä pantiij järveen,</CPT>
    <L>niin sylästii suusta leivämmuruja ja suoloja järveej_ja sauttii:</L>
-   <V>Nii sulava ves&#780;&#769; antamaa&#331;,</V>
+   <V>Nii sulava ves&#780;&#769; antamaa¤#331;,</V>
    <V>Kun nuo suolat ja leipä sulamaa!</V>
    </TEXT>
    </ITEM>
@@ -102474,7 +102474,7 @@ paksuja
    <TEXT>
    <CPT>Onkiluku.</CPT>
    <V>Ahve arka, perse märkä,</V>
-   <V>Tule miu o&#331;kijai ottamoa!</V>
+   <V>Tule miu o¤#331;kijai ottamoa!</V>
    </TEXT>
    </ITEM>
    
@@ -102534,7 +102534,7 @@ paksuja
    </META>
    <TEXT>
    <CPT>Onkeen sylkäistiin ja luettiin:</CPT>
-   <V>Tuleppas o&#331;kija ottamoa,</V>
+   <V>Tuleppas o¤#331;kija ottamoa,</V>
    <V>Rautakoukkuva nielemeä!</V>
    </TEXT>
    </ITEM>
@@ -102574,7 +102574,7 @@ paksuja
    <TEXT>
    <CPT>Onkiluku.</CPT>
    <V>Ahve arka, perse märkä,</V>
-   <V>Tule o&#331;kie ottamoa,</V>
+   <V>Tule o¤#331;kie ottamoa,</V>
    <V>Väkärautoa veäntämeä,</V>
    <V>Kipurautoa kiskemeä!</V>
    </TEXT>
@@ -102747,12 +102747,12 @@ paksuja
    <TEXT>
    <CPT>Loehtu. Ahvenele:</CPT>
    <V>Ahve a&#183;e&#815;nova /pro ae&#815;nuva/ kala</V>
-   <V>Tule' o&#183;&#331;ke&#772; o&#183;ttama&#772;v</V>
+   <V>Tule' o&#183;¤#331;ke&#772; o&#183;ttama&#772;v</V>
    <V>Vä&#183;kärao&#815;to&#772; 
-vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
+vi&#183;a&#771;&#815;ntäm&#768;ä&#772;¤#331;</V>
    <V>Ko&#183;u&#815;kkuva ko&#183;vertamma&#772;n</V>
-   <V>5 Tu&#183;les s&#252;&#183;västä
-      s&#252;&#183;kk&#252;rästä</V>
+   <V>5 Tu&#183;les su&#776;&#183;västä
+      su&#776;&#183;kku&#776;rästä</V>
    <V>Ha&#183;vo alta ha&#183;r&#769;jakas.</V>
    </TEXT>
    </ITEM>
@@ -102936,9 +102936,9 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    </META>
    <TEXT>
    <CPT>Onkeen sylkäistiin:</CPT>
-   <V>Ota o&#331;kii ja niele neuloa,</V>
+   <V>Ota o¤#331;kii ja niele neuloa,</V>
    <V>Tuo tumpsast ja veä vämpsäst,</V>
-   <V>Hauvi hoapaka&#331;koalt!</V>
+   <V>Hauvi hoapaka¤#331;koalt!</V>
    </TEXT>
    </ITEM>
    
@@ -102956,7 +102956,7 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    </META>
    <TEXT>
    <CPT>Onkiminen.</CPT>
-   <L>Onki pujotettii&#331; kerra&#331; kummanniir reijjen tauhte
+   <L>Onki pujotettii¤#331; kerra¤#331; kummanniir reijjen tauhte
     huarohev 
                         välistä
    etteempäij ja loihittii:</L>
@@ -103081,7 +103081,7 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    <TEXT>
    <V>Anna, akka, ahvenija,</V>
    <V>Pekka, pienijä kaloja,</V>
-   <V>Heikki, hevose&#331; kokosija,</V>
+   <V>Heikki, hevose¤#331; kokosija,</V>
    <V>Jussi, julumasuurija!</V>
    </TEXT>
    </ITEM>
@@ -103101,7 +103101,7 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    <TEXT>
    <V>Anna, Antti, ahvenija,</V>
    <V>Pekka, pienijä kaloja,</V>
-   <V>Heikki, hevose&#331; kokosija,</V>
+   <V>Heikki, hevose¤#331; kokosija,</V>
    <V>Jussi, yhäj julomempija!</V>
    </TEXT>
    </ITEM>
@@ -103189,7 +103189,7 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    <CPT>Onkiluku.</CPT>
    <V>Anna, Antti, ahvenija,</V>
    <V>Pekka, pienijä kaloja,</V>
-   <V>Heikki, hevose&#331;kokosija,</V>
+   <V>Heikki, hevose¤#331;kokosija,</V>
    <V>Jussi, vielä julumempija!</V>
    </TEXT>
    </ITEM>
@@ -104842,7 +104842,7 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
                       Ja 
                         ulos laskiissa
    yks piika viskas&#769; lehmilev vettä selekääj ja sano:</L>
-   <V>Mehtää syömää&#331;,</V>
+   <V>Mehtää syömää¤#331;,</V>
    <V>Kottiim makkoomaa!</V>
    <L>Naveta ove yläpuolela ol' vielä miehe housut ja viikate.</L>
    <L>Mehästä tultuu annettiil lehmilej juomista, mihim pantiil laskiisrokar
@@ -104867,12 +104867,12 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    <L>niim pit' sitä varte salloo suahat toisesta talosta uunluuta ja sillä 
                         pyyhkiil lehmii
    selekee, vanhimmal lehmä ensiks ja loihtii:</L>
-   <V>Metä&#331; kuulusa kuningas,</V>
-   <V>Kun sinä kuulet karja&#331; kellon,</V>
+   <V>Metä¤#331; kuulusa kuningas,</V>
+   <V>Kun sinä kuulet karja¤#331; kellon,</V>
    <V>Tahip paimentem parinan,</V>
-   <V>Nii alak korpehe&#331; kokkee,</V>
+   <V>Nii alak korpehe¤#331; kokkee,</V>
    <V>5 Mänem muatam mättähääle,</V>
-   <V>Sielä o&#331; kellot kuulusammat,</V>
+   <V>Sielä o¤#331; kellot kuulusammat,</V>
    <V>Sielä om paimenet paremmat,</V>
    <V>Siel' ol lehmät leppeämmät.</V>
    </TEXT>
@@ -105314,11 +105314,11 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    </INF>
    </META>
    <TEXT>
-   <L>Ku lehmät männö&#772; kui&#815;i&#815;o&#772; m&#252;ötem_
+   <L>Ku lehmät männö&#772; kui&#815;i&#815;o&#772; mu&#776;ötem_
       mehtä&#772;
               päe,
                   ni
-   pittä&#772; männä raotlapio&#331;_kansa i&#815;a heitte&#772;n_ni&#772;tä 
+   pittä&#772; männä raotlapio¤#331;_kansa i&#815;a heitte&#772;n_ni&#772;tä 
                         i&#815;äläkiä
    kotti&#815; päe i&#815;a sanno&#772;, että:</L>
    <V>Muistoe lehmät kotti&#772; tulla!</V>
@@ -105475,8 +105475,8 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    </META>
    <TEXT>
    <CPT>Metsän lukkoaminen.</CPT>
-   <L>Sem polu&#331; kahem puolem, mistä karja om männym mehtääm,
-   pannaa&#331; kolomesta kohasta puul latvat toisiisak kiini. Ne pittää 
+   <L>Sem polu¤#331; kahem puolem, mistä karja om männym mehtääm,
+   pannaa¤#331; kolomesta kohasta puul latvat toisiisak kiini. Ne pittää 
                       sittoo 
                         mustala
    ja punasela langala ja vettämättömälä rihmala. Ja pittää kirotaj ja hypätät
@@ -105900,8 +105900,8 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    </META>
    <TEXT>
    <CPT>Jos lehmä kesken ehtyy.</CPT>
-   <L>Emäntä tekkö&#772; leskentuohesta liuhan i&#815;a l&#252;psä&#772;
-   si&#772;he&#331;_kolomesta tissistä kolomastev_vihkimäsormuksel_läpi
+   <L>Emäntä tekkö&#772; leskentuohesta liuhan i&#815;a lu&#776;psä&#772;
+   si&#772;he¤#331;_kolomesta tissistä kolomastev_vihkimäsormuksel_läpi
           i&#815;a
    anta&#772; sittä lehmälle i&#815;a panno&#772; korva&#772;sa, sitä antaessa
    loeheta&#772;n:</L>
@@ -105911,7 +105911,7 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    <V>Pi&#772;mäs&#769; pitäi&#815;ä&#772;ltä!</V>
    <L>Sittä se koata&#772; liuhasta lehmän selekä&#772;n, 
                       kolomastiv_vetelö&#772;,
-   l&#252;ö kovasti i&#815;a sanno&#772;:</L>
+   lu&#776;ö kovasti i&#815;a sanno&#772;:</L>
    <V>Ei maeto manallei&#815;_ioo&#772;va</V>
    <V>Eikä pi&#772;mä pitäi&#815;ä&#772;lle!</V>
    </TEXT>
@@ -106446,16 +106446,16 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    pellov verräälä, kul lehmän toiset jalat olivat toisela ja toiset jalat 
                         toisela puolela
    veräjee, pit' painoom muasta otetula kivelä lehmee rintalastaaj ja vasemma
-   etujala&#331; kynttä kolomela kivelä ja pannan ne siittem paikalleej ja 
+   etujala¤#331; kynttä kolomela kivelä ja pannan ne siittem paikalleej ja 
                         sannuu:</L>
-   <V>Olokuun tämä mua nii&#331; kylömä, ku on tämä kivi kylömä!</V>
+   <V>Olokuun tämä mua nii¤#331; kylömä, ku on tämä kivi kylömä!</V>
    <L>Ja veräjältä lähettyy pit' pyöräytteek kolome kertoo lehmee
     myötäpäivääj 
                       
                       
                       
                         ja
-   siitte&#331; kotona pit' emännä sylistää syötteel leivämmuruja lehmälej ja 
+   siitte¤#331; kotona pit' emännä sylistää syötteel leivämmuruja lehmälej ja 
                       ne 
                         nutun
    taskuu entisestä navetasta pannut rikat pit' antool lehmälev vielä, nii 
@@ -106736,9 +106736,9 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    </INF>
    </META>
    <TEXT>
-   <CPT>Ku syksylä lehmät pantii&#331; kiinin</CPT>
+   <CPT>Ku syksylä lehmät pantii¤#331; kiinin</CPT>
    <L>nii olet katkottiij ja pantii hangola etteej ja sauttiij, jotta</L>
-   <V>Syökee olokii nii&#331;ku hankoi!</V>
+   <V>Syökee olokii nii¤#331;ku hankoi!</V>
    <L>Kun oli vähän heiniä, niin toivottiin että lehmät söisivät hyvällä 
                         ruokahalulla
    olkia.</L>
@@ -107047,8 +107047,8 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    </INF>
    </META>
    <TEXT>
-   <L>Köyrkeitol luita viskattii uunim piälej ja sauttii&#331;:</L>
-   <V>Kipeti&#331; kapetil lampaita!</V>
+   <L>Köyrkeitol luita viskattii uunim piälej ja sauttii¤#331;:</L>
+   <V>Kipeti¤#331; kapetil lampaita!</V>
    <L>Sen piti parantaa "lammaslykkyä".</L>
    </TEXT>
    </ITEM>
@@ -107420,13 +107420,13 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    <TEXT>
    <CPT>Paran synnytys.</CPT>
    <L>Ku emännät tekivät parroo, niin ne heiluttivat jauhoseuloo,
-    nii&#331;ku 
+    nii¤#331;ku 
                         oisivat
    seuloneet ja sanovat:</L>
    <V>Synnyp para, synnyp para,</V>
    <V>Eipä se para synnykkää:</V>
    <V>Kuka siel' on näkemässä,</V>
-   <V>Kettee siel' o&#331; keksimässä?</V>
+   <V>Kettee siel' o¤#331; keksimässä?</V>
    <L>Ol' niät sellane usko, jottei para syntynä, jos johhii ol' salloo 
                         kahtomassa.</L>
    </TEXT>
@@ -108147,7 +108147,7 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    </META>
    <TEXT>
    <CPT>Kasken kaadanta.</CPT>
-   <L>Ku&#331; kaskehakkuuser ruvetessa ol' ensimäinen puu kuavettu, nii 
+   <L>Ku¤#331; kaskehakkuuser ruvetessa ol' ensimäinen puu kuavettu, nii 
                         sauttii:</L>
    <V>Sinne ast kaski kuatukooj,</V>
    <V>Jonneh huuto kuulunoo!</V>
@@ -108297,7 +108297,7 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    <V>Ves&#769; valavokuun,</V>
    <V>Tul' muatkoom!</V>
    <V>Mie ossoon tulel lumojak,</V>
-   <V>Kipunaise&#331; kiinnittee.</V>
+   <V>Kipunaise¤#331; kiinnittee.</V>
    </TEXT>
    </ITEM>
    
@@ -109343,7 +109343,7 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    </META>
    <TEXT>
    <CPT>Laskiaislaulu mäkeä laskettaessa:</CPT>
-   <V>Hienoja pitkijä silki&#331;karvoja,</V>
+   <V>Hienoja pitkijä silki¤#331;karvoja,</V>
    <V>Nulppuja, nalppuja nuapurii!</V>
    </TEXT>
    </ITEM>
@@ -109651,7 +109651,7 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    <V>Liko liinoja,</V>
    <V>Pijo pitkijä pellavija!</V>
    <L>Laskiisiltana ei suana tulta tehhä ensinkääv vuam pit' männä aikaseem
-   makkoomaaj jotta lehmät tulivat kesälä aikasee&#331; kottii.</L>
+   makkoomaaj jotta lehmät tulivat kesälä aikasee¤#331; kottii.</L>
    </TEXT>
    </ITEM>
    
@@ -109839,7 +109839,7 @@ vi&#183;&#227;&#815;ntäm&#768;ä&#772;&#331;</V>
    <CPT>Luku pilvelle sateen uhatessa.</CPT>
    <V>Mäne pilvi Pietulaa,</V>
    <V>Siellä vettä tarvitaa,</V>
-   <V>Siel o&#331;_kaivot kuivaneet,</V>
+   <V>Siel o¤#331;_kaivot kuivaneet,</V>
    <V>Lähteet läkähtynneet,</V>
    <V>5 Siel on_lapset ristimätä,</V>
    <V>Kastamata kaikkityynni.</V>
@@ -111046,7 +111046,7 @@ asussaan. Lisäselitykset
   <V>Puhuttelin, Lausuttelin:</V>
   <V>Onko teillä Neittä myyä,</V>
   <V>85 Tahi kaupitak Kanaista?</V>
-  <V>Tupa oli tä&#252;nä Tuppi-Suita,</V>
+  <V>Tupa oli täu&#776;nä Tuppi-Suita,</V>
   <V>Lattia Luta-Nenia,</V>
   <V>Perä-penkki Pierioita.</V>
   <V>Tuotiin mettä kannun kansa,</V>
@@ -111071,7 +111071,7 @@ asussaan. Lisäselitykset
   <V>Muut naiwat soriat Piijat;</V>
   <V>Mulle herjä heitettiini,</V>
   <V>110 Kieerosilmä kenkättiini;</V>
-  <V>Lö&#252;sin Neitosen lehossa,</V>
+  <V>Löu&#776;sin Neitosen lehossa,</V>
   <V>Mustakulman koiwukossa,</V>
   <V>Hienohelman heinikossa;</V>
   <V>Jonk' ol' sormet sormuxissa,</V>
@@ -111117,11 +111117,11 @@ asussaan. Lisäselitykset
   <V>Naitihin paraimmat Piijat</V>
   <V>Kirkkahimmat kihlatiini;</V>
   <V>5 Mitäs mun polojsen Pojan</V>
-  <V>Tä&#252;ty muihiin ruweta -</V>
-  <V>Käsin kä&#252;wwä tähtehini.#1</V>
+  <V>Täu&#776;ty muihiin ruweta -</V>
+  <V>Käsin käu&#776;wwä tähtehini.#1</V>
   <V>Sajnpa suolta Suo-Warixen,</V>
   <V>Aijalta Ajo-Harakan;#2</V>
-  <V>10 Lö&#252;sin tieltä Terwas-kannon,</V>
+  <V>10 Löu&#776;sin tieltä Terwas-kannon,</V>
   <V>Leppä-pökkälön lehosta;</V>
   <V>Leppä puhuu Leppymista,</V>
   <V>Paju puhuu Pajnumista,</V>
@@ -111173,13 +111173,13 @@ asussaan. Lisäselitykset
   <V>Kuka kurjoa suwannut;</V>
   <V>Kuin ei kazo Neijot Nuoret,</V>
   <V>Neijot nuoret ja soriat;</V>
-  <V>5 Kuin hyö kä&#252;wwät, kanta wälkky,</V>
+  <V>5 Kuin hyö käu&#776;wwät, kanta wälkky,</V>
   <V>Kuin hyö seiso, seinä paisto,</V>
   <V>Kuin hyö istu, muaa iloizi.</V>
   <V>Teräxestä kenkät tehty,</V>
   <V>Naulat waskesta waletut.</V>
-  <V>10Tirti lirti tenkan lö&#252;sin,</V>
-  <V>Lö&#252;sin uuwen, lö&#252;sin wanhan;</V>
+  <V>10Tirti lirti tenkan löu&#776;sin,</V>
+  <V>Löu&#776;sin uuwen, löu&#776;sin wanhan;</V>
   <V>Wanhan annoin waiwasille,</V>
   <V>Uuwella Orihin ostin;</V>
   <V>Orihilla Tamman vaihoin,</V>
@@ -111199,7 +111199,7 @@ asussaan. Lisäselitykset
   <V>Enämp' on minulla huolta</V>
   <V>Hiekkoja hywällä tiellä,</V>
   <V>30 Pajuja pahalla muaalla</V>
-  <V>Ej lö&#252;wwy sitä hewoista.</V>
+  <V>Ej löu&#776;wwy sitä hewoista.</V>
   <V>Joka mun huoleni wetäisi;</V>
   <V>Wiijen linnan Wiipurissa,</V>
   <V>Kuuwen linnan kuuluwissa;</V>
@@ -111351,13 +111351,13 @@ asussaan. Lisäselitykset
   <V>10 Hio kulta-kirwehese,</V>
   <V>Hopiaisen tapparansa</V>
   <V>Alko astua aholle,</V>
-  <V>Lepikolle lö&#252;hytellä;</V>
+  <V>Lepikolle löu&#776;hytellä;</V>
   <V>Teki wiwun wiisahasti,</V>
   <V>15 Lankahansa aimollisen.</V>
   <V>Käwi kohta kahtomaani,</V>
   <V>Yön takoa kahen, kolmen,</V>
   <V>Wiikkokauwwen wiimestäni.</V>
-  <V>Jop' ol' Kissa kiini kä&#252;ny,</V>
+  <V>Jop' ol' Kissa kiini käu&#776;ny,</V>
   <V>20 Hätä Näätäni näpisti.</V>
   <V>Sujahutti sunsahase,</V>
   <V>Eli laski laukkuhuse;</V>
@@ -111540,7 +111540,7 @@ mehteen
   <V>Eikä Hattua kahesta.</V>
   <V>Lepy mehtä, kostu korpi,</V>
   <V>55 Ihastu Jumalten ilma,</V>
-  <V>Minun metällä kä&#252;wwessäini;</V>
+  <V>Minun metällä käu&#776;wwessäini;</V>
   <V>Mesän Ukko Halliparta</V>
   <V>Mesän Kultainen Kuninkas!</V>
   <V>Awaelle aittojasi,</V>
@@ -111554,12 +111554,12 @@ mehteen
   <V>Tämän poiani poloisen</V>
   <V>Miehen Uron askelia!</V>
   <V>Äsken siitte Ukko lienet</V>
-  <V>70 Kuinsa mulle merkin nä&#252;tät</V>
+  <V>70 Kuinsa mulle merkin näu&#776;tät</V>
   <V>Salon sintäwän sisältä,</V>
   <V>Kummun kultaisen nawalta.</V>
   <V>Juoxe Wimpura wipuini!</V>
   <V>Juoxe Kantura kahaini!</V>
-  <V>75 Py&#252;räsilmä pyywyxeini!</V>
+  <V>75 Pyu&#776;räsilmä pyywyxeini!</V>
   <V>Muihin pyywyxen siwuhten,</V>
   <V>Muihin ansion alaten.</V>
   </TEXT>
@@ -111620,7 +111620,7 @@ mehteen
   <V>Syökön Susi kylän Sikoja,</V>
   <V>Tallukkoita tappakooni!</V>
   <V>20Akat suaatanat sanoowat</V>
-  <V>Ämmät ä&#252;kywät ähärttää,</V>
+  <V>Ämmät äu&#776;kywät ähärttää,</V>
   <V>Josma ruttona olisin</V>
   <V>Ampuisin akat kylässä,</V>
   <V>Koukuleuwat kopristaisin.</V>
@@ -111676,7 +111676,7 @@ mehteen
   <V>Isänät Sian lihoja</V>
   <V>75 Pojat tuoreita kaloja,</V>
   <V>Piijat olta kellarista.</V>
-  <V>Miss' Isänät&#331; kuss' Emänät?</V>
+  <V>Miss' Isänät¤#331; kuss' Emänät?</V>
   <V>Käll' on kellarin awaimmet?</V>
   <V>Niin mä tansin tanhualle</V>
   <V>80 Keikun kellarin perässä,</V>
@@ -111717,7 +111717,7 @@ mehteen
   <V>"Siel' on arkku arkun piäällä,</V>
   <V>"Pane piääläisi parasta!</V>
   <V>20 "Nuo Sulhot sua kysyypi:</V>
-  <V>"Kännen Tyttö&#331; kännen Neito?</V>
+  <V>"Kännen Tyttö¤#331; kännen Neito?</V>
   <V>"Kännen Morsia mokoma?</V>
   <V>"Jospa me mokoman saisi!</V>
   <V>"Kuin sä käwi kanta wälkky,</V>
@@ -111744,11 +111744,11 @@ mehteen
   <V>Hälkyttele hietarinta,</V>
   <V>Papurinta paukuttele</V>
   <V>Saxan mansikka sanele:</V>
-  <V>5 Kä&#252;nkö minä wiikon willa-piäänä,</V>
+  <V>5 Käu&#776;nkö minä wiikon willa-piäänä,</V>
   <V>Kauwan karwa-kassikkana?</V>
-  <V>Kä&#252;nkö wuuen tahi kaxi.</V>
-  <V>Waan kä&#252;n kaikehen ikääni?</V>
-  <V>Tahik' ej tä&#252;ttä tätä wuotta?#1</V>
+  <V>Käu&#776;nkö wuuen tahi kaxi.</V>
+  <V>Waan käu&#776;n kaikehen ikääni?</V>
+  <V>Tahik' ej täu&#776;ttä tätä wuotta?#1</V>
   <V>10Tuo Jumala tuota miestä</V>
   <V>Jonka sormuxet sopisi,</V>
   <V>Rinta-ristit kelpoaisi</V>
@@ -111756,7 +111756,7 @@ mehteen
   <V>Ällös tuhma tullekkohon</V>
   <V>15 Kewy-kanta keikuttohok;</V>
   <V>Kuin ei tullek tuuhiammat</V>
-  <V>Koriammat kohti kä&#252;nek,</V>
+  <V>Koriammat kohti käu&#776;nek,</V>
   <V>En minä sinä ikänä</V>
   <V>Kuunna kullan päiwinääni,</V>
   <V>20 Nuku nurjuxen nutulle</V>
@@ -111773,7 +111773,7 @@ mehteen
   <V>Tuollen kättä käppäjäisin</V>
   <V>Jos ois kiäärme kämmen piäässä,</V>
   <V>Tuonen wiereni menisin</V>
-  <V>Jos ois wierus wertta tä&#252;si.</V>
+  <V>Jos ois wierus wertta täu&#776;si.</V>
   <V>35 Tie Jumala purje tuulta</V>
   <V>Eli ratki raswa tyyntä,</V>
   <V>Ettei tuon Poloisen Pojan</V>
@@ -111897,7 +111897,7 @@ Svenska öfversatt
   <V>Allaalla on Allin mieli</V>
   <V>Uijessa wilua wettä,</V>
   <V>Alempana Armottoman</V>
-  <V>Kä&#252;wessä kylän wäliä.</V>
+  <V>Käu&#776;wessä kylän wäliä.</V>
   <V>45Niin on niin minun Emoini,</V>
   <V>Kaswatit Kanoja paljon</V>
   <V>Koko joukko Jouhtenia!</V>
@@ -111975,11 +111975,11 @@ Svenska öfversatt
   <V>Tuotiin Kurki Tuomarixi,</V>
   <V>Laklat* lautamiehehixi;</V>
   <V>Kurki kurkunsa ojensi</V>
-  <V>15 Yli pö&#252;wän sanomaani:</V>
+  <V>15 Yli pöu&#776;wän sanomaani:</V>
   <V>"Ei warasta hywäxi tehtä;</V>
   <V>"Tahi korwat karsittaani</V>
   <V>"Tahi piäätä leikattaani!"</V>
-  <V>Piääsky lausu pö&#252;wän piäästä:</V>
+  <V>Piääsky lausu pöu&#776;wän piäästä:</V>
   <V>20 "Waraspa olet itäk'kin,</V>
   <V>"Otat otria osaisi</V>
   <V>"Tattaria tarpeheixi,</V>
@@ -112156,7 +112156,7 @@ häraf. -
   <V>15 Lehto mulle sauwan anto,</V>
   <V>Sauwa minun tielle suaatto</V>
   <V>Tie minun talooni wei;</V>
-  <V>Lö&#252;sin Emännän leipomasta</V>
+  <V>Löu&#776;sin Emännän leipomasta</V>
   <V>Tyttären taputtamasta.</V>
   <V>20"Emäntäini, muoriseini,</V>
   <V>Tie minulle kakkarainen,</V>
@@ -112176,7 +112176,7 @@ häraf. -
   <V>35 Kokko mulle siipiensa,</V>
   <V>Siipiensa sulkinensa</V>
   <V>(Kaiki kannuns-jalkonensa)</V>
-  <V>Jolla lensin lö&#252;hyttelin</V>
+  <V>Jolla lensin löu&#776;hyttelin</V>
   <V>Yhexen meren ylite</V>
   <V>40 Meren puolta kymmenetta.</V>
   <V>Kahen kaupunin lewiten,</V>
@@ -112195,9 +112195,9 @@ häraf. -
   <V>Kiukkuwa meren kiwistä</V>
   <V>55 Laki Lahnan suomuxesta.</V>
   <V>Silta silkilla silottu</V>
-  <V>Pö&#252;ta kullasta kuwattu,</V>
+  <V>Pöu&#776;ta kullasta kuwattu,</V>
   <V>Rahi rauwasta rakettu.</V>
-  <V>Onnen Kukko pö&#252;wän piässä</V>
+  <V>Onnen Kukko pöu&#776;wän piässä</V>
   <V>60 Joka lattia lakasi</V>
   <V>Sinisexi siiwillensa</V>
   <V>Punaisixi purstollansa.</V>
@@ -112366,7 +112366,7 @@ häraf. -
   <V>Juoskoon kullaissa käränä,</V>
   <V>Hopiaissa sykkyränä,</V>
   <V>Tuo tulla tuuhattelloo!</V>
-  <V>Jok' on jä&#252;kä juoxulleen</V>
+  <V>Jok' on jäu&#776;kä juoxulleen</V>
   <V>50 Sitä wirkiste wisalla,</V>
   <V>Kaikota kari-perälla,</V>
   <V>Että witsa winkaisoopi</V>
@@ -113205,7 +113205,7 @@ häraf. -
   </TEXT>
   <REFS>
   #1 lue: Läsnä.
-  #2 Saksaksi: Trugen sie vollharte Br&#252;ste; 'paruja' ilmeisesti: paxuja. - 
+  #2 Saksaksi: Trugen sie vollharte Bru&#776;ste; 'paruja' ilmeisesti: paxuja. - 
 
 
 
@@ -114480,7 +114480,7 @@ Anmerkungen.
   <V>15 Ejkä pyörrä pojan waimo.</V>
   </TEXT>
   <REFS>
-  #1 Käännetty: Schwirrend nicht der Buckelr&#252;ck'ge.
+  #1 Käännetty: Schwirrend nicht der Buckelru&#776;ck'ge.
   </REFS>
   </ITEM>
   
