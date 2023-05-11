@@ -111083,7 +111083,7 @@ jot
  <V>Alimmaisehen talohon.</V>
  <V>Kysy kynnyksen takoa.</V>
  <V>20 Anu alta ikkunoijen:</V>
- <V>"O¤#331;ko tässä talossa</V>
+ <V>"O&#331;ko tässä talossa</V>
  <V>Tämän tulvan tukkijaa,</V>
  <V>Uron tuskan tunt'ijaa,</V>
  <V>Salpoajaa ver&#769;isatijen ?"</V>
@@ -111098,7 +111098,7 @@ jot
  <V>Alimmaisehen talohon,</V>
  <V>Kysy kynnyksen takoa,</V>
  <V>Anu alta ikkunoijen:</V>
- <V>35 "O¤#331;ko tässä talossa,</V>
+ <V>35 "O&#331;ko tässä talossa,</V>
  <V>Tämän tulvan tukkijaa,</V>
  <V>Uron tuskan tuntijaa,</V>
  <V>Salpoajaa verisatijen!"</V>
@@ -111117,7 +111117,7 @@ jot
  <V>Uron tuskan tuntijaa,</V>
  <V>Salpoajaa verisatijen ?"</V>
  <V>Ukko uunilta puhu,</V>
- <V>Partavaari pa¤#331;kon peästä:</V>
+ <V>Partavaari pa&#331;kon peästä:</V>
  <V>55 "Ei ole talossa tässä</V>
  <V>Tämän tulvan tukkijaa,</V>
  <V>Uron tuskan tuntijaa,</V>
@@ -111144,7 +111144,7 @@ jot
  <V>Keärmeheksi keännältäyty (l. keänteliy).</V>
  <L>Heä siit</L>
  <V>Sieltä sai sata sanuo,</V>
- <V>Tuhat muuta mu¤#331;kerrosta.</V>
+ <V>Tuhat muuta mu&#331;kerrosta.</V>
  <L>Siitä sai terveheksi.</L>
  </TEXT>
  </ITEM>
@@ -111392,8 +111392,8 @@ jot
  <V>Vanhat sousit, peä vapisi.</V>
  <V>Pan&#769;i nuoret soutamahan,</V>
  <V>45 Nuoret souti, airot notku,</V>
- <V>Airon pyyryt pyinä vi¤#331;ku,</V>
- <V>Ha¤#331;kat hanhina haserti,</V>
+ <V>Airon pyyryt pyinä vi&#331;ku,</V>
+ <V>Ha&#331;kat hanhina haserti,</V>
  <V>Nenä joiku jouts&#780;en&#769;ina,</V>
  <V>Teljot tetrinä kukerti,</V>
  <V>50 Perä korsku koarnehena.</V>
@@ -111401,12 +111401,12 @@ jot
  <V>Päivän souti suovesiä,</V>
  <V>Toisen päivän moavesiä,</V>
  <V>Kolmannen venovesiä.</V>
- <V>Siitä vasta rupes o¤#331;kimah.</V>
- <V>55 O¤#331;ki päivän, o¤#331;ki toisen,</V>
+ <V>Siitä vasta rupes o&#331;kimah.</V>
+ <V>55 O&#331;ki päivän, o&#331;ki toisen,</V>
  <V>Jo päivänä kolmantena</V>
  <V>Sil'iäni siima siuku,</V>
  <V>Vapa vaskin&#769;i vapisi</V>
- <V>O¤#331;kiessa Väinämöisen.</V>
+ <V>O&#331;kiessa Väinämöisen.</V>
  <V>60 Veteli venoseheh,</V>
  <V>Talu talkapohjahas,</V>
  <V>Kats&#780;elovi, keäntelövi,</V>
@@ -111650,7 +111650,7 @@ jot
  <V>"Kuule sie, seppo veikkosen&#769;i,</V>
  <V>Takoja ijänikun&#769;i,</V>
  <V>50 Tavotko mulle viijet vitjat,</V>
- <V>Kuuet kultare¤#331;kahaiset,</V>
+ <V>Kuuet kultare&#331;kahaiset,</V>
  <V>Mie sanon hyvät sanomat?</V>
  <V>Män&#769;i vanha Väinämöin&#769;i,</V>
  <V>Nyt se viepi kosjottusi,</V>
@@ -112715,7 +112715,7 @@ takaperin
  </INF>
  </META>
  <TEXT>
- <V>Oli lieto Lemmi¤#331;käin&#769;i,#1</V>
+ <V>Oli lieto Lemmi&#331;käin&#769;i,#1</V>
  <V>Kynti hän kivisen pellon,</V>
  <V>Moan mujusen mullostel'i</V>
  <V>Oatralla tuliterällä,</V>
@@ -112726,27 +112726,27 @@ takaperin
  <V>Suur' ois' paimenen tuleksi,</V>
  <V>10 Pieni ois' soan savuksi,</V>
  <V>Nyt on Päivölä pi<SUP>v</SUP>ossa,</V>
- <V>Salajoukko juomi¤#331;keissa.#3</V>
- <V>Siitä lieto Lemmi¤#331;käin&#769;i#1</V>
+ <V>Salajoukko juomi&#331;keissa.#3</V>
+ <V>Siitä lieto Lemmi&#331;käin&#769;i#1</V>
  <V>Sanoo moamollansa:</V>
  <V>15 "Nyt on Päivölä pi<SUP>v</SUP>ossa,</V>
- <V>Salajoukko juomi¤#331;keissa.</V>
+ <V>Salajoukko juomi&#331;keissa.</V>
  <V>Mie lähen Päivölän pitohon,</V>
- <V>Salajoukon juomi¤#331;kihin.</V>
+ <V>Salajoukon juomi&#331;kihin.</V>
  <V>Oi emoin&#769;i, vanhempan&#769;i,</V>
  <V>20 Kuu<SUP>v</SUP>enkymmenen kesoin&#769;i,</V>
  <V>Sa'an vuuen vanhukain&#769;i,</V>
  <V>Tuo varsin (l. vaimo) voatteheni,</V>
  <V>Lähen Päivölän pitohon,</V>
- <V>Salajoukon juomi¤#331;keihin."</V>
+ <V>Salajoukon juomi&#331;keihin."</V>
  <L>Siitä</L>
  <V>25 Vaimo kieltää, iso käsköö:</V>
  <V>"Elä lähe, poikuon&#769;i,</V>
  <V>Tuonne Päivölän pitohon,</V>
- <V>Salajoukon juomi¤#331;keihin.</V>
+ <V>Salajoukon juomi&#331;keihin.</V>
  <V>Mont' on surmoa siun matalla."</V>
  <V>30 "Oi emoin&#769;i, vanhempan&#769;i,</V>
- <V>Kuue¤#331;kymmenen kesoin&#769;i,</V>
+ <V>Kuue&#331;kymmenen kesoin&#769;i,</V>
  <V>Sa'an vuuen vanhukain&#769;i,</V>
  <V>Sano sie surma ensimmäin&#769;i."</V>
  <V>"Se on surma ensimmäin&#769;i,</V>
@@ -112757,7 +112757,7 @@ takaperin
  <V>Rinnoin istuvi itähän;</V>
  <V>40 Kohin päivän koittije'e.</V>
  <V>Siinä hän#4 hammasta hivoo</V>
- <V>Lemmi¤#331;käisen peän varalla."</V>
+ <V>Lemmi&#331;käisen peän varalla."</V>
  <V>"Ei ole ne surmat miesten surmat,</V>
  <V>Se on surma lasten surma.</V>
  <V>45 Laulan leppäsen venehen,</V>
@@ -112766,12 +112766,12 @@ takaperin
  <V>Leppäsen ämmän soutamah,</V>
  <V>Ic&#780;e istuvun keselle,</V>
  <V>50 Kuusen oksakset kyhälle,</V>
- <V>Hoavan oksat hä¤#331;kkyröille.</V>
+ <V>Hoavan oksat hä&#331;kkyröille.</V>
  <V>Sen kokko koppoaapi,</V>
  <V>Havulintu haamuaapi,</V>
  <V>Sillä sen rovan vajellan.</V>
  <V>55 Oi emoin&#769;i, vanhempani,</V>
- <V>Kuue¤#331;kymmenen kesoin&#769;i,</V>
+ <V>Kuue&#331;kymmenen kesoin&#769;i,</V>
  <V>Sa'an vuuen vanhukain&#769;i,</V>
  <V>Sano sie surma, toin&#769;i surma!"</V>
  <V>Kuin sie menet matkoa vähän,</V>
@@ -112794,31 +112794,31 @@ takaperin
  <V>Viijeltä vic&#780;asväliltä;</V>
  <V>Silläpä sen rovan vajellan.</V>
  <V>Oi emoin&#769;i, vanhempan&#769;i,</V>
- <V>Kuue¤#331;kymmenen kesoin&#769;i,</V>
+ <V>Kuue&#331;kymmenen kesoin&#769;i,</V>
  <V>80 Sa'an vuuen vanhukain&#769;i,</V>
  <V>Sano surma, kolmas surma!"</V>
  <V>"Kun menet Päivölän veräjän suilla,</V>
  <V>Siin' suet rautasuits&#780;iloissa,</V>
  <V>Karhut rautakahlehissa,</V>
  <V>85 Päivölän veräjän suilla,</V>
- <V>Syyä lieto Lemmi¤#331;käistä.</V>
+ <V>Syyä lieto Lemmi&#331;käistä.</V>
  <V>Siit' on siin' tulin&#769;i hauta,</V>
  <V>Hauta on täysi miehenpäitä,</V>
- <V>Lemmi¤#331;käisen peän varalla."</V>
+ <V>Lemmi&#331;käisen peän varalla."</V>
  <V>90 "Ei ole se surma miehen surma,</V>
  <V>Se on surma lasten surma.</V>
  <V>Mie temmon tetriä mäeltä,</V>
- <V>Ki¤#331;kun kierävillasia,</V>
+ <V>Ki&#331;kun kierävillasia,</V>
  <V>Ne työnnän susilla suuhun,</V>
  <V>95 Kehitän karhuilla kitahan.</V>
  <V>Sillä sen rovin vajellan."</V>
  <V>Sekä mäni, jotta joutu</V>
  <V>Tuonne Päivölän pitohon,</V>
- <V>Salajoukon juomi¤#331;keihin.</V>
+ <V>Salajoukon juomi&#331;keihin.</V>
  <V>100 Meni tuulena tupahan,</V>
  <V>Sai hän sammalen alats&#780;e</V>
  <V>Sinne Päivölän pitohon,</V>
- <V>Salajoukon juomi¤#331;keihin.</V>
+ <V>Salajoukon juomi&#331;keihin.</V>
  <L>Siitä sanoo:</L>
  <V>"Jopa täällä on syömät syöty,</V>
  <V>105 Syöty on syömät, juotu on juomat,</V>
@@ -112829,13 +112829,13 @@ takaperin
  <V>110 "Mi ole[!] sinä miehiäsi,</V>
  <V>Ku kumma urohiasi,</V>
  <V>Ku ei siua koirat hauku</V>
- <V>Eikä vi¤#331;ku villahännät</V>
+ <V>Eikä vi&#331;ku villahännät</V>
  <V>Eikä haukkujat havate ?"</V>
- <V>115 Sano siitä Lemmi¤#331;käin&#769;i:</V>
+ <V>115 Sano siitä Lemmi&#331;käin&#769;i:</V>
  <V>"Mie en ole lähtenkänä</V>
  <V>Siun koirain haukuttavaks',</V>
- <V>Villähäntäin vi¤#331;kuttavaks'.</V>
- <V>E¤#331;kä mie liene lempivieras,</V>
+ <V>Villähäntäin vi&#331;kuttavaks'.</V>
+ <V>E&#331;kä mie liene lempivieras,</V>
  <V>120 Kun ei härköä tapettane,</V>
  <V>Oinasta tuotane tupahan,</V>
  <V>Hoikkasorkkoa huoneheseh.</V>
@@ -112844,7 +112844,7 @@ takaperin
  <V>125 "Ei siul' härköä tapeta,</V>
  <V>Oinast' ei tuua tupahan,</V>
  <V>Hoikkasorkkoa huoneheseh."</V>
- <V>Sano siitä Lemmi¤#331;käin&#769;i:</V>
+ <V>Sano siitä Lemmi&#331;käin&#769;i:</V>
  <V>"Tuokoa hot'i juotavoa,</V>
  <V>130 Omistanne os&#769;ristanne,</V>
  <V>Kylvämistänne jyvistä!"</V>
@@ -112860,7 +112860,7 @@ takaperin
  <V>140 Tupestansa tuiman rauvan,</V>
  <V>Vetälti olosen ristiin.#6</V>
  <V>Soap' sielt' sata matoa,</V>
- <V>Tuhat muuta mu¤#331;kerrosta.</V>
+ <V>Tuhat muuta mu&#331;kerrosta.</V>
  <V>Juop' oluen onneksensa,</V>
  <V>145 Me'en mussan mieleksensä:</V>
  <V>"Oluen tuoja Tuonelahan.</V>
@@ -112869,14 +112869,14 @@ takaperin
  <V>"Mis' on Päivölän isäntä?"</V>
  <V>150 Siitä käsköö emäntä isäntää.</V>
  <V>Siitä tuloo Päivölän isäntä.</V>
- <V>Sano lieto Lemmi¤#331;käin&#769;i:</V>
+ <V>Sano lieto Lemmi&#331;käin&#769;i:</V>
  <V>"Mitelkämme miekkojanna,</V>
  <V>Katelkamme kalpojanna,</V>
  <V>155 Kumman on miekka pitempi,</V>
  <V>Kumman kalpa kaunehempi,</V>
  <V>Sen iellä sivaltaminen."</V>
  <V>Siitä sano Päivölän emäntä:</V>
- <V>"Me¤#331;käpäs ulos pihalla,</V>
+ <V>"Me&#331;käpäs ulos pihalla,</V>
  <V>160 Pihall' on veret paremmat,</V>
  <V>Kartanolla kaunehemmat!"</V>
  <V>Siit' hyö ku miteltih miekkoja(nsa)</V>
@@ -112885,46 +112885,46 @@ takaperin
  <V>165 Päivölän kalpa kaunehempi,</V>
  <V>Sen on iellä sivaltaminen.</V>
  <V>Sano Päivölän isäntä:</V>
- <V>"Me¤#331;käme ulos pihalla,</V>
+ <V>"Me&#331;käme ulos pihalla,</V>
  <V>Tuvan uuen turmelemme,</V>
- <V>170 Pessyt pe¤#331;kit hierelemme!"</V>
- <V>Sano lieto Lemmi¤#331;käin&#769;i:</V>
+ <V>170 Pessyt pe&#331;kit hierelemme!"</V>
+ <V>Sano lieto Lemmi&#331;käin&#769;i:</V>
  <V>"Lähetäh vain ulos pihalla!"</V>
  <V>Mäntih ulos pihalla.</V>
- <V>Sano lieto Lemmi¤#331;käin&#769;i:</V>
+ <V>Sano lieto Lemmi&#331;käin&#769;i:</V>
  <V>175 Kun siun on miekka mielusampi</V>
  <V>Siun on kalpa kaunehempi,</V>
  <V>Siun on iellä sivaltaminen."</V>
  <V>Siitä Päivölän isäntä</V>
- <V>Sivalti lieto Lemmi¤#331;käistä:</V>
+ <V>Sivalti lieto Lemmi&#331;käistä:</V>
  <V>180 Miekka kolmeksi palaksi,</V>
- <V>Eikä tullut lieto Lemmi¤#331;käiseh.</V>
+ <V>Eikä tullut lieto Lemmi&#331;käiseh.</V>
  <V>Ei tullut hikirupia</V>
  <V>Eikä ottant orvaskettuu.</V>
- <V>Sano lieto Lemmi¤#331;käin&#769;i:</V>
+ <V>Sano lieto Lemmi&#331;käin&#769;i:</V>
  <V>185 "Nyt on miun sivaltaminen!"</V>
- <V>Sivalti lieto Lemmi¤#331;käin&#769;i</V>
+ <V>Sivalti lieto Lemmi&#331;käin&#769;i</V>
  <V>Tuota Päivölän isäntää.</V>
  <V>Pää pyörähti ke<SUP>v</SUP>olle,</V>
- <V>Nii¤#331;kun naatti naurehesta</V>
+ <V>Nii&#331;kun naatti naurehesta</V>
  <V>190 Elikkä nakriit navasta.</V>
  <V>Sano Päivölän emännällä:</V>
  <V>"Jopahan mäni Manalla,</V>
  <V>Tuopin tuoja Tuonelahan!"</V>
- <V>Siitä lieto Lemmi¤#331;käin&#769;i</V>
+ <V>Siitä lieto Lemmi&#331;käin&#769;i</V>
  <V>195 Sekä kävi, jotta joutu.</V>
  <V>Siitä sano moamollah:</V>
  <V>"Sekä kävin, jotta jouvuin</V>
  <V>Siellä Päivölän pivoissa,</V>
- <V>Salajoukon juomi¤#331;keissa.</V>
+ <V>Salajoukon juomi&#331;keissa.</V>
  <V>200 Ei ollut ne surmat miesten surmat</V>
  <V>Eikä kuolomat urohon,</V>
  <V>Ne oli surmat lapsen#7 surmat."</V>
  </TEXT>
  <REFS>
- #1 Lemminkäin&#769;i: Lemmi¤#331;käin&#769;i.
+ #1 Lemminkäin&#769;i: Lemmi&#331;käin&#769;i.
  #2 Keän|s|i: Keän<I>t</I>i.
- #3 juomi|ng|eissa: juomi<I>¤#331;k</I>eissa.
+ #3 juomi|ng|eissa: juomi<I>&#331;k</I>eissa.
  #4 Sana jälestäpäin lisätty.
  #5 moah|a|: moah<I>e</I>.
  #6 ri|ss|iin ri<I>st</I>iin.
@@ -113090,7 +113090,7 @@ takaperin
  <V>Kultaisen kurikan keralla,</V>
  <V>Huapasen halon kanssa.</V>
  <V>Voipa pössö parka!</V>
- <V>Etpä to¤#331;ki toissa vuonna</V>
+ <V>Etpä to&#331;ki toissa vuonna</V>
  <V>10 Torajoven pientarie!</V>
  <V>Lenti päivän, lenti toisen,</V>
  <V>Lenti kohta kolomannen.</V>

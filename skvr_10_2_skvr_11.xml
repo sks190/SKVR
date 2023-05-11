@@ -1218,8 +1218,8 @@ Frans Oukari, 50 v.
 <V>Putken polttama,</V>
 <V>Tänäpänä kirkko,</V>
 <V>Huamena#1 kirppu.</V>
-<V>5 Kymmenen, yh¤#240;eksän,</V>
-<V>Kah¤#240;eksan, seittemän,</V>
+<V>5 Kymmenen, yh&#240;eksän,</V>
+<V>Kah&#240;eksan, seittemän,</V>
 <V>Kuus, viis,</V>
 <V>Neljä, kol,</V>
 <V>Kaks, yks,</V>
@@ -1268,8 +1268,8 @@ Miina Hakola, 59 v.
 </META>
 <TEXT>
 <CPT>Ajoksen sanat.</CPT>
-<V>"Kymmenen, yh¤#240;eksän,</V>
-<V>Kah¤#240;eksan, seittemän,</V>
+<V>"Kymmenen, yh&#240;eksän,</V>
+<V>Kah&#240;eksan, seittemän,</V>
 <V>Kuus, viis,</V>
 <V>Neljä, kolm,</V>
 <V>5 Kaks, yks."</V>
@@ -1409,7 +1409,7 @@ etu- ja isolla-sormella. Ennen kunkin#2 luvun alkua syljetään ajokseen. Lukuje
 
 
 loputtua sanotaan:</L>
-<V>"Yh¤#240;eksän yän#3 perästä ei pi¤#240;ä sijaakaa tuntuman!"</V>
+<V>"Yh&#240;eksän yän#3 perästä ei pi&#240;ä sijaakaa tuntuman!"</V>
 </TEXT>
 <REFS>
 #1 Hu|o|mena : Hu<I>a</I>mena.
@@ -2800,7 +2800,7 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 päin juokseva?)</L>
 <L>Otetaan vettä lähteestä; valetaan sitä kolmasti paiseelle. Heitetään uhri 
 lähteeseen ja sanotaan:</L>
-<V>"Minä pyy¤#240;än apua paiseelleni,</V>
+<V>"Minä pyy&#240;än apua paiseelleni,</V>
 <V>Tuos_son uhri sulle."</V>
 </TEXT>
 </ITEM>
@@ -4545,7 +4545,7 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 </META>
 <TEXT>
 <CPT>[<I>Hammastauti.</I>]</CPT>
-<L>Otetaan koisuoloja. Laitetaan niistä yh¤#240;eksän kasaa. Joka kasasta 
+<L>Otetaan koisuoloja. Laitetaan niistä yh&#240;eksän kasaa. Joka kasasta 
 otetaan kolme osaa ja hierotaan (niillä) sitä viallista hammasta. Sitte pannaan 
 
 
@@ -4563,8 +4563,8 @@ otetaan kolme osaa ja hierotaan (niillä) sitä viallista hammasta. Sitte pannaa
 
 
 
-ne vaatetilkkuun ja vie¤#240;ään mettään, väännetään petäjän juureen reikä 
-pohjoisen puolelle, pannaan pihlajapuusta tehty tulppa reikään, lyö¤#240;ään 
+ne vaatetilkkuun ja vie&#240;ään mettään, väännetään petäjän juureen reikä 
+pohjoisen puolelle, pannaan pihlajapuusta tehty tulppa reikään, lyö&#240;ään 
 lujasti kiini ja sanotaan:</L>
 <V>"sin_oot omiansa sitä kärsiin."</V>
 <L>ja tullaan taakseen kattomatta pois.</L>
@@ -4587,7 +4587,7 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 <CPT>[<I>Hammastauti.</I>]</CPT>
 <L>Otetaan lepästä sahajauhoja. Sekotetaan siihen pikihikee ja tervaa ja sitte 
 pannaan se kipuhampaan väliin. Kun se on hetken aikaa ollu, otetaan se pois, 
-vie¤#240;ään ja heitetään pohjoseen päin vasemman olan yli ja sanotaan:</L>
+vie&#240;ään ja heitetään pohjoseen päin vasemman olan yli ja sanotaan:</L>
 <V>"vie koira hampaas."</V>
 </TEXT>
 </ITEM>
@@ -5121,7 +5121,7 @@ Urpunisti Salo.
 </INF>
 </META>
 <TEXT>
-<L>Liika paranee, jos sitä näytetään uu¤#240;elle kuulle ja sanotaan:</L>
+<L>Liika paranee, jos sitä näytetään uu&#240;elle kuulle ja sanotaan:</L>
 <V>"Kuu syä liikaa, älä liian kantajaa!"</V>
 </TEXT>
 </ITEM>
@@ -6218,12 +6218,12 @@ Iso Heikki.
 </INF>
 </META>
 <TEXT>
-<CPT>Suh¤#240;etta lähimmäisiin koskevia.</CPT>
-<L>Jos te tah¤#240;otte jotakuta kirota, niin teitin tarvittee sunnuntaina 
-kirkon aikana panna virsikirja ko¤#240;an lie¤#240;ella ja panna polvillenne 
+<CPT>Suh&#240;etta lähimmäisiin koskevia.</CPT>
+<L>Jos te tah&#240;otte jotakuta kirota, niin teitin tarvittee sunnuntaina 
+kirkon aikana panna virsikirja ko&#240;an lie&#240;ella ja panna polvillenne 
 kirjan päälle, ja siinä</L>
 <V>kirota ja nimittää se ihminen,</V>
-<L>jolle onnettomuutta tah¤#240;otte sentäh¤#240;en että, jollei nimitä, saa 
+<L>jolle onnettomuutta tah&#240;otte sentäh&#240;en että, jollei nimitä, saa 
 kirot ittellensä."</L>
 </TEXT>
 </ITEM>
@@ -6441,7 +6441,7 @@ Maria Uusi-Oukari, 49 v.
 </META>
 <TEXT>
 <CPT>Kohtauksen sanat#1.</CPT>
-<V>"Kukka sun on koh¤#240;elleet</V>
+<V>"Kukka sun on koh&#240;elleet</V>
 <V>Hyvät vai pahat,</V>
 <V>Suuttomat vai luuttomat,</V>
 <V>Lihattomat vai nahaattomat?</V>
@@ -6470,23 +6470,23 @@ Miina Hakola, 59 v.
 </META>
 <TEXT>
 <CPT>Kohtauksen sanat.</CPT>
-<V>"Jos sinä kohtaat mun yh¤#240;eltä</V>
-<V>Minä itte sun kah¤#240;elta;</V>
+<V>"Jos sinä kohtaat mun yh&#240;eltä</V>
+<V>Minä itte sun kah&#240;elta;</V>
 <V>Jos sinä kohtaat mun kolmelta</V>
 <V>Minä itte sun neljältä;</V>
-<V>5 Jos sinä kohtaat mun vii¤#240;eltä,</V>
-<V>Minä itte sun kuu¤#240;elta;</V>
+<V>5 Jos sinä kohtaat mun vii&#240;eltä,</V>
+<V>Minä itte sun kuu&#240;elta;</V>
 <V>Jos sinä kohtaat mun seittemältä,</V>
-<V>Minä itte sun kah¤#240;eksalta;</V>
-<V>Jos sinä kohtaat mun yh¤#240;eksältä,</V>
+<V>Minä itte sun kah&#240;eksalta;</V>
+<V>Jos sinä kohtaat mun yh&#240;eksältä,</V>
 <V>10 Minä itte sun kymmeneltä;</V>
-<V>Jos sinä kohtaat#1 mun yh¤#240;eltätoista,</V>
-<V>Minä itte sun kah¤#240;eltatoista."</V>
+<V>Jos sinä kohtaat#1 mun yh&#240;eltätoista,</V>
+<V>Minä itte sun kah&#240;eltatoista."</V>
 <L>Nämät luetaan 3 kert., jonka ajan lukija pitää kätensä kipeän paikan päällä 
 (esim. pistokset).</L>
 </TEXT>
 <REFS>
-#1 kohtaat *mun* yh¤#240;eltätoista : k. m. y.
+#1 kohtaat *mun* yh&#240;eltätoista : k. m. y.
 </REFS>
 </ITEM>
 
@@ -6710,11 +6710,11 @@ hautajaisiin liittyvistä uskomuksista#1.</SGN>
 <L>Kateitten aiheuttama kohtaus paranee usein silläkin, että sokeririppuun 
 syljetään ja höpistään:</L>
 <V>"jos sinä kohtelet mun</V>
-<V>u&#776;hu&#776;le¤#331;_kerran</V>
+<V>u&#776;hu&#776;le&#331;_kerran</V>
 <V>minä kohta&#772;n sun</V>
-<V>toise¤#331;_kerran</V>
+<V>toise&#331;_kerran</V>
 <V>5 jos minä kohta&#772;n sun</V>
-<V>toise¤#331;_kerran</V>
+<V>toise&#331;_kerran</V>
 <V>sinä kohtaat mun</V>
 <V>kolmannen</V>
 <V>j.n.e. kymmeneen asti.</V>
@@ -6761,7 +6761,7 @@ turvautua kohtauksen mittomiseen. Sanatkin olivat voimakkaammat.</L>
 <V>h&#8968;u&#8969;vitukko, hullatukko,</V>
 <V>5 poltatukko, leikatukko,</V>
 <V>lihattomakko, nahattomakko,</V>
-<V>p¤#603;ttämäkkö?</V>
+<V>p&#603;ttämäkkö?</V>
 <V>pois paha hyvästä!</V>
 </TEXT>
 </ITEM>
@@ -8293,7 +8293,7 @@ Juho Vimperi 55 v. Sammin kylästä.
 <V>pitkin tietä roiskotteli,</V>
 <V>tuli Pietari vastaa,</V>
 <V>kysy: minkäs menet?</V>
-<V>5 Menen#1 yli yh¤#240;deksän meren</V>
+<V>5 Menen#1 yli yh&#240;deksän meren</V>
 <V>kymmenen kaupungin</V>
 <V>vuarelle kiviä koluamaan</V>
 <V>ihmisel_luita louhimaan.</V>
@@ -8628,7 +8628,7 @@ Kyynärjärvi. Juha Aataminpoika, 63 v.
 </META>
 <TEXT>
 <CPT>Koin sanat.</CPT>
-<V>Koisen poika kävi tiätä myö¤#240;en,</V>
+<V>Koisen poika kävi tiätä myö&#240;en,</V>
 <V>Jesus kysyi Koisen poijalta:</V>
 <V>"Kuhunkas menet?"</V>
 <V>"Tänne käyn</V>
@@ -9627,20 +9627,20 @@ Kuivaskylä. Katariina (Sofia) Taipalus, 79 v.
 </META>
 <TEXT>
 <CPT>Koinsanat.</CPT>
-<V>"koi&#815;h kulki ti¤#603;&#815;ta mu&#776;ö&#815;re</V>
+<V>"koi&#815;h kulki ti&#603;&#815;ta mu&#776;ö&#815;re</V>
 <V>i&#815;&#813;esuh vastahan tuli</V>
 <V>ku&#776;su&#776; että:</V>
-<V>mihi¤#331;käh#1 menep_paha koi&#815;h?"</V>
+<V>mihi&#331;käh#1 menep_paha koi&#815;h?"</V>
 <V>5 "ihmisel_liha&#772; liu&#815;kase&#772;i&#815;&#813;</V>
 <V>i&#815;&#813;a lui&#815;ta lui&#815;staha,</V>
-<V>ni&#772;¤#331;_kau&#815;vva¤#331;_kun_o"</V>
+<V>ni&#772;&#331;_kau&#815;vva&#331;_kun_o"</V>
 <V>"mutta i&#815;&#813;ollem_minä sua&#815; konna pä&#772;stäs sinne,</V>
 <V>10 sum_pitä mennä hel<SUP>e</SUP>vetim_mustu&#772;tehe,</V>
-<V>i&#815;&#813;oho¤#331;ka ei&#815; auri¤#331;ko pai&#815;sta</V>
+<V>i&#815;&#813;oho&#331;ka ei&#815; auri&#331;ko pai&#815;sta</V>
 <V>ei&#815;kä ku&#772; valuansa anna."</V>
 </TEXT>
 <REFS>
-#1 mih|kä| : mihi¤#331;käh.
+#1 mih|kä| : mihi&#331;käh.
 </REFS>
 </ITEM>
 
@@ -10607,7 +10607,7 @@ Maria Uusi-Oukari, 49 v.
 <TEXT>
 <CPT>Kleinin sanat.</CPT>
 <V>"Jesus alas astu taivaasta,</V>
-<V>Sarvi kullasta kä¤#240;es.</V>
+<V>Sarvi kullasta kä&#240;es.</V>
 <V>Mitä sen sarven sisällä oli?</V>
 <V>Neitsy Maarian makia maito,</V>
 <V>5 Jolla kaikki haavat happamat parannetaan</V>
@@ -10699,9 +10699,9 @@ Lammin isäntä, 61 v.
 </META>
 <TEXT>
 <CPT>Löylyv_vihat.</CPT>
-<L>Pantiin vih¤#240;al_lehti suuhun ja vih¤#240;ottiin saunan parvessa haavan 
+<L>Pantiin vih&#240;al_lehti suuhun ja vih&#240;ottiin saunan parvessa haavan 
 päälle 9:n kertaa, ja joka kerta sanottiin:</L>
-<V>Pi¤#240;ä haava pua<SUB>o</SUB>les</V>
+<V>Pi&#240;ä haava pua<SUB>o</SUB>les</V>
 <V>kyllä löyly pua<SUB>o</SUB>lens pitää."</V>
 <L>Lehti oli pidettävä suussa niin kauan kuin oli saunassa.</L>
 </TEXT>
@@ -10854,7 +10854,7 @@ Kyynärjärvi. Juha Aataminpoika, 63 v.
 </META>
 <TEXT>
 <CPT>Löylyn sanat.</CPT>
-<V>Löyly pi¤#240;ä vaaris,</V>
+<V>Löyly pi&#240;ä vaaris,</V>
 <V>Haava on aikaa pitäny!</V>
 <L>Nämät sanat luetaan, kun löylyyn mennään sekä lyödään vihdalla ensimäinen 
 kerta haavan päälle.</L>
@@ -10899,11 +10899,11 @@ Miina Hakola, 59 v.
 </META>
 <TEXT>
 <CPT>Löylyn sanat.</CPT>
-<V>Löyly pi¤#240;ä varas,</V>
+<V>Löyly pi&#240;ä varas,</V>
 <V>Kyllä haava pitää varansa!</V>
-<V>Haava pi¤#240;ä varas,</V>
+<V>Haava pi&#240;ä varas,</V>
 <V>Kyllä löyly pitää varansa!</V>
-<L>Kun nämät sanat lukee 3 kert. ja ensin lyö vih¤#240;alla haavan päälle 3 
+<L>Kun nämät sanat lukee 3 kert. ja ensin lyö vih&#240;alla haavan päälle 3 
 kert., niin ei haavaan mene löyly.</L>
 </TEXT>
 </ITEM>
@@ -11249,8 +11249,8 @@ Kuivaskylä. Katariina (Sofia) Taipalus, 79 v.
 <CPT>Löylynvihat.</CPT>
 <V>- - -</V>
 <V>"löu&#776;&#815;lu&#776;l_löu&#776;&#815;tämät</V>
-<V>kusisu&#772;¤#331;_koinamat</V>
-<V>menkö&#772;t matkan oma&#772; ti¤#603;&#815;tänsä",</V>
+<V>kusisu&#772;&#331;_koinamat</V>
+<V>menkö&#772;t matkan oma&#772; ti&#603;&#815;tänsä",</V>
 <L>sanotaan löylynvihojen (?) poisajamiseksi.</L>
 </TEXT>
 </ITEM>
@@ -11482,7 +11482,7 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 </META>
 <TEXT>
 <CPT>Lämpösen vihat.</CPT>
-<L>Jos telaa ittensä terä-aseella ja jos se saunassa käy¤#240;es lämpenee 
+<L>Jos telaa ittensä terä-aseella ja jos se saunassa käy&#240;es lämpenee 
 (menee löylyn vihat?), niin siihen käytetään saunan palkkien välistä rehua, se 
 poistaa lämposen#1 vihat. Sanat:</L>
 <V>Ei oo löylyn löytämistä</V>
@@ -11829,9 +11829,9 @@ päre&#772;n nenäh. - kol<SUP>o</SUP>me tikkua pani ku&#776;nnu&#776;kse&#772;n
 
 hoki 
 
-usiampå&#772;¤#331;_kertå&#772;n:</L>
+usiampå&#772;&#331;_kertå&#772;n:</L>
 <V>na&#772;ra, na&#772;ra, kotah pala&#772;, koukkuh pa&#772;la,</V>
-<V>kol<SUP>o</SUP>me&#772;¤#331;_kertå&#772;n.</V>
+<V>kol<SUP>o</SUP>me&#772;&#331;_kertå&#772;n.</V>
 </TEXT>
 </ITEM>
 
@@ -13589,7 +13589,7 @@ Maria Uusi-Oukari, 49 v.
 </META>
 <TEXT>
 <CPT>Narin sanat.</CPT>
-<V>"Nari juoksee tiätä myö¤#240;en,</V>
+<V>"Nari juoksee tiätä myö&#240;en,</V>
 <V>Narin varsi vaappaa."</V>
 <L>Nämät sanat luetaan 9 kert. lankaan, johon vedetään yhtämonta solmua. Tämä 
 solmu-lanka sidotaan sitten nari-jäsenen ympäri.</L>
@@ -13895,11 +13895,11 @@ Iso-Röyhiö.
 </META>
 <TEXT>
 <CPT>Kielennäytteitä</CPT>
-<L>Ikaalisten Ison-Röyhiön kylästä papuse¤#331;_ki&#772;ja kerto&#772;, 
+<L>Ikaalisten Ison-Röyhiön kylästä papuse&#331;_ki&#772;ja kerto&#772;, 
 kui&#815;nka#1 
 jokela vai&#815;nå&#772; kri&#772;siä paransi: sua&#815;neniskurau&#815;lalla 
 teki 
-sel<SUP>e</SUP>k¤#603;&#772;n rei&#815;jaj_ja si&#772;ttä reijästä 
+sel<SUP>e</SUP>k&#603;&#772;n rei&#815;jaj_ja si&#772;ttä reijästä 
 palovi&#772;nå
 &#772;. kaks 
 pärettä viritti val<SUP>a</SUP>ke&#772;se&#772;n ja pu&#776;hkäsi kol<SUP>o</SUP>
@@ -13907,13 +13907,13 @@ pärettä viritti val<SUP>a</SUP>ke&#772;se&#772;n ja pu&#776;hkäsi kol<SUP>o</
 
 
 masti 
-ser_reijäm _pellitte. toine¤#331;_ku&#776;su&#776; ai&#815;na:</L>
+ser_reijäm _pellitte. toine&#331;_ku&#776;su&#776; ai&#815;na:</L>
 <V>mitäh poltat?</V>
 <L>toi&#815;nev_vastah:</L>
 <V>krisiä poltan.</V>
 </TEXT>
 <REFS>
-#1 kui|¤#331;|ka = kui<I>n</I>ka.
+#1 kui|&#331;|ka = kui<I>n</I>ka.
 </REFS>
 </ITEM>
 
@@ -14545,7 +14545,7 @@ pistetähäv_valki&#8968;i&#815;a&#772;n&#8969; i&#815;&#813;a sillä
 valkii&#815;&#813;asella 
 tähä&#772;llä lu&#776;õ&#815;rä&#770;häi_i&#815;&#813;a hoe&#815;tahan:</L>
 <V>"nari nari kartanoh pala&#772;" -</V>
-<V>"mek koiram puohon ti¤#603;&#815;tah mu&#776;ö&#815;&#772;re".</V>
+<V>"mek koiram puohon ti&#603;&#815;tah mu&#776;ö&#815;&#772;re".</V>
 </TEXT>
 </ITEM>
 
@@ -14915,7 +14915,7 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 <CPT>Naria sal<SUP>a</SUP>vetaan.</CPT>
 <L>Nariksi sanotaan sellaista kipua, kun käsiranne taivuttaessa narisee. Se 
 tulee esim. pitkällisestä rukiin leikkuusta.</L>
-<L>Teh¤#240;ään narinkota pöl<SUP>ö</SUP>kylle, [ks. kuv.] kolmikulmanen, 
+<L>Teh&#240;ään narinkota pöl<SUP>ö</SUP>kylle, [ks. kuv.] kolmikulmanen, 
 päressiirroista. Se sitte pannaan palamaan joka kul<SUP>u</SUP>masta. Se, jonka 
 
 
@@ -15701,14 +15701,14 @@ Miina Hakola, 59 v.
 <V>Minä toinen,</V>
 <V>Nikka kolmas,</V>
 <V>Minä neljäs,</V>
-<V>5 Nikka vii¤#240;es,</V>
-<V>Minä kuu¤#240;es,</V>
+<V>5 Nikka vii&#240;es,</V>
+<V>Minä kuu&#240;es,</V>
 <V>Nikka seittemäs,</V>
-<V>Minä kah¤#240;eksas,</V>
-<V>Nikka yh¤#240;eksäs,</V>
+<V>Minä kah&#240;eksas,</V>
+<V>Nikka yh&#240;eksäs,</V>
 <V>10 Minä kymmenes,</V>
-<V>Nikka yh¤#240;estoista,</V>
-<V>Minä itte kah¤#240;estoista,</V>
+<V>Nikka yh&#240;estoista,</V>
+<V>Minä itte kah&#240;estoista,</V>
 <V>Nikka kuoppaan,</V>
 <V>Minä kuopan partaalle.</V>
 <V>15 Minä nikan voitin."</V>
@@ -16607,8 +16607,8 @@ Annastuuna.
 </META>
 <TEXT>
 <L>Kun hevosen jalka hiveltyy (luult[avasti] samaa kuin nilkastuminen), niin 
-että paiskaa maata eikä astu vaan eteenpäin#1, niin teh¤#240;ään 9 solmua 
-semmoseen lankaan, jonka tekiästä ei tie¤#240;etä ja sanotaan aina joka 
+että paiskaa maata eikä astu vaan eteenpäin#1, niin teh&#240;ään 9 solmua 
+semmoseen lankaan, jonka tekiästä ei tie&#240;etä ja sanotaan aina joka 
 solmulle, että:</L>
 <V>Kies kirkkoon meneepi,</V>
 <V>hevosella helputtaapi;</V>
@@ -16616,7 +16616,7 @@ solmulle, että:</L>
 <V>noustesa Norun mäelle;</V>
 <V>5 lihat liitti, luut asetti,</V>
 <V>suonet yhteen sovitti.</V>
-<L>Se lanka si¤#240;otaan sitte kipeen paikan ympäri tavallisen piukkaan, ni 
+<L>Se lanka si&#240;otaan sitte kipeen paikan ympäri tavallisen piukkaan, ni 
 hevonen nousee ylös 5 minuutin sisään.</L>
 </TEXT>
 <REFS>
@@ -17196,11 +17196,11 @@ Iso-Röyhiö. Siina Keskinen. hivellöksen sanat:
 <V>hi&#772;rikolla hevosella.</V>
 <V>hevoj_jalka valjahti.</V>
 <V>ma&#772;ria hu&#776;ppäh rattai&#815;lta må&#772;han,</V>
-<V>sinisil_la¤#331;¤#331;oi&#815;n siteli,</V>
+<V>sinisil_la&#331;&#331;oi&#815;n siteli,</V>
 <V>punasim_puheli,</V>
 <V>vih<SUP>i</SUP>riäi&#815;siv_via&#8968;h&#8969;otteli</V>
-<L>ni&#772;tä sanotti&#772;(n) hivellöhla¤#331;¤#331;oiksi ne panti&#772;(n) 
-kol<SUP>o</SUP>me&#772;n kertå&#772;n sormem_p¤#603;&#772;lle ja kul_la¤#331;ka 
+<L>ni&#772;tä sanotti&#772;(n) hivellöhla&#331;&#331;oiksi ne panti&#772;(n) 
+kol<SUP>o</SUP>me&#772;n kertå&#772;n sormem_p&#603;&#772;lle ja kul_la&#331;ka 
 
 
 
@@ -17700,7 +17700,7 @@ Kuivaskylä. Katariina (Sofia) Taipalus, 79 v.
 <V>i&#815;&#813;esus suo&#815;nii&#815;&#813;a soi&#815;ttahai&#815;&#813;_</V>
 <V>5 i&#815;&#813;a lui&#815;ta li&#772;ttähä,</V>
 <V>entistän&#812;sät_terve&#772;mmäksi tekkö&#772;."</V>
-<L>Sanoja lukiessa tehdään <I>"hivellu&#776;hla¤#331;ka".</I></L>
+<L>Sanoja lukiessa tehdään <I>"hivellu&#776;hla&#331;ka".</I></L>
 </TEXT>
 </ITEM>
 
@@ -18183,7 +18183,7 @@ Urpunisti Salo.
 </META>
 <TEXT>
 <L>Närestys lakkaa, kun keväällä, sontipattereita hajoteltaisa, otetaan lunta 
-siältä patterin alta ja syä¤#240;ään sitä; taikka myöskin#1 sopii syö¤#240;ä 
+siältä patterin alta ja syä&#240;ään sitä; taikka myöskin#1 sopii syö&#240;ä 
 myllymiähen paskasta 9 papua ja lukea 9 kertaan:</L>
 <V>"Närä, närä persettäni,</V>
 <V>älä rintavittojani!"</V>
@@ -19777,7 +19777,7 @@ punaista villasta#1 lankaa, jonka kehrääjästä ei tiedetä, kaksi eri pätkä
 joihin kumpaankin tehdään yhdeksän höllää solmua. Sitten vedetään syyläin 
 päällä kumpaakin lankaa päistä yhtäkkiä, niin että solmut menevät piukkaan, ja 
 samalla sanotaan:</L>
-<V>"Syylät ka¤#240;okkoon pois,</V>
+<V>"Syylät ka&#240;okkoon pois,</V>
 <V>Niin tyynni ku ma solmun vedän!"</V>
 <L>Jollei kaikkia syyliä lueta, niin ne lukematta#2 jääneet jäävät 
 kasvamaan.</L>
@@ -19804,8 +19804,8 @@ Iso-Röyhiö.
 <L>u&#772;lella ku&#772;lla kanh su&#776;ä&#815;tetti&#772;n, panti&#772;n 
 su&#776;&#772;lä 
 ku&#772;n näku&#776;vi&#772;n:</L>
-<V>su&#776;ä u&#772;si ku&#772; su&#776;&#772;l¤#603;&#772;,</V>
-<V>mutt_älä su&#776;lä¤#331;_kantajå&#772;.</V>
+<V>su&#776;ä u&#772;si ku&#772; su&#776;&#772;l&#603;&#772;,</V>
+<V>mutt_älä su&#776;lä&#331;_kantajå&#772;.</V>
 </TEXT>
 </ITEM>
 
@@ -20562,7 +20562,7 @@ Annastuuna.
 </INF>
 </META>
 <TEXT>
-<L>Kun ke¤#240;olle maata laskiesa sanoo:</L>
+<L>Kun ke&#240;olle maata laskiesa sanoo:</L>
 <V>"Terve maa ja maanhaltija, sua</V>
 <V>mun tervennä ollakseni!"</V>
 <L>niin ei yhtään saa tarttumuksia maasta.</L>
@@ -20906,7 +20906,7 @@ Kirkonkylä. Juho Ruohonen, 49 v.
 <TEXT>
 <CPT>Tarttumisen torjuminen.</CPT>
 <L>Kun esim. peljästy, niin sanottiin (ja syljettiin)</L>
-<V>"Ptyi#1, pto, pi¤#240;ä koiras kotonas!</V>
+<V>"Ptyi#1, pto, pi&#240;ä koiras kotonas!</V>
 </TEXT>
 <REFS>
 #1 kk:ssa pieni alkukirjain.
@@ -20926,7 +20926,7 @@ Adolf Stenberg, 50 v.
 </INF>
 </META>
 <TEXT>
-<L>Kun tulee kasvoihin rohtumaa (= paisumia), saa¤#240;aan ne poistetuksi 
+<L>Kun tulee kasvoihin rohtumaa (= paisumia), saa&#240;aan ne poistetuksi 
 siten, että otetaan vanhasta aidasta pohjan puolelta aitaa jäkäliä. Nämät 
 keitetään veden seassa. Sillä vedellä p&#8968;e&#8969;stään kasvot pohjoseen 
 päin käännettynä ja manataan tautia sanoilla:</L>
@@ -21439,7 +21439,7 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 <L>parannetaan suolalla. Suolalla hierotaan kipeätä paikkaa ja sanotaan:</L>
 <V>"Jos olette tuulesta tullu(t),</V>
 <V>niin menkää tuuleen.</V>
-<V>Jos olette ve¤#240;estä tullu,</V>
+<V>Jos olette ve&#240;estä tullu,</V>
 <V>niin menkää veteen.</V>
 <V>5 Jos olette maasta tullu,</V>
 <V>niin menkää maahan."</V>
@@ -21954,19 +21954,19 @@ Kuivaskylä. Katariina (Sofia) Taipalus, 79 v.
 <TEXT>
 <CPT>Lähde.</CPT>
 <L>- - - Uutta neulaa ei pantu toiste vettä ottaessa. 
-"mettähäv_vi¤#603;&#815;lähä¤#331; (vesi) kau&#815;vvas i&#815;&#813;a 
+"mettähäv_vi&#603;&#815;lähä&#331; (vesi) kau&#815;vvas i&#815;&#813;a 
 hei&#815;tete&#772;v#1_
 vasemman olkape&#772;n u&#776;li" sanoen:</L>
 <V>"pois hi&#772;si#2 helvetistä</V>
-<V>kau&#815;kasesta kau&#815;pu¤#331;gista</V>
-<V>poi&#815;s hi&#772;si¤#331;koi&#815;rat minusta</V>
-<V>me¤#331;kö&#772;t kotii&#815;&#813;ansa."</V>
+<V>kau&#815;kasesta kau&#815;pu&#331;gista</V>
+<V>poi&#815;s hi&#772;si&#331;koi&#815;rat minusta</V>
+<V>me&#331;kö&#772;t kotii&#815;&#813;ansa."</V>
 <L>Taakseen katsomatta palattava kotiin ja mentävä ensin saunaan, mistä 
 lähdetty.</L>
 </TEXT>
 <REFS>
 #1 hei&#815;tet|a&#772;|v : hei&#815;tete&#772;v.
-#2 hi&#772;si|¤#331;| : h.
+#2 hi&#772;si|&#331;| : h.
 </REFS>
 </ITEM>
 
@@ -22830,7 +22830,7 @@ Iso-Röyhiö. Siina Keskinen.
 <TEXT>
 <CPT>ähum parantamine(n):</CPT>
 <V>ähku&#776;, puhku puhkujai&#815;ne(n),</V>
-<V>navav_varre¤#331;_katkasevai&#815;ne(n),</V>
+<V>navav_varre&#331;_katkasevai&#815;ne(n),</V>
 <V>koi&#815;vu?, kua&#815;rista ko&#772;ttu,</V>
 <V>pellov_vavosta valettu,</V>
 <V>viä&#815;t_tu&#776;ttäreh nai&#815;se&#772;n.</V>
@@ -23425,7 +23425,7 @@ Kaapo Luhtanen, 70 v. Kuullut isoisältään.
 <CPT>Ähkyn sanat:</CPT>
 <V>Ähky poika ähmeröinen</V>
 <V>Toinen poika tohmeroinen</V>
-<V>Ve¤#240;en vah¤#240;osta valettu</V>
+<V>Ve&#240;en vah&#240;osta valettu</V>
 <V>Sysipuista synnytetty</V>
 <L>(Tässä on syljettävä)</L>
 <L>5 Missäs on mun kiviset kintaani</L>
@@ -23838,7 +23838,7 @@ Illo. Anna-Stiina Korkeemäki, 70 v.
 </META>
 <TEXT>
 <CPT>Taika.</CPT>
-<L>Jos lasla poruttaa, viä¤#240;ään se saunaan ja vihdotaan. Sitten viädään 
+<L>Jos lasla poruttaa, viä&#240;ään se saunaan ja vihdotaan. Sitten viädään 
 lapsen käsi oven rakoon. Viitataan kolme kertaa sisäänpäin, sanotaan:</L>
 <V>"Tua lepo kotio!</V>
 <V>Tua lepo kotio!"</V>
@@ -24668,7 +24668,7 @@ kanssa niinkin tarkkoja, että ottavat toisten kaivoista, väliin sieltä, väli
 täältä vettä lasten kylvetys vedeksi. Vesi ei saa tulla liian kuumaksi eikä 
 olla liian kylmää. Kun vesi ensikerran saamenee, heittää kylvettäjä pari 
 suolaraetta pataan siunaten:</L>
-<V>"nimeen Isän#1 Pojan#2 ja Pyhänhe¤#331;ken#3 ja sen puhtaan Marian 
+<V>"nimeen Isän#1 Pojan#2 ja Pyhänhe&#331;ken#3 ja sen puhtaan Marian 
 neitseen#4.</V>
 <L>Sitten kun se toisen kerran samenee ja alkaa kirpilöitä hyppiä veden 
 pinnasta, on vesi valmista. Jos vesi saa vahingossa ruveta kiehumaan, on se 
@@ -26269,10 +26269,10 @@ Ruutiaiselta Teiskossa. Muistiinp. Virroilla.
 <TEXT>
 <CPT>Jäniksen sanat.</CPT>
 <V>Yks' toks' toraviks' keräviks,</V>
-<V>Teitä myö¤#240;en sutsuttele,</V>
-<V>Sula ve¤#240;ä vakaperä vauhhaa.</V>
+<V>Teitä myö&#240;en sutsuttele,</V>
+<V>Sula ve&#240;ä vakaperä vauhhaa.</V>
 <V>Käy vinttura vip&#772;uun,</V>
-<V>5 Pyöräsil<SUP>i</SUP>mä pyy¤#240;ykseen</V>
+<V>5 Pyöräsil<SUP>i</SUP>mä pyy&#240;ykseen</V>
 <V>Kitumattomille, katumattomille kernaukseksi.</V>
 </TEXT>
 </ITEM>
@@ -28012,7 +28012,7 @@ Kurjenkylä. Elias Jokinen, 51 v.
 <CPT>Ongella ollessa.</CPT>
 <L>Onkeen syljetään ja sanotaan:</L>
 <V>Ahven arka perse,</V>
-<V>Syö su¤#240;en suulla ja hauen hampahilla.</V>
+<V>Syö su&#240;en suulla ja hauen hampahilla.</V>
 </TEXT>
 </ITEM>
 
@@ -28030,9 +28030,9 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 </META>
 <TEXT>
 <CPT>Kalastus.</CPT>
-<L>Kalamiehet, kun panevat o¤#331;keensa matosen sylkäsevät ja sanovat:</L>
+<L>Kalamiehet, kun panevat o&#331;keensa matosen sylkäsevät ja sanovat:</L>
 <V>Kala minun, minä pirun.</V>
-<L>Kun kala putoo o¤#331;¤#331;esta, niin syletään ja sanotaan:</L>
+<L>Kun kala putoo o&#331;&#331;esta, niin syletään ja sanotaan:</L>
 <V>Palkitte paremmallas.</V>
 </TEXT>
 </ITEM>
@@ -28050,8 +28050,8 @@ Virtain kylä. Anna Maunu, 65 v.
 </INF>
 </META>
 <TEXT>
-<L>Kun o¤#331;ki järveen heitettiin, niin sanottiin:</L>
-<V>O¤#331;ki kala_ja kala minu_ja minä itte perkeleen.</V>
+<L>Kun o&#331;ki järveen heitettiin, niin sanottiin:</L>
+<V>O&#331;ki kala_ja kala minu_ja minä itte perkeleen.</V>
 </TEXT>
 </ITEM>
 
@@ -28326,9 +28326,9 @@ poika ei saanum mitään; mutta sitte hän sano, että se tuli ja katto kerran
 vaan#2 hänen aventoonsa, eikä yhtään nypänny senjälkeen enää. Mutta hän sano, 
 että häntä suututti se sitte, ja hän sano että:</L>
 <V>Tphoo#3, tikku kateen silmään,</V>
-<V>kyrpä noi¤#240;an kurkkuun!</V>
+<V>kyrpä noi&#240;an kurkkuun!</V>
 <L>ja kohta karas hänen onkeensa niin suuri kala, ettei hän tahtonu ylös 
-saa¤#240;a.</L>
+saa&#240;a.</L>
 </TEXT>
 <REFS>
 #1 kk:ssa : |Jos joku on onki avennon| Mun : M.
@@ -28526,7 +28526,7 @@ Iso Heikki, kuullut Kurusa Santalalta, joka kuoli noin 22 vuotta sitten.
 <L>"Mutta toi on minun mielestäni tarpeellinen, että jolla hevosia on, niin 
 ottaa syksyllä 3 lepän vesaa, semmoisia, että ne on samanvuotisia (yhtä 
 vanhoja) ja riipasee niistä lehdet pois ja sitte kiertää hevosen 3 kertaan 
-myötäpäivään ja pitää niitä vesoja yhtaikaa kä¤#240;esänsä ja lyö joka kerralla 
+myötäpäivään ja pitää niitä vesoja yhtaikaa kä&#240;esänsä ja lyö joka kerralla 
 
 
 
@@ -28544,7 +28544,7 @@ myötäpäivään ja pitää niitä vesoja yhtaikaa kä¤#240;esänsä ja lyö j
 
 
 lautasille ja sanoo:</L>
-<V>Karhun#1 voima ja su¤#240;en juoksu!</V>
+<V>Karhun#1 voima ja su&#240;en juoksu!</V>
 <L>Ja minä olen sen nähny, että se ihmeellisesti tekee hevosen väkeväksi."</L>
 </TEXT>
 <REFS>
@@ -29241,15 +29241,15 @@ hän otti sen hevosen ränket, jota toiset paraiten seurasivat; jos se oli tamma
 
 
 niin piti asettaman vasemman ränkenpuolikkaan rintaansa vastaan#1 ja panna 
-tulirau¤#240;an sinne rinnan ja ränken puolikkaan väliin ja sitte</L>
+tulirau&#240;an sinne rinnan ja ränken puolikkaan väliin ja sitte</L>
 <V>piti lukeman Isämeidän</V>
-<L>ja sitte vie¤#240;ä ne ränket uuniin tai muuhun pesään, josa valkeeta vaan 
+<L>ja sitte vie&#240;ä ne ränket uuniin tai muuhun pesään, josa valkeeta vaan 
 oli pruukattu. Mutta jos se hevonen oli valakka, niin piti asettaman oikian 
 ränken puolikkaan rintaansa vastaan ja tekemän muuton samalla tavalla (ku mä 
 äskön kerron), sitte löysi hevoset. Ja jos hevoset oli johonkin kii joutunu, 
 niin ettei ne päässeet tulemaan häntä vastaan, niin mettän neitty#2 tuli 
 hänelle kertomaan, mihin hevoset oli joutunu. Kerran Rekolan hevoset tuotiin 
-Apiaiselle käymään, mutta sieltä#3 ou¤#240;oilta laitumilta ne lähtivät 
+Apiaiselle käymään, mutta sieltä#3 ou&#240;oilta laitumilta ne lähtivät 
 kävelemään tolkkaroittemaan ja menivät Sammaalle (matka noin 6 klmtr). Ja 
 joutuvat sielä aitaukseen, niin etteivät voineet_tulla häntä vastaan -. Hän oli 
 
@@ -31917,7 +31917,7 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 </META>
 <TEXT>
 <L>Jos lehmän tuo taloon, niin se kierretään kolmasti siinä navetan eressä ja 
-vasemmalle päin ensin aletaan viemään. Isämei¤#240;än pitää siinä kolme kertaa 
+vasemmalle päin ensin aletaan viemään. Isämei&#240;än pitää siinä kolme kertaa 
 lukea. Sanotaan sitte kun päästetään se meneen navettaan:</L>
 <V>"seuraa mua, niinkun piru lautamiestä!"</V>
 </TEXT>
@@ -31987,7 +31987,7 @@ Kaisa Lähteenmäki, 84 v.
 </INF>
 </META>
 <TEXT>
-<CPT>Ikävä¤#331;kryydii.</CPT>
+<CPT>Ikävä&#331;kryydii.</CPT>
 <L>Samassa#1 tarkoituksessa sivellään itikan kuono sen omalla lannalla ja 
 sanotaan:</L>
 <V>"Tätä täältä annetaan."</V>
@@ -32340,7 +32340,7 @@ kiskastava pois ja pistettävä eläimen kohdalle seinänrakoon sanoen:</L>
 <L><I>Jos lehmän pelätään karkaavan</I> on sen päätä lyötävä oven pihtipieleen 
 3 
 kert. ja sanottava:</L>
-<V>pi¤#240;ä kotos.</V>
+<V>pi&#240;ä kotos.</V>
 <L>Myös sanoo lehmän kuljettaja:</L>
 <V>seuraa mua kun piru 12 lauta miestä.</V>
 </TEXT>
@@ -32776,7 +32776,7 @@ Vuorijärvi. Nikoteemus Aatamimpoika, 55 v.
 <TEXT>
 <CPT>Ruokalystin sanat.</CPT>
 <V>"Ruokalysti nimes,</V>
-<V>Pi¤#240;ä vihas,</V>
+<V>Pi&#240;ä vihas,</V>
 <V>Kanna kipus,</V>
 <V>Anna itikalle#1 itikan ruokalysti!#2</V>
 <V>5 Pois paha kateus,</V>
@@ -32937,8 +32937,8 @@ Kurjenkylä. Juho Ruohonen, 40 v. Kuullut Maarian Miinalta
 </INF>
 </META>
 <TEXT>
-<CPT>Lehmä saa¤#240;aan olkia syömään.</CPT>
-<L>Mikkeli aamuna lyö¤#240;ään hakokirveellä kolmesta koh¤#240;en poikki oljet, 
+<CPT>Lehmä saa&#240;aan olkia syömään.</CPT>
+<L>Mikkeli aamuna lyö&#240;ään hakokirveellä kolmesta koh&#240;en poikki oljet, 
 
 
 
@@ -33240,7 +33240,7 @@ Annastuuna.
 </INF>
 </META>
 <TEXT>
-<L>Kun lehmää sonnin tykö vie¤#240;ään, niin ruokkia ottaa helmansa ylös ja 
+<L>Kun lehmää sonnin tykö vie&#240;ään, niin ruokkia ottaa helmansa ylös ja 
 pyhkiää niillä hameensa liepeillä sitä lehmää 3 kertaa päästä häntään päin ja 
 sanoo:</L>
 <V>"Huis naimaan, ota vatta, tut tiineeks!"</V>
@@ -33565,7 +33565,7 @@ Annastuuna.
 </META>
 <TEXT>
 <L>Kun ensi kertaa vasikalle juomaa annetaan, niin painetaan 3 kertaa pää 
-kylmään veteen korvia myö¤#240;en ja sanotaan:</L>
+kylmään veteen korvia myö&#240;en ja sanotaan:</L>
 <V>"Jua kylmät ja kuumat,</V>
 <V>kaikki mitä etees pannaan!"</V>
 <L>Sillä tavalla tulee vasikasta hyvä juomaan.</L>
@@ -34466,7 +34466,7 @@ Iso Heikki.
 </META>
 <TEXT>
 <CPT>Karjan ja kotieläinten hoitoa koskevia.</CPT>
-<L>Kun karjaa taikka hevosia laitumelle vie¤#240;esä#1 rukoilee onnee ja 
+<L>Kun karjaa taikka hevosia laitumelle vie&#240;esä#1 rukoilee onnee ja 
 siunausta semmosen mättään päällä, josa ei koskaan ok kirottu, niin ei susi syö 
 
 
@@ -34487,7 +34487,7 @@ siunausta semmosen mättään päällä, josa ei koskaan ok kirottu, niin ei sus
 eikä mitään muutakaan hamoa tu elukoille.</L>
 </TEXT>
 <REFS>
-#1 vie|d|esä : vie<I>¤#240;</I>esä.
+#1 vie|d|esä : vie<I>&#240;</I>esä.
 </REFS>
 </ITEM>
 
@@ -34506,10 +34506,10 @@ Matin Iisakki.
 <TEXT>
 <L>Kyllä niitä taikkauksia ennen oli ja uskottiin kaikellaisia. Oli sekin yks 
 taikkaus, kun keväällä karjaa ulos laskettiin, niin isäntä seiso naveton 
-kynnyksellä lukku kä¤#240;esä, semmonen putkilukku kun niitä vanhaan aikaan 
+kynnyksellä lukku kä&#240;esä, semmonen putkilukku kun niitä vanhaan aikaan 
 pruukattiin, ja stekku#1 viimenen elukka astu uls navetosta, ni#2 hän pisti 
 sel_lukun kii ja sano että:</L>
-<V>"Su¤#240;en suu lukkuun!"</V>
+<V>"Su&#240;en suu lukkuun!"</V>
 </TEXT>
 <REFS>
 #1 st|a|kku : st<I>e</I>kku.
@@ -34531,7 +34531,7 @@ Muurimestarin Loviisa.
 </META>
 <TEXT>
 <L>Kun pannaan tulirauta#1 kynnyksen alle ja veitti oven päälliseen ja luetaan 
-Isämei¤#240;än 3 kertaan juuri ennen kun karja ulos lasketaan, niin ei susi syö 
+Isämei&#240;än 3 kertaan juuri ennen kun karja ulos lasketaan, niin ei susi syö 
 
 
 
@@ -34568,7 +34568,7 @@ Annastuuna.
 </INF>
 </META>
 <TEXT>
-<L>Kun Yrjön yönä lyö¤#240;ään#1 määly koivuun, jonka on kusiaispesä ympäri, ja 
+<L>Kun Yrjön yönä lyö&#240;ään#1 määly koivuun, jonka on kusiaispesä ympäri, ja 
 
 
 
@@ -34589,10 +34589,10 @@ siihen pannaan lukku ja väännetään se lukku kii ja avain plakkarisa kierret�
 sitä koivua 3 kertaan myötäpäivää ja luetaan:</L>
 <V>Metsän hilli, metsän halli,</V>
 <V>metsän kullanen kuninkas,</V>
-<V>älä kaa¤#240;a karjahaani,</V>
+<V>älä kaa&#240;a karjahaani,</V>
 <V>älä murra mulliani,</V>
 <V>5 äläkä sorra sonniani,</V>
-<V>ja koskas joskus joukkoon jou¤#240;ut,</V>
+<V>ja koskas joskus joukkoon jou&#240;ut,</V>
 <V>älä ole riitainen porsas,</V>
 <V>ole siviän sikana,</V>
 <V>taikka talleporsahana.</V>
@@ -34601,10 +34601,10 @@ sitä koivua 3 kertaan myötäpäivää ja luetaan:</L>
 <V>Lapin lasten valkialle.</V>
 <V>Siäl' on suota sulle kyllä,</V>
 <V>kaunis kankas kapsutellas.</V>
-<L>Sitte tuo¤#240;aan avain kotio plakkarisa eikä susi#2 syö karjaa.</L>
+<L>Sitte tuo&#240;aan avain kotio plakkarisa eikä susi#2 syö karjaa.</L>
 </TEXT>
 <REFS>
-#1 yönä *lyö¤#240;ään* : y. l.
+#1 yönä *lyö&#240;ään* : y. l.
 #2 |se| : susi.
 </REFS>
 </ITEM>
@@ -36776,7 +36776,7 @@ tuli (vasikka) kotiin heti.</L>
 <CPT>Jos Hiisi vie karjan</CPT>
 <L>on sanottava:</L>
 <V>jos perkele on vieny,</V>
-<V>niin saatanan pittää tuo¤#240;a.</V>
+<V>niin saatanan pittää tuo&#240;a.</V>
 <L>(3 kert.)</L>
 </TEXT>
 </ITEM>
@@ -36794,8 +36794,8 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 </INF>
 </META>
 <TEXT>
-<CPT>Hii¤#240;enkätkö.</CPT>
-<L>Kun elukat on hii¤#240;enkätkössä, pannaan kätkyt uuniin ja tulta suuhun. 
+<CPT>Hii&#240;enkätkö.</CPT>
+<L>Kun elukat on hii&#240;enkätkössä, pannaan kätkyt uuniin ja tulta suuhun. 
 Elukat tulee sitte näkyviin. Eivät oo enää näkymättömässä hahmossa. Toinen sitä 
 
 
@@ -36815,11 +36815,11 @@ Elukat tulee sitte näkyviin. Eivät oo enää näkymättömässä hahmossa. Toi
 
 tehovampi keino on jos se ei tepsi:</L>
 <L>Katotaan kolme semmosta pihlajan vesaa, jotka on yhteen juureen kasvanu. 
-Sitte mennään mettään ja piiskataan ho¤#331;kaa. Lyö¤#240;ään kolmasti 
-sellaseen ho¤#331;kaan, johka ei ole kirveellä koskettu ja sanotaan:</L>
+Sitte mennään mettään ja piiskataan ho&#331;kaa. Lyö&#240;ään kolmasti 
+sellaseen ho&#331;kaan, johka ei ole kirveellä koskettu ja sanotaan:</L>
 <V>"Jos sun on Saatana vieny,</V>
 <V>niin tuo Perkeles takasin.</V>
-<L>Joka kerralla sanotaan sanat ja lyö¤#240;ään eri ho¤#331;kaan.</L>
+<L>Joka kerralla sanotaan sanat ja lyö&#240;ään eri ho&#331;kaan.</L>
 </TEXT>
 </ITEM>
 
@@ -37344,9 +37344,9 @@ Kurjenkylä. Kaisa Aho, n. 54 v.
 <TEXT>
 <CPT>Kateensilmä estetään kirnua pilaamasta.</CPT>
 <L>(Kirnua pestessä) kolme kiveä saunan pesästä ja kirnutaan kovasti ja sitte 
-se vie¤#240;ään pohjosen puolelle se vesi ja tullaan taakseen kattomatta 
+se vie&#240;ään pohjosen puolelle se vesi ja tullaan taakseen kattomatta 
 takasin. Sanat:</L>
-<V>"Tuli i¤#240;ästä, tuli lännestä,</V>
+<V>"Tuli i&#240;ästä, tuli lännestä,</V>
 <V>tuli pitkin pohjosen kivien ravosta piirtäen,</V>
 <V>mulkkujaan mulkutellen."</V>
 <L>Sitte toinen ihminen ei pääse sen kirnulle. Paha silmä ei pääse näkemään.</L>
@@ -39374,15 +39374,15 @@ Hilja Moisio.
 <TEXT>
 <L>- P a r a s t a sanoi tiedonantajani Karoliina Härmälä kuulleensa 
 kerrottavan seuraavaa:</L>
-<L>"u&#776;h¤#240;en talon_<SUP>n</SUP>emäntä rupes 
+<L>"u&#776;h&#240;en talon_<SUP>n</SUP>emäntä rupes 
 tekemä&#772;m_par&#774;ra&#772; 
 i&#815;a 
 meni u&#776;&#815;ksir_ri&#772;he&#772;n sitä tekemä&#772;<SUP>n</SUP>.</L>
 <L>Kon_nei&#815; para su&#776;ntu&#776;nu&#772;k&#774;kän&#812; sano emäntä:</L>
-<V>o¤#331;ko silmä&#772; näkemäsä i&#815;a korva&#772;</V>
+<V>o&#331;ko silmä&#772; näkemäsä i&#815;a korva&#772;</V>
 <V>ku&#772;lemasa kon&#774;_nei&#815; para su&#776;n&#774;nu&#776;kkäi&#815;</V>
 <L>i&#815;a emäntä lähti pois ri&#772;hestä.</L>
-<L>Mutta tre¤#331;ki oli emän&#774;nän tietämätä ol&#774;lur_ri&#772;hesä 
+<L>Mutta tre&#331;ki oli emän&#774;nän tietämätä ol&#774;lur_ri&#772;hesä 
 pavosa i&#815;a 
 
 
@@ -39396,12 +39396,12 @@ pavosa i&#815;a
 
 
 ku&#772;li i&#815;a näki emän&#774;nän konstit. Kon&#774;_<SUP>n</SUP>emäntä 
-s<SUP>i</SUP>ttel&#774;_lähti ri&#772;hestä, tuli tre¤#331;ki i&#815;a sano:</L>
+s<SUP>i</SUP>ttel&#774;_lähti ri&#772;hestä, tuli tre&#331;ki i&#815;a sano:</L>
 
 
 
 
-<V>"pualen&#774;_<SUP>n</SUP>äm&#774;män si¤#603;lu<SUP>v</SUP>a i&#815;a 
+<V>"pualen&#774;_<SUP>n</SUP>äm&#774;män si&#603;lu<SUP>v</SUP>a i&#815;a 
 pualen&#774;_<SUP>n</SUP>ämmär&#774;_ru&#772;mista, para tästä</V>
 <V>su&#776;ntu&#776;kö&#772;<SUP>n</SUP>."</V>
 <L>Nu&#776;s&#774;_su&#776;ntu&#776;kin&#812; 
@@ -41948,7 +41948,7 @@ viemään porstuaan ja huutaa:</L>
 <V>"missis massis,</V>
 <V>tule puuroo voittamaan#1."</V>
 <L>(Kun tonttu tuli, niin) piika aatteli, että mikä se on ja löi sitä jalkaan. 
-Sillon piti emännän jalan ehtoollispöy¤#240;ässä menneen poikki.</L>
+Sillon piti emännän jalan ehtoollispöy&#240;ässä menneen poikki.</L>
 </TEXT>
 <REFS>
 #1 [= voilla höystämään.]
@@ -41973,11 +41973,11 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 <V>"Synny#1 para, synny para,</V>
 <V>ei#2 oo kuuta eikä aurinkoa."</V>
 <L>Kun para syntyi, niin se kysyi, että</L>
-<V>"Mitäs#1 tah¤#240;ot?"</V>
+<V>"Mitäs#1 tah&#240;ot?"</V>
 <L>Se tahto voita ja viiliä, mutta naapurin emäntä, joka oli salaa kuulemassa, 
 ennätti ennen sanoa:</L>
 <V>"Kusta#1 ja paskaa."</V>
-<L>Se kantoi, että oli la¤#240;okkin täynnä.</L>
+<L>Se kantoi, että oli la&#240;okkin täynnä.</L>
 </TEXT>
 </ITEM>
 
@@ -42388,7 +42388,7 @@ Ison-Salon vanha emäntä, 76 v.
 <TEXT>
 <V>Kontio nou&#815;si korvesta,</V>
 <V>neljän silmän mulkamalla,</V>
-<V>kah¤#240;en hännän roi&#815;kamalla (rou&#815;kamalla),</V>
+<V>kah&#240;en hännän roi&#815;kamalla (rou&#815;kamalla),</V>
 <V>hihnoista hiti[n] pitimet,</V>
 <V>pusta pui&#815;kullui&#815;kuttimet.</V>
 </TEXT>
@@ -43183,7 +43183,7 @@ Kurjenkylä. Eetu Koivumäki, 30 v.
 </META>
 <TEXT>
 <CPT>Karhunnosto.</CPT>
-<L>Eetu Koivumäki sanoi: "Kerran äiteni toimitti: Kun riipuleh¤#240;es 
+<L>Eetu Koivumäki sanoi: "Kerran äiteni toimitti: Kun riipuleh&#240;es 
 kuljettiin, niin se mummo#1 oli tullu sieltä mettästä riipulehtikoppa seljässä, 
 
 
@@ -43204,8 +43204,8 @@ kuljettiin, niin se mummo#1 oli tullu sieltä mettästä riipulehtikoppa seljäs
 ja äiti oli ollu muuramia noukkimassa kirkon sillan takana. Siellä oli ollu 
 isän hevonen. Se (mummo) oli sanonut:</L>
 <V>"siinäkö sinäkin karhun ruoka olet.</V>
-<V>Nouse karhu ka¤#331;kahalta,</V>
-<V>vihanen vitta vii¤#240;asta</V>
+<V>Nouse karhu ka&#331;kahalta,</V>
+<V>vihanen vitta vii&#240;asta</V>
 <V>ja syö niin,</V>
 <V>5 ettei luun nyppyä jää."</V>
 </TEXT>
@@ -44223,9 +44223,9 @@ Kurjenkylä. Juho Ruohonen, 40 v,
 </INF>
 </META>
 <TEXT>
-<L>Kun lampaat ovat hii¤#240;en-kätkössä#1, niin ho¤#331;kivaaja pannaan 
-mettäskannon (= tervaskanto) nenään ja ho¤#331;kinuijalla lyö¤#240;ään. Sitte 
-kirotaan ja hypätään ylös: "Sen pitää käy¤#240;ä lampaisiin."</L>
+<L>Kun lampaat ovat hii&#240;en-kätkössä#1, niin ho&#331;kivaaja pannaan 
+mettäskannon (= tervaskanto) nenään ja ho&#331;kinuijalla lyö&#240;ään. Sitte 
+kirotaan ja hypätään ylös: "Sen pitää käy&#240;ä lampaisiin."</L>
 <L>(lampaat taijan pakotuksesta siis tulleet niin lähelle).</L>
 </TEXT>
 <REFS>
@@ -44730,7 +44730,7 @@ Kirkonkylä. Juho Ruohonen, 49 v.
 <CPT>Lampaat syötetään pedoilla.</CPT>
 <L>- - -</L>
 <L>Hakalan Aaprami vainaan pellosta söivät ohran Leppäsen lampaat. Se löi 
-ho¤#331;kivaajan ho¤#331;kinuijalla kannonnenästä lammaslaumaan ja sano 
+ho&#331;kivaajan ho&#331;kinuijalla kannonnenästä lammaslaumaan ja sano 
 kiroten:</L>
 <V>"Huomenna#1 maha kainalos palaatte!"</V>
 <L>Niin kävi kans.</L>
@@ -45038,7 +45038,7 @@ Kyynärjärvi. Juha Aatamimpoika, 63 v.
 <TEXT>
 <CPT>Kärpän sanat.</CPT>
 <V>"Kärppä nimes,</V>
-<V>Pi¤#240;ä vihas,</V>
+<V>Pi&#240;ä vihas,</V>
 <V>Kanna kipus,</V>
 <V>Anna itikalle itikan terveys!"</V>
 <L>Nämät sanat luetaan kerran 3 leivän palaan, joissa on voita päällä. Sitten 
@@ -45276,15 +45276,15 @@ Vuorijärvi. Nikoteemus Aatamimpoika, 55 v.
 <TEXT>
 <CPT>Kleinin sanat.</CPT>
 <V>"Kleini nimes,</V>
-<V>Pi¤#240;ä vihas,</V>
+<V>Pi&#240;ä vihas,</V>
 <V>Kanna kipus,</V>
 <V>Anna lehmälle lehmän terveys!</V>
 <V>5 Ajetus-kleini nimes,</V>
-<V>Pi¤#240;ä vihas,</V>
+<V>Pi&#240;ä vihas,</V>
 <V>Kanna kipus,</V>
 <V>Anna lehmälle lehmän terveys!</V>
 <V>Särkemys-kleini nimes,</V>
-<V>10 Pi¤#240;ä vihas,</V>
+<V>10 Pi&#240;ä vihas,</V>
 <V>Kanna kipus,</V>
 <V>Anna lehmälle lehmän terveys!</V>
 <V>Pois pahat kleinit</V>
@@ -46302,7 +46302,7 @@ Vuorijärvi. Nikoteemus Aatamimpoika, 55 v.
 <TEXT>
 <CPT>Painajaisen sanat.</CPT>
 <V>"Painajainen nimes,</V>
-<V>Pi¤#240;ä vihas,</V>
+<V>Pi&#240;ä vihas,</V>
 <V>Kanna kipus,</V>
 <V>Anna itikalle itikan menestys."</V>
 <L>Nämät sanat luetaan 3 kert. suoloihin, joita annetaan "itikalle". Sitten 
@@ -46828,7 +46828,7 @@ päähän saakka kädellään ja lausuu:</L>
 <CPT>"Lehmä oli kipee".</CPT>
 <L>Kun lehmä oli kipee piti lukea ensin "Herran rukous" ja "Herran siunaus", 
 sitten sivellä itikkaa pitkin selkää ja sanoa 3 kertaa:</L>
-<V>"Pi¤#240;ä sinä omas ja voimas</V>
+<V>"Pi&#240;ä sinä omas ja voimas</V>
 <V>ja anna lehmäm_pitää omas ja voimas."</V>
 </TEXT>
 </ITEM>
@@ -46893,7 +46893,7 @@ sanat:</L>
 <L>Neitsy#2 Maaria sano:</L>
 <V>"Ei#1, jo se parani!"</V>
 <L>3 kertaan vaikka leivänpalaseen ja antaa se palanen sitte sen kipeen lehmän 
-taikka muun elävän syö¤#240;ä; mikä kipee on, niin se paranee, minä oon 
+taikka muun elävän syö&#240;ä; mikä kipee on, niin se paranee, minä oon 
 koittanu usein."</L>
 </TEXT>
 <REFS>
@@ -47136,7 +47136,7 @@ paitsi lopussa sanottiin vain:</L>
 <L>3 leivän palaa syötettiin elikolle ja jokaiseen leivän palaan sanottiin 3 
 kertaa.</L>
 <V>"Yh, ähky, siirrä sijaa,</V>
-<V>muuta majaa sinne kusas hyvän penkin löy¤#240;ät,</V>
+<V>muuta majaa sinne kusas hyvän penkin löy&#240;ät,</V>
 <V>50 syltä syvään maan alle.</V>
 </TEXT>
 </ITEM>
@@ -47205,7 +47205,7 @@ lyötiin sellaisilla saappailla, jotka oli pyhäpäivänä rasvoittu ja tervattu
 Samalla sanoi lyöjä:</L>
 <V>"nou&#815;se u&#776;lös ra&#772;to,</V>
 <V>mitäs si&#772;nä mak&#774;ka&#772;t</V>
-<V>ni¤#331;_kon_sem&#774;monem_mi<SUP>i&#815;</SUP>äs helvetisä,</V>
+<V>ni&#331;_kon_sem&#774;monem_mi<SUP>i&#815;</SUP>äs helvetisä,</V>
 <V>kom_pu&#776;hänä sa&#772;ppa&#772;nsa rasvo&#772; i&#815;a terva&#772;.</V>
 </TEXT>
 </ITEM>
@@ -47429,7 +47429,7 @@ Rajasalo. Iisakki Linnamäki, 80 v.
 <V>"Ähky, puhku, ähmäläinen,</V>
 <V>Hepo meran varsa,</V>
 <V>Pilven piika,</V>
-<V>Koh¤#240;attimpa neitsy Maariaki</V>
+<V>Koh&#240;attimpa neitsy Maariaki</V>
 <V>5 Alttarilla ja kirkon kynnyksis."</V>
 <L>Nämät sanat luetaan 3 kert. kuhunkin kolmeen leivän palaan (yht. 9 kert.), 
 jotka annetaan kipeälle hevoselle eli lehmälle.</L>
@@ -47451,7 +47451,7 @@ Kyynärjärvi. Juha Aatamimpoika, 63 v.
 <TEXT>
 <CPT>Ähyn sanat.</CPT>
 <V>"Ähky nimes,</V>
-<V>Pi¤#240;ä vihas,</V>
+<V>Pi&#240;ä vihas,</V>
 <V>Kanna kipus,</V>
 <V>Anna itikalle itikan terveys!</V>
 <V>5 Ähky, puhku, pulleroinen</V>
@@ -48655,7 +48655,7 @@ Iso Heikki.
 <TEXT>
 <L>Kuj_jouluauttona#1 menee riihen alle ja sanoo 3 kertaa:</L>
 <V>"Juu, jaa, sinun N.N.,oljet, minun jyvät!"</V>
-<L>Niin#2 saa siittä riihestä sa¤#240;on.</L>
+<L>Niin#2 saa siittä riihestä sa&#240;on.</L>
 </TEXT>
 <REFS>
 #1 joulua|a|ttona : joulua<I>u</I>ttona.
@@ -51319,7 +51319,7 @@ Jyllin kylä. Eeva ja Kalle Hakala.
 patukka&#772;n. ste lasketti&#772;m_mäkeä kel<SUP>e</SUP>kalla ja 
 hu&#772;letti&#772;(n):</L>
 <V>kul<SUP>i</SUP>jek_kel<SUP>e</SUP>kka, siansorkka,</V>
-<V>makkara pist¤#603;&#772; vastan.</V>
+<V>makkara pist&#603;&#772; vastan.</V>
 </TEXT>
 </ITEM>
 
@@ -51663,8 +51663,8 @@ Saatu Lammin vanhalta isännältä.
 <TEXT>
 <CPT>Sateentorjumissanat.</CPT>
 <V>Mene#1, pilvi, Pirkkala&#772;n,</V>
-<V>si¤#603;&#815;lä vettä tarvitahan,</V>
-<V>si¤#603;&#815;lä lapset ristimätä, kastamata,</V>
+<V>si&#603;&#815;lä vettä tarvitahan,</V>
+<V>si&#603;&#815;lä lapset ristimätä, kastamata,</V>
 <V>kai&#815;kki kaivot kui&#815;vune&#772;t,</V>
 <V>5 lähte&#772;t läkähtu&#776;ne&#772;t.</V>
 </TEXT>
@@ -51689,8 +51689,8 @@ Saatu Lammin vanhalta isännältä.
 "Leppä-Kristus" näillä sanoilla karkoittanut sateen heinäpellolta sapilaalla 
 hosuen.</L>
 <V>Mene#1, pilvi, Pirkkala&#772;n,</V>
-<V>mene, sa¤#240;e, Sarkkala&#772;n,</V>
-<V>sa¤#240;a si¤#603;&#815;la sa&#772;vin täu&#776;&#815;&#774;si.</V>
+<V>mene, sa&#240;e, Sarkkala&#772;n,</V>
+<V>sa&#240;a si&#603;&#815;la sa&#772;vin täu&#776;&#815;&#774;si.</V>
 </TEXT>
 <REFS>
 #1 kk:ssa pieni alkukirjain.
@@ -52013,7 +52013,7 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 <TEXT>
 <CPT>Naurismaa säu&#776;yy varkailta.</CPT>
 <L>Naurismaa mitataan ruumiinarkun mittapuulla kolmesti vastapäivää. Mittapuu 
-pistetään siihen pystyyn, mistä on läh¤#240;etty mittaamaan. Sanotaan:</L>
+pistetään siihen pystyyn, mistä on läh&#240;etty mittaamaan. Sanotaan:</L>
 <V>"Sun pitää säilyttää kaikki, mitä sisälläsi on."</V>
 <L>Lisäys. Tämä taika ei voi estää sisälle menoa, vaan ulos pääsön.</L>
 </TEXT>
@@ -52502,7 +52502,7 @@ Isoröyhiö. Maria Hakala, 43 v.
 <TEXT>
 <CPT>Metsän lukitsemis-sanat.</CPT>
 <L>("Mettä lukitaan" on kertojan sanoma nimi.)</L>
-<V>"Jesus ja Pietari kulki tiätä myä¤#240;en.</V>
+<V>"Jesus ja Pietari kulki tiätä myä&#240;en.</V>
 <V>Tuli kirot.</V>
 <V>Jesus kirot kiroi:</V>
 <V>"Tuanne#1 ma sun kiroon</V>
@@ -52661,7 +52661,7 @@ Rajasalo. Iisakki Linnamäki, 80 v.
 <CPT>Valkeen sanat.</CPT>
 <V>"Enkeli puhalsi sarveen,</V>
 <V>Josta meille valkee ilmestyi.</V>
-<V>Vanhin käski ve¤#240;ellä sammuttaa.</V>
+<V>Vanhin käski ve&#240;ellä sammuttaa.</V>
 <V>Vesi valvokoon, mutta</V>
 <V>5 Valkee kulta levätköön."'#1</V>
 <L>Nämät sanat, sekä "Isä meidän" luetaan 3 kertaan, joka kerralla, kun 
@@ -53062,7 +53062,7 @@ Lammin nuoriemäntä, n. 32 v.
 </META>
 <TEXT>
 <L>Kun syttyi tulipalo, niin piti kiertää ympäri palavan paikan ja sanoa 3 
-kertaa "valkeen sanat", niin se pi¤#240;ätti valkeen:</L>
+kertaa "valkeen sanat", niin se pi&#240;ätti valkeen:</L>
 <V>"Neitsy Maaria emonen,</V>
 <V>ota jä tä[!] vähänen,</V>
 <V>jollas tulen tukahutat,</V>
@@ -54704,7 +54704,7 @@ Näyhälä. Väinö Vastamäki. Kuullut äidiltään Sofia Vastamäeltä.
 <CPT>Miten saa tietää, jos tulee samana vuonna naimisiin.</CPT>
 <L>Laskiais tiistain iltana menevät tytöt sikaläätin oventaakse ja kysyvät 
 siellä:</L>
-<V>Nae&#796;&#775;raa¤#331;ks mää tänävuan?</V>
+<V>Nae&#796;&#775;raa&#331;ks mää tänävuan?</V>
 <L>Jos sitte sika röhähtää, niin sitte naidaan, mutta jos se vinkasee, niin 
 kysyjä saa äpärälapsen.</L>
 </TEXT>
@@ -54937,9 +54937,9 @@ Rautajoen emäntä.
 </META>
 <TEXT>
 <L>Laskiais-iltana mennään läätin oven taka ja kysytään sialta:</L>
-<V>"Joko ma pian nai¤#240;aan?"</V>
-<L>Jos sikä röhähtää kerran, niin nai¤#240;aan jo sinä vuanna; jos se röhähtää 
-2 kertaa, niin nai¤#240;aan toisena vuanna j.n.e. Kolme kertaa saa kysymyksensä 
+<V>"Joko ma pian nai&#240;aan?"</V>
+<L>Jos sikä röhähtää kerran, niin nai&#240;aan jo sinä vuanna; jos se röhähtää 
+2 kertaa, niin nai&#240;aan toisena vuanna j.n.e. Kolme kertaa saa kysymyksensä 
 
 
 
@@ -54956,7 +54956,7 @@ Rautajoen emäntä.
 
 
 
-uu¤#240;istaa, mutta jos ei sika sittenkään vastaa mitään, niin ei nai¤#240;a 
+uu&#240;istaa, mutta jos ei sika sittenkään vastaa mitään, niin ei nai&#240;a 
 ollenkaan.</L>
 </TEXT>
 </ITEM>
@@ -57628,7 +57628,7 @@ Viinamäen Miina.
 </INF>
 </META>
 <TEXT>
-<L>Ku heittä suoloja uuniin ja lukee isämei¤#240;än takaperin, niin ei leivät 
+<L>Ku heittä suoloja uuniin ja lukee isämei&#240;än takaperin, niin ei leivät 
 pala.</L>
 </TEXT>
 </ITEM>
@@ -58353,7 +58353,7 @@ Illo. Anna-Stiina Korkeemäki, 70 v.
 <TEXT>
 <CPT>Taika.</CPT>
 <L>"Luteen saa lähtemään pois huaneesta siten, että käskee kaksi 
-viarastamiästä, avaa oven, huiskii luu¤#240;alla ja sanoo:</L>
+viarastamiästä, avaa oven, huiskii luu&#240;alla ja sanoo:</L>
 <V>"uls mun huaneestani</V>
 <V>kirput, luteet ja muut."</V>
 </TEXT>
@@ -59516,8 +59516,8 @@ Eetu Koivumäki, 30 v.
 </INF>
 </META>
 <TEXT>
-<L>Isäntä rissasi re¤#331;kiä lauvantai ehtoona, että olisi pitänyt viitakkeet 
-terottaa valmiiks(i) maanantai-aamuks(i). Re¤#331;ki hioi vähä aikaa, mutta 
+<L>Isäntä rissasi re&#331;kiä lauvantai ehtoona, että olisi pitänyt viitakkeet 
+terottaa valmiiks(i) maanantai-aamuks(i). Re&#331;ki hioi vähä aikaa, mutta 
 suuttui lopuks ja sanoi:</L>
 <V>"Terottakoon#1 tuhannen perkelestä."</V>
 <L>Sitte kun tuli takasin niitulta, niin niitä tuli vastaan.</L>
@@ -59618,9 +59618,9 @@ Iso Heikki.
 </INF>
 </META>
 <TEXT>
-<L>"Minä rukoilen Jumalaa, että hän antas mulle tia¤#240;on, toimen#1 ja 
+<L>"Minä rukoilen Jumalaa, että hän antas mulle tia&#240;on, toimen#1 ja 
 ymmärryksen. Ja kun minä kattelem maan#2 laatua, niimmnä otan plakkaristani 
-yh¤#240;en kiven, ja mnä aattelen,</L>
+yh&#240;en kiven, ja mnä aattelen,</L>
 <V>ettei Jumala katto sitä minulle synniks,</V>
 <V>eipä hän sitäkään kattonut synniks,</V>
 <V>kun Aaprahamin palvelia semmosen merkin kautta Iisakille</V>
@@ -60031,9 +60031,9 @@ Torttila. Kustaa Anttila, 60 v.
 <TEXT>
 <CPT>Aarnihao&#796;&#775;ta.</CPT>
 <L>Yks#1 äjjä meinas et hän uhraa raha&#768;s#2 maahaan, ettei kukkaan niist 
-hyäry#3 ko#4 hä¤#331; kualee. Hä funteeras#5 et hän hao&#796;&#775;taa#6 ne 
+hyäry#3 ko#4 hä&#331; kualee. Hä funteeras#5 et hän hao&#796;&#775;taa#6 ne 
 semmosen 
-uhri¤#331; kans ettei kukkaan ikä&#768;n niit yls saa ja funtoeras ja funteeras 
+uhri&#331; kans ettei kukkaan ikä&#768;n niit yls saa ja funtoeras ja funteeras 
 
 
 
@@ -60082,7 +60082,7 @@ virittää valkeet hao&#796;&#775;taan#12 sit ko valkee paloi hao&#796;&#775;ras
 ni äijjä sannoo 
 uhri sanat ja sannoo:</L>
 <V>ettei niit rahoi saa haltija siält antaa</V>
-<V>jolsei kahre¤#331; veljespojam päät katkast hao&#796;&#775;ral.</V>
+<V>jolsei kahre&#331; veljespojam päät katkast hao&#796;&#775;ral.</V>
 <L>Ko setämiäs kuuli puuhuun sen, ni huusi siält et "Kelpaaks se ko kahren 
 kuko&#768;m pojam pää katkastaan"? Äjjä pelläästyi ja huusi et</L>
 <V>"Kelvakkoo vaan, kylkai ylhäe&#796;&#775;nem isä sem paremmin tiätää</V>
@@ -60123,8 +60123,8 @@ Torttila. Kustaa Anttila, 60 v.
 meinas#1 kyl 
 mää sul lurjus#2 opetan. Em#3 mää ans sul penniikäm peri&#768;ntöö.</L>
 <L>Poe&#796;&#775;ka funteeras#4 et ets sää äjjä pejjakas#5 vaam mahr meinat 
-hao&#796;&#775;rat#6 rahojas; mut ne meini¤#331;kit juur äjjäl oli.</L>
-<L>Äjjä koko&#768;s raha&#768;t konttiis ja haki lapijoj juur kuistimpiälee¤#331;#7 ko 
+hao&#796;&#775;rat#6 rahojas; mut ne meini&#331;kit juur äjjäl oli.</L>
+<L>Äjjä koko&#768;s raha&#768;t konttiis ja haki lapijoj juur kuistimpiälee&#331;#7 ko 
 
 
 
@@ -60167,14 +60167,14 @@ poe&#796;&#775;ka luuli äijäm mene&#768;vän hake&#769;maan lapijoo kottoo et 
 
 saanu 
 sillae&#796;&#775;kaa kontin tyhjentää. Muttei poe&#796;&#775;ka saanukkaan 
-meini¤#331;keitäs 
-luanaamaan.#8 Ko lapijov varsi katkes ni äjjä rupes kae&#796;&#775;vamaa¤#331; 
+meini&#331;keitäs 
+luanaamaan.#8 Ko lapijov varsi katkes ni äjjä rupes kae&#796;&#775;vamaa&#331; 
 kynsij 
-ja ko oli saanu kuapa¤#331; kae&#796;&#775;vettuks ni sanoi, ohhoh, kylläpä 
+ja ko oli saanu kuapa&#331; kae&#796;&#775;vettuks ni sanoi, ohhoh, kylläpä 
 kynnet 
 kului.</L>
 <V>Pysy&#768;köön ny raha&#769;t siäl</V>
-<V>ni¤#331; kavva¤#331; ko mu¤#331; kynsilläni ne</V>
+<V>ni&#331; kavva&#331; ko mu&#331; kynsilläni ne</V>
 <V>taas yls kae&#796;&#775;vetaan.</V>
 <V>- - -</V>
 </TEXT>
@@ -60185,7 +60185,7 @@ kului.</L>
 #4 r. arveli.
 #5 r. kiroussana.
 #6 r. kuoppaan pann.
-#7 - pialee|n| : piälee<I>¤#331;</I>.
+#7 - pialee|n| : piälee<I>&#331;</I>.
 8 r. onnistumaan.
 </REFS>
 </ITEM>
@@ -60206,16 +60206,16 @@ Hiirijärvi. Matti Anshelm Fors, 62 v.
 <L>- - -</L>
 <L>Vähän ajan takkaa tuli faari kans mettääj ja teki valkeen tervaksiij ja 
 kaasi viinaa valkeeseej ja luki noe&#796;&#775;ta sanoi:</L>
-<L>Ko ensimäe&#796;&#775;se¤#331; kerra¤#331; kaasi ni kuului mettäst 
+<L>Ko ensimäe&#796;&#775;se&#331; kerra&#331; kaasi ni kuului mettäst 
 koha&#769;us ja 
 vare&#769;s lensi aarnihao&#796;&#775;ram pääl.#1</L>
 <L>"Essää kelpaa", sanoi faari, "ei sinnuu kukkaam pelkää."</L>
-<L>Kaasi toe&#796;&#775;se¤#331; kerrav valkeeseev viinaa ni kuului mettäst 
-ni¤#331; 
+<L>Kaasi toe&#796;&#775;se&#331; kerrav valkeeseev viinaa ni kuului mettäst 
+ni&#331; 
 kova kohaus et puun oksat katkeili ja tuli mettäst karhu ja meni 
 aarnihao&#796;&#775;ram pääl. "Et sää kelpaa", sanoi faari, "sää pelläätät 
 karjanki".</L>
-<L>Kaasi kolmanne¤#331; kerrav viinaa valkeeseej ja sit tuli piäni musta miäs#2 
+<L>Kaasi kolmanne&#331; kerrav viinaa valkeeseej ja sit tuli piäni musta miäs#2 
 
 
 
@@ -60232,9 +60232,9 @@ karjanki".</L>
 
 
 
-semmosel kohi&#770;nal et koko mettäs kävi kova&#769; tuulispää eikä tre¤#331;ki 
+semmosel kohi&#770;nal et koko mettäs kävi kova&#769; tuulispää eikä tre&#331;ki 
 tahtonu puus pyssyy.</L>
-<L>Piäni musta miäs meni aarnihao&#796;&#775;ram pääl ja sanoi et o¤#331;ks 
+<L>Piäni musta miäs meni aarnihao&#796;&#775;ram pääl ja sanoi et o&#331;ks 
 kontrahti#3 
 
 
@@ -60265,7 +60265,7 @@ meni hao&#796;&#775;taan.</L>
 #2 r. itse piru.
 #3 Ei N:lan omissa saduissa aarnihaudoista tunneta välikirjoista mitään.
 #4 r. että.
-#5 vase¤#331; : vasse<I>i¤#331;</I>, r. näet.
+#5 vase&#331; : vasse<I>i&#331;</I>, r. näet.
 #6 tukkoj|j| : t.
 #7 r. käärmeeksi.
 </REFS>
@@ -60780,7 +60780,7 @@ Kirkonkylä. Eetu Koivumäki.
 
 
 
-<V>"Sen ei pi¤#240;ä ennen nousta,</V>
+<V>"Sen ei pi&#240;ä ennen nousta,</V>
 <V>jos ei kolme poikalapsen päätä</V>
 <V>katkasta sen päälle."</V>
 <V>- -</V>
@@ -61425,7 +61425,7 @@ Iso Heikki.
 </META>
 <TEXT>
 <L>Trankiks saa toisen sillä tavalla, kun ottaa viinaa ja kaataa semmosen 
-pikarillisen, ettei toinen voi juo¤#240;a kaikkia ja heittää sen lopun sitte 
+pikarillisen, ettei toinen voi juo&#240;a kaikkia ja heittää sen lopun sitte 
 palavaan pesään ja sanoo:</L>
 <V>"Sinun mieles</V>
 <V>se ja se -</V>
@@ -61448,7 +61448,7 @@ Kurjenkylä. Juho Ruohonen. n. 40 v.
 </INF>
 </META>
 <TEXT>
-<CPT>Juopuksi joku noi¤#240;utaan.</CPT>
+<CPT>Juopuksi joku noi&#240;utaan.</CPT>
 <L>Tarjotaan viinaryyppy ja annetaan niin paljon, että se jättää lopun, jos ei 
 ensimäisestä ryypystä, niin toisista. Se loppu heitetään palavaan uuniin ja 
 sanotaan:</L>
@@ -63336,8 +63336,8 @@ Iso Heikki.
 
 
 
-se, kun ottaa sen huoneen kynnyksestä, josta raha ka¤#240;onnut on, 3 lastua, 
-kolmesta eri koh¤#240;asta, ja sitoo ne lastut ensin eri kimppuihin, mutta 
+se, kun ottaa sen huoneen kynnyksestä, josta raha ka&#240;onnut on, 3 lastua, 
+kolmesta eri koh&#240;asta, ja sitoo ne lastut ensin eri kimppuihin, mutta 
 sitte ne kimput taas kaikki yhteen kimppuun, ja viä#2 sen kimpun sitte kirkon 
 tapuliin ennen kun kelloja ruvetaan soittaan ja pistää sen sitte sen rahkeen ja 
 
@@ -63406,7 +63406,7 @@ sääriluun ottaa. Sitte se sääriluu pitää viätämän siihen paikkaan, jost
 
 
 
-ka¤#240;onnut on, ja hivutettaman sillä sääriluulla sitä paikkaa, ja sitte 
+ka&#240;onnut on, ja hivutettaman sillä sääriluulla sitä paikkaa, ja sitte 
 viätämän se sääriluu koskesa kasvavaan paijuun tai muuhun puuhun ja sitoman sen 
 
 
@@ -63425,7 +63425,7 @@ viätämän se sääriluu koskesa kasvavaan paijuun tai muuhun puuhun ja sitoman
 
 
 punasella lankalla siihen pyörimään. Ja sillon kun hivutetaan sitä paikkaa, 
-josta ka¤#240;onnut on, sanotaan:</L>
+josta ka&#240;onnut on, sanotaan:</L>
 <V>"Muista#1 se, ettäs mun omani takasin tuot!"</V>
 <L>Ja#2 kun sitten on viety se luu koskeen, nin alkaa varkaan säärtä kovasti 
 polttaa. Mutta se luu on kohta toimitettava enttiseen#3 paikkaansa, 
@@ -63963,7 +63963,7 @@ Kurjenkylä. Juho Ruohonen, 40 v.
 <CPT>Varatussa naurismaassa käydään.</CPT>
 <L>(Katso naurismaa säilyy varkailta [= 4836]).</L>
 <L>Siitä vielä otetaan nauriita, joka tietää taian. Kun tullaan takasin 
-ai¤#240;alle, niin heitetään kolme vasemman olan ylitte ja sanotaan:</L>
+ai&#240;alle, niin heitetään kolme vasemman olan ylitte ja sanotaan:</L>
 <V>"tuossa on vaivan nähneelle."</V>
 </TEXT>
 </ITEM>
@@ -66156,22 +66156,22 @@ Mahnala. Iida Kujanpää, 63 v.
 </INF>
 </META>
 <TEXT>
-<V>Eppäs ti¤#603;&#815;lam mi¤#331;kä löu&#776;&#815;sin?</V>
-<V>Löu&#776;&#815;sim pi¤#603;&#815;nel linnumpesän,</V>
-<V>josta keitiv&#816; velli¤#331;kiä.</V>
-<V>Tuli katti kau&#815;pu¤#331;kista,</V>
+<V>Eppäs ti&#603;&#815;lam mi&#331;kä löu&#776;&#815;sin?</V>
+<V>Löu&#776;&#815;sim pi&#603;&#815;nel linnumpesän,</V>
+<V>josta keitiv&#816; velli&#331;kiä.</V>
+<V>Tuli katti kau&#815;pu&#331;kista,</V>
 <V>5 latki vellil lapsinensa,</V>
 <V>söi&#815; vellim perhei&#815;nensä.</V>
 <V>Minä katin ajoho&#772;n;</V>
-<V>ajo¤#331; kati¤#331; kaupu¤#331;kista.</V>
-<V>Si¤#603;&#815;la katti tu&#945;&#814;mitti&#772;n,</V>
-<V>10 virusilmä vi¤#603;&#814;tetti&#772;n</V>
+<V>ajo&#331; kati&#331; kaupu&#331;kista.</V>
+<V>Si&#603;&#815;la katti tu&#945;&#814;mitti&#772;n,</V>
+<V>10 virusilmä vi&#603;&#814;tetti&#772;n</V>
 <V>sanava&#772;n sakka&#772;n,</V>
-<V>lu&#776;¤#331;kä&#772;l lepp¤#603;&#772;n,</V>
-<V>kui&#815;va&#772;¤#331; ku&#772;se&#772;n,</V>
-<V>kovera&#772;¤#331; kou&#815;kku&#772;n,</V>
-<V>15 märk¤#603;&#772;m mäntu&#776;&#772;n,</V>
-<V>lakkap¤#603;&#772;häm petäj¤#603;&#772;n.</V>
+<V>lu&#776;&#331;kä&#772;l lepp&#603;&#772;n,</V>
+<V>kui&#815;va&#772;&#331; ku&#772;se&#772;n,</V>
+<V>kovera&#772;&#331; kou&#815;kku&#772;n,</V>
+<V>15 märk&#603;&#772;m mäntu&#776;&#772;n,</V>
+<V>lakkap&#603;&#772;häm petäj&#603;&#772;n.</V>
 </TEXT>
 </ITEM>
 
@@ -67248,8 +67248,8 @@ Maija Viitala, 74 v. Ruovedeltä; ollut 60 v. H:kyrön Mahnalassa.
 <V>Viemeröinen vilkutteli</V>
 <V>joessa Joortanissa,</V>
 <V>suuressa Kuparaativ virrassa</V>
-<V>5 jäine¤#331; kattila sylissä,</V>
-<V>jäine¤#331; kauha kattilassa,</V>
+<V>5 jäine&#331; kattila sylissä,</V>
+<V>jäine&#331; kauha kattilassa,</V>
 <V>jolla hän tulta tummentaa</V>
 <V>ja valkeata vaimentaa.</V>
 <L>Sanat luettiin palanutta ruumiinosaa parannettaessa; samalla syljettiin 
@@ -73957,12 +73957,12 @@ Palo. Liisa Kristoo, 24 v.
 </INF>
 </META>
 <TEXT>
-<V>Meni¤#331; kerram mullilham</V>
+<V>Meni&#331; kerram mullilham</V>
 <V>Mustia villoja vaihtamhan.</V>
 <V>Mullilam musta koira tuli vasthan,</V>
 <V>Minä hyppäsin airallen,</V>
 <V>5 Aita kaatuu kahrem pualen.</V>
-<V>Minä hyppäsi¤#331; kivellen,</V>
+<V>Minä hyppäsi&#331; kivellen,</V>
 <V>Kivi muuttuu mereksi.</V>
 <V>Merellä oli kivi,</V>
 <V>Kivellä oli tupa.</V>
@@ -73970,8 +73970,8 @@ Palo. Liisa Kristoo, 24 v.
 <V>Kolmep piäntä poikaa.</V>
 <V>Kuka siälä tuvas asuu?</V>
 <V>Kolmep piäntä flikkaa.</V>
-<V>Yksi kutoo kultala¤#331;kaa,</V>
-<V>15 Toinen hopiala¤#331;kaa,</V>
+<V>Yksi kutoo kultala&#331;kaa,</V>
+<V>15 Toinen hopiala&#331;kaa,</V>
 <V>Kolmas itköö veliiänsä,</V>
 <V>Kuv velii on soras.</V>
 </TEXT>
@@ -74472,7 +74472,7 @@ I. Tiitinen. Kuuli mummultaan omassa pitäjässä
 </META>
 <TEXT>
 <V>Jopa joutas joulu tulla&#703;,</V>
-<V>Ku&#776;ll o¤#331;_ku&#776;stä aitasani,</V>
+<V>Ku&#776;ll o&#331;_ku&#776;stä aitasani,</V>
 <V>Sä&#817;ske sä&#817;ri, pa&#817;rmar&#816;_reisi,</V>
 <V>Oravaisen ol<SUP>o</SUP>kapä&#817;t,</V>
 <V>5 Peiposem_peräpuolet,</V>
@@ -74949,7 +74949,7 @@ Susanna Eerikintytär Lillkartunen eli Bäckholm, synt. 7. II. 1789.
 <V>Poikkees siältä tätilähän.</V>
 <V>Täti kaakul leipoo.</V>
 <V>Matti maahan panhan,</V>
-<V>5 Harakka haura¤#331; kaivaa,</V>
+<V>5 Harakka haura&#331; kaivaa,</V>
 <V>Kettu kelloja soittaa:</V>
 <V>Pium paum palalalalaa.</V>
 <V>Pikku lintu lusikat pesöö,</V>
@@ -75351,7 +75351,7 @@ Alina Seppälä.
 <V>Pappilam muarim penkhim,</V>
 <V>Parhashen paikhan.</V>
 <V>Siältä sitten tätilähän.</V>
-<V>5 Täti puuro¤#331; keittää,</V>
+<V>5 Täti puuro&#331; keittää,</V>
 <V>Kaarillansap peittää,</V>
 <V>Lapsen suuhun heittää.</V>
 <L>Lorutaan lasta polvella hypiteltäessä.</L>
@@ -75445,8 +75445,8 @@ Alina Seppälä.
 </META>
 <TEXT>
 <V>Körö körö kiärää.</V>
-<V>Mih¤#331;kä sitä viärhän?</V>
-<V>Papimmuarim pe¤#331;khin,</V>
+<V>Mih&#331;kä sitä viärhän?</V>
+<V>Papimmuarim pe&#331;khin,</V>
 <V>Nisusia syämhän,</V>
 <V>5 Ruskialla ruunalla,</V>
 <V>Valkoosella varsalla;</V>
@@ -76196,9 +76196,9 @@ Katariina Munck, 52 v.
 </INF>
 </META>
 <TEXT>
-<V>Pium paum, pispa¤#331; kellot,</V>
-<V>Koskelam Mati¤#331; koira¤#331;kellot,</V>
-<V>Tule uni pe¤#331;kin alta,</V>
+<V>Pium paum, pispa&#331; kellot,</V>
+<V>Koskelam Mati&#331; koira&#331;kellot,</V>
+<V>Tule uni pe&#331;kin alta,</V>
 <V>Jotta mul lapseni nukkuisi!</V>
 </TEXT>
 </ITEM>
@@ -76215,12 +76215,12 @@ Katariina Munck, 52 v.
 </INF>
 </META>
 <TEXT>
-<V>Pium paum, pispa¤#331;kellot,</V>
-<V>Lukkaril leskel lehmä¤#331;kellot,</V>
-<V>Kivijärve¤#331; kirko¤#331;kellot,</V>
-<V>Kalajärve¤#331; karja¤#331;kellot,</V>
-<V>5 Sippoolaasten sia¤#331;kellot,</V>
-<V>Varpulaastev vasika¤#331;kellot.</V>
+<V>Pium paum, pispa&#331;kellot,</V>
+<V>Lukkaril leskel lehmä&#331;kellot,</V>
+<V>Kivijärve&#331; kirko&#331;kellot,</V>
+<V>Kalajärve&#331; karja&#331;kellot,</V>
+<V>5 Sippoolaasten sia&#331;kellot,</V>
+<V>Varpulaastev vasika&#331;kellot.</V>
 </TEXT>
 </ITEM>
 
@@ -76659,7 +76659,7 @@ Miina Hantula.
 </META>
 <TEXT>
 <V>Uuni-Matti uunimpäältä,</V>
-<V>Nahka-Matti pe¤#331;kin alta</V>
+<V>Nahka-Matti pe&#331;kin alta</V>
 <V>Kysyy onko lasta.</V>
 <V>Ompa täälä pikkuunen</V>
 <V>5 Lullussa nukkumassa.</V>
@@ -76679,7 +76679,7 @@ Miina Hantula.
 </META>
 <TEXT>
 <V>Tule uni uunim päältä,</V>
-<V>Nahka-Matti pe¤#331;kin alta!</V>
+<V>Nahka-Matti pe&#331;kin alta!</V>
 <V>Painal lasta silmäm päällä,</V>
 <V>Jotta se nukkuu#1.</V>
 </TEXT>
@@ -76701,7 +76701,7 @@ Miina Hantula.
 </META>
 <TEXT>
 <V>Tuli uni uunin päältä,</V>
-<V>Kysyy: "O¤#331;ko teillä lasta?"</V>
+<V>Kysyy: "O&#331;ko teillä lasta?"</V>
 <V>Ompa täälä piäni lapsi</V>
 <V>Lullussa nukkumassa.</V>
 </TEXT>
@@ -77030,11 +77030,11 @@ Kirkonkylä. Hilma Vinkka, 20 v.
 <V>Oviseinä omenapuista,</V>
 <V>Lattia vaskesta valettu,</V>
 <V>Pöytä kullasta kurottu,</V>
-<V>10 Muuri kulla¤#331; krimpuloosta.</V>
+<V>10 Muuri kulla&#331; krimpuloosta.</V>
 <V>Jos olisim piännä kuallu,</V>
 <V>En olisi tarvinnu kul</V>
 <V>Liuskal liinaa ja laikal lautaa,</V>
-<V>Ja kaksi kolme kello¤#331; klimpahrosta</V>
+<V>Ja kaksi kolme kello&#331; klimpahrosta</V>
 <V>15 Ja kyynärän pyhää maata.</V>
 </TEXT>
 </ITEM>
@@ -77056,7 +77056,7 @@ Kirkonkylä. Hilma Vinkka, 20 v.
 <V>Santa pantu sammaleksi,</V>
 <V>Hiata piäni permannoksi;</V>
 <V>5 Ei oo ovia eikä ikkunoota;</V>
-<V>Kato¤#331; kautta mennäs saa.</V>
+<V>Kato&#331; kautta mennäs saa.</V>
 </TEXT>
 </ITEM>
 
@@ -78524,7 +78524,7 @@ Kirkonkylä. Hilma Vinkka, 20 v.
 <TEXT>
 <V>Älä itkelele,</V>
 <V>Isä tulelelele,</V>
-<V>Tuo ke¤#331;kunat pikku Julelelele,</V>
+<V>Tuo ke&#331;kunat pikku Julelelele,</V>
 <V>Tasanoukkaiset,</V>
 <V>5 Pikisaumaiset,</V>
 <V>Tuo kahreksam markan arvoiset.</V>
@@ -78995,62 +78995,62 @@ Hilma Jussila, 14 v.
 <V>"Hyvä kaivo, kaunis kaivo,</V>
 <V>Annam mullev vettä!"</V>
 <V>5 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat sa¤#331;¤#331;oon."</V>
+<V>Enne&#331;kö tuat sa&#331;&#331;oon."</V>
 <V>Kukkoo lähti emännän tyä:</V>
 <V>"Hyvä emäntä, kaunis emäntä,</V>
 <V>Annam mullen sankoo!"</V>
 <V>10 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat mullen nauhaa!"</V>
+<V>Enne&#331;kö tuat mullen nauhaa!"</V>
 <V>Kukkoo lähti neitsyn tyä:</V>
 <V>"Hyvä neitsy, kaunis neitsy,</V>
 <V>Annam mullen nauhaa!" "</V>
 <V>15 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat mulle ke¤#331;¤#331;ät."</V>
+<V>Enne&#331;kö tuat mulle ke&#331;&#331;ät."</V>
 <V>Kukkoo se lähti suutarin tyä:</V>
 <V>"Hyvä suutari, kaunis suutari,</V>
-<V>Annam mulle¤#331; ke¤#331;¤#331;ät!"</V>
+<V>Annam mulle&#331; ke&#331;&#331;ät!"</V>
 <V>20 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat mullen harjakset."</V>
+<V>Enne&#331;kö tuat mullen harjakset."</V>
 <V>Kukko lähti sian tyä:</V>
 <V>"Hyvä sika, kaunis sika,</V>
 <V>Annam mulle harjakset!"</V>
 <V>25 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat mullem mäskiä."</V>
+<V>Enne&#331;kö tuat mullem mäskiä."</V>
 <V>Kukkoo lähti mäskärin tyä:</V>
 <V>"Hyvä mäskäri, kaunis mäskäri,</V>
 <V>Annam mullem mäskiä!"</V>
 <V>30 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat jauhoja."</V>
+<V>Enne&#331;kö tuat jauhoja."</V>
 <V>Kukkoo se lähti myllärin tyä:</V>
 <V>"Hyvä mylläri, kaunis mylläri,</V>
 <V>Annam mullej jauhoja!"</V>
 <V>35 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat jyviä."</V>
+<V>Enne&#331;kö tuat jyviä."</V>
 <V>Kukkoo lähti pellon tyä:</V>
 <V>"Hyvä pelto, kaunis pelto,</V>
 <V>Annam mullej jyviä."</V>
 <V>40 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat mullen sontaa."</V>
-<V>Kukkoo lähti tu¤#331;kiollen:</V>
-<V>"Hyvä tu¤#331;kio, kaunis tu¤#331;kio,</V>
+<V>Enne&#331;kö tuat mullen sontaa."</V>
+<V>Kukkoo lähti tu&#331;kiollen:</V>
+<V>"Hyvä tu&#331;kio, kaunis tu&#331;kio,</V>
 <V>Annam mullen sontaa!"</V>
 <V>45 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat hakoja."</V>
+<V>Enne&#331;kö tuat hakoja."</V>
 <V>Kukko lähti kuusen tyä:</V>
 <V>"Hyvä kuusi, kaunis kuusi,</V>
 <V>Annam mullen hakoja!"</V>
 <V>50 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat kirvhen."</V>
+<V>Enne&#331;kö tuat kirvhen."</V>
 <V>Kukkoo lähti sepän tyä:</V>
 <V>"Hyvä seppä, kaunis seppä,</V>
-<V>Annam mulle¤#331; kirves!"</V>
+<V>Annam mulle&#331; kirves!"</V>
 <V>55 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat muller rautaa."</V>
+<V>Enne&#331;kö tuat muller rautaa."</V>
 <V>Kukkoo lähti kauppiahan tyä:</V>
 <V>"Hyvä kauppias, kaunis kauppias,</V>
 <V>Annam muller rautaa!"</V>
 <V>60 "Een anna, een anna,</V>
-<V>Enne¤#331;kö tuat rahaa."</V>
+<V>Enne&#331;kö tuat rahaa."</V>
 <V>Kukkoo lähti isännän tyä:</V>
 <V>"Hyvä isäntä, kaunis isäntä,</V>
 <V>Annam muller rahaa!"</V>
@@ -79058,16 +79058,16 @@ Hilma Jussila, 14 v.
 <V>Kauppias antoo rautaa,</V>
 <V>Seppä antoo kirvhen,</V>
 <V>Kuusi antoo hakoja,</V>
-<V>Tu¤#331;kio antoo sontaa,</V>
+<V>Tu&#331;kio antoo sontaa,</V>
 <V>70 Pelto antoo jyviä,</V>
 <V>Mylläri antoo jauhoja,</V>
 <V>Mäskäri antoo mäskiä,</V>
 <V>Sika antoo harjaksia,</V>
-<V>Suutari antoo ke¤#331;¤#331;ät,</V>
+<V>Suutari antoo ke&#331;&#331;ät,</V>
 <V>75 Neitsy antoo nauhaa,</V>
-<V>Emäntä antoo sa¤#331;¤#331;oon ja</V>
+<V>Emäntä antoo sa&#331;&#331;oon ja</V>
 <V>Kaivo antoo vettä,</V>
-<V>Mutta ku¤#331; kukkoo meni saunhan,</V>
+<V>Mutta ku&#331; kukkoo meni saunhan,</V>
 <V>Oli kana kuallu.</V>
 </TEXT>
 </ITEM>
@@ -79860,18 +79860,18 @@ Sanna Syväoja, 47 v.
 <TEXT>
 <V>Minä menin tätilähän</V>
 <V>Mustia villoja vaihtamahan.</V>
-<V>Tätilä¤#331;_koira haukkuu;</V>
+<V>Tätilä&#331;_koira haukkuu;</V>
 <V>Minä hyppäsin aidam_päällen,</V>
 <V>5 Aita kaatuu molemmin_puolin;</V>
 <V>Minä hyppäsir_riihehen,</V>
 <V>Riihi mullej_jyviä;</V>
 <V>Minä jyväp_possun suuhun,</V>
-<V>Possu mulle¤#331;_kylijen;</V>
+<V>Possu mulle&#331;_kylijen;</V>
 <V>10 Minä kylijen suutarillen,</V>
-<V>Suutari mullem_mustak_ke¤#331;¤#331;ät;</V>
-<V>Minä mustak ke¤#331;¤#331;ät papille,</V>
+<V>Suutari mullem_mustak_ke&#331;&#331;ät;</V>
+<V>Minä mustak ke&#331;&#331;ät papille,</V>
 <V>Pappi mullem_paitaliinan;</V>
-<V>Minä paitaliina¤#331;_köyhille,</V>
+<V>Minä paitaliina&#331;_köyhille,</V>
 <V>15 Köyhät mulle kiitokset;</V>
 <V>Minä kiitoksek_kissillen,</V>
 <V>Kissi mulle pierul_lykkäs.</V>
@@ -80629,19 +80629,19 @@ Liisa Kristoo, 24 v.
 <V>Murenosta methän.</V>
 <V>Mettä mullen sau[v]van antoo,</V>
 <V>Sauvvan annoon akallen;</V>
-<V>10 Akka mulle¤#331; kaakul leipoo,</V>
-<V>Kaakun annoo¤#331; kalastajallen;</V>
-<V>Kalastaja mulle¤#331; kaloja antoo,</V>
+<V>10 Akka mulle&#331; kaakul leipoo,</V>
+<V>Kaakun annoo&#331; kalastajallen;</V>
+<V>Kalastaja mulle&#331; kaloja antoo,</V>
 <V>Kalat annoom possullen;</V>
-<V>Possu mulle¤#331; kylkensä antoo,</V>
-<V>15 Kyljen annoo¤#331; koirallen;</V>
+<V>Possu mulle&#331; kylkensä antoo,</V>
+<V>15 Kyljen annoo&#331; koirallen;</V>
 <V>Koira mullen oravan haukkuu,</V>
 <V>Oravan annoom myllärillen;</V>
 <V>Mylläri mullej jyviä antoo,</V>
 <V>Jyvät annoom papillen;</V>
 <V>20 Pappi mullem paitaliinan antoo,</V>
 <V>Paitaliinan annoov vaivaasellen;</V>
-<V>Vaivaanem mulle¤#331; kiitokset antoo,</V>
+<V>Vaivaanem mulle&#331; kiitokset antoo,</V>
 <V>Sittem mä menin kotia.</V>
 </TEXT>
 </ITEM>
@@ -82617,14 +82617,14 @@ Kukko kiekaa. - Kaikki mp:jan lisähuomautuksia.
 </INF>
 </META>
 <TEXT>
-<V>Ensimmäänen e¤#331;keli,</V>
-<V>Toinen to¤#331;keli,</V>
+<V>Ensimmäänen e&#331;keli,</V>
+<V>Toinen to&#331;keli,</V>
 <V>Kolmas konttirauska,</V>
 <V>Neljäs Neitsyt-Marja,</V>
 <V>5 Viires villahäntä,</V>
 <V>Kuures kultanuppu,</V>
 <V>Seittämäs sepänemäntä,</V>
-<V>Kahreksas kala¤#331;keittäjä,</V>
+<V>Kahreksas kala&#331;keittäjä,</V>
 <V>Yhreksäs ylistäjä,</V>
 <V>10 Kymmenes kerjää.</V>
 </TEXT>
@@ -82891,7 +82891,7 @@ Särkijärvi. Hanna Matintytär Visti, 18 v.
 <V>Kello kuusi, kutomahan.</V>
 <V>Kello seittämän, sepäm pajhan.</V>
 <V>Kello kahreksa?, kalat fathin.</V>
-<V>Kello yhreksän, ylisä¤#331;khyn.</V>
+<V>Kello yhreksän, ylisä&#331;khyn.</V>
 </TEXT>
 </ITEM>
 
@@ -83190,9 +83190,9 @@ Kauppila. Leena Arola, 70 v. Kuullut lapsena.
 <V>lompootellel, lossootellen.</V>
 <V>Kun se siältä kotiat tuloo,</V>
 <V>Niij jalaap panoo:</V>
-<V>5 Kipi¤#331; kapin, kipi¤#331; kapin.</V>
+<V>5 Kipi&#331; kapin, kipi&#331; kapin.</V>
 <L>Liikutellaan lapsen jalkoja edestakaisin samalla ensin harvaan, sitten 
-sanoilla "kipi¤#331; kapin" nopeasti.</L>
+sanoilla "kipi&#331; kapin" nopeasti.</L>
 </TEXT>
 </ITEM>
 
@@ -83409,11 +83409,11 @@ Kauppila. Leena Arola, 70 v. Oppinut lapsena Teuvalla.
 </INF>
 </META>
 <TEXT>
-<V>Kukkoo puuro¤#331; keitti,</V>
+<V>Kukkoo puuro&#331; keitti,</V>
 <V>Kana mairol lämmitti,</V>
 <V>Västäräkki voin sulas,</V>
 <V>Pikkulintu lusikap pesi,</V>
-<V>5 Pikkulintu noppas pelli¤#331; kiinni.</V>
+<V>5 Pikkulintu noppas pelli&#331; kiinni.</V>
 </TEXT>
 </ITEM>
 
@@ -84645,7 +84645,7 @@ Eveliina Suomela, 67 v. Synt. Härmässä.
 <TEXT>
 <V>Isä istuu puussa</V>
 <V>Lamphal lapa suussa,</V>
-<V>Koira¤#331; kontti (luu) kainalossa,</V>
+<V>Koira&#331; kontti (luu) kainalossa,</V>
 <V>Sian sorkka siaramessa.</V>
 </TEXT>
 </ITEM>
@@ -84822,7 +84822,7 @@ Perälä. Herman Heikkilä.
 <V>Sika meni saunhan,</V>
 <V>Lammas lamppunaulhan,</V>
 <V>Siamporsas porstuahan,</V>
-<V>Lampha¤#331; kakku karsinhan.</V>
+<V>Lampha&#331; kakku karsinhan.</V>
 </TEXT>
 </ITEM>
 
@@ -85982,7 +85982,7 @@ mennä portin päällen ja siälä huutaa, jotta:</L>
 </META>
 <TEXT>
 <V>Antti se tappeli akkansak kans,</V>
-<V>Menim minä välhi¤#331; keppini kans,</V>
+<V>Menim minä välhi&#331; keppini kans,</V>
 <V>Löin minä Anttia leukaluuhun,</V>
 <V>Antti se lenti ovensuuhun;</V>
 <V>5 Oli siälä viiko?, kaks,</V>
@@ -86702,7 +86702,7 @@ Kauppila. Juuse Muotio, 25 v.
 <TEXT>
 <V>Tint tant Taneli,</V>
 <V>Tanelin jalkoja paleli.</V>
-<V>Mistäs Taneli ke¤#331;¤#331;ät saa,</V>
+<V>Mistäs Taneli ke&#331;&#331;ät saa,</V>
 <V>Kun ei oon nahkaa?</V>
 </TEXT>
 </ITEM>
@@ -87474,7 +87474,7 @@ nimensä:</L>
 <V>Maanantaina makkarat tehthin,</V>
 <V>Tiistaina tikut vualthin,</V>
 <V>Keskiviikkona keitot keitethin,</V>
-<V>Torstaina tupha¤#331; kannethin,</V>
+<V>Torstaina tupha&#331; kannethin,</V>
 <V>5 Perjantaina perheellen annethin,</V>
 <V>Lauantaina liämi latkithin,</V>
 <V>Sunnuntaina suup pyhiithin.</V>
@@ -88213,10 +88213,10 @@ tullessa heittää sen maantiän ojaan ja samassa lausuu:</L>
 <TEXT>
 <CPT>Hautasaunassa.</CPT>
 <L>Mennähän nyt_tännes_saunahan_yöksi, mutta pyydetähän_ensij_jotta 
-"saadaha¤#331;ko?" Ja ne oli pyytäny,</L>
+"saadaha&#331;ko?" Ja ne oli pyytäny,</L>
 <L>oven_auu&#815;aahnuj_jotta:</L>
-<V>Saadaha¤#331;k_oll_yötä?</V>
-<L>S_oli nii¤#331;kovaa ryskähtänyj_ja oli nii¤#331;kus_suuri musta koira 
+<V>Saadaha&#331;k_oll_yötä?</V>
+<L>S_oli nii&#331;kovaa ryskähtänyj_ja oli nii&#331;kus_suuri musta koira 
 olih_mennyk_kiukahan_etehem_maata. Niin _oli äijä sanonuj_jotta "kah_nyt, 
 jos_ei m_olisip_pyytänyn_niin_ei olsis_saatu rauhas_oll_yötä".</L>
 <L>S_oli sauna&#815;haltija, joka oli koira&#815; hah<SUP>a</SUP>mos.</L>
@@ -94998,7 +94998,7 @@ Kampinkylä. Fiija Luoma, 60 v.
 <V>Koi mennäk_koikotteli,</V>
 <V>Pitkin tietä roikotteli.</V>
 <V>Minnem_menek_koi parka?</V>
-<V>Tännem_mene¤#331;_koi parka</V>
+<V>Tännem_mene&#331;_koi parka</V>
 <V>5 Luita luistamahan,</V>
 <V>Jäseniä ratkoomahan.</V>
 </TEXT>
@@ -99205,11 +99205,11 @@ Antti Kallio, 21 v. Synt. Jurvassa; asuu Teuvan kirkonkylässä.
 </INF>
 </META>
 <TEXT>
-<L>Kun nikkaauttaa, niin sanua yhy¤#240;eksä¤#331;_kertaa yhy¤#240;ellä 
-he¤#331;¤#331;evve¤#240;olla:</L>
+<L>Kun nikkaauttaa, niin sanua yhy&#240;eksä&#331;_kertaa yhy&#240;ellä 
+he&#331;&#331;evve&#240;olla:</L>
 <V>Nikkaa nakkaa</V>
-<V>Yhy¤#240;eksä¤#331; kertaa</V>
-<V>Yhy¤#240;e he¤#331;¤#331;ev_vetämällä.</V>
+<V>Yhy&#240;eksä&#331; kertaa</V>
+<V>Yhy&#240;e he&#331;&#331;ev_vetämällä.</V>
 <L>Sittel_lakkajaa.</L>
 </TEXT>
 </ITEM>
@@ -104369,7 +104369,7 @@ Kampinkylä. Fiija Luoma, 60 v.
 <V>Mee kuihin, mee voihin,</V>
 <V>Mee mahomotin makkaroihin.</V>
 <L>Kun se on leipähän sivaattu, niin annetahan leivämpala 
-leh<SUP>e</SUP>mälle¤#331;_kun sillä on ähky.</L>
+leh<SUP>e</SUP>mälle&#331;_kun sillä on ähky.</L>
 </TEXT>
 </ITEM>
 
@@ -104823,13 +104823,13 @@ Virrat, Uuranen. Liisa Takala, 67 v. Oppinut Alavuudella.
 <V>Toinen poika toh<SUP>o</SUP>meroinen,</V>
 <V>Kol<SUP>o</SUP>mas konttirauska,</V>
 <V>Neljäs neulansil<SUP>i</SUP>mä,</V>
-<V>5 Vii¤#240;es v-u,</V>
-<V>Kuu¤#240;es kuttu,</V>
+<V>5 Vii&#240;es v-u,</V>
+<V>Kuu&#240;es kuttu,</V>
 <V>Seittemäs seula,</V>
-<V>Kah<SUP>a</SUP>¤#240;eksas kaula,</V>
-<V>Yh<SUP>y</SUP>¤#240;eksäs yl<SUP>y</SUP>kä,</V>
+<V>Kah<SUP>a</SUP>&#240;eksas kaula,</V>
+<V>Yh<SUP>y</SUP>&#240;eksäs yl<SUP>y</SUP>kä,</V>
 <V>10 Kymmenes ky<SUP>y</SUP>lk<SUP>i</SUP>;</V>
-<V>Läh<SUP>ä</SUP>¤#240;e paha mahasta,</V>
+<V>Läh<SUP>ä</SUP>&#240;e paha mahasta,</V>
 <V>Mato maksan raosta.</V>
 </TEXT>
 </ITEM>
@@ -110382,7 +110382,7 @@ parahiksi ja rupesi lukemaan:</L>
 <CPT>Kärmeen sanat.</CPT>
 <V>Mato musta maanalaanen,</V>
 <V>Kiekura kivenalaanen;</V>
-<V>Pi¤#240;ätäp_piru hevooseh_</V>
+<V>Pi&#240;ätäp_piru hevooseh_</V>
 <V>Jotta_ma saan suittet suuhuj_</V>
 <V>5 Ja päittep_päähän.</V>
 </TEXT>
@@ -111508,11 +111508,11 @@ Joosef ja Liisa Ihamäki, edell. yli 80 v., jälk. 71 v.
 <TEXT>
 <CPT>Kärmhensanat puremaa parantamaan.</CPT>
 <V>Maan musta mato, kyy heltta,</V>
-<V>Ketakella¤#331;_karvaanen,</V>
+<V>Ketakella&#331;_karvaanen,</V>
 <V>Syättilääsen syätimpala,</V>
 <V>Ahtokaasen airavvitta.</V>
 <V>5 Konnan suusta kino juaksi,</V>
-<V>Kino ikiä¤#331; kirasta.</V>
+<V>Kino ikiä&#331; kirasta.</V>
 <V>Teep paremmij jottas parannat</V>
 <V>Pöhööshen tullehnas!</V>
 </TEXT>
@@ -112697,22 +112697,22 @@ Remes. Heikki Möttönen, 18 v.
 <V>Häiju nukku kalliolla</V>
 <V>u&#776;lös suin, alas päi&#816;,</V>
 <V>Kuola juoksi konna&#816; su&#817;sta</V>
-<V>Kino il<SUP>i</SUP>kiä¤#331;_kijasta,</V>
-<V>5 Jolleh_Herra he¤#331;¤#331;el&#816;_loi,</V>
+<V>Kino il<SUP>i</SUP>kiä&#331;_kijasta,</V>
+<V>5 Jolleh_Herra he&#331;&#331;el&#816;_loi,</V>
 <V>Je&#817;sus kielem_Maria miele&#816;,</V>
 <V>Läpi mättähäm_menehe&#816;,</V>
 <V>Pu&#817;j&#816;_ju&#817;rem_pujottelehe&#816;;</V>
-<V>Muja¤#331;_karva, männu&#776;¤#331;_karva,</V>
+<V>Muja&#331;_karva, männu&#776;&#331;_karva,</V>
 <V>10 Taikakarva, kanervakarva,</V>
-<V>Paju¤#331;_karva, pahi¤#331;_karva,</V>
+<V>Paju&#331;_karva, pahi&#331;_karva,</V>
 <V>Lu&#817;lip_pu&#817;ta purrehesi,</V>
 <V>Pajuj&#816;_ju&#817;rta pannehesi,</V>
-<V>Va&#817;m_panit, il<SUP>i</SUP>kiä, kapehe¤#331;_karva&#816;#2,</V>
+<V>Va&#817;m_panit, il<SUP>i</SUP>kiä, kapehe&#331;_karva&#816;#2,</V>
 <V>15 (Eli: - - - ih<SUP>i</SUP>misen_iho&#816;#3,)</V>
 <V>Tuonnem_ma sul&#816;_lähetä&#816;,</V>
 <V>Vuorihiv&#816;_valantehisi&#816;,</V>
 <V>Mäkihiv&#816;_valaperihi&#816;,</V>
-<V>Ki&#817;ltävä¤#331;_kive&#816; sisälle&#703;,</V>
+<V>Ki&#817;ltävä&#331;_kive&#816; sisälle&#703;,</V>
 <V>20 Ju&#817;rehem_pajum_punase&#816;.</V>
 </TEXT>
 <REFS>
@@ -112999,7 +112999,7 @@ Kirkonkylä. Fredrik Ström, 26 v.
 <CPT>Sisiliskon sanat.</CPT>
 <V>Sisilisko silimäkisko,</V>
 <V>Sin_oot niir_raskas</V>
-<V>Kur_rautaka¤#331;ki,</V>
+<V>Kur_rautaka&#331;ki,</V>
 <V>Min_oon_niin_köijyk_</V>
 <V>5 Kul_lepällehti.</V>
 </TEXT>
@@ -113298,7 +113298,7 @@ Joosef ja Liisa Ihamäki, edell. yli 80 v., jälk. 71 v.
 </META>
 <TEXT>
 <CPT>Sisiliskon sanat.</CPT>
-<V>Sisilisko silmä¤#331; kisko,</V>
+<V>Sisilisko silmä&#331; kisko,</V>
 <V>Raskas kur rauta,</V>
 <V>Kevyk kun haavallehti.</V>
 <L>Iskusanat puuttuvat.</L>
@@ -114062,16 +114062,16 @@ villalankaa ja 1 rihmasta.</L>
 </INF>
 </META>
 <TEXT>
-<CPT>Suonilanka teheähä¤#331;_kol<SUP>o</SUP>memmoisesta villa¤#331;¤#331;asta 
+<CPT>Suonilanka teheähä&#331;_kol<SUP>o</SUP>memmoisesta villa&#331;&#331;asta 
 ja 
-siihen yhy¤#240;eksän sol<SUP>o</SUP>mia peukalonsa päällä, syl<SUP>y</SUP>kiä 
+siihen yhy&#240;eksän sol<SUP>o</SUP>mia peukalonsa päällä, syl<SUP>y</SUP>kiä 
 kätehensä 
 kol<SUP>o</SUP>me kertaa ja joka kerta vetäästä läpittej ja sanua:</CPT>
 <V>Luul_luutteet,</V>
 <V>Lihal_liitteet,</V>
 <V>Teek_kaikki tismut</V>
 <V>Terveheksi.</V>
-<L>Sittel_la¤#331;ka kol<SUP>o</SUP>me kertaa vastapäivähä¤#331;_kiertää kipiän 
+<L>Sittel_la&#331;ka kol<SUP>o</SUP>me kertaa vastapäivähä&#331;_kiertää kipiän 
 
 
 
@@ -117881,8 +117881,8 @@ Luomaankylä. Esa Isokorpi, 60 v.
 </META>
 <TEXT>
 <V>Seisov_veri, tyystyv_veri,</V>
-<V>Seiso nii¤#331;kus_seinä,</V>
-<V>Seison_nii¤#331;kus_sen sielu seisoo hel<SUP>e</SUP>vetih_</V>
+<V>Seiso nii&#331;kus_seinä,</V>
+<V>Seison_nii&#331;kus_sen sielu seisoo hel<SUP>e</SUP>vetih_</V>
 <V>Jok_oikeen tietää</V>
 <V>5 Ja väärim_puhuu!</V>
 <L>3 kertaa lukea.</L>
@@ -118408,14 +118408,14 @@ v. Mp. Virroilla.
 </META>
 <TEXT>
 <CPT>Veren sanat.</CPT>
-<V>Tyy¤#240;y nyt tyyris tippumasta,</V>
+<V>Tyy&#240;y nyt tyyris tippumasta,</V>
 <V>Punanen putoamasta.</V>
 <V>Tyytyi ennen Tyrjän koski,</V>
 <V>Joki Tuonelan patosi</V>
 <V>5 Sinä suurna poutavuonna,</V>
 <V>Kulovuonna kauheana.</V>
 <V>Jollet tuostana totelle,</V>
-<V>Huu¤#240;an hii¤#240;estä patoa,</V>
+<V>Huu&#240;an hii&#240;estä patoa,</V>
 <V>Jolla verta keitetähän.</V>
 </TEXT>
 </ITEM>
@@ -119767,7 +119767,7 @@ Joosef ja Liisa Ihamäki, edell. yli 80 v., jälk. 71 v.
 <CPT>Veren sanat</CPT>
 <L>vuotoa estämään.</L>
 <V>Tyystyv veri, seisatav veri,</V>
-<V>Nii¤#331;kuj Joortanin meri,</V>
+<V>Nii&#331;kuj Joortanin meri,</V>
 <V>Josta Israelil lapsek kuivij jaloon yli meni!</V>
 </TEXT>
 </ITEM>
@@ -121178,7 +121178,7 @@ Luomaankylä. Esa Isokorpi, 60 v.
 <V>Keskellä merikivijä,</V>
 <V>Kirjasta kärmehestä,</V>
 <V>Sortavasta val<SUP>a</SUP>kijasta,</V>
-<V>5 Vahi¤#331;ko tuloo.</V>
+<V>5 Vahi&#331;ko tuloo.</V>
 <L>Ihran palaa lukea 3 kertaa ja joka kerta sylkeä.</L>
 </TEXT>
 </ITEM>
@@ -122345,11 +122345,11 @@ Leiston latelemia.
 </META>
 <TEXT>
 <CPT>[<I>Tulen vihoissa.</I>]</CPT>
-<L>kolmi hara¤#383;ia Canarwia#1</L>
-<L>ja. 2. Hara¤#383;ia waimollen#1</L>
-<L>kuin männyi¤#383;täkin ¤#383;itte pannan wettä Patan Lämmitetän 
-Kiehumi¤#383;ta waillen pannan ne mettzä¤#383;tä otetut ¤#383;ekan ¤#383;itten 
-pitä ottaman wa¤#383;tan ja pitä pan na puna¤#383;en langan ¤#383;iten kohdalle 
+<L>kolmi hara&#383;ia Canarwia#1</L>
+<L>ja. 2. Hara&#383;ia waimollen#1</L>
+<L>kuin männyi&#383;täkin &#383;itte pannan wettä Patan Lämmitetän 
+Kiehumi&#383;ta waillen pannan ne mettzä&#383;tä otetut &#383;ekan &#383;itten 
+pitä ottaman wa&#383;tan ja pitä pan na puna&#383;en langan &#383;iten kohdalle 
 
 
 
@@ -122366,10 +122366,10 @@ pitä ottaman wa¤#383;tan ja pitä pan na puna¤#383;en langan ¤#383;iten kohd
 
 
 
-ja pitä otta kolmen Perintö Talon uNiLuuda¤#383;ta. 3. warpua cu¤#383;takin ja 
-pitä Panna ¤#383;en wa¤#383;tan Sisälle ja kaukalon ja panna kaukalon Saunan 
-unijn ja kata wettä Kiukkan läpi. 3. kerta kuin e[n¤#383;i] kerran on katanu 
-nijn pannan ¤#383;itä Haude wettä wähän ¤#383;ekaan ja ¤#383;e we¤#383;i kaatan 
+ja pitä otta kolmen Perintö Talon uNiLuuda&#383;ta. 3. warpua cu&#383;takin ja 
+pitä Panna &#383;en wa&#383;tan Sisälle ja kaukalon ja panna kaukalon Saunan 
+unijn ja kata wettä Kiukkan läpi. 3. kerta kuin e[n&#383;i] kerran on katanu 
+nijn pannan &#383;itä Haude wettä wähän &#383;ekaan ja &#383;e we&#383;i kaatan 
 
 
 
@@ -122386,8 +122386,8 @@ nijn pannan ¤#383;itä Haude wettä wähän ¤#383;ekaan ja ¤#383;e we¤#383;i
 
 
 
-kaukalo¤#383;ta Haude ¤#383;ankon ja ¤#383;itten Kylwettämän ¤#383;illä 
-wa¤#383;talla [ja] haude wedellä Pään en¤#383;in ¤#383;itte Molempain Cainaloin 
+kaukalo&#383;ta Haude &#383;ankon ja &#383;itten Kylwettämän &#383;illä 
+wa&#383;talla [ja] haude wedellä Pään en&#383;in &#383;itte Molempain Cainaloin 
 
 
 
@@ -122404,21 +122404,21 @@ wa¤#383;talla [ja] haude wedellä Pään en¤#383;in ¤#383;itte Molempain Cain
 
 
 
-Alatin wa[sen]kä¤#383;i warren ympärin lyömän m[ol]emban canta pähän Kiertämän 
-[wa]¤#383;emman ¤#383;ären ympärin kuin</L>
+Alatin wa[sen]kä&#383;i warren ympärin lyömän m[ol]emban canta pähän Kiertämän 
+[wa]&#383;emman &#383;ären ympärin kuin</L>
 <K>a.</K>
 <V> Taijan minä Tulenlamoroa kale#2</V>
 <V>n kiecotella Panen Tulen Tu</V>
-<V>ppeni kälen kenkäni Ju¤#383;kon n</V>
+<V>ppeni kälen kenkäni Ju&#383;kon n</V>
 <V>yd Tulinen kettu Syömää</V>
 <V>5 n tulenkipuwa Pannun lie</V>
 <V>ntä Lackiman Tulin Minä</V>
-<V>tulta Tiinex Panulaj¤#383;ta k.</V>
+<V>tulta Tiinex Panulaj&#383;ta k.</V>
 <V>attomaan Hyinenucko Jäin</V>
-<V>en Acka Hyi¤#383;tä kelckaa We</V>
+<V>en Acka Hyi&#383;tä kelckaa We</V>
 <V>10 tää Jäänalaista Järhyttää</V>
-<V>Jäätä Järkäle käi¤#383;¤#383;ä wielä ka</V>
-<V>lma Camari¤#383;¤#383;a Jonka¤#383; Tunned</V>
+<V>Jäätä Järkäle käi&#383;&#383;ä wielä ka</V>
+<V>lma Camari&#383;&#383;a Jonka&#383; Tunned</V>
 <V>Poltta waxi Sitä Hyillä Hy</V>
 <V>illä Hyillä Hy hyttele Sekä</V>
 <V>15 Jäillä Jähyttele</V>
@@ -122927,7 +122927,7 @@ Caisa Meldaus.
 </META>
 <TEXT>
 <CPT>Lämpu&#776;mäl&#816;_luvut.</CPT>
-<V>Löu&#776;lu&#776; kulta, lämmi¤#331;_kulta,</V>
+<V>Löu&#776;lu&#776; kulta, lämmi&#331;_kulta,</V>
 <V>Ha&#817;va oj_jalasani,</V>
 <V>Ei o&#817;l_löu&#776;lu&#776;l&#816;_löu&#776;tämistä,</V>
 <V>Lämpu&#776;mäl&#816;_lävistämistä;</V>
@@ -125402,8 +125402,8 @@ Jalasjärvellä, 70 v.
 <V>Pukurasil<SUP>i</SUP>mä, paulahan,</V>
 <V>Mun paulojani liisiimään</V>
 <V>Ja loukkaamaan,</V>
-<V>Yh¤#240;eksästä kirkkokunnasta,</V>
-<V>5 Kah<SUP>a</SUP>¤#240;eksasta kappelista.</V>
+<V>Yh&#240;eksästä kirkkokunnasta,</V>
+<V>5 Kah<SUP>a</SUP>&#240;eksasta kappelista.</V>
 <V>Joka on junsa juoksemahan,</V>
 <V>Ottaa vittan notkean,</V>
 <V>Jolla hän mul<SUP>u</SUP>kkuihin mutelee.</V>
@@ -126373,7 +126373,7 @@ Laihia.
 </META>
 <TEXT>
 <CPT>Syljetään syöttiin ja sanotaan:</CPT>
-<V>Mato me¤#331;k'hön i&#814;a kala tulk'hon#1.</V>
+<V>Mato me&#331;k'hön i&#814;a kala tulk'hon#1.</V>
 </TEXT>
 <REFS>
 #1 Sama luku tavallisella kirjakielellä lausuttuna: Paulaharju Jenny, n. 8076. 
@@ -127108,20 +127108,20 @@ Vihtori Yrttikoski, 57 v.
 <K>[3.]</K>
 <CPT>Kuoharil&#816;_loihtu.</CPT>
 <V>Hu&#776;i!</V>
-<V>N_¤#331;ku savine sammakor&#816;_rato,</V>
-<V>Ni&#817;¤#331;ku tomunen tonta sil<SUP>i</SUP>mä,</V>
-<V>K-i ku&#817;sehe¤#331; kuhahti,</V>
+<V>N_&#331;ku savine sammakor&#816;_rato,</V>
+<V>Ni&#817;&#331;ku tomunen tonta sil<SUP>i</SUP>mä,</V>
+<V>K-i ku&#817;sehe&#331; kuhahti,</V>
 <V>Risuhu&#817; sil<SUP>i</SUP>mänsär_rikki,</V>
 <V>5 Ha&#817;papu&#817;hum_pä&#817;nsäh_hal<SUP>a</SUP>ki;</V>
 <V>V-u itkeher&#816;_rämähti,</V>
-<V>Ku o¤#331;_kulta-k-i kuollu',</V>
+<V>Ku o&#331;_kulta-k-i kuollu',</V>
 <V>Kenokaula keikahtannu';</V>
 <V>Millä me veromma vetäsimmä,</V>
 <V>10 Papintihunnim_maksasimma.</V>
 <K>[4.]</K>
 <L><I>Kuoharil&#816;_loihtu.</I></L>
-<V>Hu&#776;i! Ho¤#331;¤#331;an oksa, matehem_maksa,</V>
-<V>Tuorehe¤#331;_kuori,</V>
+<V>Hu&#776;i! Ho&#331;&#331;an oksa, matehem_maksa,</V>
+<V>Tuorehe&#331;_kuori,</V>
 <V>Mel<SUP>e</SUP>kiäm_merikalar&#816;_rasva.</V>
 <K>[5.]</K>
 <L><I>Kuoharil&#816;_loihtu.</I></L>
@@ -137604,7 +137604,7 @@ porajamasta ja loukkaantunut paranoo.</L>
 </META>
 <TEXT>
 <V>Sian sipuri, lamhal lapuri,</V>
-<V>Koira¤#331; kova kontti:</V>
+<V>Koira&#331; kova kontti:</V>
 <V>Siihen paikham parakhot.</V>
 <L>Leikkitaika, luettu lapsen loukatessa itseään ja itkiessä, tarkoituksella 
 saada itku lakkaamaan.</L>
@@ -137623,7 +137623,7 @@ saada itku lakkaamaan.</L>
 </INF>
 </META>
 <TEXT>
-<V>Jos o¤#331; kipiä, nii¤#331; kivistäkhöt,</V>
+<V>Jos o&#331; kipiä, nii&#331; kivistäkhöt,</V>
 <V>Jos om paha, niim pakottakhot,</V>
 <V>Ja siihem paikham parakhot.</V>
 <L>Samoin kuin edellinenkin, leikkitaika lapsen tyynnyttämiseksi.</L>
@@ -138649,10 +138649,10 @@ Isoon k. juurhen.
 <V>Lennäl_lennäl, leppälintu.</V>
 <V>Jos sinä lennät,</V>
 <V>Niim_minä teen sullen</V>
-<V>Korija¤#331;_kyrsäj ja panev_voita päällen;</V>
+<V>Korija&#331;_kyrsäj ja panev_voita päällen;</V>
 <V>5 Mutta joos_et sinä lennä,</V>
-<V>Niim_minä pane¤#331;_</V>
-<V>Kuuma¤#331;_kive¤#331;_kaulahah</V>
+<V>Niim_minä pane&#331;_</V>
+<V>Kuuma&#331;_kive&#331;_kaulahah</V>
 <V>Ja upotam_meren syvyyteen.</V>
 </TEXT>
 </ITEM>
