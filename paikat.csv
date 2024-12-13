@@ -1,0 +1,767 @@
+id	area	county	parish
+skvr_10	a	Varsinais-Suomi	Angelniemi
+skvr_20	a	Varsinais-Suomi	Askainen
+skvr_30	a	Varsinais-Suomi	Aura
+skvr_40	a	Varsinais-Suomi	Dragsfjärd
+skvr_41	a	Varsinais-Suomi	Hiittinen
+skvr_51	a	Varsinais-Suomi	Tarvasjoki
+skvr_61	a	Varsinais-Suomi	Särkisalo
+skvr_70	a	Varsinais-Suomi	Halikko
+skvr_80	a	Varsinais-Suomi	Houtskari
+skvr_90	a	Varsinais-Suomi	Iniö
+skvr_100	a	Varsinais-Suomi	Kaarina
+skvr_101	a	Varsinais-Suomi	Kuusisto
+skvr_110	a	Varsinais-Suomi	Kakskerta
+skvr_111	a	Varsinais-Suomi	Maaria
+skvr_112	a	Varsinais-Suomi	Paattinen
+skvr_114	a	Varsinais-Suomi	Turku
+skvr_121	a	Varsinais-Suomi	Uusikirkko Tl.
+skvr_130	a	Varsinais-Suomi	Karinainen
+skvr_140	a	Varsinais-Suomi	Karjala Tl.
+skvr_141	a	Varsinais-Suomi	Mynämäki
+skvr_150	a	Varsinais-Suomi	Karuna
+skvr_151	a	Varsinais-Suomi	Sauvo
+skvr_160	a	Varsinais-Suomi	Kemiö
+skvr_170	a	Varsinais-Suomi	Kiikala
+skvr_180	a	Varsinais-Suomi	Kisko
+skvr_191	a	Varsinais-Suomi	Kustavi
+skvr_200	a	Varsinais-Suomi	Kodisjoki
+skvr_211	a	Varsinais-Suomi	Korppoo
+skvr_220	a	Varsinais-Suomi	Koski Tl.
+skvr_230	a	Varsinais-Suomi	Kuusjoki
+skvr_240	a	Varsinais-Suomi	Laitila
+skvr_250	a	Varsinais-Suomi	Lappi Tl.
+skvr_260	a	Varsinais-Suomi	Lemu
+skvr_270	a	Varsinais-Suomi	Lieto
+skvr_280	a	Varsinais-Suomi	Lokalahti
+skvr_282	a	Varsinais-Suomi	Pyhämaa
+skvr_283	a	Varsinais-Suomi	Uusikaupunki
+skvr_284	a	Varsinais-Suomi	Uusikaupunki mlk
+skvr_290	a	Varsinais-Suomi	Marttila
+skvr_300	a	Varsinais-Suomi	Masku
+skvr_310	a	Varsinais-Suomi	Merimasku
+skvr_320	a	Varsinais-Suomi	Mietoinen
+skvr_330	a	Varsinais-Suomi	Muurla
+skvr_340	a	Varsinais-Suomi	Naantali
+skvr_341	a	Varsinais-Suomi	Naantali mlk
+skvr_351	a	Varsinais-Suomi	Nauvo
+skvr_360	a	Varsinais-Suomi	Nousiainen
+skvr_370	a	Varsinais-Suomi	Paimio
+skvr_381	a	Varsinais-Suomi	Parainen
+skvr_390	a	Varsinais-Suomi	Perniö
+skvr_400	a	Varsinais-Suomi	Pertteli
+skvr_410	a	Varsinais-Suomi	Piikkiö
+skvr_420	a	Varsinais-Suomi	Pyhäranta
+skvr_430	a	Varsinais-Suomi	Pöytyä
+skvr_440	a	Varsinais-Suomi	Raisio
+skvr_450	a	Varsinais-Suomi	Rusko
+skvr_460	a	Varsinais-Suomi	Rymättylä
+skvr_470	a	Varsinais-Suomi	Salo
+skvr_471	a	Varsinais-Suomi	Uskela
+skvr_480	a	Varsinais-Suomi	Suomusjärvi
+skvr_490	a	Varsinais-Suomi	Taivassalo
+skvr_500	a	Varsinais-Suomi	Vahto
+skvr_510	a	Varsinais-Suomi	Vehmaa
+skvr_520	a	Varsinais-Suomi	Velkua
+skvr_530	a	Varsinais-Suomi	Västanfjärd
+skvr_540	a	Varsinais-Suomi	Yläne
+skvr_9000	a	Varsinais-Suomi	Varsinais-Suomi
+skvr_550	b	Satakunta	Ahlainen
+skvr_551	b	Satakunta	Pori
+skvr_552	b	Satakunta	Pori mlk
+skvr_560	b	Satakunta	Aitolahti
+skvr_561	b	Satakunta	Tampere
+skvr_562	b	Satakunta	Teisko
+skvr_564	b	Satakunta	Messukylä
+skvr_570	b	Satakunta	Alastaro
+skvr_580	b	Satakunta	Eräjärvi
+skvr_581	b	Satakunta	Juupajoki
+skvr_582	b	Satakunta	Orivesi
+skvr_590	b	Satakunta	Eura
+skvr_591	b	Satakunta	Hinnerjoki
+skvr_592	b	Satakunta	Honkilahti
+skvr_600	b	Satakunta	Eurajoki
+skvr_610	b	Satakunta	Harjavalta
+skvr_621	b	Satakunta	Honkajoki
+skvr_630	b	Satakunta	Huittinen
+skvr_640	b	Satakunta	Hämeenkyrö
+skvr_650	b	Satakunta	Ikaalinen
+skvr_651	b	Satakunta	Ikaalinen mlk
+skvr_660	b	Satakunta	Jämijärvi
+skvr_671	b	Satakunta	Tyrvää
+skvr_672	b	Satakunta	Karkku
+skvr_680	b	Satakunta	Kangasala
+skvr_690	b	Satakunta	Kankaanpää
+skvr_700	b	Satakunta	Karvia
+skvr_710	b	Satakunta	Kauvatsa
+skvr_711	b	Satakunta	Kokemäki
+skvr_720	b	Satakunta	Keikyä
+skvr_721	b	Satakunta	Kiikka
+skvr_730	b	Satakunta	Keuruu
+skvr_731	b	Satakunta	Pihlajavesi
+skvr_740	b	Satakunta	Kihniö
+skvr_750	b	Satakunta	Kiikoinen
+skvr_760	b	Satakunta	Kiukainen
+skvr_770	b	Satakunta	Kuhmalahti
+skvr_780	b	Satakunta	Kullaa
+skvr_790	b	Satakunta	Kuru
+skvr_800	b	Satakunta	Köyliö
+skvr_810	b	Satakunta	Lavia
+skvr_820	b	Satakunta	Lempäälä
+skvr_830	b	Satakunta	Loimaa
+skvr_833	b	Satakunta	Metsämaa
+skvr_840	b	Satakunta	Luvia
+skvr_850	b	Satakunta	Mellilä
+skvr_860	b	Satakunta	Merikarvia
+skvr_870	b	Satakunta	Mouhijärvi
+skvr_880	b	Satakunta	Multia
+skvr_890	b	Satakunta	Mänttä
+skvr_900	b	Satakunta	Nakkila
+skvr_910	b	Satakunta	Nokia
+skvr_911	b	Satakunta	Pirkkala
+skvr_913	b	Satakunta	Suoniemi
+skvr_914	b	Satakunta	Tottijärvi
+skvr_920	b	Satakunta	Noormarkku
+skvr_930	b	Satakunta	Oripää
+skvr_940	b	Satakunta	Parkano
+skvr_950	b	Satakunta	Pomarkku
+skvr_960	b	Satakunta	Punkalaidun
+skvr_970	b	Satakunta	Rauma
+skvr_971	b	Satakunta	Rauma mlk
+skvr_980	b	Satakunta	Ruovesi
+skvr_990	b	Satakunta	Sahalahti
+skvr_1000	b	Satakunta	Siikainen
+skvr_1010	b	Satakunta	Suodenniemi
+skvr_1020	b	Satakunta	Säkylä
+skvr_1030	b	Satakunta	Ulvila
+skvr_1040	b	Satakunta	Vampula
+skvr_1050	b	Satakunta	Vesilahti
+skvr_1060	b	Satakunta	Viljakkala
+skvr_1070	b	Satakunta	Vilppula
+skvr_1080	b	Satakunta	Virrat
+skvr_1090	b	Satakunta	Ylöjärvi
+skvr_2000	b	Satakunta	Ähtäri
+skvr_9010	b	Satakunta	Satakunta
+skvr_2010	c	Uusimaa	Anjala
+skvr_2013	c	Uusimaa	Sippola
+skvr_2020	c	Uusimaa	Artjärvi
+skvr_2030	c	Uusimaa	Askola
+skvr_2042	c	Uusimaa	Pornainen
+skvr_2050	c	Uusimaa	Bromarv
+skvr_2051	c	Uusimaa	Hanko
+skvr_2052	c	Uusimaa	Tenhola
+skvr_2060	c	Uusimaa	Degerby
+skvr_2070	c	Uusimaa	Elimäki
+skvr_2080	c	Uusimaa	Espoo
+skvr_2090	c	Uusimaa	Haapasaari
+skvr_2092	c	Uusimaa	Kotka
+skvr_2093	c	Uusimaa	Kymi
+skvr_2100	c	Uusimaa	Hamina
+skvr_2110	c	Uusimaa	Helsinki
+skvr_2111	c	Uusimaa	Helsingin pitäjä
+skvr_2120	c	Uusimaa	Hyvinkää
+skvr_2130	c	Uusimaa	Inkoo
+skvr_2140	c	Uusimaa	Järvenpää
+skvr_2150	c	Uusimaa	Karjaa
+skvr_2160	c	Uusimaa	Karjalohja
+skvr_2171	c	Uusimaa	Pyhäjärvi Ul
+skvr_2190	c	Uusimaa	Kerava
+skvr_2200	c	Uusimaa	Kirkkonummi
+skvr_2210	c	Uusimaa	Lapinjärvi
+skvr_2220	c	Uusimaa	Liljendal
+skvr_2230	c	Uusimaa	Lohja
+skvr_2240	c	Uusimaa	Loviisa
+skvr_2250	c	Uusimaa	Myrskylä
+skvr_2260	c	Uusimaa	Mäntsälä
+skvr_2270	c	Uusimaa	Nummi
+skvr_2271	c	Uusimaa	Pusula
+skvr_2280	c	Uusimaa	Nurmijärvi
+skvr_2290	c	Uusimaa	Pernaja
+skvr_2300	c	Uusimaa	Pohja
+skvr_2310	c	Uusimaa	Porvoo
+skvr_2311	c	Uusimaa	Porvoo mlk
+skvr_2320	c	Uusimaa	Pukkila
+skvr_2330	c	Uusimaa	Pyhtää
+skvr_2340	c	Uusimaa	Ruotsinpyhtää
+skvr_2350	c	Uusimaa	Sammatti
+skvr_2360	c	Uusimaa	Sipoo
+skvr_2370	c	Uusimaa	Siuntio
+skvr_2380	c	Uusimaa	Snappertuna
+skvr_2382	c	Uusimaa	Tammisaari
+skvr_2390	c	Uusimaa	Tuusula
+skvr_2410	c	Uusimaa	Vehkalahti
+skvr_2420	c	Uusimaa	Vihti
+skvr_9020	c	Uusimaa	Uusimaa
+skvr_2430	d	Häme	Akaa
+skvr_2431	d	Häme	Toijala
+skvr_2440	d	Häme	Asikkala
+skvr_2450	d	Häme	Forssa
+skvr_2451	d	Häme	Koijärvi
+skvr_2460	d	Häme	Hartola
+skvr_2470	d	Häme	Hattula
+skvr_2472	d	Häme	Tyrväntö
+skvr_2480	d	Häme	Hauho
+skvr_2490	d	Häme	Hausjärvi
+skvr_2500	d	Häme	Heinola
+skvr_2501	d	Häme	Heinola mlk
+skvr_2510	d	Häme	Hollola
+skvr_2520	d	Häme	Humppila
+skvr_2530	d	Häme	Hämeenlinna
+skvr_2531	d	Häme	Vanaja
+skvr_2540	d	Häme	Iitti
+skvr_2550	d	Häme	Jaala
+skvr_2560	d	Häme	Janakkala
+skvr_2570	d	Häme	Jokioinen
+skvr_2580	d	Häme	Joutsa
+skvr_2590	d	Häme	Jämsä
+skvr_2591	d	Häme	Koskenpää
+skvr_2600	d	Häme	Jämsänkoski
+skvr_2610	d	Häme	Kalvola
+skvr_2620	d	Häme	Korpilahti
+skvr_2630	d	Häme	Koski Hl
+skvr_2640	d	Häme	Kouvola
+skvr_2650	d	Häme	Kuhmoinen
+skvr_2670	d	Häme	Kuorevesi
+skvr_2680	d	Häme	Kuusankoski
+skvr_2690	d	Häme	Kylmäkoski
+skvr_2700	d	Häme	Kärkölä
+skvr_2710	d	Häme	Lahti
+skvr_2720	d	Häme	Lammi
+skvr_2730	d	Häme	Leivonmäki
+skvr_2740	d	Häme	Loppi
+skvr_2750	d	Häme	Luhanka
+skvr_2760	d	Häme	Luopioinen
+skvr_2770	d	Häme	Längelmäki
+skvr_2780	d	Häme	Muurame
+skvr_2790	d	Häme	Nastola
+skvr_2800	d	Häme	Orimattila
+skvr_2810	d	Häme	Padasjoki
+skvr_2821	d	Häme	Ypäjä
+skvr_2830	d	Häme	Pälkäne
+skvr_2840	d	Häme	Renko
+skvr_2850	d	Häme	Riihimäki
+skvr_2860	d	Häme	Somerniemi
+skvr_2861	d	Häme	Somero
+skvr_2870	d	Häme	Sysmä
+skvr_2890	d	Häme	Sääksmäki
+skvr_2891	d	Häme	Valkeakoski
+skvr_2900	d	Häme	Tammela
+skvr_2910	d	Häme	Tuulos
+skvr_2930	d	Häme	Urjala
+skvr_2940	d	Häme	Valkeala
+skvr_2950	d	Häme	Viiala
+skvr_9030	d	Häme	Häme
+skvr_2960	e	Keski-Suomi	Hankasalmi
+skvr_2970	e	Keski-Suomi	Jyväskylä
+skvr_2971	e	Keski-Suomi	Jyväskylä mlk
+skvr_2980	e	Keski-Suomi	Kannonkoski
+skvr_2990	e	Keski-Suomi	Karstula
+skvr_3000	e	Keski-Suomi	Keitele
+skvr_3010	e	Keski-Suomi	Kinnula
+skvr_3020	e	Keski-Suomi	Kivijärvi
+skvr_3030	e	Keski-Suomi	Konginkangas
+skvr_3040	e	Keski-Suomi	Konnevesi
+skvr_3051	e	Keski-Suomi	Petäjävesi
+skvr_3061	e	Keski-Suomi	Uurainen
+skvr_3070	e	Keski-Suomi	Kyyjärvi
+skvr_3080	e	Keski-Suomi	Laukaa
+skvr_3090	e	Keski-Suomi	Pihtipudas
+skvr_3100	e	Keski-Suomi	Pylkönmäki
+skvr_3110	e	Keski-Suomi	Rautalampi
+skvr_3120	e	Keski-Suomi	Saarijärvi
+skvr_3130	e	Keski-Suomi	Sumiainen
+skvr_3140	e	Keski-Suomi	Suolahti
+skvr_3150	e	Keski-Suomi	Toivakka
+skvr_3160	e	Keski-Suomi	Vesanto
+skvr_3170	e	Keski-Suomi	Viitasaari
+skvr_3180	e	Keski-Suomi	Äänekoski
+skvr_3181	e	Keski-Suomi	Äänekoski mlk
+skvr_9040	e	Keski-Suomi	Keski-Suomi
+skvr_3190	f	Etelä-Savo	Anttola
+skvr_3200	f	Etelä-Savo	Enonkoski
+skvr_3210	f	Etelä-Savo	Haukivuori
+skvr_3220	f	Etelä-Savo	Heinävesi
+skvr_3230	f	Etelä-Savo	Hirvensalmi
+skvr_3240	f	Etelä-Savo	Imatra
+skvr_3250	f	Etelä-Savo	Joroinen
+skvr_3260	f	Etelä-Savo	Joutseno
+skvr_3270	f	Etelä-Savo	Juva
+skvr_3280	f	Etelä-Savo	Jäppilä
+skvr_3290	f	Etelä-Savo	Kangaslampi
+skvr_3300	f	Etelä-Savo	Kangasniemi
+skvr_3310	f	Etelä-Savo	Kerimäki
+skvr_3320	f	Etelä-Savo	Lappee
+skvr_3321	f	Etelä-Savo	Lappeenranta
+skvr_3323	f	Etelä-Savo	Lauritsala
+skvr_3330	f	Etelä-Savo	Lemi
+skvr_3340	f	Etelä-Savo	Luumäki
+skvr_3350	f	Etelä-Savo	Mikkeli
+skvr_3351	f	Etelä-Savo	Mikkeli mlk
+skvr_3360	f	Etelä-Savo	Mäntyharju
+skvr_3370	f	Etelä-Savo	Pertunmaa
+skvr_3380	f	Etelä-Savo	Pieksämäki mlk
+skvr_3381	f	Etelä-Savo	Pieksämäki
+skvr_3390	f	Etelä-Savo	Punkaharju
+skvr_3400	f	Etelä-Savo	Puumala
+skvr_3410	f	Etelä-Savo	Rantasalmi
+skvr_3420	f	Etelä-Savo	Ristiina
+skvr_3430	f	Etelä-Savo	Ruokolahti
+skvr_3440	f	Etelä-Savo	Savitaipale
+skvr_3450	f	Etelä-Savo	Savonlinna
+skvr_3451	f	Etelä-Savo	Sääminki
+skvr_3460	f	Etelä-Savo	Savonranta
+skvr_3470	f	Etelä-Savo	Sulkava
+skvr_3480	f	Etelä-Savo	Suomenniemi
+skvr_3491	f	Etelä-Savo	Taipalsaari
+skvr_3500	f	Etelä-Savo	Virtasalmi
+skvr_9050	f	Etelä-Savo	Etelä-Savo
+skvr_3510	g	Pohjois-Savo	Iisalmi
+skvr_3511	g	Pohjois-Savo	Iisalmi mlk
+skvr_3520	g	Pohjois-Savo	Juankoski
+skvr_3521	g	Pohjois-Savo	Muuruvesi
+skvr_3530	g	Pohjois-Savo	Karttula
+skvr_3541	g	Pohjois-Savo	Siilinjärvi
+skvr_3550	g	Pohjois-Savo	Kiuruvesi
+skvr_3560	g	Pohjois-Savo	Kuopio
+skvr_3561	g	Pohjois-Savo	Kuopio mlk
+skvr_3562	g	Pohjois-Savo	Riistavesi
+skvr_3570	g	Pohjois-Savo	Lapinlahti
+skvr_3580	g	Pohjois-Savo	Leppävirta
+skvr_3590	g	Pohjois-Savo	Maaninka
+skvr_3600	g	Pohjois-Savo	Nilsiä
+skvr_3610	g	Pohjois-Savo	Pielavesi
+skvr_3621	g	Pohjois-Savo	Sonkajärvi
+skvr_3630	g	Pohjois-Savo	Suonenjoki
+skvr_3640	g	Pohjois-Savo	Tervo
+skvr_3650	g	Pohjois-Savo	Tuusniemi
+skvr_3660	g	Pohjois-Savo	Varkaus
+skvr_3670	g	Pohjois-Savo	Varpaisjärvi
+skvr_3680	g	Pohjois-Savo	Vehmersalmi
+skvr_3690	g	Pohjois-Savo	Vieremä
+skvr_9060	g	Pohjois-Savo	Pohjois-Savo
+skvr_3700	h	Etelä-Karjala (Karjalan kannas)	Antrea
+skvr_3701	h	Etelä-Karjala (Karjalan kannas)	Vuoksenranta
+skvr_3711	h	Etelä-Karjala (Karjalan kannas)	Kuolemajärvi
+skvr_3720	h	Etelä-Karjala (Karjalan kannas)	Heinjoki
+skvr_3730	h	Etelä-Karjala (Karjalan kannas)	Hiitola
+skvr_3740	h	Etelä-Karjala (Karjalan kannas)	Jaakkima
+skvr_3750	h	Etelä-Karjala (Karjalan kannas)	Johannes
+skvr_3760	h	Etelä-Karjala (Karjalan kannas)	Jääski
+skvr_3770	h	Etelä-Karjala (Karjalan kannas)	Kanneljärvi
+skvr_3771	h	Etelä-Karjala (Karjalan kannas)	Uusikirkko Vpl.
+skvr_3780	h	Etelä-Karjala (Karjalan kannas)	Kaukola
+skvr_3790	h	Etelä-Karjala (Karjalan kannas)	Kirvu
+skvr_3800	h	Etelä-Karjala (Karjalan kannas)	Kivennapa
+skvr_3811	h	Etelä-Karjala (Karjalan kannas)	Parikkala
+skvr_3820	h	Etelä-Karjala (Karjalan kannas)	Koivisto
+skvr_3830	h	Etelä-Karjala (Karjalan kannas)	Kurkijoki
+skvr_3840	h	Etelä-Karjala (Karjalan kannas)	Käkisalmi
+skvr_3850	h	Etelä-Karjala (Karjalan kannas)	Lavansaari
+skvr_3860	h	Etelä-Karjala (Karjalan kannas)	Lumivaara
+skvr_3870	h	Etelä-Karjala (Karjalan kannas)	Metsäpirtti
+skvr_3880	h	Etelä-Karjala (Karjalan kannas)	Miehikkälä
+skvr_3890	h	Etelä-Karjala (Karjalan kannas)	Muolaa
+skvr_3892	h	Etelä-Karjala (Karjalan kannas)	Äyräpää
+skvr_3900	h	Etelä-Karjala (Karjalan kannas)	Rautjärvi
+skvr_3901	h	Etelä-Karjala (Karjalan kannas)	Simpele
+skvr_3910	h	Etelä-Karjala (Karjalan kannas)	Rautu
+skvr_3920	h	Etelä-Karjala (Karjalan kannas)	Räisälä
+skvr_3930	h	Etelä-Karjala (Karjalan kannas)	Saari
+skvr_3940	h	Etelä-Karjala (Karjalan kannas)	Sakkola
+skvr_3950	h	Etelä-Karjala (Karjalan kannas)	Seiskari
+skvr_3960	h	Etelä-Karjala (Karjalan kannas)	Suursaari
+skvr_3970	h	Etelä-Karjala (Karjalan kannas)	Säkkijärvi
+skvr_3980	h	Etelä-Karjala (Karjalan kannas)	Terijoki
+skvr_3990	h	Etelä-Karjala (Karjalan kannas)	Tytärsaari
+skvr_4000	h	Etelä-Karjala (Karjalan kannas)	Vahviala
+skvr_4001	h	Etelä-Karjala (Karjalan kannas)	Viipuri
+skvr_4002	h	Etelä-Karjala (Karjalan kannas)	Viipuri mlk
+skvr_4010	h	Etelä-Karjala (Karjalan kannas)	Valkjärvi
+skvr_4020	h	Etelä-Karjala (Karjalan kannas)	Virolahti
+skvr_4030	h	Etelä-Karjala (Karjalan kannas)	Vuoksela
+skvr_4040	h	Etelä-Karjala (Karjalan kannas)	Ylämaa
+skvr_4050	h	Etelä-Karjala (Karjalan kannas)	Nuijamaa
+skvr_4060	h	Etelä-Karjala (Karjalan kannas)	Pyhäjärvi Vpl.
+skvr_9070	h	Etelä-Karjala (Karjalan kannas)	Etelä-Karjala
+skvr_4070	i	Laatokan Karjala (Raja-Karjala)	Harlu
+skvr_4080	i	Laatokan Karjala (Raja-Karjala)	Impilahti
+skvr_4090	i	Laatokan Karjala (Raja-Karjala)	Korpiselkä
+skvr_4100	i	Laatokan Karjala (Raja-Karjala)	Ruskeala
+skvr_4110	i	Laatokan Karjala (Raja-Karjala)	Salmi
+skvr_4120	i	Laatokan Karjala (Raja-Karjala)	Soanlahti
+skvr_4130	i	Laatokan Karjala (Raja-Karjala)	Sortavala
+skvr_4131	i	Laatokan Karjala (Raja-Karjala)	Sortavala mlk
+skvr_4140	i	Laatokan Karjala (Raja-Karjala)	Suistamo
+skvr_4150	i	Laatokan Karjala (Raja-Karjala)	Suojärvi
+skvr_4160	i	Laatokan Karjala (Raja-Karjala)	Uukuniemi
+skvr_9080	i	Laatokan Karjala (Raja-Karjala)	Laatokan Karjala (Raja-Karjala)
+skvr_4170	j	Pohjois-Karjala	Eno
+skvr_4180	j	Pohjois-Karjala	Ilomantsi
+skvr_4190	j	Pohjois-Karjala	Joensuu
+skvr_4191	j	Pohjois-Karjala	Pielisensuu
+skvr_4200	j	Pohjois-Karjala	Juuka
+skvr_4210	j	Pohjois-Karjala	Kaavi
+skvr_4211	j	Pohjois-Karjala	Säyneinen
+skvr_4220	j	Pohjois-Karjala	Kesälahti
+skvr_4230	j	Pohjois-Karjala	Kiihtelysvaara
+skvr_4240	j	Pohjois-Karjala	Kitee
+skvr_4250	j	Pohjois-Karjala	Kontiolahti
+skvr_4261	j	Pohjois-Karjala	Tuupovaara
+skvr_4270	j	Pohjois-Karjala	Kuusjärvi
+skvr_4280	j	Pohjois-Karjala	Lieksa
+skvr_4281	j	Pohjois-Karjala	Pielisjärvi
+skvr_4290	j	Pohjois-Karjala	Liperi
+skvr_4300	j	Pohjois-Karjala	Nurmes mlk
+skvr_4301	j	Pohjois-Karjala	Nurmes
+skvr_4320	j	Pohjois-Karjala	Polvijärvi
+skvr_4330	j	Pohjois-Karjala	Pyhäselkä
+skvr_4340	j	Pohjois-Karjala	Pälkjärvi
+skvr_4350	j	Pohjois-Karjala	Rautavaara
+skvr_4360	j	Pohjois-Karjala	Rääkkylä
+skvr_4370	j	Pohjois-Karjala	Tohmajärvi
+skvr_4380	j	Pohjois-Karjala	Valtimo
+skvr_4390	j	Pohjois-Karjala	Värtsilä
+skvr_9090	j	Pohjois-Karjala	Pohjois-Karjala
+skvr_4400	k	Etelä-Pohjanmaa	Alahärmä
+skvr_4410	k	Etelä-Pohjanmaa	Alajärvi
+skvr_4420	k	Etelä-Pohjanmaa	Alaveteli
+skvr_4421	k	Etelä-Pohjanmaa	Kruunupyy
+skvr_4422	k	Etelä-Pohjanmaa	Teerijärvi
+skvr_4430	k	Etelä-Pohjanmaa	Alavus
+skvr_4440	k	Etelä-Pohjanmaa	Bergö
+skvr_4442	k	Etelä-Pohjanmaa	Maalahti
+skvr_4443	k	Etelä-Pohjanmaa	Petolahti
+skvr_4450	k	Etelä-Pohjanmaa	Björköby
+skvr_4451	k	Etelä-Pohjanmaa	Mustasaari
+skvr_4452	k	Etelä-Pohjanmaa	Koivulahti
+skvr_4453	k	Etelä-Pohjanmaa	Raippaluoto
+skvr_4461	k	Etelä-Pohjanmaa	Ähtävä
+skvr_4462	k	Etelä-Pohjanmaa	Pedersöre
+skvr_4463	k	Etelä-Pohjanmaa	Pietarsaari
+skvr_4464	k	Etelä-Pohjanmaa	Purmo
+skvr_4470	k	Etelä-Pohjanmaa	Evijärvi
+skvr_4480	k	Etelä-Pohjanmaa	Halsua
+skvr_4490	k	Etelä-Pohjanmaa	Himanka
+skvr_4500	k	Etelä-Pohjanmaa	Ilmajoki
+skvr_4510	k	Etelä-Pohjanmaa	Isojoki
+skvr_4520	k	Etelä-Pohjanmaa	Isokyrö
+skvr_4530	k	Etelä-Pohjanmaa	Jalasjärvi
+skvr_4540	k	Etelä-Pohjanmaa	Jepua
+skvr_4542	k	Etelä-Pohjanmaa	Munsala
+skvr_4543	k	Etelä-Pohjanmaa	Uusikaarlepyy
+skvr_4550	k	Etelä-Pohjanmaa	Jurva
+skvr_4560	k	Etelä-Pohjanmaa	Kaarlela
+skvr_4561	k	Etelä-Pohjanmaa	Kokkola
+skvr_4570	k	Etelä-Pohjanmaa	Kannus
+skvr_4580	k	Etelä-Pohjanmaa	Karijoki
+skvr_4590	k	Etelä-Pohjanmaa	Kaskinen
+skvr_4600	k	Etelä-Pohjanmaa	Kauhajoki
+skvr_4610	k	Etelä-Pohjanmaa	Kauhava
+skvr_4620	k	Etelä-Pohjanmaa	Kaustinen
+skvr_4630	k	Etelä-Pohjanmaa	Korsnäs
+skvr_4640	k	Etelä-Pohjanmaa	Kortesjärvi
+skvr_4650	k	Etelä-Pohjanmaa	Kristiinankaupunki
+skvr_4651	k	Etelä-Pohjanmaa	Lapväärtti
+skvr_4652	k	Etelä-Pohjanmaa	Siipyy
+skvr_4653	k	Etelä-Pohjanmaa	Tiukka
+skvr_4660	k	Etelä-Pohjanmaa	Kuortane
+skvr_4670	k	Etelä-Pohjanmaa	Kurikka
+skvr_4680	k	Etelä-Pohjanmaa	Kälviä
+skvr_4681	k	Etelä-Pohjanmaa	Öja
+skvr_4690	k	Etelä-Pohjanmaa	Laihia
+skvr_4700	k	Etelä-Pohjanmaa	Lappajärvi
+skvr_4710	k	Etelä-Pohjanmaa	Lapua
+skvr_4720	k	Etelä-Pohjanmaa	Lehtimäki
+skvr_4730	k	Etelä-Pohjanmaa	Lestijärvi
+skvr_4740	k	Etelä-Pohjanmaa	Lohtaja
+skvr_4750	k	Etelä-Pohjanmaa	Luoto
+skvr_4760	k	Etelä-Pohjanmaa	Maksamaa
+skvr_4770	k	Etelä-Pohjanmaa	Nurmo
+skvr_4780	k	Etelä-Pohjanmaa	Närpiö
+skvr_4781	k	Etelä-Pohjanmaa	Pirttikylä
+skvr_4782	k	Etelä-Pohjanmaa	Ylimarkku
+skvr_4790	k	Etelä-Pohjanmaa	Oravainen
+skvr_4800	k	Etelä-Pohjanmaa	Perho
+skvr_4810	k	Etelä-Pohjanmaa	Peräseinäjoki
+skvr_4820	k	Etelä-Pohjanmaa	Seinäjoki
+skvr_4830	k	Etelä-Pohjanmaa	Soini
+skvr_4840	k	Etelä-Pohjanmaa	Sulva
+skvr_4841	k	Etelä-Pohjanmaa	Vaasa
+skvr_4850	k	Etelä-Pohjanmaa	Teuva
+skvr_4860	k	Etelä-Pohjanmaa	Toholampi
+skvr_4870	k	Etelä-Pohjanmaa	Töysä
+skvr_4880	k	Etelä-Pohjanmaa	Ullava
+skvr_4890	k	Etelä-Pohjanmaa	Veteli
+skvr_4900	k	Etelä-Pohjanmaa	Vimpeli
+skvr_4910	k	Etelä-Pohjanmaa	Vähäkyrö
+skvr_4920	k	Etelä-Pohjanmaa	Vöyri
+skvr_4930	k	Etelä-Pohjanmaa	Ylihärmä
+skvr_4940	k	Etelä-Pohjanmaa	Ylistaro
+skvr_9100	k	Etelä-Pohjanmaa	Etelä-Pohjanmaa
+skvr_4951	l	Pohjois-Pohjanmaa	Kiiminki
+skvr_4960	l	Pohjois-Pohjanmaa	Alavieska
+skvr_4970	l	Pohjois-Pohjanmaa	Haapajärvi
+skvr_4980	l	Pohjois-Pohjanmaa	Haapavesi
+skvr_4990	l	Pohjois-Pohjanmaa	Hailuoto
+skvr_5000	l	Pohjois-Pohjanmaa	Haukipudas
+skvr_5010	l	Pohjois-Pohjanmaa	Ii
+skvr_5011	l	Pohjois-Pohjanmaa	Yli-Ii
+skvr_5020	l	Pohjois-Pohjanmaa	Kalajoki
+skvr_5021	l	Pohjois-Pohjanmaa	Rautio
+skvr_5030	l	Pohjois-Pohjanmaa	Kempele
+skvr_5040	l	Pohjois-Pohjanmaa	Kestilä
+skvr_5050	l	Pohjois-Pohjanmaa	Kuivaniemi
+skvr_5060	l	Pohjois-Pohjanmaa	Kärsämäki
+skvr_5070	l	Pohjois-Pohjanmaa	Liminka
+skvr_5080	l	Pohjois-Pohjanmaa	Lumijoki
+skvr_5090	l	Pohjois-Pohjanmaa	Merijärvi
+skvr_5100	l	Pohjois-Pohjanmaa	Muhos
+skvr_5110	l	Pohjois-Pohjanmaa	Nivala
+skvr_5120	l	Pohjois-Pohjanmaa	Oulainen
+skvr_5130	l	Pohjois-Pohjanmaa	Oulu
+skvr_5131	l	Pohjois-Pohjanmaa	Oulujoki
+skvr_5140	l	Pohjois-Pohjanmaa	Oulunsalo
+skvr_5150	l	Pohjois-Pohjanmaa	Paavola
+skvr_5153	l	Pohjois-Pohjanmaa	Revonlahti
+skvr_5160	l	Pohjois-Pohjanmaa	Pattijoki
+skvr_5161	l	Pohjois-Pohjanmaa	Raahe
+skvr_5163	l	Pohjois-Pohjanmaa	Saloinen
+skvr_5170	l	Pohjois-Pohjanmaa	Piippola
+skvr_5180	l	Pohjois-Pohjanmaa	Pulkkila
+skvr_5190	l	Pohjois-Pohjanmaa	Pyhäjoki
+skvr_5200	l	Pohjois-Pohjanmaa	Pyhäjärvi Ol.
+skvr_5210	l	Pohjois-Pohjanmaa	Pyhäntä
+skvr_5220	l	Pohjois-Pohjanmaa	Rantsila
+skvr_5230	l	Pohjois-Pohjanmaa	Reisjärvi
+skvr_5240	l	Pohjois-Pohjanmaa	Sievi
+skvr_5250	l	Pohjois-Pohjanmaa	Siikajoki
+skvr_5260	l	Pohjois-Pohjanmaa	Temmes
+skvr_5261	l	Pohjois-Pohjanmaa	Tyrnävä
+skvr_5270	l	Pohjois-Pohjanmaa	Utajärvi
+skvr_5280	l	Pohjois-Pohjanmaa	Vihanti
+skvr_5290	l	Pohjois-Pohjanmaa	Ylikiiminki
+skvr_5300	l	Pohjois-Pohjanmaa	Ylivieska
+skvr_9110	l	Pohjois-Pohjanmaa	Pohjois-Pohjanmaa
+skvr_5310	m	Kainuu	Hyrynsalmi
+skvr_5321	m	Kainuu	Taivalkoski
+skvr_5330	m	Kainuu	Kajaani
+skvr_5331	m	Kainuu	Kajaani mlk
+skvr_5341	m	Kainuu	Suomussalmi
+skvr_5350	m	Kainuu	Kuhmo
+skvr_5360	m	Kainuu	Kuusamo
+skvr_5371	m	Kainuu	Paltamo
+skvr_5380	m	Kainuu	Posio
+skvr_5390	m	Kainuu	Pudasjärvi
+skvr_5400	m	Kainuu	Puolanka
+skvr_5410	m	Kainuu	Ristijärvi
+skvr_5430	m	Kainuu	Sotkamo
+skvr_5440	m	Kainuu	Säräisniemi
+skvr_5450	m	Kainuu	Vuolijoki
+skvr_9120	m	Kainuu	Kainuu
+skvr_5460	n	Peräpohjola, Lappi	Alatornio
+skvr_5461	n	Peräpohjola, Lappi	Tornio
+skvr_5462	n	Peräpohjola, Lappi	Karunki
+skvr_5471	n	Peräpohjola, Lappi	Ylitornio
+skvr_5480	n	Peräpohjola, Lappi	Enontekiö
+skvr_5490	n	Peräpohjola, Lappi	Inari
+skvr_5501	n	Peräpohjola, Lappi	Kemijärvi
+skvr_5510	n	Peräpohjola, Lappi	Keminmaa
+skvr_5520	n	Peräpohjola, Lappi	Kittilä
+skvr_5530	n	Peräpohjola, Lappi	Kolari
+skvr_5541	n	Peräpohjola, Lappi	Salla
+skvr_5551	n	Peräpohjola, Lappi	Tervola
+skvr_5560	n	Peräpohjola, Lappi	Muonio
+skvr_5570	n	Peräpohjola, Lappi	Pelkosenniemi
+skvr_5581	n	Peräpohjola, Lappi	Turtola
+skvr_5590	n	Peräpohjola, Lappi	Ranua
+skvr_5595	n	Peräpohjola, Lappi	Rovaniemi mlk
+skvr_5596	n	Peräpohjola, Lappi	Rovaniemi
+skvr_5600	n	Peräpohjola, Lappi	Savukoski
+skvr_5610	n	Peräpohjola, Lappi	Simo
+skvr_5620	n	Peräpohjola, Lappi	Sodankylä
+skvr_5630	n	Peräpohjola, Lappi	Utsjoki
+skvr_5640	n	Peräpohjola, Lappi	Kemi
+skvr_9130	n	Peräpohjola, Lappi	Peräpohjola
+skvr_5650	o	Muurmanni	Petsamo
+skvr_9140	o	Muurmanni	Muurmanni
+skvr_9150	oN	Ruija	Ruija
+skvr_5655	oN	Ruija	Alattio
+skvr_5661	oN	Ruija	Paatsivuono
+skvr_5675	oN	Ruija	Berlevåg
+skvr_5685	oN	Ruija	Etelä-Varanki
+skvr_5690	oN	Ruija	Gamvik
+skvr_5696	oN	Ruija	Sørøysund
+skvr_5700	oN	Ruija	Hasvik
+skvr_5715	oN	Ruija	Yykeä
+skvr_5720	oN	Ruija	Kaarasjoki
+skvr_5726	oN	Ruija	Kaivuono
+skvr_5730	oN	Ruija	Kalsa
+skvr_5736	oN	Ruija	Nordkapp
+skvr_5741	oN	Ruija	Koutokeino
+skvr_5745	oN	Ruija	Kierua
+skvr_5756	oN	Ruija	Naavuono
+skvr_5760	oN	Ruija	Kvalsund
+skvr_5766	oN	Ruija	Loppa
+skvr_5775	oN	Ruija	Lebesby
+skvr_5780	oN	Ruija	Lenvik
+skvr_5791	oN	Ruija	Moseija
+skvr_5806	oN	Ruija	Uuniemi
+skvr_5811	oN	Ruija	Raisi
+skvr_5816	oN	Ruija	Pohjois-Varanki
+skvr_5821	oN	Ruija	Pulmanki
+skvr_5825	oN	Ruija	Porsanki
+skvr_5835	oN	Ruija	Omasvuono
+skvr_5847	oN	Ruija	Teno
+skvr_5850	oN	Ruija	Talmulahti
+skvr_5872	oN	Ruija	Vuoreija
+skvr_5880	oR	Länsi-Pohja	Alakainuu
+skvr_5885	oR	Länsi-Pohja	Ruotsin Alatornio
+skvr_5906	oR	Länsi-Pohja	Jällivaara
+skvr_5916	oR	Länsi-Pohja	Hietaniemi
+skvr_5925	oR	Länsi-Pohja	Jukkasjärvi
+skvr_5931	oR	Länsi-Pohja	Junosuvanto
+skvr_5935	oR	Länsi-Pohja	Kaaresuvanto
+skvr_5942	oR	Länsi-Pohja	Ruotsin Karunki
+skvr_5946	oR	Länsi-Pohja	Korpilompolo
+skvr_5958	oR	Länsi-Pohja	Pajala
+skvr_5971	oR	Länsi-Pohja	Täräntö
+skvr_5976	oR	Länsi-Pohja	Vittanki
+skvr_5980	oR	Länsi-Pohja	Ylikainuu
+skvr_5985	oR	Länsi-Pohja	Ruotsin Ylitornio
+skvr_9160	oR	Länsi-Pohja	Länsipohja
+skvr_5990	p	Viena	Jyskyjärvi
+skvr_5996	p	Viena	Uhtua
+skvr_6005	p	Viena	Vienan Kemi
+skvr_6010	p	Viena	Kieretti
+skvr_6015	p	Viena	Kiestinki
+skvr_6020	p	Viena	Knäzöi
+skvr_6030	p	Viena	Kontokki
+skvr_6055	p	Viena	Oulanka
+skvr_6060	p	Viena	Paanajärvi
+skvr_6065	p	Viena	Pistojärvi
+skvr_6075	p	Viena	Sorokka
+skvr_6080	p	Viena	Suikujärvi
+skvr_6085	p	Viena	Tunkua
+skvr_6090	p	Viena	Uzmana
+skvr_6095	p	Viena	Vitsataipale
+skvr_6100	p	Viena	Voijärvi
+skvr_6105	p	Viena	Vuokkiniemi
+skvr_9170	p	Viena	Viena
+skvr_6125	q	Aunus	Derevjannaja
+skvr_6126	q	Aunus	Petroskoi
+skvr_6128	q	Aunus	Jalguba
+skvr_6130	q	Aunus	Kenjärvi
+skvr_6135	q	Aunus	Kiimaisjärvi
+skvr_6150	q	Aunus	Kontupohja
+skvr_6160	q	Aunus	Kotkatjärvi
+skvr_6165	q	Aunus	Kuujärvi
+skvr_6170	q	Aunus	Latva
+skvr_6185	q	Aunus	Munjärvi
+skvr_6190	q	Aunus	Mäntyselkä
+skvr_6195	q	Aunus	Nekkula
+skvr_6205	q	Aunus	Paatene
+skvr_6215	q	Aunus	Porajärvi
+skvr_6225	q	Aunus	Pyhäjärvi
+skvr_6230	q	Aunus	Repola
+skvr_6235	q	Aunus	Riipuskala
+skvr_6245	q	Aunus	Rukajärvi
+skvr_6250	q	Aunus	Suma
+skvr_6260	q	Aunus	Suoju
+skvr_6270	q	Aunus	Säämäjärvi
+skvr_6285	q	Aunus	Tulemajärvi
+skvr_6290	q	Aunus	Vieljärvi
+skvr_6295	q	Aunus	Vitele
+skvr_9180	q	Aunus	Aunus
+skvr_6310	s	Itä- ja Pohjois-Inkeri	Haapakangas
+skvr_6312	s	Itä- ja Pohjois-Inkeri	Toksova
+skvr_6315	s	Itä- ja Pohjois-Inkeri	Järvisaari
+skvr_6320	s	Itä- ja Pohjois-Inkeri	Keltto
+skvr_6326	s	Itä- ja Pohjois-Inkeri	Lempaala
+skvr_6330	s	Itä- ja Pohjois-Inkeri	Pietari
+skvr_6335	s	Itä- ja Pohjois-Inkeri	Markkova
+skvr_6340	s	Itä- ja Pohjois-Inkeri	Miikkulainen
+skvr_6341	s	Itä- ja Pohjois-Inkeri	Vuole
+skvr_6345	s	Itä- ja Pohjois-Inkeri	Rääpyvä
+skvr_6352	s	Itä- ja Pohjois-Inkeri	Valkeasaari
+skvr_9200	s	Itä- ja Pohjois-Inkeri	Itä- ja Pohjois-Inkeri
+skvr_6356	t	Keski-Inkeri	Kolppana
+skvr_6360	t	Keski-Inkeri	Hietamäki
+skvr_6365	t	Keski-Inkeri	Inkere
+skvr_6372	t	Keski-Inkeri	Tyrö
+skvr_6375	t	Keski-Inkeri	Kaprio
+skvr_6380	t	Keski-Inkeri	Koprina
+skvr_6388	t	Keski-Inkeri	Tuutari
+skvr_6390	t	Keski-Inkeri	Kupanitsa
+skvr_6395	t	Keski-Inkeri	Liissilä
+skvr_6400	t	Keski-Inkeri	Moloskovitsa
+skvr_6409	t	Keski-Inkeri	Venjoki
+skvr_6410	t	Keski-Inkeri	Ropsu
+skvr_6415	t	Keski-Inkeri	Serepetta
+skvr_6420	t	Keski-Inkeri	Skuoritsa
+skvr_6425	t	Keski-Inkeri	Spankkova
+skvr_9210	t	Keski-Inkeri	Keski-Inkeri
+skvr_6438	u	Länsi-Inkeri	Narvusi
+skvr_6450	u	Länsi-Inkeri	Kattila
+skvr_6455	u	Länsi-Inkeri	Novasolkka
+skvr_6460	u	Länsi-Inkeri	Soikkola
+skvr_9220	u	Länsi-Inkeri	Länsi-Inkeri
+skvr_6471	v	Vepsäläisalueet	Soutjärvi
+skvr_9240	v	Vepsäläisalueet	Vepsäläisalueet
+skvr_6480	å	Ahvenanmaa	Brändö
+skvr_6485	å	Ahvenanmaa	Eckerö
+skvr_6490	å	Ahvenanmaa	Finström
+skvr_6495	å	Ahvenanmaa	Föglö
+skvr_6500	å	Ahvenanmaa	Geta
+skvr_6505	å	Ahvenanmaa	Hammarland
+skvr_6510	å	Ahvenanmaa	Jomala
+skvr_6515	å	Ahvenanmaa	Kumlinge
+skvr_6520	å	Ahvenanmaa	Kökar
+skvr_6525	å	Ahvenanmaa	Lemland
+skvr_6530	å	Ahvenanmaa	Lumparland
+skvr_6535	å	Ahvenanmaa	Maarianhamina
+skvr_6540	å	Ahvenanmaa	Saltvik
+skvr_6545	å	Ahvenanmaa	Sottunga
+skvr_6550	å	Ahvenanmaa	Sund
+skvr_6555	å	Ahvenanmaa	Vårdö
+skvr_9260	å	Ahvenanmaa	Ahvenanmaa
+skvr_6560	r	Tverin alue	Lihoslavl’a
+skvr_6565	r	Tverin alue	Maksuatiha
+skvr_6570	r	Tverin alue	Ruameška
+skvr_6575	r	Tverin alue	Sandova
+skvr_6580	r	Tverin alue	Spiirova
+skvr_6585	r	Tverin alue	Tolmačču
+skvr_6590	r	Tverin alue	Veśśi
+skvr_6595	r	Tverin alue	Voločka
+skvr_9190	r	Tverin alue	Tveri
+skvr_6600	r	Novgorodin  alue	Njebelitsa
+skvr_9191	r	Novgorodin alue	Novgorodin alue
+skvr_6710	x	Metsäsuomalaisten alue	Åsnes Finnskog
+skvr_6715	x	Metsäsuomalaisten alue	Hof Finnskog
+skvr_6720	x	Metsäsuomalaisten alue	Grue Finnskog
+skvr_6725	x	Metsäsuomalaisten alue	Grue
+skvr_6730	x	Metsäsuomalaisten alue	Brandval
+skvr_6735	x	Metsäsuomalaisten alue	Vinger
+skvr_6740	x	Metsäsuomalaisten alue	Norra Finnskoga
+skvr_6745	x	Metsäsuomalaisten alue	Södra Finnskoga
+skvr_6750	x	Metsäsuomalaisten alue	Dalby
+skvr_6755	x	Metsäsuomalaisten alue	Nyskoga
+skvr_6760	x	Metsäsuomalaisten alue	Vitsand
+skvr_6765	x	Metsäsuomalaisten alue	Norra Ny
+skvr_6770	x	Metsäsuomalaisten alue	Östmark
+skvr_6775	x	Metsäsuomalaisten alue	Lekvattnet
+skvr_6780	x	Metsäsuomalaisten alue	Fryksände
+skvr_6785	x	Metsäsuomalaisten alue	Ekshärad
+skvr_6790	x	Metsäsuomalaisten alue	Gräsmark
+skvr_6795	x	Metsäsuomalaisten alue	Mangskog
+skvr_6800	x	Metsäsuomalaisten alue	Glava
+skvr_6805	x	Metsäsuomalaisten alue	Alfta
+skvr_6810	x	Metsäsuomalaisten alue	Ockelbo
+skvr_6815	x	Metsäsuomalaisten alue	Orsa
+skvr_6820	x	Metsäsuomalaisten alue	Svärdsjö
+skvr_6825	x	Metsäsuomalaisten alue	Äppelbo
+skvr_6830	x	Metsäsuomalaisten alue	Nås
+skvr_6835	x	Metsäsuomalaisten alue	Säfsnäs
+skvr_6840	x	Metsäsuomalaisten alue	Garpenberg
+skvr_6845	x	Metsäsuomalaisten alue	Hällefors
+skvr_9250	x	Metsäsuomalaisten alue	Metsäsuomalaisten alue
+skvr_9999		Ei aluetietoa	Ei aluetietoa
